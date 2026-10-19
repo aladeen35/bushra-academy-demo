@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "demoOnly": true,
+  "notice": "إعدادات عامة لمحاكاة محلية فقط؛ ليست أسعار الأكاديمية ولا أسرارًا ولا صلاحيات خادم.",
+  "unitLabel": "وحدة تجريبية",
+  "plans": [
+    {"id": "monthly", "name": "اشتراك شهري تجريبي", "price": 100, "durationDays": 30},
+    {"id": "annual", "name": "اشتراك سنوي تجريبي", "price": 1000, "durationDays": 365}
+  ],
+  "coupons": [
+    {"code": "Bushra100", "percent": 100, "active": true, "planIds": ["monthly", "annual"], "startsAt": null, "endsAt": null, "maxUses": null, "perStudentLimit": null, "note": "خصم 100% لاختبار التفعيل والإيصال بلا أي دفع. غير محدود لتسهيل التجربة."}
+  ]
+}
