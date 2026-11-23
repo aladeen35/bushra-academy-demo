@@ -1,0 +1,363 @@
+{
+  "chapter": 1,
+  "summary": {
+    "en": "We meet Mr. Utterson, a serious, quiet London lawyer who is strict with himself but tolerant of others, and who often stays loyal to friends whose lives are going wrong. Every Sunday he walks with his distant relative Richard Enfield. On one walk they pass a dirty, windowless building with a neglected door in a busy side street. Enfield tells a disturbing story connected with that door: at three o'clock one winter morning he saw a small man calmly walk over a young girl who had run into him. Everyone who saw the man felt an instant, strong hatred for him. Enfield and the girl's family forced him to pay a hundred pounds; the man went in through the strange door with a key and came back with a cheque signed by a famous, respectable person. To everyone's surprise, the cheque was genuine. Enfield suspects blackmail. Utterson asks the man's name: Hyde. Enfield cannot say exactly what is wrong with Hyde's appearance, only that he seems deformed. Utterson says he already knows who signed the cheque, and the two men agree never to speak of the story again.",
+    "ar": "نتعرّف إلى السيد أترسون، المحامي اللندني الجادّ الهادئ، الصارم مع نفسه والمتسامح مع غيره، والذي كثيرًا ما يبقى وفيًّا لأصدقاء تنحدر حياتهم نحو السوء. وفي كل أحد يتنزّه مع قريبه البعيد ريتشارد إنفيلد. وفي إحدى النزهات يمرّان ببناء قذر بلا نوافذ، له باب مهمل، في شارع جانبي مزدحم. فيحكي إنفيلد قصة مقلقة مرتبطة بذلك الباب: في الثالثة من صباح شتائي رأى رجلًا قصيرًا يدوس بهدوء طفلة اصطدمت به. وكل من رأى الرجل شعر نحوه بكراهية شديدة فورية. فأجبره إنفيلد وأهل الطفلة على دفع مئة جنيه؛ فدخل الرجل من ذلك الباب الغريب بمفتاح، وعاد بشيك موقّع باسم شخص مشهور محترم. ولدهشة الجميع كان الشيك صحيحًا. ويظن إنفيلد أن في الأمر ابتزازًا. ويسأل أترسون عن اسم الرجل فيعرف أنه هايد. ولا يستطيع إنفيلد أن يحدّد ما العيب في مظهر هايد، إلا أنه يبدو مشوّهًا. ويقول أترسون إنه يعرف صاحب التوقيع، ويتّفق الرجلان على ألا يعودا إلى ذكر القصة أبدًا."
+  },
+  "objectives": [
+    {
+      "en": "Understand the opening: Utterson's character, his friendship with Enfield, and the story of the door.",
+      "ar": "فهم افتتاحية الرواية: شخصية أترسون، وصداقته مع إنفيلد، وقصة الباب."
+    },
+    {
+      "en": "Learn formal and gothic vocabulary for describing people and places, such as countenance, sinister, sordid and loathing.",
+      "ar": "تعلّم مفردات رسمية وقوطية لوصف الأشخاص والأماكن، مثل countenance وsinister وsordid وloathing."
+    },
+    {
+      "en": "Notice how Stevenson builds a long portrait sentence with semicolons and adjective groups.",
+      "ar": "ملاحظة كيف يبني ستيفنسون جملة وصفية طويلة بالفواصل المنقوطة ومجموعات الصفات."
+    },
+    {
+      "en": "Use the past perfect and the pattern 'the more…, the less…' correctly.",
+      "ar": "استعمال الماضي التام ونمط «the more…, the less…» استعمالًا صحيحًا."
+    },
+    {
+      "en": "Discuss why reputation and scandal matter so much to the characters.",
+      "ar": "مناقشة سبب أهمية السمعة والفضيحة الكبيرة عند الشخصيات."
+    }
+  ],
+  "vocab": [
+    "countenance",
+    "austere",
+    "reprove",
+    "demeanour",
+    "reputable",
+    "kinsman",
+    "thoroughfare",
+    "sinister",
+    "sordid",
+    "negligence",
+    "loathing",
+    "sneer",
+    "forgery",
+    "genuine",
+    "apocryphal",
+    "blackmail",
+    "deformity",
+    "detestable",
+    "sullen"
+  ],
+  "grammar": [
+    {
+      "id": "je-1-semicolon-portrait",
+      "topic": "descriptive",
+      "level": "B2",
+      "title": {
+        "en": "A portrait in one sentence: semicolons and adjective groups",
+        "ar": "رسم الشخصية في جملة واحدة: الفاصلة المنقوطة ومجموعات الصفات"
+      },
+      "explain": {
+        "en": "Stevenson opens the novel with one long sentence about Utterson. After the main clause ('was a man of a rugged countenance…'), he adds groups of adjectives without any verb. Semicolons (;) separate the groups, and commas separate the adjectives inside each group. The surprise comes at the end with 'and yet somehow lovable'. In your own writing, use a semicolon between groups that already contain commas.",
+        "ar": "يفتتح ستيفنسون الرواية بجملة طويلة واحدة عن أترسون. فبعد الجملة الرئيسية ('was a man of a rugged countenance…') يضيف مجموعات من الصفات دون أي فعل. وتفصل الفاصلة المنقوطة (;) بين المجموعات، والفاصلة العادية بين الصفات داخل كل مجموعة. وتأتي المفاجأة في النهاية: 'and yet somehow lovable' أي «ومع ذلك محبوب على نحو ما». وفي كتابتك، استعمل الفاصلة المنقوطة بين مجموعات تحتوي هي نفسها على فواصل."
+      },
+      "example": {
+        "en": "Mr. Utterson the lawyer was a man of a rugged countenance that was never lighted by a smile; cold, scanty and embarrassed in discourse; backward in sentiment; lean, long, dusty, dreary and yet somehow lovable.",
+        "ar": "كان السيد أترسون المحامي رجلًا خشن الملامح، لم تُضئ وجهَه ابتسامةٌ قطّ؛ باردًا، مقتضبًا، متحرّجًا في الحديث؛ متحفّظًا في إظهار عواطفه؛ نحيلًا، طويلًا، باهتًا كالغبار، كئيبًا، ومع ذلك محبوبًا على نحوٍ ما.",
+        "ref": "p1"
+      },
+      "exercise": {
+        "q": {
+          "en": "Which punctuation separates the groups of adjectives in this sentence?",
+          "ar": "أيّ علامة ترقيم تفصل بين مجموعات الصفات في هذه الجملة؟"
+        },
+        "options": [
+          "the semicolon (;)",
+          "the full stop (.)",
+          "the question mark (?)"
+        ],
+        "answer": 0,
+        "why": {
+          "en": "Each group ('cold, scanty and embarrassed in discourse', 'backward in sentiment'…) ends with a semicolon, because the groups already contain commas.",
+          "ar": "كل مجموعة تنتهي بفاصلة منقوطة، لأن المجموعات نفسها تحتوي على فواصل عادية."
+        }
+      }
+    },
+    {
+      "id": "je-1-past-perfect",
+      "topic": "tenses",
+      "level": "B1",
+      "title": {
+        "en": "The past perfect: the earlier past",
+        "ar": "الماضي التام: الماضي الأسبق"
+      },
+      "explain": {
+        "en": "Enfield tells his story in the past simple. When he refers to something that happened before another past moment, he uses the past perfect: had + past participle. Here, the hatred started at first sight, before the doctor arrived and before Enfield noticed the doctor's feelings.",
+        "ar": "يروي إنفيلد قصته بالماضي البسيط. وحين يشير إلى أمر حدث قبل لحظة ماضية أخرى، يستعمل الماضي التام: had + التصريف الثالث للفعل. فهنا بدأت الكراهية من النظرة الأولى، قبل وصول الطبيب وقبل أن يلاحظ إنفيلد مشاعره."
+      },
+      "example": {
+        "en": "I had taken a loathing to my gentleman at first sight.",
+        "ar": "فقد كرهتُ صاحبنا كرهًا شديدًا من النظرة الأولى.",
+        "ref": "p8"
+      },
+      "exercise": {
+        "q": {
+          "en": "Complete: 'The doctor, for whom she ___ sent, put in his appearance.'",
+          "ar": "أكمل: 'The doctor, for whom she ___ sent, put in his appearance.'"
+        },
+        "options": [
+          "had been",
+          "has been",
+          "is being"
+        ],
+        "answer": 0,
+        "why": {
+          "en": "The girl was sent for the doctor before he arrived, so we use the past perfect passive 'had been sent' (paragraph 8).",
+          "ar": "أُرسلت الطفلة في طلب الطبيب قبل وصوله، فنستعمل الماضي التام المبني للمجهول had been sent (الفقرة ٨)."
+        }
+      }
+    },
+    {
+      "id": "je-1-the-more-the-less",
+      "topic": "sentence",
+      "level": "B2",
+      "title": {
+        "en": "'The more…, the less…': two things that change together",
+        "ar": "«The more…, the less…»: أمران يتغيّران معًا"
+      },
+      "explain": {
+        "en": "This pattern shows that when one thing increases, another changes too. Both halves start with 'the' + a comparative (more, less, better, sooner…), and a comma separates them. Enfield's rule: as a situation looks more suspicious, he asks fewer questions. Arabic often says «كلما… كلما…» or «كلما…، قلّ…».",
+        "ar": "يدل هذا النمط على أنه حين يزداد شيء يتغيّر شيء آخر معه. ويبدأ كل نصف بـ the + صيغة مقارنة (more, less, better, sooner…)، وتفصل بينهما فاصلة. وقاعدة إنفيلد: كلما بدا الموقف مريبًا أكثر، قلّت أسئلته. وتقول العربية: «كلما…، قلّ…»."
+      },
+      "example": {
+        "en": "No sir, I make it a rule of mine: the more it looks like Queer Street, the less I ask.",
+        "ar": "لا يا سيدي، لقد جعلتها قاعدة لي: كلما بدا الأمر أقرب إلى “شارع الورطات”، قلّ سؤالي.",
+        "ref": "p14"
+      },
+      "exercise": {
+        "q": {
+          "en": "Choose the correct sentence.",
+          "ar": "اختر الجملة الصحيحة."
+        },
+        "options": [
+          "The more I read, the more I understand.",
+          "More I read, more I understand.",
+          "The more I read, I understand more the."
+        ],
+        "answer": 0,
+        "why": {
+          "en": "Both halves need 'the' + comparative at the start: 'The more…, the more…'.",
+          "ar": "يحتاج كل نصف إلى the + صيغة المقارنة في أوله: The more…, the more…."
+        }
+      }
+    }
+  ],
+  "culture": [
+    {
+      "term": "The Victorian gentleman and respectability",
+      "en": "In late-Victorian London (the 1880s), a gentleman's 'respectability', his good name, was his most valuable possession. Business, marriage and friendships depended on it. A public scandal could destroy a man completely, which is why Enfield's threat to make Hyde's 'name stink from one end of London to the other' works, and why blackmail was a real danger. Respectable men were expected to hide their faults, so many lived double lives.",
+      "ar": "في لندن أواخر العصر الفيكتوري (ثمانينيات القرن التاسع عشر) كانت «الاحترامية» أي السمعة الحسنة أثمن ما يملكه الرجل المحترم، فعليها يقوم عمله وزواجه وصداقاته. وكانت الفضيحة العلنية كفيلة بتدمير الرجل تمامًا؛ ولهذا نجح تهديد إنفيلد بأن يجعل اسم هايد «يُنتن من أقصى لندن إلى أقصاها»، ولهذا كان الابتزاز خطرًا حقيقيًا. وكان يُنتظر من الرجال المحترمين أن يُخفوا عيوبهم، فعاش كثير منهم حياة مزدوجة."
+    },
+    {
+      "term": "Lawyers and their 'chambers'",
+      "en": "Utterson is a lawyer who handles private matters such as wills and property, the work of a solicitor. Lawyers worked in offices called 'chambers' and were trusted to keep their clients' secrets. This is why Utterson is the perfect person to investigate quietly: he knows important documents, he is discreet, and he values facts and evidence.",
+      "ar": "أترسون محامٍ يتولّى الشؤون الخاصة كالوصايا والممتلكات، وهو عمل «السوليسيتر» (المحامي الاستشاري). وكان المحامون يعملون في مكاتب تُسمّى «chambers»، ويُؤتمنون على أسرار موكّليهم. ولهذا فأترسون هو الشخص المناسب للتحقيق بهدوء: يطّلع على الوثائق المهمة، ويكتم الأسرار، ويقدّر الحقائق والأدلّة."
+    },
+    {
+      "term": "Cheques and Coutts's bank",
+      "en": "A cheque is a written order telling a bank to pay money from the signer's account. Coutts & Co. was (and still is) a famous, very exclusive London bank used by the rich and even the royal family. A cheque on Coutts's signed by a well-known name was therefore a sign of wealth and high social position, which makes it even stranger that Hyde could produce one at four in the morning.",
+      "ar": "الشيك أمر مكتوب إلى المصرف بدفع مبلغ من حساب الموقّع. وكان مصرف «كوتس» (وما زال) مصرفًا لندنيًا شهيرًا راقيًا يتعامل معه الأثرياء بل والأسرة المالكة. فشيك على مصرف كوتس يحمل اسمًا معروفًا علامة على الثراء والمكانة الاجتماعية الرفيعة، وهذا ما يجعل حصول هايد عليه في الرابعة صباحًا أمرًا أغرب."
+    }
+  ],
+  "quiz": [
+    {
+      "type": "vocab",
+      "q": {
+        "en": "“…a man of a rugged countenance…” What does 'countenance' mean?",
+        "ar": "“…a man of a rugged countenance…” ما معنى countenance؟"
+      },
+      "options": [
+        "face",
+        "voice",
+        "clothes",
+        "house"
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "'Countenance' is a formal word for a person's face and its expression.",
+        "ar": "countenance كلمة رسمية تعني الوجه وتعبيره."
+      },
+      "ref": "p1"
+    },
+    {
+      "type": "vocab",
+      "q": {
+        "en": "The building shows “the marks of prolonged and sordid negligence.” What does this tell us?",
+        "ar": "يحمل البناء “the marks of prolonged and sordid negligence”. ماذا يخبرنا ذلك؟"
+      },
+      "options": [
+        "Nobody has cared for it for a long time and it is dirty",
+        "It was built very recently",
+        "It is a church",
+        "It belongs to the police"
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "'Negligence' is lack of care, and 'sordid' means dirty and unpleasant. The door has not been repaired for almost a generation.",
+        "ar": "negligence تعني الإهمال، وsordid تعني القذر الكريه. ولم يُصلَح الباب منذ ما يقارب جيلًا."
+      },
+      "ref": "p4"
+    },
+    {
+      "type": "comprehension",
+      "q": {
+        "en": "What is unusual about the friendship between Utterson and Enfield?",
+        "ar": "ما الغريب في صداقة أترسون وإنفيلد؟"
+      },
+      "options": [
+        "They seem to have nothing in common, yet they value their walks greatly",
+        "They argue loudly on every walk",
+        "They only meet at the theatre",
+        "They are business partners"
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "People wondered what the two men saw in each other; they said little and looked dull, yet they counted the walks 'the chief jewel of each week'.",
+        "ar": "تساءل الناس عمّا يراه كلٌّ منهما في الآخر؛ فهما قليلا الكلام ويبدوان مملّين، ومع ذلك يعدّان النزهات «أثمن جوهرة في كل أسبوع»."
+      },
+      "ref": "p2"
+    },
+    {
+      "type": "comprehension",
+      "q": {
+        "en": "What did the small man do to the girl?",
+        "ar": "ماذا فعل الرجل القصير بالطفلة؟"
+      },
+      "options": [
+        "He calmly walked over her body and left her screaming",
+        "He helped her stand up",
+        "He stole her money",
+        "He took her home to her family"
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Enfield says the man 'trampled calmly over the child’s body and left her screaming on the ground'.",
+        "ar": "يقول إنفيلد إن الرجل داس جسد الطفلة بهدوء وتركها تصرخ على الأرض."
+      },
+      "ref": "p8"
+    },
+    {
+      "type": "comprehension",
+      "q": {
+        "en": "Why was everyone surprised by the cheque?",
+        "ar": "لماذا فوجئ الجميع بالشيك؟"
+      },
+      "options": [
+        "It was signed by a famous, respectable person and it was genuine",
+        "It was for a very small amount",
+        "It was written in French",
+        "It had no signature"
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "The cheque carried a well-known name, so Enfield thought it was a forgery, but the bank found it genuine.",
+        "ar": "كان الشيك يحمل اسمًا معروفًا، فظنّه إنفيلد مزوّرًا، لكن المصرف وجده صحيحًا."
+      },
+      "ref": "p8"
+    },
+    {
+      "type": "comprehension",
+      "q": {
+        "en": "How does Enfield describe Hyde's appearance?",
+        "ar": "كيف يصف إنفيلد مظهر هايد؟"
+      },
+      "options": [
+        "He seems deformed, but Enfield cannot say exactly how",
+        "He is very tall and handsome",
+        "He has a scar across his face",
+        "He wears a black mask"
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Enfield says Hyde 'gives a strong feeling of deformity', although he 'couldn’t specify the point'.",
+        "ar": "يقول إنفيلد إن هايد يعطي إحساسًا قويًا بالتشوّه، وإن كان لا يستطيع تحديد موضعه."
+      },
+      "ref": "p22"
+    },
+    {
+      "type": "grammar",
+      "q": {
+        "en": "“I had taken a loathing to my gentleman at first sight.” Why is the past perfect used?",
+        "ar": "“I had taken a loathing to my gentleman at first sight.” لماذا استُعمل الماضي التام؟"
+      },
+      "options": [
+        "The hatred began earlier than the other past events he is describing",
+        "The action is happening now",
+        "It is a future plan",
+        "It is a polite request"
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "'Had taken' places the start of the feeling before the later moments of the story (the doctor's reaction).",
+        "ar": "had taken تضع بداية الشعور قبل اللحظات اللاحقة في القصة (ردّ فعل الطبيب)."
+      },
+      "ref": "p8"
+    },
+    {
+      "type": "grammar",
+      "q": {
+        "en": "Complete Enfield's rule: “the more it looks like Queer Street, ___ I ask.”",
+        "ar": "أكمل قاعدة إنفيلد: “the more it looks like Queer Street, ___ I ask.”"
+      },
+      "options": [
+        "the less",
+        "less",
+        "the least",
+        "fewer"
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "The second half of the pattern also needs 'the' + comparative: 'the less'.",
+        "ar": "النصف الثاني من النمط يحتاج أيضًا إلى the + صيغة المقارنة: the less."
+      },
+      "ref": "p14"
+    },
+    {
+      "type": "translation",
+      "q": {
+        "en": "Choose the best Arabic translation: “He was austere with himself”",
+        "ar": "اختر أفضل ترجمة عربية: “He was austere with himself”"
+      },
+      "options": [
+        "كان صارمًا مع نفسه",
+        "كان كريمًا مع نفسه",
+        "كان وحيدًا دائمًا",
+        "كان يحبّ نفسه كثيرًا"
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "'Austere' means strict and denying oneself pleasure, as when Utterson drinks gin instead of the wine he likes.",
+        "ar": "austere تعني الصارم الذي يحرم نفسه المتع، كما يشرب أترسون الجِن بدل النبيذ الذي يحبّه."
+      },
+      "ref": "p1"
+    },
+    {
+      "type": "context",
+      "q": {
+        "en": "Why does Enfield call the building 'Black Mail House'?",
+        "ar": "لماذا يسمّي إنفيلد البناء «بيت الابتزاز»؟"
+      },
+      "options": [
+        "He thinks a respectable man is being forced to pay for secrets from his past",
+        "The house is painted black",
+        "Letters are delivered there",
+        "A banker lives there"
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "He imagines 'an honest man paying through the nose for some of the capers of his youth'. Reputation was so important that people paid to protect it.",
+        "ar": "يتخيّل «رجلًا شريفًا يدفع ثمنًا باهظًا لبعض نزوات شبابه». فقد كانت السمعة مهمة إلى حدّ أن الناس يدفعون لحمايتها."
+      },
+      "ref": "p10"
+    }
+  ]
+}

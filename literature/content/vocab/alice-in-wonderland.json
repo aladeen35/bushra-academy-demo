@@ -1,0 +1,1315 @@
+[
+ {
+  "id": "peep",
+  "word": "peep",
+  "forms": [
+   "peeped",
+   "peeping"
+  ],
+  "ar": "يسترق النظر",
+  "ipa": "/piːp/",
+  "pos": "verb",
+  "def": "To look quickly and secretly at something, often through a small gap.",
+  "arExplain": "أن تنظر نظرة سريعة خفية إلى شيء، كأنك لا تريد أن يراك أحد.",
+  "example": "once or twice she had peeped into the book her sister was reading",
+  "exampleAr": "استرقت النظر مرة أو مرتين إلى الكتاب الذي كانت أختها تقرؤه",
+  "exampleRef": "1:p1",
+  "synonyms": [
+   "peek",
+   "glance"
+  ],
+  "antonyms": [
+   "stare"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "daisy-chain",
+  "word": "daisy-chain",
+  "forms": [
+   "daisy",
+   "daisies"
+  ],
+  "ar": "عقد من زهور الأقحوان",
+  "ipa": "/ˈdeɪ.zi tʃeɪn/",
+  "pos": "noun",
+  "def": "A string of small daisy flowers joined by their stems, which children make to wear as a necklace or crown.",
+  "arExplain": "سلسلة من زهور الأقحوان الصغيرة تُربط سيقانها بعضها ببعض، يصنعها الأطفال ليلبسوها عقدًا أو تاجًا؛ وهي لعبة صيفية مألوفة عند أطفال إنجلترا.",
+  "example": "whether the pleasure of making a daisy-chain would be worth the trouble of getting up and picking the daisies",
+  "exampleAr": "هل تستحق متعة صنع عقد من الأقحوان عناء النهوض وقطف الزهور",
+  "exampleRef": "1:p2",
+  "synonyms": [],
+  "antonyms": [],
+  "level": "B2",
+  "category": "cultural"
+ },
+ {
+  "id": "remarkable",
+  "word": "remarkable",
+  "forms": [],
+  "ar": "لافت للنظر؛ مدهش",
+  "ipa": "/rɪˈmɑː.kə.bəl/",
+  "pos": "adjective",
+  "def": "Unusual or surprising in a way that makes people notice it.",
+  "arExplain": "شيء غير عادي يجذب الانتباه ويستحق الحديث عنه.",
+  "example": "There was nothing so very remarkable in that",
+  "exampleAr": "لم يكن في ذلك شيء لافت جدًّا",
+  "exampleRef": "1:p3",
+  "synonyms": [
+   "extraordinary",
+   "striking"
+  ],
+  "antonyms": [
+   "ordinary",
+   "unremarkable"
+  ],
+  "level": "B1",
+  "category": "intermediate"
+ },
+ {
+  "id": "waistcoat",
+  "word": "waistcoat",
+  "forms": [
+   "waistcoat-pocket"
+  ],
+  "ar": "صدرية (سترة بلا أكمام)",
+  "ipa": "/ˈweɪs.kəʊt/",
+  "pos": "noun",
+  "def": "A short jacket without sleeves, worn over a shirt and often under a coat.",
+  "arExplain": "سترة قصيرة بلا أكمام تُلبس فوق القميص وتحت المعطف، وكان الرجال في العصر الفيكتوري يضعون ساعة الجيب في جيبها الصغير.",
+  "example": "she had never before seen a rabbit with either a waistcoat-pocket, or a watch to take out of it",
+  "exampleAr": "لم تر من قبل قطّ أرنبًا له جيب صدرية، ولا ساعة يُخرجها منه",
+  "exampleRef": "1:p3",
+  "synonyms": [
+   "vest"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "curiosity",
+  "word": "curiosity",
+  "forms": [],
+  "ar": "الفضول؛ حبّ الاستطلاع",
+  "ipa": "/ˌkjʊə.riˈɒs.ə.ti/",
+  "pos": "noun",
+  "def": "A strong wish to know or learn about something.",
+  "arExplain": "رغبة قوية في معرفة شيء أو اكتشافه؛ وهي صفة أليس الأولى في القصة كلّها.",
+  "example": "burning with curiosity, she ran across the field after it",
+  "exampleAr": "ركضت عبر الحقل خلفه وهي تتّقد فضولًا",
+  "exampleRef": "1:p3",
+  "synonyms": [
+   "inquisitiveness",
+   "interest"
+  ],
+  "antonyms": [
+   "indifference"
+  ],
+  "level": "B1",
+  "category": "intermediate"
+ },
+ {
+  "id": "hedge",
+  "word": "hedge",
+  "forms": [
+   "hedges"
+  ],
+  "ar": "سياج من الشجيرات",
+  "ipa": "/hedʒ/",
+  "pos": "noun",
+  "def": "A line of bushes growing close together, used as a fence around a field or garden.",
+  "arExplain": "صفّ من الشجيرات المتلاصقة يُزرع حول الحقول والحدائق ليكون حدًّا أو سورًا، وهو منظر مألوف في الريف الإنجليزي.",
+  "example": "just in time to see it pop down a large rabbit-hole under the hedge",
+  "exampleAr": "في الوقت المناسب تمامًا لتراه يقفز داخل جحر أرانب كبير تحت السياج",
+  "exampleRef": "1:p3",
+  "synonyms": [
+   "hedgerow"
+  ],
+  "antonyms": [],
+  "level": "B1",
+  "category": "beginner"
+ },
+ {
+  "id": "disappointment",
+  "word": "disappointment",
+  "forms": [],
+  "ar": "خيبة الأمل",
+  "ipa": "/ˌdɪs.əˈpɔɪnt.mənt/",
+  "pos": "noun",
+  "def": "The sad feeling you have when something is not as good as you hoped.",
+  "arExplain": "الشعور بالحزن حين لا يتحقق ما كنت تأمله أو تتوقعه.",
+  "example": "but to her great disappointment it was empty",
+  "exampleAr": "لكنه كان فارغًا، ويا لخيبة أملها!",
+  "exampleRef": "1:p6",
+  "synonyms": [
+   "letdown",
+   "regret"
+  ],
+  "antonyms": [
+   "satisfaction",
+   "delight"
+  ],
+  "level": "B1",
+  "category": "intermediate"
+ },
+ {
+  "id": "latitude",
+  "word": "latitude",
+  "forms": [
+   "Latitude",
+   "longitude",
+   "Longitude"
+  ],
+  "ar": "خط العرض",
+  "ipa": "/ˈlæt.ɪ.tjuːd/",
+  "pos": "noun",
+  "def": "The distance of a place north or south of the equator, measured in degrees. Longitude is the distance east or west.",
+  "arExplain": "خط العرض يحدّد بُعد المكان شمال خط الاستواء أو جنوبه بالدرجات، وخط الطول (longitude) يحدّد بُعده شرقًا أو غربًا. أليس تردّد الكلمتين لأنهما «فخمتان» دون أن تفهمهما.",
+  "example": "I wonder what Latitude or Longitude I’ve got to?",
+  "exampleAr": "تُرى إلى أي خط عرض أو خط طول وصلت؟",
+  "exampleRef": "1:p8",
+  "synonyms": [],
+  "antonyms": [],
+  "level": "B2",
+  "category": "advanced"
+ },
+ {
+  "id": "curtsey",
+  "word": "curtsey",
+  "forms": [
+   "curtseying"
+  ],
+  "ar": "تنحني للتحية (انحناءة الفتيات)",
+  "ipa": "/ˈkɜːt.si/",
+  "pos": "verb",
+  "def": "(of a girl or woman) To greet someone politely by bending the knees with one foot behind the other.",
+  "arExplain": "تحية تقليدية تؤدّيها الفتاة أو المرأة بثني الركبتين قليلًا ووضع إحدى القدمين خلف الأخرى، وكانت البنات الفيكتوريات يتعلّمنها احترامًا للكبار.",
+  "example": "she tried to curtsey as she spoke",
+  "exampleAr": "حاولت أن تنحني انحناءة التحية وهي تتكلم",
+  "exampleRef": "1:p9",
+  "synonyms": [
+   "bob"
+  ],
+  "antonyms": [],
+  "level": "C1",
+  "category": "cultural"
+ },
+ {
+  "id": "ignorant",
+  "word": "ignorant",
+  "forms": [],
+  "ar": "جاهل",
+  "ipa": "/ˈɪɡ.nər.ənt/",
+  "pos": "adjective",
+  "def": "Not knowing things that people usually know.",
+  "arExplain": "من لا يعرف ما يعرفه الناس عادةً؛ وأليس تخاف أن تبدو جاهلة إن سألت عن اسم البلد.",
+  "example": "And what an ignorant little girl she’ll think me for asking!",
+  "exampleAr": "وكم ستظنّني فتاة صغيرة جاهلة لأنني سألت!",
+  "exampleRef": "1:p9",
+  "synonyms": [
+   "uninformed",
+   "unaware"
+  ],
+  "antonyms": [
+   "knowledgeable",
+   "educated"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "doze-off",
+  "word": "doze off",
+  "forms": [
+   "dozing off",
+   "dozing",
+   "doze"
+  ],
+  "ar": "يغفو",
+  "ipa": "/ˌdəʊz ˈɒf/",
+  "pos": "phrasal verb",
+  "def": "To fall into a light sleep, often without meaning to.",
+  "arExplain": "أن تنام نومًا خفيفًا دون قصد، كما يحدث حين تشعر بالنعاس وأنت جالس.",
+  "example": "She felt that she was dozing off",
+  "exampleAr": "وشعرت أنها تغفو",
+  "exampleRef": "1:p10",
+  "synonyms": [
+   "nod off",
+   "drop off"
+  ],
+  "antonyms": [
+   "wake up"
+  ],
+  "level": "B2",
+  "category": "phrasal"
+ },
+ {
+  "id": "whiskers",
+  "word": "whiskers",
+  "forms": [],
+  "ar": "الشوارب (شعيرات وجه الحيوان)",
+  "ipa": "/ˈwɪs.kəz/",
+  "pos": "noun",
+  "def": "The long stiff hairs that grow near the mouth of a cat, rabbit, mouse, etc.",
+  "arExplain": "الشعيرات الطويلة القاسية التي تنبت حول فم القط والأرنب والفأر ونحوها.",
+  "example": "Oh my ears and whiskers, how late it’s getting!",
+  "exampleAr": "يا لأذنيّ وشواربي، ما أشدّ تأخّر الوقت!",
+  "exampleRef": "1:p11",
+  "synonyms": [],
+  "antonyms": [],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "long-for",
+  "word": "long to / long for",
+  "forms": [
+   "longed"
+  ],
+  "ar": "يتوق إلى",
+  "ipa": "/lɒŋ/",
+  "pos": "verb",
+  "def": "To want something very much, especially something that is difficult to have.",
+  "arExplain": "أن تشتاق إلى شيء اشتياقًا شديدًا وتتمنّاه بكل قلبك، وغالبًا ما يكون صعب المنال.",
+  "example": "How she longed to get out of that dark hall",
+  "exampleAr": "كم تاقت إلى الخروج من تلك القاعة المظلمة",
+  "exampleRef": "1:p14",
+  "synonyms": [
+   "yearn",
+   "crave"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "literary"
+ },
+ {
+  "id": "telescope",
+  "word": "telescope",
+  "forms": [
+   "telescopes"
+  ],
+  "ar": "منظار؛ تلسكوب",
+  "ipa": "/ˈtel.ɪ.skəʊp/",
+  "pos": "noun",
+  "def": "A tube with lenses that makes faraway things look closer. Old telescopes could slide into themselves to become shorter.",
+  "arExplain": "أنبوب فيه عدسات يقرّب الأشياء البعيدة. وكانت المناظير القديمة تتكوّن من أجزاء ينزلق بعضها في بعض فتقصر أو تطول، ولهذا تتمنى أليس أن «تنطوي كالمنظار».",
+  "example": "Oh, how I wish I could shut up like a telescope!",
+  "exampleAr": "آه، كم أتمنى لو أستطيع أن أنطوي على نفسي كالمنظار!",
+  "exampleRef": "1:p14",
+  "synonyms": [
+   "spyglass"
+  ],
+  "antonyms": [],
+  "level": "B1",
+  "category": "intermediate"
+ },
+ {
+  "id": "venture",
+  "word": "venture",
+  "forms": [
+   "ventured"
+  ],
+  "ar": "يجرؤ؛ يغامر",
+  "ipa": "/ˈven.tʃə/",
+  "pos": "verb",
+  "def": "To dare to do or say something that may be risky or unwelcome.",
+  "arExplain": "أن تتجرّأ على فعل شيء أو قوله مع أنه قد يكون خطرًا أو غير مرغوب فيه.",
+  "example": "so Alice ventured to taste it",
+  "exampleAr": "فتجرّأت أليس وذاقتها",
+  "exampleRef": "1:p17",
+  "synonyms": [
+   "dare",
+   "risk"
+  ],
+  "antonyms": [
+   "hesitate"
+  ],
+  "level": "B2",
+  "category": "literary"
+ },
+ {
+  "id": "shrink",
+  "word": "shrink",
+  "forms": [
+   "shrinking"
+  ],
+  "ar": "ينكمش؛ يصغر",
+  "ipa": "/ʃrɪŋk/",
+  "pos": "verb",
+  "def": "To become smaller in size.",
+  "arExplain": "أن يصغر الشيء حجمًا؛ وهو ما يحدث لأليس مرارًا في القصة.",
+  "example": "she waited for a few minutes to see if she was going to shrink any further",
+  "exampleAr": "انتظرت بضع دقائق لترى هل ستواصل الانكماش أكثر",
+  "exampleRef": "1:p22",
+  "synonyms": [
+   "contract"
+  ],
+  "antonyms": [
+   "grow",
+   "expand"
+  ],
+  "level": "B1",
+  "category": "intermediate"
+ },
+ {
+  "id": "slippery",
+  "word": "slippery",
+  "forms": [],
+  "ar": "زَلِق",
+  "ipa": "/ˈslɪp.ər.i/",
+  "pos": "adjective",
+  "def": "So smooth or wet that it is hard to hold or to stand on.",
+  "arExplain": "أملس أو مبلّل بحيث يصعب الإمساك به أو الوقوف عليه.",
+  "example": "she tried her best to climb up one of the legs of the table, but it was too slippery",
+  "exampleAr": "بذلت كل جهدها لتتسلّق إحدى أرجل الطاولة، لكنها كانت شديدة الانزلاق",
+  "exampleRef": "1:p23",
+  "synonyms": [
+   "slick"
+  ],
+  "antonyms": [
+   "rough"
+  ],
+  "level": "B1",
+  "category": "intermediate"
+ },
+ {
+  "id": "scold",
+  "word": "scold",
+  "forms": [
+   "scolded"
+  ],
+  "ar": "يوبّخ",
+  "ipa": "/skəʊld/",
+  "pos": "verb",
+  "def": "To speak angrily to someone because they have done something wrong.",
+  "arExplain": "أن تلوم شخصًا بكلام غاضب لأنه أخطأ؛ وأليس كانت توبّخ نفسها أحيانًا!",
+  "example": "sometimes she scolded herself so severely as to bring tears into her eyes",
+  "exampleAr": "وكانت أحيانًا توبّخ نفسها بقسوة شديدة حتى تُدمع عينيها",
+  "exampleRef": "1:p24",
+  "synonyms": [
+   "reprimand",
+   "tell off"
+  ],
+  "antonyms": [
+   "praise"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "croquet",
+  "word": "croquet",
+  "forms": [],
+  "ar": "لعبة الكروكيه",
+  "ipa": "/ˈkrəʊ.keɪ/",
+  "pos": "noun",
+  "def": "A lawn game in which players hit wooden balls through small metal hoops with long wooden hammers (mallets).",
+  "arExplain": "لعبة تُلعب على العشب، يضرب فيها اللاعبون كرات خشبية بمطارق خشبية طويلة لتمرّ من أقواس معدنية صغيرة، وكانت شائعة جدًّا في الحدائق الإنجليزية في العصر الفيكتوري.",
+  "example": "for having cheated herself in a game of croquet she was playing against herself",
+  "exampleAr": "لأنها غشّت نفسها في مباراة كروكيه كانت تلعبها ضدّ نفسها",
+  "exampleRef": "1:p24",
+  "synonyms": [],
+  "antonyms": [],
+  "level": "B2",
+  "category": "cultural"
+ },
+ {
+  "id": "respectable",
+  "word": "respectable",
+  "forms": [],
+  "ar": "محترم؛ لائق",
+  "ipa": "/rɪˈspek.tə.bəl/",
+  "pos": "adjective",
+  "def": "Considered good, proper and worthy of respect by society.",
+  "arExplain": "يراه المجتمع لائقًا ومهذّبًا وجديرًا بالاحترام؛ وكانت «الاحترامية» قيمة كبيرة في المجتمع الفيكتوري.",
+  "example": "there’s hardly enough of me left to make one respectable person!",
+  "exampleAr": "لم يبقَ مني ما يكفي بالكاد لصنع شخص واحد محترم!",
+  "exampleRef": "1:p24",
+  "synonyms": [
+   "decent",
+   "proper"
+  ],
+  "antonyms": [
+   "disreputable"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "curious",
+  "word": "curious",
+  "forms": [
+   "curiouser"
+  ],
+  "ar": "غريب؛ فضولي",
+  "ipa": "/ˈkjʊə.ri.əs/",
+  "pos": "adjective",
+  "def": "1) Strange and unusual. 2) Eager to know or learn something.",
+  "arExplain": "للكلمة معنيان: «غريب» و«فضولي». وعبارة Curiouser and curiouser خطأ مقصود: الصحيح more and more curious، ولهذا يقول الراوي إن أليس نسيت كيف تتكلم الإنجليزية السليمة.",
+  "example": "“Curiouser and curiouser!” cried Alice",
+  "exampleAr": "«أغربُ فأغربُ!» صاحت أليس",
+  "exampleRef": "2:p1",
+  "synonyms": [
+   "strange",
+   "odd",
+   "inquisitive"
+  ],
+  "antonyms": [
+   "ordinary",
+   "uninterested"
+  ],
+  "level": "B1",
+  "category": "intermediate"
+ },
+ {
+  "id": "shed",
+  "word": "shed",
+  "forms": [
+   "shedding"
+  ],
+  "ar": "يذرف (الدموع)",
+  "ipa": "/ʃed/",
+  "pos": "verb",
+  "def": "To let something fall or flow out, for example tears, leaves or skin.",
+  "arExplain": "أن يُسقط الشيء ما عليه أو يُخرجه، كذرف الدموع أو تساقط أوراق الشجر.",
+  "example": "shedding gallons of tears",
+  "exampleAr": "تذرف من الدموع جالونات",
+  "exampleRef": "2:p7",
+  "synonyms": [
+   "drop",
+   "pour"
+  ],
+  "antonyms": [
+   "hold back"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "kid-gloves",
+  "word": "kid gloves",
+  "forms": [
+   "kid"
+  ],
+  "ar": "قفازات من جلد الجدي",
+  "ipa": "/ˌkɪd ˈɡlʌvz/",
+  "pos": "noun",
+  "def": "Gloves made of soft, fine leather from a young goat; a sign of elegant dress in the 19th century.",
+  "arExplain": "قفازات من جلد الماعز الصغير الناعم، كان يلبسها الأنيقون في القرن التاسع عشر. وكلمة kid هنا تعني «الجدي» لا «الطفل».",
+  "example": "with a pair of white kid gloves in one hand and a large fan in the other",
+  "exampleAr": "وفي إحدى يديه زوج من القفازات البيضاء من جلد الجدي، وفي الأخرى مروحة كبيرة",
+  "exampleRef": "2:p8",
+  "synonyms": [],
+  "antonyms": [],
+  "level": "C1",
+  "category": "historical"
+ },
+ {
+  "id": "mutter",
+  "word": "mutter",
+  "forms": [
+   "muttering",
+   "muttered"
+  ],
+  "ar": "يغمغم",
+  "ipa": "/ˈmʌt.ə/",
+  "pos": "verb",
+  "def": "To speak quietly and unclearly, often because you are worried or annoyed.",
+  "arExplain": "أن تتكلّم بصوت منخفض غير واضح، غالبًا من القلق أو الضيق، كأنك تحدّث نفسك.",
+  "example": "muttering to himself as he came",
+  "exampleAr": "يغمغم لنفسه وهو يقترب",
+  "exampleRef": "2:p8",
+  "synonyms": [
+   "mumble",
+   "murmur"
+  ],
+  "antonyms": [
+   "shout"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "savage",
+  "word": "savage",
+  "forms": [],
+  "ar": "شرس؛ غاضب جدًّا",
+  "ipa": "/ˈsæv.ɪdʒ/",
+  "pos": "adjective",
+  "def": "Very fierce, violent or angry.",
+  "arExplain": "شديد الغضب أو العنف؛ والأرنب يخاف أن تغضب الدوقة غضبًا شديدًا إن تأخر.",
+  "example": "won’t she be savage if I’ve kept her waiting!",
+  "exampleAr": "كم ستغضب غضبًا وحشيًّا إن جعلتها تنتظر!",
+  "exampleRef": "2:p8",
+  "synonyms": [
+   "fierce",
+   "furious"
+  ],
+  "antonyms": [
+   "gentle",
+   "calm"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "desperate",
+  "word": "desperate",
+  "forms": [
+   "desperately",
+   "despair"
+  ],
+  "ar": "يائس",
+  "ipa": "/ˈdes.pər.ət/",
+  "pos": "adjective",
+  "def": "Feeling that you have almost no hope, and so ready to try anything.",
+  "arExplain": "تشعر بأنه لم يبقَ لك أمل تقريبًا، فتكون مستعدًّا لتجربة أي شيء.",
+  "example": "Alice felt so desperate that she was ready to ask help of any one",
+  "exampleAr": "كانت أليس يائسة إلى حدّ أنها كانت مستعدة لطلب المساعدة من أي أحد",
+  "exampleRef": "2:p8",
+  "synonyms": [
+   "hopeless"
+  ],
+  "antonyms": [
+   "hopeful"
+  ],
+  "level": "B1",
+  "category": "intermediate"
+ },
+ {
+  "id": "timid",
+  "word": "timid",
+  "forms": [
+   "timidly"
+  ],
+  "ar": "خجول؛ هيّاب",
+  "ipa": "/ˈtɪm.ɪd/",
+  "pos": "adjective",
+  "def": "Shy and nervous; not brave.",
+  "arExplain": "قليل الجرأة، يخاف بسهولة ويتكلم بصوت خافت.",
+  "example": "she began, in a low, timid voice",
+  "exampleAr": "بدأت بصوت خافت خجول",
+  "exampleRef": "2:p8",
+  "synonyms": [
+   "shy",
+   "nervous"
+  ],
+  "antonyms": [
+   "bold",
+   "confident"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "puzzle",
+  "word": "puzzle",
+  "forms": [
+   "puzzling",
+   "puzzled"
+  ],
+  "ar": "لغز؛ أحجية",
+  "ipa": "/ˈpʌz.əl/",
+  "pos": "noun",
+  "def": "Something that is difficult to understand or explain. As a verb: to confuse someone.",
+  "arExplain": "شيء صعب الفهم أو التفسير. وفعل to puzzle يعني «يُحيّر»، ومنه puzzling أي «محيّر».",
+  "example": "Ah, that’s the great puzzle!",
+  "exampleAr": "آه، تلك هي الأحجية الكبرى!",
+  "exampleRef": "2:p9",
+  "synonyms": [
+   "mystery",
+   "riddle"
+  ],
+  "antonyms": [
+   "solution"
+  ],
+  "level": "B1",
+  "category": "intermediate"
+ },
+ {
+  "id": "hoarse",
+  "word": "hoarse",
+  "forms": [
+   "hoarsely"
+  ],
+  "ar": "أجشّ (صوت)",
+  "ipa": "/hɔːs/",
+  "pos": "adjective",
+  "def": "(of a voice) Rough and low, as when you have a sore throat.",
+  "arExplain": "صوت خشن منخفض كصوت من به التهاب في الحلق. لا تخلط بينها وبين horse (حصان) مع أن نطقهما واحد.",
+  "example": "her voice sounded hoarse and strange",
+  "exampleAr": "بدا صوتها أجشّ غريبًا",
+  "exampleRef": "2:p10",
+  "synonyms": [
+   "husky",
+   "rough"
+  ],
+  "antonyms": [
+   "clear"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "poky",
+  "word": "poky",
+  "forms": [],
+  "ar": "ضيّق (مكان)",
+  "ipa": "/ˈpəʊ.ki/",
+  "pos": "adjective",
+  "def": "(British, informal; of a room or house) Uncomfortably small.",
+  "arExplain": "يُقال عن البيت أو الغرفة الصغيرة الضيقة التي لا يرتاح فيها المرء.",
+  "example": "live in that poky little house",
+  "exampleAr": "أعيش في ذلك البيت الصغير الضيّق",
+  "exampleRef": "2:p13",
+  "synonyms": [
+   "cramped",
+   "tiny"
+  ],
+  "antonyms": [
+   "spacious",
+   "roomy"
+  ],
+  "level": "C1",
+  "category": "intermediate"
+ },
+ {
+  "id": "narrow-escape",
+  "word": "a narrow escape",
+  "forms": [
+   "narrow escape"
+  ],
+  "ar": "نجاة بأعجوبة",
+  "ipa": "/ə ˌnær.əʊ ɪˈskeɪp/",
+  "pos": "idiom",
+  "def": "A situation in which you only just avoid danger or harm.",
+  "arExplain": "حين تنجو من خطر في اللحظة الأخيرة، وكان الخطر قريبًا جدًّا منك.",
+  "example": "That was a narrow escape!",
+  "exampleAr": "لقد كانت نجاة بأعجوبة حقًّا!",
+  "exampleRef": "2:p15",
+  "synonyms": [
+   "close call",
+   "near miss"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "idiom"
+ },
+ {
+  "id": "bathing-machine",
+  "word": "bathing machine",
+  "forms": [
+   "bathing machines"
+  ],
+  "ar": "عربة الاستحمام",
+  "ipa": "/ˈbeɪ.ðɪŋ məˌʃiːn/",
+  "pos": "noun",
+  "def": "A small hut on wheels, pulled into the sea, where Victorian bathers changed their clothes and entered the water out of sight.",
+  "arExplain": "كوخ خشبي صغير على عجلات يُجرّ إلى البحر، يبدّل فيه المصطافون الفيكتوريون ملابسهم ثم ينزلون إلى الماء بعيدًا عن أعين الناس، حفاظًا على الحشمة.",
+  "example": "you find a number of bathing machines in the sea",
+  "exampleAr": "تجد عددًا من عربات الاستحمام في البحر",
+  "exampleRef": "2:p16",
+  "synonyms": [],
+  "antonyms": [],
+  "level": "C1",
+  "category": "historical"
+ },
+ {
+  "id": "conclusion",
+  "word": "conclusion",
+  "forms": [],
+  "ar": "استنتاج؛ خلاصة",
+  "ipa": "/kənˈkluː.ʒən/",
+  "pos": "noun",
+  "def": "An opinion you reach after thinking about something.",
+  "arExplain": "رأي تصل إليه بعد التفكير في أمر ما؛ وتعبير come to a conclusion يعني «يصل إلى استنتاج».",
+  "example": "had come to the general conclusion",
+  "exampleAr": "وخرجت من ذلك باستنتاج عام",
+  "exampleRef": "2:p16",
+  "synonyms": [
+   "judgement",
+   "decision"
+  ],
+  "antonyms": [
+   "premise"
+  ],
+  "level": "B1",
+  "category": "intermediate"
+ },
+ {
+  "id": "inquisitively",
+  "word": "inquisitively",
+  "forms": [],
+  "ar": "بفضول",
+  "ipa": "/ɪnˈkwɪz.ə.tɪv.li/",
+  "pos": "adverb",
+  "def": "In a way that shows you want to know or find out about something.",
+  "arExplain": "بطريقة تُظهر رغبتك في المعرفة والاستكشاف.",
+  "example": "The Mouse looked at her rather inquisitively",
+  "exampleAr": "فنظر إليها الفأر بشيء من الفضول",
+  "exampleRef": "2:p19",
+  "synonyms": [
+   "curiously"
+  ],
+  "antonyms": [
+   "indifferently"
+  ],
+  "level": "C1",
+  "category": "intermediate"
+ },
+ {
+  "id": "soothing",
+  "word": "soothing",
+  "forms": [],
+  "ar": "مهدّئ",
+  "ipa": "/ˈsuː.ðɪŋ/",
+  "pos": "adjective",
+  "def": "Making someone feel calmer and less angry or worried.",
+  "arExplain": "يجعل الشخص أهدأ وأقلّ غضبًا أو قلقًا.",
+  "example": "said Alice in a soothing tone",
+  "exampleAr": "قالت أليس بنبرة مهدّئة",
+  "exampleRef": "2:p22",
+  "synonyms": [
+   "calming",
+   "comforting"
+  ],
+  "antonyms": [
+   "irritating"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "purr",
+  "word": "purr",
+  "forms": [
+   "purring"
+  ],
+  "ar": "تخرخر (القطة)",
+  "ipa": "/pɜː/",
+  "pos": "verb",
+  "def": "(of a cat) To make a low, soft, continuous sound when it is happy.",
+  "arExplain": "الصوت الناعم المتواصل الذي تُصدره القطة حين تكون مرتاحة سعيدة.",
+  "example": "she sits purring so nicely by the fire",
+  "exampleAr": "وتجلس قرب النار تخرخر بلطف شديد",
+  "exampleRef": "2:p22",
+  "synonyms": [],
+  "antonyms": [
+   "hiss"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "vulgar",
+  "word": "vulgar",
+  "forms": [],
+  "ar": "سوقي؛ مبتذل",
+  "ipa": "/ˈvʌl.ɡə/",
+  "pos": "adjective",
+  "def": "Rude, low-class or lacking good taste (a word often used by snobbish people).",
+  "arExplain": "يُقال عن الشيء أو الشخص الذي يُرى قليل الذوق أو الأدب؛ والفأر يستعمل الكلمة بتعالٍ عن القطط.",
+  "example": "nasty, low, vulgar things!",
+  "exampleAr": "مخلوقات كريهة، وضيعة، سوقية!",
+  "exampleRef": "2:p23",
+  "synonyms": [
+   "crude",
+   "coarse"
+  ],
+  "antonyms": [
+   "refined",
+   "polite"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "offend",
+  "word": "offend",
+  "forms": [
+   "offended"
+  ],
+  "ar": "يُهين؛ يجرح المشاعر",
+  "ipa": "/əˈfend/",
+  "pos": "verb",
+  "def": "To make someone upset or angry by saying or doing something rude or careless.",
+  "arExplain": "أن تُزعج شخصًا أو تجرح مشاعره بكلام أو فعل غير لائق، ولو دون قصد.",
+  "example": "I’m afraid I’ve offended it again!",
+  "exampleAr": "أخشى أنني أهنته مرة أخرى!",
+  "exampleRef": "2:p24",
+  "synonyms": [
+   "insult",
+   "upset"
+  ],
+  "antonyms": [
+   "please"
+  ],
+  "level": "B1",
+  "category": "intermediate"
+ },
+ {
+  "id": "commotion",
+  "word": "commotion",
+  "forms": [],
+  "ar": "ضجّة؛ هرج",
+  "ipa": "/kəˈməʊ.ʃən/",
+  "pos": "noun",
+  "def": "A sudden noisy and confused movement or activity.",
+  "arExplain": "حركة مفاجئة فيها ضجيج واضطراب.",
+  "example": "making quite a commotion in the pool as it went",
+  "exampleAr": "مُحدثًا وهو يبتعد ضجّة كبيرة في البركة",
+  "exampleRef": "2:p24",
+  "synonyms": [
+   "disturbance",
+   "uproar"
+  ],
+  "antonyms": [
+   "calm",
+   "peace"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "queer",
+  "word": "queer",
+  "forms": [
+   "queer-looking"
+  ],
+  "ar": "غريب (قديمًا)",
+  "ipa": "/kwɪə/",
+  "pos": "adjective",
+  "def": "(old-fashioned) Strange or odd.",
+  "arExplain": "كانت تعني «غريب» في زمن كارول. أما اليوم فلها معنى آخر حسّاس، فالأفضل أن تقول strange أو odd.",
+  "example": "They were indeed a queer-looking party that assembled on the bank",
+  "exampleAr": "كانوا حقًّا جماعة غريبة المنظر تلك التي اجتمعت على الضفة",
+  "exampleRef": "3:p1",
+  "synonyms": [
+   "strange",
+   "odd"
+  ],
+  "antonyms": [
+   "normal"
+  ],
+  "level": "B2",
+  "category": "literary"
+ },
+ {
+  "id": "cross",
+  "word": "cross",
+  "forms": [
+   "crossly"
+  ],
+  "ar": "منزعج؛ غاضب",
+  "ipa": "/krɒs/",
+  "pos": "adjective",
+  "def": "(British, informal) Annoyed or a little angry.",
+  "arExplain": "في الإنجليزية البريطانية تعني cross صفةً «منزعج أو غاضب قليلًا»، وليس «يعبر».",
+  "example": "and all dripping wet, cross, and uncomfortable",
+  "exampleAr": "وكلّهم يقطرون ماءً، متجهّمين، منزعجين",
+  "exampleRef": "3:p1",
+  "synonyms": [
+   "annoyed",
+   "irritated"
+  ],
+  "antonyms": [
+   "pleased"
+  ],
+  "level": "B1",
+  "category": "intermediate"
+ },
+ {
+  "id": "consultation",
+  "word": "consultation",
+  "forms": [],
+  "ar": "تشاور",
+  "ipa": "/ˌkɒn.sʌlˈteɪ.ʃən/",
+  "pos": "noun",
+  "def": "A meeting or discussion to exchange ideas and decide something.",
+  "arExplain": "اجتماع أو نقاش لتبادل الآراء قبل اتخاذ قرار.",
+  "example": "they had a consultation about this",
+  "exampleAr": "فتشاوروا في ذلك",
+  "exampleRef": "3:p2",
+  "synonyms": [
+   "discussion",
+   "meeting"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "sulky",
+  "word": "sulky",
+  "forms": [
+   "sulkily"
+  ],
+  "ar": "عابس؛ متجهّم",
+  "ipa": "/ˈsʌl.ki/",
+  "pos": "adjective",
+  "def": "Silent and bad-tempered because you are annoyed about something.",
+  "arExplain": "صامت متضايق لأنك غاضب من شيء ولا تريد أن تتكلّم، كالطفل الذي «يزعل».",
+  "example": "who at last turned sulky",
+  "exampleAr": "الذي عبس في النهاية",
+  "exampleRef": "3:p2",
+  "synonyms": [
+   "moody",
+   "sullen"
+  ],
+  "antonyms": [
+   "cheerful"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "authority",
+  "word": "authority",
+  "forms": [],
+  "ar": "سلطة؛ نفوذ",
+  "ipa": "/ɔːˈθɒr.ə.ti/",
+  "pos": "noun",
+  "def": "The power to give orders and make others obey.",
+  "arExplain": "القدرة على إصدار الأوامر وجعل الآخرين يطيعونها.",
+  "example": "the Mouse, who seemed to be a person of authority among them",
+  "exampleAr": "الفأر، الذي بدا أنه صاحب سلطة بينهم",
+  "exampleRef": "3:p3",
+  "synonyms": [
+   "power",
+   "command"
+  ],
+  "antonyms": [],
+  "level": "B1",
+  "category": "intermediate"
+ },
+ {
+  "id": "conqueror",
+  "word": "conqueror",
+  "forms": [
+   "conquest"
+  ],
+  "ar": "الفاتح",
+  "ipa": "/ˈkɒŋ.kər.ə/",
+  "pos": "noun",
+  "def": "A person who takes control of a country by force. William the Conqueror invaded England from Normandy in 1066.",
+  "arExplain": "من يستولي على بلد بالقوة. و«وليام الفاتح» دوق نورماندي الذي غزا إنجلترا عام ١٠٦٦ وصار ملكًا عليها.",
+  "example": "William the Conqueror, whose cause was favoured by the pope",
+  "exampleAr": "وليام الفاتح، الذي حظيت قضيّته بتأييد البابا",
+  "exampleRef": "3:p4",
+  "synonyms": [
+   "invader"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "historical"
+ },
+ {
+  "id": "insolence",
+  "word": "insolence",
+  "forms": [],
+  "ar": "وقاحة",
+  "ipa": "/ˈɪn.səl.əns/",
+  "pos": "noun",
+  "def": "Rude and disrespectful behaviour.",
+  "arExplain": "سلوك فيه قلّة أدب واحترام تجاه الآخرين.",
+  "example": "But the insolence of his Normans",
+  "exampleAr": "لكن وقاحة رجاله النورمانديين",
+  "exampleRef": "3:p12",
+  "synonyms": [
+   "rudeness",
+   "impudence"
+  ],
+  "antonyms": [
+   "respect",
+   "courtesy"
+  ],
+  "level": "C1",
+  "category": "advanced"
+ },
+ {
+  "id": "melancholy",
+  "word": "melancholy",
+  "forms": [],
+  "ar": "كئيب؛ حزين",
+  "ipa": "/ˈmel.ən.kɒl.i/",
+  "pos": "adjective",
+  "def": "Sad, often for a long time and without a clear reason.",
+  "arExplain": "حزن هادئ عميق؛ كلمة أدبية أقوى من sad.",
+  "example": "said Alice in a melancholy tone",
+  "exampleAr": "قالت أليس بنبرة كئيبة",
+  "exampleRef": "3:p13",
+  "synonyms": [
+   "sad",
+   "gloomy"
+  ],
+  "antonyms": [
+   "cheerful",
+   "joyful"
+  ],
+  "level": "B2",
+  "category": "literary"
+ },
+ {
+  "id": "solemnly",
+  "word": "solemnly",
+  "forms": [
+   "solemn"
+  ],
+  "ar": "بوقار؛ بجدّية",
+  "ipa": "/ˈsɒl.əm.li/",
+  "pos": "adverb",
+  "def": "In a very serious and formal way.",
+  "arExplain": "بطريقة جادة رسمية، كمن يقوم بعمل مهم في احتفال.",
+  "example": "said the Dodo solemnly, rising to its feet",
+  "exampleAr": "قال الدودو بوقار، وهو ينهض على قدميه",
+  "exampleRef": "3:p14",
+  "synonyms": [
+   "seriously",
+   "gravely"
+  ],
+  "antonyms": [
+   "lightly"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "adjourn",
+  "word": "adjourn",
+  "forms": [],
+  "ar": "يرفع الجلسة؛ يؤجّل",
+  "ipa": "/əˈdʒɜːn/",
+  "pos": "verb",
+  "def": "To stop a meeting or trial for a time, to continue later or elsewhere.",
+  "arExplain": "أن يُوقَف الاجتماع أو المحاكمة مؤقتًا لاستئنافه لاحقًا. والدودو يستعمل لغة الاجتماعات الرسمية بشكل مضحك.",
+  "example": "I move that the meeting adjourn",
+  "exampleAr": "أقترح أن تُرفع الجلسة",
+  "exampleRef": "3:p14",
+  "synonyms": [
+   "suspend",
+   "postpone"
+  ],
+  "antonyms": [
+   "resume",
+   "continue"
+  ],
+  "level": "C1",
+  "category": "political"
+ },
+ {
+  "id": "remedy",
+  "word": "remedy",
+  "forms": [
+   "remedies"
+  ],
+  "ar": "علاج؛ حلّ",
+  "ipa": "/ˈrem.ə.di/",
+  "pos": "noun",
+  "def": "A cure for an illness or a way of solving a problem.",
+  "arExplain": "دواء لمرض، أو طريقة لحلّ مشكلة.",
+  "example": "for the immediate adoption of more energetic remedies",
+  "exampleAr": "من أجل الاعتماد الفوري لعلاجات أكثر فاعلية",
+  "exampleRef": "3:p14",
+  "synonyms": [
+   "cure",
+   "solution"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "titter",
+  "word": "titter",
+  "forms": [
+   "tittered"
+  ],
+  "ar": "يضحك ضحكة خافتة",
+  "ipa": "/ˈtɪt.ə/",
+  "pos": "verb",
+  "def": "To laugh quietly and nervously, often at something you should not laugh at.",
+  "arExplain": "أن تضحك ضحكًا خافتًا مكتومًا، غالبًا في موقف لا يليق فيه الضحك.",
+  "example": "some of the other birds tittered audibly",
+  "exampleAr": "وضحك بعض الطيور الأخرى ضحكًا خافتًا مسموعًا",
+  "exampleRef": "3:p15",
+  "synonyms": [
+   "giggle",
+   "snigger"
+  ],
+  "antonyms": [],
+  "level": "C1",
+  "category": "literary"
+ },
+ {
+  "id": "caucus",
+  "word": "caucus",
+  "forms": [
+   "Caucus-race",
+   "caucus-race"
+  ],
+  "ar": "اجتماع حزبي (الكوكس)",
+  "ipa": "/ˈkɔː.kəs/",
+  "pos": "noun",
+  "def": "A meeting of members of a political party to choose candidates or plan action.",
+  "arExplain": "اجتماع لأعضاء حزب سياسي لاختيار مرشّحين أو تنسيق خطة. وسباق الدودو يسخر من السياسة: الجميع يركضون في دائرة ولا يصلون إلى أي مكان، ثم يفوز الجميع.",
+  "example": "the best thing to get us dry would be a Caucus-race",
+  "exampleAr": "أفضل ما يجفّفنا هو سباق الكوكس",
+  "exampleRef": "3:p16",
+  "synonyms": [],
+  "antonyms": [],
+  "level": "C1",
+  "category": "political"
+ },
+ {
+  "id": "comfit",
+  "word": "comfit",
+  "forms": [
+   "comfits"
+  ],
+  "ar": "ملبّس (حلوى)",
+  "ipa": "/ˈkʌm.fɪt/",
+  "pos": "noun",
+  "def": "(old-fashioned) A sweet made of a nut or seed covered with hard sugar.",
+  "arExplain": "حلوى قديمة: لوز أو بذرة مغطّاة بطبقة صلبة من السكر، تشبه «الملبّس».",
+  "example": "pulled out a box of comfits",
+  "exampleAr": "وأخرجت علبة من حلوى الملبّس",
+  "exampleRef": "3:p23",
+  "synonyms": [
+   "sugared almond"
+  ],
+  "antonyms": [],
+  "level": "C1",
+  "category": "historical"
+ },
+ {
+  "id": "thimble",
+  "word": "thimble",
+  "forms": [],
+  "ar": "كشتبان",
+  "ipa": "/ˈθɪm.bəl/",
+  "pos": "noun",
+  "def": "A small metal or plastic cap worn on the finger to push the needle when sewing.",
+  "arExplain": "غطاء معدني صغير يُلبس في الإصبع لدفع الإبرة أثناء الخياطة.",
+  "example": "Only a thimble",
+  "exampleAr": "كشتبان فقط",
+  "exampleRef": "3:p26",
+  "synonyms": [],
+  "antonyms": [],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "absurd",
+  "word": "absurd",
+  "forms": [],
+  "ar": "سخيف؛ لا معقول",
+  "ipa": "/əbˈsɜːd/",
+  "pos": "adjective",
+  "def": "Completely unreasonable or silly.",
+  "arExplain": "مخالف للعقل والمنطق إلى حدّ يُضحك.",
+  "example": "Alice thought the whole thing very absurd",
+  "exampleAr": "رأت أليس أن الأمر كلّه سخيف جدًّا",
+  "exampleRef": "3:p29",
+  "synonyms": [
+   "ridiculous",
+   "silly"
+  ],
+  "antonyms": [
+   "sensible",
+   "reasonable"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "grave",
+  "word": "grave",
+  "forms": [
+   "gravely"
+  ],
+  "ar": "جادّ؛ رصين",
+  "ipa": "/ɡreɪv/",
+  "pos": "adjective",
+  "def": "Very serious and worried-looking.",
+  "arExplain": "جادّ ووقور الملامح. وللكلمة معنى آخر اسمًا: «قبر».",
+  "example": "they all looked so grave that she did not dare to laugh",
+  "exampleAr": "بدوا جميعًا جادّين إلى حدّ أنها لم تجرؤ على الضحك",
+  "exampleRef": "3:p29",
+  "synonyms": [
+   "serious",
+   "solemn"
+  ],
+  "antonyms": [
+   "cheerful",
+   "light-hearted"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "tale",
+  "word": "tale",
+  "forms": [
+   "tales"
+  ],
+  "ar": "حكاية",
+  "ipa": "/teɪl/",
+  "pos": "noun",
+  "def": "A story, especially an imaginative one. It sounds exactly like 'tail' (the tail of an animal).",
+  "arExplain": "قصة أو حكاية. وتُنطق تمامًا مثل tail (ذيل)، ولهذا تخلط أليس بين «حكاية الفأر» و«ذيل الفأر».",
+  "example": "Mine is a long and a sad tale!",
+  "exampleAr": "إن قصتي طويلة الذيل، حزينة!",
+  "exampleRef": "3:p32",
+  "synonyms": [
+   "story"
+  ],
+  "antonyms": [],
+  "level": "B1",
+  "category": "beginner"
+ },
+ {
+  "id": "prosecute",
+  "word": "prosecute",
+  "forms": [],
+  "ar": "يقاضي؛ يرفع دعوى",
+  "ipa": "/ˈprɒs.ɪ.kjuːt/",
+  "pos": "verb",
+  "def": "To accuse someone officially of a crime in a court of law.",
+  "arExplain": "أن تتّهم شخصًا رسميًّا أمام المحكمة وتطالب بمعاقبته.",
+  "example": "I will prosecute you.",
+  "exampleAr": "أنا سأقاضيكَ أنتَ.",
+  "exampleRef": "3:p34",
+  "synonyms": [
+   "sue",
+   "charge"
+  ],
+  "antonyms": [
+   "defend"
+  ],
+  "level": "C1",
+  "category": "advanced"
+ },
+ {
+  "id": "pretext",
+  "word": "pretext",
+  "forms": [
+   "pretexts"
+  ],
+  "ar": "ذريعة؛ حجّة",
+  "ipa": "/ˈpriː.tekst/",
+  "pos": "noun",
+  "def": "A false reason given to hide the real reason for doing something.",
+  "arExplain": "سبب مُختلَق يُذكر لإخفاء السبب الحقيقي؛ فالطيور تتحجّج بالبرد والنوم لأنها تخاف من دينا.",
+  "example": "On various pretexts they all moved off",
+  "exampleAr": "وبحجج مختلفة انصرفوا جميعًا",
+  "exampleRef": "3:p47",
+  "synonyms": [
+   "excuse"
+  ],
+  "antonyms": [],
+  "level": "C1",
+  "category": "advanced"
+ }
+]

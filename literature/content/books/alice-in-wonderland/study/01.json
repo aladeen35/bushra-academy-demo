@@ -1,0 +1,355 @@
+{
+ "chapter": 1,
+ "summary": {
+  "en": "On a hot summer afternoon Alice sits by the river with her older sister, bored by a book with no pictures. Suddenly a White Rabbit with pink eyes runs past, takes a watch out of his waistcoat-pocket and cries that he will be late. Full of curiosity, Alice follows him down a rabbit-hole and falls slowly down a very deep well lined with cupboards and shelves, chattering to herself about the centre of the earth, the 'Antipathies' and her cat Dinah. She lands safely in a long hall with locked doors. A tiny golden key opens a little door that leads to a lovely garden, but she is far too big to pass through. A bottle labelled 'DRINK ME' makes her shrink to ten inches high, but now she has left the key on the glass table and cannot reach it. She cries, scolds herself, and then finds a little cake marked 'EAT ME'. She eats it, hoping it will help her somehow.",
+  "ar": "في عصر يوم صيفي حارّ تجلس أليس قرب النهر مع أختها الكبرى، وقد ملّت من كتاب بلا صور. وفجأة يمرّ بها أرنب أبيض ذو عينين ورديتين، يُخرج ساعة من جيب صدريته ويصيح بأنه سيتأخر. وبدافع الفضول تتبعه أليس في جحر أرانب، فتسقط ببطء في بئر عميقة جدًّا تملأ جدرانَها الخزائنُ والرفوف، وهي تثرثر مع نفسها عن مركز الأرض و«المتنافرين» وقطتها دينا. ثم تهبط سالمة في قاعة طويلة أبوابها مقفلة. يفتح مفتاح ذهبي صغير بابًا صغيرًا يؤدّي إلى حديقة جميلة، لكنها أكبر بكثير من أن تمرّ منه. وتجعلها زجاجة مكتوب عليها «اشربيني» تنكمش حتى يصير طولها عشر بوصات، لكنها تكون قد تركت المفتاح على الطاولة الزجاجية ولا تستطيع أن تصل إليه. فتبكي وتوبّخ نفسها، ثم تجد كعكة صغيرة مكتوبًا عليها «كُليني»، فتأكلها آملة أن تساعدها بطريقة ما."
+ },
+ "objectives": [
+  {
+   "en": "Follow the opening of the story: the bank, the White Rabbit, the fall, the hall and the little door.",
+   "ar": "متابعة افتتاحية القصة: الضفة، والأرنب الأبيض، والسقوط، والقاعة، والباب الصغير."
+  },
+  {
+   "en": "Learn descriptive words such as remarkable, slippery, curiosity and disappointment.",
+   "ar": "تعلّم كلمات وصفية مثل: remarkable وslippery وcuriosity وdisappointment."
+  },
+  {
+   "en": "Use the past continuous and past simple together to describe an interrupted action.",
+   "ar": "استخدام الماضي المستمر مع الماضي البسيط لوصف حدث قطعه حدث آخر."
+  },
+  {
+   "en": "Notice how Carroll plays with words, such as 'Antipathies' for 'Antipodes' and 'Do bats eat cats?'.",
+   "ar": "ملاحظة تلاعب كارول بالكلمات، مثل «Antipathies» بدلًا من «Antipodes»، و«هل تأكل الخفافيش القطط؟»."
+  }
+ ],
+ "vocab": [
+  "peep",
+  "daisy-chain",
+  "remarkable",
+  "waistcoat",
+  "curiosity",
+  "hedge",
+  "disappointment",
+  "latitude",
+  "curtsey",
+  "ignorant",
+  "doze-off",
+  "whiskers",
+  "long-for",
+  "telescope",
+  "venture",
+  "shrink",
+  "slippery",
+  "scold",
+  "croquet",
+  "respectable"
+ ],
+ "grammar": [
+  {
+   "id": "aw-1-past-continuous-interrupted",
+   "topic": "tenses",
+   "level": "B1",
+   "title": {
+    "en": "Past continuous interrupted by the past simple",
+    "ar": "الماضي المستمر يقطعه الماضي البسيط"
+   },
+   "explain": {
+    "en": "We use the past continuous (was/were + -ing) for a longer action that was in progress, and the past simple for a short action that interrupts it. 'When suddenly' is a typical way to introduce the interruption. Here Alice was considering (long action) when a White Rabbit ran (short action) past her.",
+    "ar": "نستخدم الماضي المستمر (was/were + ‎-ing) لحدث طويل كان جاريًا، والماضي البسيط لحدث قصير قطعه. وعبارة when suddenly طريقة شائعة لتقديم الحدث المفاجئ. فهنا كانت أليس تفكّر (حدث طويل) حين ركض (حدث قصير) أرنب أبيض بقربها."
+   },
+   "example": {
+    "en": "So she was considering in her own mind (as well as she could, for the hot day made her feel very sleepy and stupid), whether the pleasure of making a daisy-chain would be worth the trouble of getting up and picking the daisies, when suddenly a White Rabbit with pink eyes ran close by her.",
+    "ar": "وهكذا كانت تقلّب الأمر في ذهنها (بقدر ما استطاعت، فقد جعلها اليوم الحارّ تشعر بنعاس شديد وبلادة)، هل تستحق متعة صنع عقد من زهور الأقحوان عناء النهوض وقطف الزهور، حين مرّ بقربها فجأة أرنب أبيض ذو عينين ورديتين.",
+    "ref": "p2"
+   },
+   "exercise": {
+    "q": {
+     "en": "Choose the correct form: 'Alice ___ by the river when the Rabbit ran past.'",
+     "ar": "اختر الصيغة الصحيحة: 'Alice ___ by the river when the Rabbit ran past.'"
+    },
+    "options": [
+     "sits",
+     "has sat",
+     "was sitting"
+    ],
+    "answer": 2,
+    "why": {
+     "en": "Sitting was the longer action in progress, interrupted by the Rabbit running past, so we use the past continuous: 'was sitting'.",
+     "ar": "الجلوس هو الحدث الطويل الجاري الذي قطعه مرور الأرنب، لذلك نستخدم الماضي المستمر: was sitting."
+    }
+   }
+  },
+  {
+   "id": "aw-1-past-perfect",
+   "topic": "tenses",
+   "level": "B1",
+   "title": {
+    "en": "The past perfect: an earlier past",
+    "ar": "الماضي التام: ماضٍ أسبق"
+   },
+   "explain": {
+    "en": "The past perfect (had + past participle) shows that something happened before another moment in the past. The story is told in the past, so things that happened even earlier use 'had': many strange things had happened before this moment, so Alice had begun to believe almost anything was possible.",
+    "ar": "يدلّ الماضي التام (had + التصريف الثالث) على أن شيئًا حدث قبل لحظة أخرى في الماضي. فالقصة تُروى بالماضي، وما حدث قبل ذلك يُستخدم معه had: فقد حدثت أشياء غريبة كثيرة قبل هذه اللحظة، ولذلك كانت أليس قد بدأت تصدّق أن كل شيء تقريبًا ممكن."
+   },
+   "example": {
+    "en": "For, you see, so many out-of-the-way things had happened lately, that Alice had begun to think that very few things indeed were really impossible.",
+    "ar": "إذ إن أشياء كثيرة غير مألوفة كانت قد حدثت مؤخرًا، كما ترى، حتى بدأت أليس تظنّ أن القليل جدًّا من الأشياء مستحيل حقًّا.",
+    "ref": "p14"
+   },
+   "exercise": {
+    "q": {
+     "en": "Complete: 'When she got to the door, she found she ___ the little golden key.'",
+     "ar": "أكمل: 'When she got to the door, she found she ___ the little golden key.'"
+    },
+    "options": [
+     "was forgetting",
+     "had forgotten",
+     "forgets"
+    ],
+    "answer": 1,
+    "why": {
+     "en": "Forgetting the key happened before she reached the door, so we use the past perfect 'had forgotten', exactly as in paragraph 23.",
+     "ar": "نسيان المفتاح حدث قبل وصولها إلى الباب، لذلك نستخدم الماضي التام had forgotten، كما في الفقرة ٢٣ تمامًا."
+    }
+   }
+  },
+  {
+   "id": "aw-1-inversion-place",
+   "topic": "sentence",
+   "level": "B1",
+   "title": {
+    "en": "Inversion after 'down', 'away' for lively narration",
+    "ar": "تقديم الظرف (down / away) لحيوية السرد"
+   },
+   "explain": {
+    "en": "In storytelling, an adverb of place or direction (down, away, in, out) can come first, followed by the verb and then the subject: 'down went Alice' instead of 'Alice went down'. This makes the action feel quick and dramatic. It only works with a noun subject; with a pronoun we say 'down she went'.",
+    "ar": "في السرد القصصي يمكن تقديم ظرف المكان أو الاتجاه (down وaway وin وout) ثم الفعل ثم الفاعل: down went Alice بدلًا من Alice went down. وهذا يجعل الحدث سريعًا مثيرًا. ولا يصحّ ذلك إلا مع الفاعل الاسم؛ أما مع الضمير فنقول down she went."
+   },
+   "example": {
+    "en": "In another moment down went Alice after it, never once considering how in the world she was to get out again.",
+    "ar": "وفي اللحظة التالية نزلت أليس خلفه، دون أن تفكّر مرة واحدة كيف ستخرج من هناك بعد ذلك.",
+    "ref": "p4"
+   },
+   "exercise": {
+    "q": {
+     "en": "Which sentence is correct?",
+     "ar": "أيّ الجمل صحيحة؟"
+    },
+    "options": [
+     "Away went Alice like the wind.",
+     "Away went she like the wind.",
+     "Away Alice like the wind went."
+    ],
+    "answer": 0,
+    "why": {
+     "en": "After a fronted adverb we put the verb before a noun subject: 'Away went Alice' (paragraph 11). With a pronoun it would be 'Away she went'.",
+     "ar": "بعد تقديم الظرف نضع الفعل قبل الفاعل الاسم: Away went Alice (الفقرة ١١). أما مع الضمير فنقول Away she went."
+    }
+   }
+  }
+ ],
+ "culture": [
+  {
+   "term": "Victorian childhood",
+   "en": "Alice belongs to a comfortable middle-class Victorian family. Girls like her had lessons at home in a 'schoolroom' with a governess, learning facts by heart (geography, history, 'Latitude and Longitude'), good manners such as the curtsey, and garden games like croquet. Children also read moral stories that warned them what happens when they disobey rules, which Alice remembers before she drinks from the bottle. Carroll gently mocks this education: Alice repeats grand words she does not understand.",
+   "ar": "تنتمي أليس إلى أسرة فيكتورية ميسورة من الطبقة الوسطى. وكانت البنات مثلها يتلقّين دروسهن في البيت في «غرفة الدراسة» مع مربّية، فيحفظن المعلومات عن ظهر قلب (الجغرافيا والتاريخ و«خطوط العرض والطول»)، ويتعلّمن آداب السلوك مثل انحناءة التحية، وألعاب الحدائق مثل الكروكيه. وكان الأطفال يقرؤون أيضًا قصصًا أخلاقية تحذّرهم مما يحدث لمن يعصي القواعد، وهو ما تتذكّره أليس قبل أن تشرب من الزجاجة. ويسخر كارول بلطف من هذا التعليم: فأليس تردّد كلمات فخمة لا تفهمها."
+  },
+  {
+   "term": "The Antipodes",
+   "en": "Alice means 'the Antipodes', the old British name for Australia and New Zealand, which lie on the opposite side of the earth to Britain. She says 'Antipathies' instead (antipathy means a strong dislike), a typical Carroll joke about a child trying to use a big word.",
+   "ar": "تقصد أليس «Antipodes» (الأنتيبودات)، وهو الاسم البريطاني القديم لأستراليا ونيوزيلندا الواقعتين في الجهة المقابلة من الأرض لبريطانيا. لكنها تقول «Antipathies» (ومعناها النفور والكراهية)، وهي نكتة نموذجية من كارول عن طفلة تحاول استعمال كلمة كبيرة."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "Why is Alice bored at the beginning of the chapter?",
+    "ar": "لماذا تشعر أليس بالملل في بداية الفصل؟"
+   },
+   "options": [
+    "Her cat Dinah has run away",
+    "Her sister's book has no pictures or conversations",
+    "It is raining and she cannot go out",
+    "She has too many lessons to learn"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "She has nothing to do, and the book her sister is reading has 'no pictures or conversations in it'.",
+    "ar": "ليس لديها ما تفعله، والكتاب الذي تقرؤه أختها «خالٍ من الصور والحوارات»."
+   },
+   "ref": "p1"
+  },
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "What makes Alice jump up and follow the Rabbit?",
+    "ar": "ما الذي جعل أليس تهبّ واقفة وتتبع الأرنب؟"
+   },
+   "options": [
+    "He has pink eyes",
+    "He runs into the river",
+    "He takes a watch out of his waistcoat-pocket",
+    "He says 'Oh dear! I shall be late!'"
+   ],
+   "answer": 2,
+   "explain": {
+    "en": "Hearing the Rabbit talk seemed natural to her, but a rabbit with a waistcoat-pocket and a watch made her burn with curiosity.",
+    "ar": "بدا لها كلام الأرنب أمرًا طبيعيًّا، لكن أرنبًا له جيب صدرية وساعة جعلها تتّقد فضولًا."
+   },
+   "ref": "p3"
+  },
+  {
+   "type": "vocab",
+   "q": {
+    "en": "'Burning with curiosity, she ran across the field.' What does 'curiosity' mean here?",
+    "ar": "'Burning with curiosity, she ran across the field.' ما معنى curiosity هنا؟"
+   },
+   "options": [
+    "A feeling of fear",
+    "Great tiredness",
+    "Anger at someone",
+    "A strong wish to know something"
+   ],
+   "answer": 3,
+   "explain": {
+    "en": "Curiosity is the strong wish to find out about something. 'Burning with' makes it even stronger.",
+    "ar": "curiosity هي الرغبة القوية في معرفة شيء ما، وعبارة burning with تجعلها أشدّ."
+   },
+   "ref": "p3"
+  },
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "Why does Alice not drop the empty marmalade jar?",
+    "ar": "لماذا لا تُلقي أليس برطمان المربّى الفارغ؟"
+   },
+   "options": [
+    "She is afraid of killing somebody underneath",
+    "She wants to keep it for Dinah",
+    "It is stuck to her hand",
+    "She wants to eat the marmalade later"
+   ],
+   "answer": 0,
+   "explain": {
+    "en": "She did not like to drop it 'for fear of killing somebody underneath', so she put it in a cupboard as she fell.",
+    "ar": "لم تشأ أن تُلقيه «خوفًا من أن يقتل أحدًا في الأسفل»، فوضعته في خزانة وهي تسقط."
+   },
+   "ref": "p6"
+  },
+  {
+   "type": "context",
+   "q": {
+    "en": "Alice says 'the Antipathies' but is glad no one is listening. Why?",
+    "ar": "تقول أليس «Antipathies» وتفرح لأن أحدًا لا يسمعها. لماذا؟"
+   },
+   "options": [
+    "She does not want to wake her sister",
+    "She feels it is not the right word",
+    "She is telling a secret",
+    "She is speaking French"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "It 'didn't sound at all the right word'. She means the Antipodes, the lands on the other side of the earth.",
+    "ar": "لأن الكلمة «لم تبدُ صحيحة على الإطلاق»؛ فهي تقصد Antipodes أي البلاد في الجهة الأخرى من الأرض."
+   },
+   "ref": "p9"
+  },
+  {
+   "type": "grammar",
+   "q": {
+    "en": "'She ___ just begun to dream ... when suddenly, thump! thump! down she came.' Choose the missing word.",
+    "ar": "'She ___ just begun to dream ... when suddenly, thump! thump! down she came.' اختر الكلمة الناقصة."
+   },
+   "options": [
+    "was",
+    "did",
+    "had",
+    "has"
+   ],
+   "answer": 2,
+   "explain": {
+    "en": "'Had just begun' is the past perfect: the dream started just before the fall ended.",
+    "ar": "had just begun ماضٍ تام: بدأ الحلم قبل انتهاء السقوط بقليل."
+   },
+   "ref": "p10"
+  },
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "Why can't Alice go through the little door after she drinks from the bottle?",
+    "ar": "لماذا لا تستطيع أليس عبور الباب الصغير بعد أن تشرب من الزجاجة؟"
+   },
+   "options": [
+    "The door has disappeared",
+    "She is still too big",
+    "The White Rabbit has locked it",
+    "She left the golden key on the glass table and cannot reach it"
+   ],
+   "answer": 3,
+   "explain": {
+    "en": "She is now only ten inches high, but she forgot the key, and the table leg is too slippery to climb.",
+    "ar": "صار طولها عشر بوصات فقط، لكنها نسيت المفتاح، وأرجل الطاولة أشدّ انزلاقًا من أن تتسلّقها."
+   },
+   "ref": "p23"
+  },
+  {
+   "type": "vocab",
+   "q": {
+    "en": "'Sometimes she scolded herself so severely as to bring tears into her eyes.' 'Scolded' means:",
+    "ar": "'Sometimes she scolded herself so severely as to bring tears into her eyes.' معنى scolded:"
+   },
+   "options": [
+    "spoke angrily to",
+    "praised",
+    "laughed at",
+    "hid from"
+   ],
+   "answer": 0,
+   "explain": {
+    "en": "To scold is to speak angrily to someone who has done wrong. Alice even scolds herself.",
+    "ar": "to scold أن تكلّم شخصًا أخطأ بغضب ولوم، وأليس توبّخ نفسها أيضًا."
+   },
+   "ref": "p24"
+  },
+  {
+   "type": "translation",
+   "q": {
+    "en": "Choose the best Arabic for: 'I don’t care which happens!'",
+    "ar": "اختر أفضل ترجمة عربية لـ: 'I don’t care which happens!'"
+   },
+   "options": [
+    "لن يحدث أي شيء!",
+    "لا يهمّني أيّهما يحدث!",
+    "لا أعرف ماذا حدث!",
+    "أخاف أن يحدث شيء!"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "Alice means that either result (growing or shrinking) will get her into the garden, so she does not mind which.",
+    "ar": "تقصد أليس أن أي نتيجة (الكِبَر أو الصِّغَر) ستوصلها إلى الحديقة، فلا يهمّها أيّهما يحدث."
+   },
+   "ref": "p25"
+  },
+  {
+   "type": "context",
+   "q": {
+    "en": "Why does it seem 'dull and stupid' to Alice that the cake does nothing at first?",
+    "ar": "لماذا يبدو لأليس «مملًّا وسخيفًا» ألّا تفعل الكعكة شيئًا في البداية؟"
+   },
+   "options": [
+    "She wanted to stay the same size",
+    "The cake tastes bad",
+    "She now expects only strange things to happen",
+    "She does not like cake"
+   ],
+   "answer": 2,
+   "explain": {
+    "en": "Alice has got used to 'expecting nothing but out-of-the-way things', so ordinary life now seems boring.",
+    "ar": "اعتادت أليس «ألّا تتوقّع إلّا الأشياء غير المألوفة»، فصارت الحياة العادية تبدو لها مملّة."
+   },
+   "ref": "p26"
+  }
+ ]
+}

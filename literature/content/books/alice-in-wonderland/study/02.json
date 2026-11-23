@@ -1,0 +1,354 @@
+{
+ "chapter": 2,
+ "summary": {
+  "en": "The cake makes Alice grow until she is more than nine feet tall. She says goodbye to her feet and imagines posting them presents. Now she can take the key, but she is far too big to go through the door, so she sits down and cries a huge pool of tears. The White Rabbit hurries back, finely dressed, worried about the Duchess; when Alice speaks to him he drops his gloves and fan and runs away. Alice begins to wonder whether she has been changed into another child, Mabel. She tests herself with multiplication, geography and a poem, but everything comes out wrong. Fanning herself, she shrinks again and only just escapes disappearing. Then she slips into her own pool of tears, where she meets a Mouse. She speaks to it in French and talks about her cat Dinah and a neighbour's dog, offending it twice. At last the Mouse agrees to tell her its story, and Alice leads a crowd of wet birds and animals to the shore.",
+  "ar": "تجعل الكعكة أليس تكبر حتى يتجاوز طولها تسعة أقدام. فتودّع قدميها وتتخيّل أنها ترسل إليهما الهدايا بالبريد. صار بإمكانها الآن أن تأخذ المفتاح، لكنها أكبر بكثير من أن تمرّ من الباب، فتجلس وتبكي حتى تصنع بركة هائلة من الدموع. ويعود الأرنب الأبيض مسرعًا في أبهى حلّة، قلقًا من الدوقة؛ وحين تكلّمه أليس يُسقط قفازيه ومروحته ويهرب. وتبدأ أليس تتساءل هل تحوّلت إلى طفلة أخرى اسمها مابل. فتختبر نفسها في جدول الضرب والجغرافيا وقصيدة محفوظة، لكن كل شيء يخرج خطأً. وبينما تروّح عن نفسها بالمروحة تنكمش من جديد، وتنجو بصعوبة من الاختفاء. ثم تنزلق في بركة دموعها، فتلتقي فأرًا. تكلّمه بالفرنسية وتحدّثه عن قطتها دينا وعن كلب الجيران، فتجرح مشاعره مرتين. وأخيرًا يوافق الفأر أن يحكي لها قصته، وتقود أليس جمعًا من الطيور والحيوانات المبتلّة إلى الشاطئ."
+ },
+ "objectives": [
+  {
+   "en": "Follow Alice's changes in size and the meeting with the Mouse in the pool of tears.",
+   "ar": "متابعة تغيّرات حجم أليس ولقائها بالفأر في بركة الدموع."
+  },
+  {
+   "en": "Talk about identity using Alice's question 'Who in the world am I?'.",
+   "ar": "الحديث عن الهوية من خلال سؤال أليس: «من أكون أنا بحقّ السماء؟»."
+  },
+  {
+   "en": "Use 'I wish + past perfect' to express regret and 'so ... that' to show result.",
+   "ar": "استخدام I wish + الماضي التام للتعبير عن الندم، وso ... that للتعبير عن النتيجة."
+  },
+  {
+   "en": "Recognize a parody poem and Carroll's jokes about comparatives ('curiouser') and school knowledge.",
+   "ar": "التعرّف على القصيدة الساخرة ونكات كارول عن صيغ المقارنة (curiouser) ومعلومات المدرسة."
+  }
+ ],
+ "vocab": [
+  "curious",
+  "shed",
+  "kid-gloves",
+  "mutter",
+  "savage",
+  "desperate",
+  "timid",
+  "puzzle",
+  "hoarse",
+  "poky",
+  "narrow-escape",
+  "bathing-machine",
+  "conclusion",
+  "inquisitively",
+  "soothing",
+  "purr",
+  "vulgar",
+  "offend",
+  "commotion"
+ ],
+ "grammar": [
+  {
+   "id": "aw-2-comparatives",
+   "topic": "descriptive",
+   "level": "B1",
+   "title": {
+    "en": "Comparatives and superlatives (and a famous mistake)",
+    "ar": "صيغ المقارنة والتفضيل (وخطأ مشهور)"
+   },
+   "explain": {
+    "en": "Short adjectives add -er/-est (large → larger → the largest). Longer adjectives of two or more syllables usually use more/most (curious → more curious → the most curious). 'Curiouser' is wrong, and Carroll knows it: the narrator says Alice 'quite forgot how to speak good English'. Repeating a comparative ('more and more curious') shows that something keeps increasing.",
+    "ar": "الصفات القصيرة تأخذ ‎-er/-est (large ← larger ← the largest). أما الصفات الأطول (مقطعان أو أكثر) فتستعمل غالبًا more/most (curious ← more curious ← the most curious). فكلمة curiouser خطأ، وكارول يعرف ذلك: فالراوي يقول إن أليس «نسيت تمامًا كيف تتكلّم لغة سليمة». وتكرار صيغة المقارنة (more and more curious) يدلّ على أن الشيء يزداد باستمرار."
+   },
+   "example": {
+    "en": "“Curiouser and curiouser!” cried Alice (she was so much surprised, that for the moment she quite forgot how to speak good English); “now I’m opening out like the largest telescope that ever was!",
+    "ar": "«أغربُ فأغربُ!» صاحت أليس (فقد بلغت بها الدهشة حدًّا أنساها تمامًا للحظة كيف تتكلّم لغة سليمة)؛ «ها أنا ذا أنفتح الآن مثل أكبر منظار وُجد في الدنيا!",
+    "ref": "p1"
+   },
+   "exercise": {
+    "q": {
+     "en": "What is the correct form of 'Curiouser and curiouser'?",
+     "ar": "ما الصيغة الصحيحة لـ 'Curiouser and curiouser'؟"
+    },
+    "options": [
+     "Curious and curiouser",
+     "More and more curious",
+     "Most and most curious"
+    ],
+    "answer": 1,
+    "why": {
+     "en": "'Curious' has three syllables, so its comparative is 'more curious'; repeated, it becomes 'more and more curious'.",
+     "ar": "curious ثلاثية المقاطع، فصيغة المقارنة منها more curious، وعند التكرار تصبح more and more curious."
+    }
+   }
+  },
+  {
+   "id": "aw-2-wish-regret",
+   "topic": "conditional",
+   "level": "B1",
+   "title": {
+    "en": "'I wish' for regrets and wishes",
+    "ar": "I wish للندم والتمنّي"
+   },
+   "explain": {
+    "en": "'I wish + past perfect' expresses regret about the past: 'I wish I hadn't cried so much' (but I did cry). 'I wish + past simple' expresses a wish about the present that is not true: 'I wish you were down here with me' (chapter 1). 'I wish they would ...' shows that we want someone else to act.",
+    "ar": "I wish + الماضي التام تعبّر عن الندم على الماضي: I wish I hadn’t cried so much (لكنها بكت فعلًا). وI wish + الماضي البسيط تعبّر عن تمنٍّ لحاضر غير واقع: I wish you were down here with me (الفصل الأول). أما I wish they would ... فتدلّ على أننا نريد من غيرنا أن يفعل شيئًا."
+   },
+   "example": {
+    "en": "“I wish I hadn’t cried so much!” said Alice, as she swam about, trying to find her way out.",
+    "ar": "«ليتني لم أبكِ كل هذا البكاء!» قالت أليس وهي تسبح هنا وهناك، تحاول أن تجد طريقًا للخروج.",
+    "ref": "p17"
+   },
+   "exercise": {
+    "q": {
+     "en": "Alice talked about Dinah, and the Mouse swam away. She regrets it. Choose: 'I wish I ___ Dinah!'",
+     "ar": "تحدّثت أليس عن دينا فسبح الفأر مبتعدًا، وهي نادمة. اختر: 'I wish I ___ Dinah!'"
+    },
+    "options": [
+     "hadn’t mentioned",
+     "don’t mention",
+     "won’t mention"
+    ],
+    "answer": 0,
+    "why": {
+     "en": "Regret about a past action needs 'wish + past perfect'. Alice says exactly this in chapter 3: 'I wish I hadn’t mentioned Dinah!'",
+     "ar": "الندم على فعل ماضٍ يحتاج wish + الماضي التام، وهذا ما تقوله أليس بالضبط في الفصل الثالث: I wish I hadn’t mentioned Dinah!"
+    }
+   }
+  },
+  {
+   "id": "aw-2-so-that",
+   "topic": "complex",
+   "level": "B1",
+   "title": {
+    "en": "'so + adjective + that' for result",
+    "ar": "so + صفة + that للتعبير عن النتيجة"
+   },
+   "explain": {
+    "en": "'So + adjective/adverb + that + clause' shows a cause and its result: Alice felt very desperate, and the result was that she was ready to ask anyone for help. In informal English 'that' can be left out.",
+    "ar": "تركيب so + صفة/ظرف + that + جملة يُظهر السبب ونتيجته: شعرت أليس بيأس شديد، فكانت النتيجة أنها صارت مستعدة لطلب المساعدة من أي أحد. ويمكن حذف that في الأسلوب غير الرسمي."
+   },
+   "example": {
+    "en": "Alice felt so desperate that she was ready to ask help of any one;",
+    "ar": "كانت أليس يائسة إلى حدّ أنها كانت مستعدة لطلب المساعدة من أي أحد؛",
+    "ref": "p8"
+   },
+   "exercise": {
+    "q": {
+     "en": "Complete: 'The hall was ___ hot that she kept fanning herself.'",
+     "ar": "أكمل: 'The hall was ___ hot that she kept fanning herself.'"
+    },
+    "options": [
+     "such",
+     "too",
+     "so"
+    ],
+    "answer": 2,
+    "why": {
+     "en": "Before an adjective alone (hot) we use 'so ... that'. 'Such' is used before a noun (such a hot hall), and 'too' cannot be followed by 'that'.",
+     "ar": "قبل الصفة وحدها (hot) نستخدم so ... that. أما such فتأتي قبل الاسم (such a hot hall)، وtoo لا تأتي بعدها that."
+    }
+   }
+  }
+ ],
+ "culture": [
+  {
+   "term": "Parody poems: 'How doth the little crocodile'",
+   "en": "Victorian children learned moral poems by heart and recited them with their hands folded, as Alice does. 'How doth the little crocodile' is Carroll's parody of Isaac Watts's poem 'Against Idleness and Mischief' (1715), which begins 'How doth the little busy bee / Improve each shining hour'. Watts's bee is a lesson in hard work; Carroll's crocodile smiles sweetly while it welcomes little fishes into its jaws. Readers of 1865 knew the original, so the joke was obvious to them.",
+   "ar": "كان الأطفال الفيكتوريون يحفظون قصائد أخلاقية ويُلقونها وأيديهم مشبوكة، كما تفعل أليس. وقصيدة «كيف يُلمّع التمساح الصغير» محاكاة ساخرة من كارول لقصيدة إسحاق واتس «ضدّ الكسل والعبث» (١٧١٥)، التي تبدأ: «كيف تستثمر النحلة الصغيرة النشيطة كل ساعة مشرقة». فنحلة واتس درس في الجدّ والعمل، أما تمساح كارول فيبتسم بلطف وهو يستقبل الأسماك الصغيرة في فكّيه. وكان قرّاء ١٨٦٥ يعرفون القصيدة الأصلية، فكانت النكتة واضحة لهم."
+  },
+  {
+   "term": "Bathing machines and the Victorian seaside",
+   "en": "With the new railways, a day at the seaside became popular in Victorian England. Bathers changed inside wooden 'bathing machines', huts on wheels that horses pulled into the water, so that they could enter the sea modestly, out of sight. Alice's picture of every beach (bathing machines, children with wooden spades, lodging houses and a railway station) is a child's summary of this new holiday culture.",
+   "ar": "مع ظهور السكك الحديدية صار قضاء يوم على شاطئ البحر أمرًا شائعًا في إنجلترا الفيكتورية. وكان المصطافون يبدّلون ثيابهم داخل «عربات الاستحمام» الخشبية، وهي أكواخ على عجلات تجرّها الخيول إلى الماء، ليدخلوا البحر بحشمة بعيدًا عن الأنظار. وصورة أليس عن كل شاطئ (عربات استحمام، وأطفال بمجارف خشبية، وبيوت للنزلاء، ومحطة قطار) هي خلاصة طفولية لثقافة العطلات الجديدة هذه."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "What happens to Alice after she eats the cake?",
+    "ar": "ماذا يحدث لأليس بعد أن تأكل الكعكة؟"
+   },
+   "options": [
+    "She falls asleep",
+    "She finds the garden",
+    "She grows more than nine feet high",
+    "She shrinks to two feet"
+   ],
+   "answer": 2,
+   "explain": {
+    "en": "She opens out 'like the largest telescope' until her head hits the roof: 'she was now more than nine feet high'.",
+    "ar": "تنفتح «مثل أكبر منظار» حتى يصطدم رأسها بالسقف: «صار طولها أكثر من تسعة أقدام»."
+   },
+   "ref": "p5"
+  },
+  {
+   "type": "context",
+   "q": {
+    "en": "Why does Alice plan to send her feet a new pair of boots every Christmas?",
+    "ar": "لماذا تخطّط أليس لإرسال زوج جديد من الأحذية إلى قدميها في كل عيد ميلاد؟"
+   },
+   "options": [
+    "Because her shoes are wet",
+    "Because the Rabbit told her to",
+    "Because her feet are cold",
+    "So they will be kind and walk where she wants"
+   ],
+   "answer": 3,
+   "explain": {
+    "en": "Her feet are so far away that she thinks of them as other people: 'I must be kind to them, or perhaps they won’t walk the way I want to go!'",
+    "ar": "قدماها بعيدتان جدًّا حتى صارت تعاملهما كأنهما شخصان آخران: «يجب أن أكون لطيفة معهما، وإلّا فربما لا تمشيان في الطريق الذي أريد»."
+   },
+   "ref": "p1"
+  },
+  {
+   "type": "vocab",
+   "q": {
+    "en": "'Shedding gallons of tears.' What does 'shedding' mean?",
+    "ar": "'Shedding gallons of tears.' ما معنى shedding؟"
+   },
+   "options": [
+    "letting fall",
+    "drinking",
+    "hiding",
+    "drying"
+   ],
+   "answer": 0,
+   "explain": {
+    "en": "To shed tears is to let tears fall, that is, to cry. Alice cries so much that she makes a pool.",
+    "ar": "to shed tears أن تذرف الدموع، أي تبكي. وأليس تبكي حتى تصنع بركة."
+   },
+   "ref": "p7"
+  },
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "Why is the White Rabbit in such a hurry?",
+    "ar": "لماذا كان الأرنب الأبيض مستعجلًا جدًّا؟"
+   },
+   "options": [
+    "He wants to reach the garden first",
+    "He is afraid the Duchess will be angry if he is late",
+    "He is running away from Alice",
+    "He has lost his watch"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "He mutters, 'Oh! the Duchess, the Duchess! Oh! won’t she be savage if I’ve kept her waiting!'",
+    "ar": "يغمغم قائلًا: «آه! الدوقة، الدوقة! كم ستغضب إن جعلتها تنتظر!»"
+   },
+   "ref": "p8"
+  },
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "How does Alice test whether she has turned into Mabel?",
+    "ar": "كيف تختبر أليس هل تحوّلت إلى مابل؟"
+   },
+   "options": [
+    "She asks the Rabbit",
+    "She measures her height",
+    "She checks whether she still knows her lessons",
+    "She looks in a mirror"
+   ],
+   "answer": 2,
+   "explain": {
+    "en": "She tries multiplication, geography and a poem, and gets them all wrong, so she fears she is Mabel, who 'knows such a very little'.",
+    "ar": "تجرّب جدول الضرب والجغرافيا وقصيدة، فتخطئ فيها كلّها، فتخشى أن تكون مابل التي «تعرف القليل جدًّا»."
+   },
+   "ref": "p10"
+  },
+  {
+   "type": "context",
+   "q": {
+    "en": "What makes Alice shrink the second time?",
+    "ar": "ما الذي جعل أليس تنكمش في المرة الثانية؟"
+   },
+   "options": [
+    "The bottle labelled DRINK ME",
+    "The salt water",
+    "The Rabbit's gloves",
+    "The Rabbit's fan she is holding"
+   ],
+   "answer": 3,
+   "explain": {
+    "en": "'She soon found out that the cause of this was the fan she was holding', and she dropped it just in time.",
+    "ar": "«سرعان ما اكتشفت أن السبب هو المروحة التي تمسكها»، فألقتها في الوقت المناسب."
+   },
+   "ref": "p14"
+  },
+  {
+   "type": "grammar",
+   "q": {
+    "en": "'I wish I hadn’t cried so much!' This sentence expresses:",
+    "ar": "'I wish I hadn’t cried so much!' هذه الجملة تعبّر عن:"
+   },
+   "options": [
+    "regret about the past",
+    "a plan for the future",
+    "a habit in the present",
+    "an order"
+   ],
+   "answer": 0,
+   "explain": {
+    "en": "'Wish + past perfect' is used for regret: Alice did cry a lot, and now she is sorry.",
+    "ar": "wish + الماضي التام تُستخدم للندم: فقد بكت أليس كثيرًا وهي نادمة الآن."
+   },
+   "ref": "p17"
+  },
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "Why does the Mouse jump out of the water in fright?",
+    "ar": "لماذا يقفز الفأر من الماء مذعورًا؟"
+   },
+   "options": [
+    "Alice starts crying again",
+    "Alice says 'Where is my cat?' in French",
+    "Alice tries to catch it",
+    "A Duck lands near it"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "'Où est ma chatte?' means 'Where is my cat?', the first sentence of Alice's French lesson-book.",
+    "ar": "Où est ma chatte? تعني «أين قطتي؟»، وهي أول جملة في كتاب أليس لدروس الفرنسية."
+   },
+   "ref": "p20"
+  },
+  {
+   "type": "vocab",
+   "q": {
+    "en": "'Said Alice in a soothing tone.' A soothing tone is:",
+    "ar": "'Said Alice in a soothing tone.' النبرة soothing هي:"
+   },
+   "options": [
+    "loud",
+    "sad",
+    "calming",
+    "angry"
+   ],
+   "answer": 2,
+   "explain": {
+    "en": "Alice wants to calm the angry Mouse, so she speaks gently.",
+    "ar": "تريد أليس تهدئة الفأر الغاضب، فتتكلّم بلطف."
+   },
+   "ref": "p22"
+  },
+  {
+   "type": "translation",
+   "q": {
+    "en": "Choose the best Arabic for: 'That was a narrow escape!'",
+    "ar": "اختر أفضل ترجمة عربية لـ: 'That was a narrow escape!'"
+   },
+   "options": [
+    "كان ذلك هروبًا ضيّقًا!",
+    "كان الباب ضيّقًا جدًّا!",
+    "لم أستطع الهرب!",
+    "لقد كانت نجاة بأعجوبة!"
+   ],
+   "answer": 3,
+   "explain": {
+    "en": "'A narrow escape' is an idiom: you only just avoided danger. A word-for-word translation ('a narrow running away') does not make sense.",
+    "ar": "a narrow escape تعبير اصطلاحي معناه النجاة من الخطر في اللحظة الأخيرة، والترجمة الحرفية «هروب ضيّق» لا معنى لها."
+   },
+   "ref": "p15"
+  }
+ ]
+}

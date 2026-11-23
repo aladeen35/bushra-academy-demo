@@ -1,0 +1,357 @@
+{
+  "chapter": 3,
+  "summary": {
+    "en": "Two weeks later, Jekyll gives a dinner for a few old friends, and Utterson stays behind after the others leave, as he often does. Jekyll is a large, handsome, kind-looking man of fifty who is clearly fond of the lawyer. When Utterson mentions the will, Jekyll jokes about it and complains about Lanyon, whom he calls an ignorant pedant. But when Utterson says he has learned something about Hyde, Jekyll turns pale and refuses to discuss it. He says his position is 'very strange', that Utterson does not understand it, and that he can be rid of Hyde whenever he chooses. He asks Utterson to let the matter sleep. Then he asks for one promise: that if he is 'taken away', Utterson will be patient with Hyde and make sure Hyde gets his rights. Utterson says he can never like Hyde, but at last, with a heavy sigh, he promises.",
+    "ar": "بعد أسبوعين يقيم جيكل مأدبة لبعض أصدقائه القدامى، ويبقى أترسون بعد انصراف الآخرين كما يفعل كثيرًا. وجيكل رجل ضخم وسيم طيّب الملامح في الخمسين، يكنّ للمحامي مودّة واضحة. وحين يذكر أترسون الوصية يمزح جيكل بشأنها ويشكو من لانيون، الذي يصفه بأنه متحذلق جاهل. لكن حين يقول أترسون إنه عرف شيئًا عن هايد، يشحب وجه جيكل ويرفض الحديث في الأمر. ويقول إن موقفه «غريب جدًا»، وإن أترسون لا يفهمه، وإنه يستطيع أن يتخلّص من هايد متى شاء. ويطلب من أترسون أن يدع المسألة تنام. ثم يطلب منه وعدًا واحدًا: إن «أُخذ» من هذه الدنيا، أن يصبر أترسون على هايد ويضمن له حقوقه. يقول أترسون إنه لن يحبّ هايد أبدًا، لكنه في النهاية، بتنهيدة ثقيلة، يَعِد."
+  },
+  "objectives": [
+    {
+      "en": "Understand the conversation between Jekyll and Utterson and what it reveals about Jekyll's feelings.",
+      "ar": "فهم الحوار بين جيكل وأترسون وما يكشفه عن مشاعر جيكل."
+    },
+    {
+      "en": "Learn vocabulary for social life and emotion, such as crony, unobtrusive, distasteful and irrepressible.",
+      "ar": "تعلّم مفردات الحياة الاجتماعية والانفعال، مثل crony وunobtrusive وdistasteful وirrepressible."
+    },
+    {
+      "en": "Use the present perfect continuous and modal perfects (might have) correctly.",
+      "ar": "استعمال المضارع التام المستمر وأفعال الاحتمال في الماضي (might have) استعمالًا صحيحًا."
+    },
+    {
+      "en": "Make polite formal requests with 'ask (someone) to' and 'ask for'.",
+      "ar": "صياغة طلبات رسمية مهذّبة بـ ask (someone) to وask for."
+    },
+    {
+      "en": "Notice body language as a clue in suspense writing (Jekyll turning pale).",
+      "ar": "ملاحظة لغة الجسد بوصفها مفتاحًا في كتابة التشويق (شحوب وجه جيكل)."
+    }
+  ],
+  "vocab": [
+    "crony",
+    "reputable",
+    "contrive",
+    "befall",
+    "unobtrusive",
+    "cherish",
+    "distasteful",
+    "pedant",
+    "heresy",
+    "blatant",
+    "ruthless",
+    "abominable",
+    "incoherency",
+    "make-a-clean-breast-of",
+    "be-rid-of",
+    "bear-with",
+    "plead",
+    "irrepressible"
+  ],
+  "grammar": [
+    {
+      "id": "je-3-present-perfect-continuous",
+      "topic": "tenses",
+      "level": "B2",
+      "title": {
+        "en": "The present perfect continuous for a long-lasting wish",
+        "ar": "المضارع التام المستمر لرغبة ممتدّة"
+      },
+      "explain": {
+        "en": "'I have been wanting to speak to you' = have/has + been + -ing. It shows a feeling or activity that started in the past and continues until now. 'Want' is usually not used in continuous forms, but 'have been wanting' is common in polite speech to show that the wish has lasted for some time and is important.",
+        "ar": "'I have been wanting to speak to you' = have/has + been + الفعل بـ -ing. ويدل على شعور أو نشاط بدأ في الماضي وما زال مستمرًا حتى الآن. والفعل want لا يأتي عادة في صيغ الاستمرار، لكن 'have been wanting' شائعة في الكلام المهذّب لتُظهر أن الرغبة قديمة ومهمّة."
+      },
+      "example": {
+        "en": "“I have been wanting to speak to you, Jekyll,” began the latter.",
+        "ar": "بدأ الأخير: «كنت أريد أن أكلّمك يا جيكل.»",
+        "ref": "p2"
+      },
+      "exercise": {
+        "q": {
+          "en": "Complete: 'I ___ to ask you about the will for weeks.'",
+          "ar": "أكمل: 'I ___ to ask you about the will for weeks.'"
+        },
+        "options": [
+          "have been wanting",
+          "am wanting",
+          "wanted tomorrow"
+        ],
+        "answer": 0,
+        "why": {
+          "en": "'For weeks' shows something that started in the past and continues now: present perfect continuous.",
+          "ar": "'for weeks' تدل على أمر بدأ في الماضي وما زال مستمرًا: المضارع التام المستمر."
+        }
+      }
+    },
+    {
+      "id": "je-3-might-have",
+      "topic": "conditional",
+      "level": "B2",
+      "title": {
+        "en": "'Might have + past participle': what could have happened",
+        "ar": "«might have + التصريف الثالث»: ما كان يمكن أن يحدث"
+      },
+      "explain": {
+        "en": "'A close observer might have gathered…' talks about the past: a careful person could have understood something, but nobody actually says so. Modal + have + past participle (might have, could have, would have) expresses possibility in the past. Stevenson uses it to give the reader a hidden clue: Jekyll does not like the topic.",
+        "ar": "'A close observer might have gathered…' تتحدث عن الماضي: كان بإمكان شخص دقيق الملاحظة أن يفهم أمرًا ما، دون أن يقول ذلك أحد فعلًا. وتركيب «فعل ناقص + have + التصريف الثالث» (might have وcould have وwould have) يعبّر عن الاحتمال في الماضي. ويستعمله ستيفنسون ليعطي القارئ مفتاحًا خفيًا: جيكل لا يحبّ الموضوع."
+      },
+      "example": {
+        "en": "A close observer might have gathered that the topic was distasteful; but the doctor carried it off gaily.",
+        "ar": "كان المراقب الدقيق سيدرك أن الموضوع كريه إليه؛ لكن الطبيب تجاوزه بمرح.",
+        "ref": "p3"
+      },
+      "exercise": {
+        "q": {
+          "en": "What does 'might have gathered' mean here?",
+          "ar": "ماذا تعني 'might have gathered' هنا؟"
+        },
+        "options": [
+          "could possibly have understood",
+          "certainly understood later",
+          "will gather in the future"
+        ],
+        "answer": 0,
+        "why": {
+          "en": "'Might have + past participle' describes a possibility in the past, not a certain fact.",
+          "ar": "«might have + التصريف الثالث» تصف احتمالًا في الماضي، لا حقيقة مؤكّدة."
+        }
+      }
+    },
+    {
+      "id": "je-3-ask-for-ask-to",
+      "topic": "sentence",
+      "level": "B1",
+      "title": {
+        "en": "Polite requests: 'ask for' + noun and 'ask someone to' + verb",
+        "ar": "الطلب المهذّب: ask for + اسم، وask someone to + فعل"
+      },
+      "explain": {
+        "en": "Jekyll repeats 'I only ask' to make his request softer and stronger at the same time. Use 'ask for + noun' (ask for justice) and 'ask + person + to + verb' (ask you to help). Do not say 'ask you for help him'. The repetition ('I only ask… I only ask…') is a rhetorical device that shows emotion.",
+        "ar": "يكرّر جيكل 'I only ask' ليجعل طلبه أكثر لطفًا وأشدّ تأثيرًا في الوقت نفسه. استعمل «ask for + اسم» (ask for justice) و«ask + الشخص + to + فعل» (ask you to help). ولا تقل 'ask you for help him'. والتكرار ('I only ask… I only ask…') أسلوب بلاغي يُظهر الانفعال."
+      },
+      "example": {
+        "en": "I only ask for justice; I only ask you to help him for my sake, when I am no longer here.",
+        "ar": "لا أطلب إلا العدل؛ لا أطلب إلا أن تساعده من أجلي، حين لا أكون هنا بعد الآن.",
+        "ref": "p16"
+      },
+      "exercise": {
+        "q": {
+          "en": "Choose the correct sentence.",
+          "ar": "اختر الجملة الصحيحة."
+        },
+        "options": [
+          "I ask you to keep this secret.",
+          "I ask you keep this secret.",
+          "I ask for you keep this secret."
+        ],
+        "answer": 0,
+        "why": {
+          "en": "The pattern is 'ask + person + to + base verb'.",
+          "ar": "النمط هو ask + الشخص + to + الفعل المجرّد."
+        }
+      }
+    }
+  ],
+  "culture": [
+    {
+      "term": "The Victorian dinner party",
+      "en": "For wealthy Victorian men, a dinner at home with a few friends was an important social ritual: several courses, good wine, and conversation that stayed polite and avoided private troubles. Guests left together, so staying behind, as Utterson often does, signalled a closer friendship and a chance for a private talk.",
+      "ar": "كانت المأدبة المنزلية مع بعض الأصدقاء طقسًا اجتماعيًا مهمًا عند الرجال الفيكتوريين الأثرياء: أطباق متعدّدة، ونبيذ جيد، وحديث مهذّب يتجنّب المشكلات الخاصة. وكان الضيوف ينصرفون معًا، فبقاء أحدهم بعدهم، كما يفعل أترسون كثيرًا، علامة على صداقة أوثق وفرصة لحديث خاص."
+    },
+    {
+      "term": "Lawyer and client: confidentiality",
+      "en": "Jekyll calls Utterson's position 'unfortunate in such a client': Utterson is both his friend and his lawyer. A lawyer must keep a client's secrets (confidentiality) and follow the client's instructions, even when he disagrees. This explains Utterson's difficult position: he holds a will he dislikes, and he gives a promise he does not want to give.",
+      "ar": "يقول جيكل إن أترسون «سيئ الحظ بموكّل مثله»، فأترسون صديقه ومحاميه في آن واحد. وعلى المحامي أن يحفظ أسرار موكّله (السرّية المهنية) وأن ينفّذ تعليماته وإن خالفها رأيه. وهذا ما يفسّر موقف أترسون الصعب: يحتفظ بوصية لا يرضاها، ويقطع وعدًا لا يرغب فيه."
+    }
+  ],
+  "quiz": [
+    {
+      "type": "vocab",
+      "q": {
+        "en": "“…some five or six old cronies…” What are 'cronies'?",
+        "ar": "“…some five or six old cronies…” ما معنى cronies؟"
+      },
+      "options": [
+        "old friends and companions",
+        "rich clients",
+        "servants",
+        "doctors"
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "'Cronies' are close friends, here Jekyll's old friends who come to dinner.",
+        "ar": "cronies هم الأصدقاء المقرّبون، وهنا أصدقاء جيكل القدامى الذين حضروا العشاء."
+      },
+      "ref": "p1"
+    },
+    {
+      "type": "vocab",
+      "q": {
+        "en": "“Utterson heaved an irrepressible sigh.” 'Irrepressible' means…",
+        "ar": "“Utterson heaved an irrepressible sigh.” معنى irrepressible…"
+      },
+      "options": [
+        "impossible to hold back",
+        "very quiet",
+        "false and pretended",
+        "happy"
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "He could not stop himself from sighing; the promise troubles him.",
+        "ar": "لم يستطع أن يمنع نفسه من التنهّد؛ فالوعد يقلقه."
+      },
+      "ref": "p17"
+    },
+    {
+      "type": "comprehension",
+      "q": {
+        "en": "Why do hosts like Utterson to stay after dinner?",
+        "ar": "لماذا يحبّ المضيفون أن يبقى أترسون بعد العشاء؟"
+      },
+      "options": [
+        "His quiet company helps them calm down after the noise of the party",
+        "He tells funny stories",
+        "He pays for the dinner",
+        "He gives them legal advice for free"
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "They liked 'sobering their minds in the man’s rich silence after the expense and strain of gaiety'.",
+        "ar": "كانوا يحبّون أن «يهدّئوا عقولهم في صمت الرجل الغنيّ بعد إسراف المرح وعنائه»."
+      },
+      "ref": "p1"
+    },
+    {
+      "type": "comprehension",
+      "q": {
+        "en": "How does Jekyll react when Utterson mentions Hyde?",
+        "ar": "كيف يتصرّف جيكل حين يذكر أترسون هايد؟"
+      },
+      "options": [
+        "He turns pale and refuses to hear more",
+        "He laughs and changes the subject happily",
+        "He becomes angry and orders Utterson to leave",
+        "He tells Utterson the whole story"
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "His face 'grew pale to the very lips' and he said: 'I do not care to hear more.'",
+        "ar": "شحب وجهه «حتى شفتيه» وقال: «لا أريد أن أسمع المزيد»."
+      },
+      "ref": "p7"
+    },
+    {
+      "type": "comprehension",
+      "q": {
+        "en": "What does Jekyll claim he can do 'the moment I choose'?",
+        "ar": "ماذا يزعم جيكل أنه يستطيع فعله «في اللحظة التي يختارها»؟"
+      },
+      "options": [
+        "be rid of Mr. Hyde",
+        "change his will",
+        "leave London",
+        "cure Lanyon"
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "He says: 'the moment I choose, I can be rid of Mr. Hyde.'",
+        "ar": "يقول: «في اللحظة التي أختارها أستطيع أن أتخلّص من السيد هايد»."
+      },
+      "ref": "p11"
+    },
+    {
+      "type": "comprehension",
+      "q": {
+        "en": "What promise does Jekyll ask for?",
+        "ar": "ما الوعد الذي يطلبه جيكل؟"
+      },
+      "options": [
+        "That Utterson will be patient with Hyde and get his rights for him if Jekyll is taken away",
+        "That Utterson will never visit again",
+        "That Utterson will speak to Lanyon for him",
+        "That Utterson will destroy the will"
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Jekyll asks him to 'bear with him and get his rights for him' if he is 'taken away'.",
+        "ar": "يطلب منه أن «يصبر عليه ويحصّل له حقوقه» إن «أُخذ» من هذه الدنيا."
+      },
+      "ref": "p14"
+    },
+    {
+      "type": "grammar",
+      "q": {
+        "en": "“I have been wanting to speak to you.” Which tense is this?",
+        "ar": "“I have been wanting to speak to you.” ما هذا الزمن؟"
+      },
+      "options": [
+        "present perfect continuous",
+        "past simple",
+        "future simple",
+        "past perfect"
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "have + been + -ing = present perfect continuous: the wish started earlier and continues now.",
+        "ar": "have + been + -ing = المضارع التام المستمر: بدأت الرغبة من قبل وما زالت قائمة."
+      },
+      "ref": "p2"
+    },
+    {
+      "type": "grammar",
+      "q": {
+        "en": "“I only ask ___ justice.” Choose the missing word.",
+        "ar": "“I only ask ___ justice.” اختر الكلمة الناقصة."
+      },
+      "options": [
+        "for",
+        "to",
+        "at",
+        "with"
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "'Ask for + noun': ask for justice, ask for help.",
+        "ar": "ask for + اسم: ask for justice وask for help."
+      },
+      "ref": "p16"
+    },
+    {
+      "type": "translation",
+      "q": {
+        "en": "Choose the best Arabic for: “this is a private matter, and I beg of you to let it sleep.”",
+        "ar": "اختر أفضل ترجمة لـ: “this is a private matter, and I beg of you to let it sleep.”"
+      },
+      "options": [
+        "هذه مسألة خاصة، وأرجوك أن تدعها تنام.",
+        "هذه مسألة سهلة، فاذهب لتنام.",
+        "هذا أمر عام، وأرجوك أن توقظه.",
+        "هذه مشكلة نومي، فساعدني."
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "'Let it sleep' is a figure of speech: stop talking about it, leave it alone.",
+        "ar": "«let it sleep» تعبير مجازي يعني: كُفّ عن الحديث فيه ودعه."
+      },
+      "ref": "p11"
+    },
+    {
+      "type": "context",
+      "q": {
+        "en": "Why might a Victorian reader find Jekyll's behaviour worrying?",
+        "ar": "لماذا قد يجد القارئ الفيكتوري سلوك جيكل مقلقًا؟"
+      },
+      "options": [
+        "A respectable doctor is protecting a violent man and refuses to explain why",
+        "Jekyll drinks too much wine at dinner",
+        "Jekyll insults his servants",
+        "Jekyll wants to become a lawyer"
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "A man of good reputation linked to someone like Hyde suggests blackmail or a hidden scandal, which is exactly what Utterson fears.",
+        "ar": "ارتباط رجل حسن السمعة بشخص مثل هايد يوحي بابتزاز أو فضيحة مخفيّة، وهذا بالضبط ما يخشاه أترسون."
+      },
+      "ref": "p9"
+    }
+  ]
+}
