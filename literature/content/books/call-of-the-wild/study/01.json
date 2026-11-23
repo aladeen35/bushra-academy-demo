@@ -1,0 +1,176 @@
+{
+  "chapter": 1,
+  "summary": {
+    "en": "In the autumn of 1897, gold has been found in the Klondike, and men rushing to the frozen North need strong, heavy dogs. Buck, a large four-year-old dog, half St. Bernard and half Scotch shepherd, lives like a king on Judge Miller's big estate in the sunny Santa Clara Valley of California. He does not know that Manuel, a gardener's helper with gambling debts, is dangerous. One night, while the Judge is at a meeting, Manuel leads Buck to a small railway station and sells him to a stranger. When Buck fights the rope, he is choked until he faints and is thrown into a train. He is locked in a crate and carried for two days and nights without food or water to Seattle, growing wild with anger. There, a man in a red sweater beats him again and again with a club until Buck understands that he cannot win against a man with a club. Buck is beaten but not broken. He is sold with Curly, a friendly Newfoundland, to Perrault, a courier for the Canadian Government, and meets François, Spitz and Dave on the ship Narwhal. When the ship reaches the North, Buck steps into his first snow.",
+    "ar": "في خريف عام ١٨٩٧ يُكتشف الذهب في كلوندايك، ويحتاج الرجال المندفعون إلى الشمال المتجمّد إلى كلابٍ قوية ثقيلة. باك كلبٌ كبير في الرابعة من عمره، نصفه سانت برنارد ونصفه كلب رعي إسكتلندي، يعيش كالملك في ضيعة القاضي ميلر الكبيرة في وادي سانتا كلارا المشمس بكاليفورنيا. ولا يعلم أن مانويل، مساعد البستاني المثقل بديون القمار، خطرٌ عليه. وذات ليلة، والقاضي في اجتماع، يقود مانويل باك إلى محطة قطار صغيرة ويبيعه لغريب. وحين يقاوم باك الحبل يُخنق حتى يغيب عن وعيه ويُلقى في القطار. ثم يُحبس في صندوق ويُنقل يومين وليلتين بلا طعام ولا ماء إلى سياتل، فيشتدّ غضبه حتى يصير كالمجنون. وهناك يضربه رجلٌ ذو كنزة حمراء بالهراوة مرةً بعد مرة، حتى يفهم باك أنه لا يستطيع أن ينتصر على رجلٍ يحمل هراوة. لقد هُزم لكنه لم ينكسر. ثم يُباع مع كيرلي، كلبة النيوفاوندلاند الودودة، إلى بيرو، ساعي الحكومة الكندية، ويلتقي على السفينة «ناروال» بفرانسوا وسبيتز وديف. وحين تصل السفينة إلى الشمال يخطو باك على أول ثلجٍ في حياته."
+  },
+  "objectives": [
+    { "en": "Understand how Buck moves from a comfortable life in California to the harsh world of the North, and why.", "ar": "فهم كيف ينتقل باك من حياةٍ مريحة في كاليفورنيا إلى عالم الشمال القاسي، ولماذا." },
+    { "en": "Learn words about nature, animals and the gold rush, such as toil, frost, crate, club, bristle and snarl.", "ar": "تعلّم مفردات عن الطبيعة والحيوان وحمّى الذهب، مثل toil وfrost وcrate وclub وbristle وsnarl." },
+    { "en": "Recognize American English words in the text, such as 'fall' (autumn), 'saloon' and 'veranda'.", "ar": "التعرّف على كلمات الإنجليزية الأمريكية في النص، مثل fall (الخريف) وsaloon (الحانة) وveranda (الشرفة)." },
+    { "en": "Understand implied conditionals with 'or he would have…' and emphatic inversion after 'never'.", "ar": "فهم الشرط الضمني بتركيب «or he would have…» والتقديم التوكيدي بعد never." }
+  ],
+  "vocab": [
+    "brew", "toil", "frost", "veranda", "orchard", "kennel", "pampered", "fall-season", "strike", "treachery",
+    "growl", "kidnap", "saloon", "crate", "tormentor", "wrath", "club", "bristle", "snarl", "primitive"
+  ],
+  "grammar": [
+    {
+      "id": "cotw-1-implied-conditional",
+      "topic": "conditional",
+      "level": "B2",
+      "title": { "en": "Implied conditionals: 'or he would have known'", "ar": "الشرط الضمني: «or he would have known»" },
+      "explain": {
+        "en": "The famous first sentence of the story hides a third conditional. 'Buck did not read the newspapers, or he would have known…' means 'If Buck had read the newspapers, he would have known…'. The word 'or' (= otherwise) introduces the imagined result. 'Would have + past participle' talks about a past result that did not happen. London uses this pattern again: 'else he would not have lived to profit by it' (Chapter 2).",
+        "ar": "تخفي الجملة الأولى الشهيرة في القصة شرطًا من النوع الثالث. فعبارة «Buck did not read the newspapers, or he would have known…» تعني: «لو كان باك يقرأ الصحف لعرف…». وكلمة or هنا بمعنى «وإلا»، وتقدّم النتيجة المتخيَّلة. أما تركيب «would have + التصريف الثالث» فيتحدث عن نتيجة في الماضي لم تحدث. ويكرّر لندن هذا النمط: «else he would not have lived to profit by it» (الفصل الثاني)."
+      },
+      "example": {
+        "en": "Buck did not read the newspapers, or he would have known that trouble was brewing, not alone for himself, but for every tide-water dog, strong of muscle and with warm, long hair, from Puget Sound to San Diego.",
+        "ar": "لم يكن باك يقرأ الصحف، وإلا لعرف أن المتاعب كانت تختمر، لا له وحده، بل لكل كلبٍ من كلاب الساحل، قويّ العضلات ذي شعرٍ طويلٍ دافئ، من بيوجيت ساوند إلى سان دييغو.",
+        "ref": "p2"
+      },
+      "exercise": {
+        "q": { "en": "Which sentence has the same meaning as 'Buck did not read the newspapers, or he would have known'?", "ar": "أيّ جملة لها معنى 'Buck did not read the newspapers, or he would have known'؟" },
+        "options": ["If Buck had read the newspapers, he would have known.", "If Buck reads the newspapers, he will know.", "Buck read the newspapers, so he knew."],
+        "answer": 0,
+        "why": { "en": "'Or' = 'otherwise'. The real situation (he did not read) becomes an unreal past condition: If he had read…, he would have known.", "ar": "or بمعنى «وإلا». فالواقع (لم يقرأ) يتحوّل إلى شرطٍ ماضٍ غير واقعي: If he had read…, he would have known." }
+      }
+    },
+    {
+      "id": "cotw-1-negative-inversion",
+      "topic": "sentence",
+      "level": "B2",
+      "title": { "en": "Inversion after 'never' for emphasis", "ar": "تقديم الفعل المساعد بعد never للتوكيد" },
+      "explain": {
+        "en": "When a sentence begins with a negative word like 'never', the auxiliary verb comes before the subject, as in a question: 'Never … had he been', not 'Never … he had been'. This is formal and very emphatic. The normal order would be 'He had never been so vilely treated'. London repeats the structure twice to show how shocked and angry Buck is.",
+        "ar": "حين تبدأ الجملة بكلمة نفي مثل never، يأتي الفعل المساعد قبل الفاعل كما في السؤال: «Never … had he been» لا «Never … he had been». وهذا أسلوب رسمي شديد التوكيد. والترتيب العادي هو: «He had never been so vilely treated». ويكرّر لندن التركيب مرتين ليُظهر مدى صدمة باك وغضبه."
+      },
+      "example": {
+        "en": "Never in all his life had he been so vilely treated, and never in all his life had he been so angry.",
+        "ar": "لم يُعامَل في حياته كلّها بمثل هذه الخسّة، ولم يغضب في حياته كلّها مثل هذا الغضب.",
+        "ref": "p11"
+      },
+      "exercise": {
+        "q": { "en": "Choose the correct order: 'Never in his life ___ such a cold place.'", "ar": "اختر الترتيب الصحيح: 'Never in his life ___ such a cold place.'" },
+        "options": ["had Buck seen", "Buck had seen", "Buck seen had"],
+        "answer": 0,
+        "why": { "en": "After a negative word at the start, use auxiliary + subject + verb: 'had Buck seen'.", "ar": "بعد كلمة نفي في أول الجملة نستخدم: فعل مساعد + فاعل + فعل، أي 'had Buck seen'." }
+      }
+    },
+    {
+      "id": "cotw-1-past-passive",
+      "topic": "passive",
+      "level": "B1",
+      "title": { "en": "The past simple passive: things done to Buck", "ar": "المبني للمجهول في الماضي البسيط: ما يُفعل بباك" },
+      "explain": {
+        "en": "In this chapter Buck loses his power, and the grammar shows it: he is often the subject of passive verbs (was + past participle). 'The rope was removed' and 'he was flung' focus on what happens to Buck, not on who does it. The doers (the men) are not important or not named. Look for more examples: 'he was thrown down', 'he was carted about', 'he was deposited in an express car'.",
+        "ar": "في هذا الفصل يفقد باك سلطته، والقواعد تُظهر ذلك: فكثيرًا ما يكون فاعلًا لأفعالٍ مبنية للمجهول (was + التصريف الثالث). فعبارتا «The rope was removed» و«he was flung» تركّزان على ما يحدث لباك لا على من يفعله، لأن الفاعلين (الرجال) غير مهمين أو غير مذكورين. ابحث عن أمثلة أخرى: «he was thrown down» و«he was carted about» و«he was deposited in an express car»."
+      },
+      "example": {
+        "en": "Then the rope was removed, and he was flung into a cagelike crate.",
+        "ar": "ثم نُزع الحبل، وقُذف به في صندوقٍ يشبه القفص.",
+        "ref": "p22"
+      },
+      "exercise": {
+        "q": { "en": "Make it passive: 'Four men carried the crate.' → 'The crate ___ by four men.'", "ar": "حوّلها إلى المبني للمجهول: 'Four men carried the crate.' → 'The crate ___ by four men.'" },
+        "options": ["was carried", "carried", "has carry"],
+        "answer": 0,
+        "why": { "en": "Past simple passive = was/were + past participle: 'was carried'.", "ar": "المبني للمجهول في الماضي البسيط = was/were + التصريف الثالث: 'was carried'." }
+      }
+    }
+  ],
+  "culture": [
+    {
+      "term": "The Klondike Gold Rush",
+      "en": "In August 1896 gold was found on Bonanza Creek, a small river near the Klondike River in the Yukon, in north-west Canada. When ships arrived in Seattle and San Francisco in July 1897 carrying miners and their gold, newspapers spread the story, and about 100,000 people set out for the North; only around 30,000 to 40,000 reached the new town of Dawson. This is the 'yellow metal' of the first paragraph and the 'Klondike strike' of 1897. The rush created a sudden demand for strong dogs to pull sleds, which is why dogs like Buck were stolen and sold.",
+      "ar": "في أغسطس ١٨٩٦ عُثر على الذهب في جدول بونانزا، وهو نهرٌ صغير قرب نهر كلوندايك في إقليم يوكون شمال غرب كندا. وحين وصلت السفن إلى سياتل وسان فرانسيسكو في يوليو ١٨٩٧ تحمل عمّال المناجم وذهبهم، نشرت الصحف الخبر، فانطلق نحو مئة ألف شخص إلى الشمال، ولم يصل منهم إلى بلدة داوسون الجديدة إلا نحو ثلاثين إلى أربعين ألفًا. هذا هو «المعدن الأصفر» في الفقرة الأولى، و«اكتشاف كلوندايك» عام ١٨٩٧. وقد أوجدت هذه الحمّى طلبًا مفاجئًا على الكلاب القوية التي تجرّ الزلاجات، ولهذا كانت كلابٌ مثل باك تُسرق وتُباع."
+    },
+    {
+      "term": "Southland and Northland",
+      "en": "London contrasts two worlds. The 'Southland' is sunny California, with its fruit farms, lawns and comfortable homes; Judge Miller's 'Raisin Growers' Association' reminds us that the Santa Clara Valley was famous for fruit. The 'Northland' is Alaska and the Yukon: snow, ice, long nights and hard work. Seattle was the main port where gold seekers bought supplies and took ships north, so Buck's journey (San Francisco → Seattle → the North by sea) follows the real route of 1897.",
+      "ar": "يقابل لندن بين عالمين. «الجنوب» هو كاليفورنيا المشمسة بمزارع فاكهتها ومروجها وبيوتها المريحة؛ واجتماع القاضي ميلر في «جمعية مزارعي الزبيب» يذكّرنا بأن وادي سانتا كلارا كان مشهورًا بالفاكهة. أما «الشمال» فهو ألاسكا ويوكون: ثلج وجليد وليالٍ طويلة وعمل شاق. وكانت سياتل الميناء الرئيسي الذي يشتري منه الباحثون عن الذهب مؤنهم ويركبون السفن إلى الشمال، فرحلة باك (سان فرانسيسكو ← سياتل ← الشمال بحرًا) تتبع الطريق الحقيقي عام ١٨٩٧."
+    }
+  ],
+  "quiz": [
+    {
+      "type": "comprehension",
+      "q": { "en": "Why did men in 1897 suddenly want heavy dogs with strong muscles and furry coats?", "ar": "لماذا أراد الرجال فجأة عام ١٨٩٧ كلابًا ثقيلة قوية العضلات كثيفة الفراء؟" },
+      "options": ["Gold had been found in the Arctic North and they were rushing there", "They wanted to win dog shows in California", "The government needed dogs for the army", "Farmers needed them to guard fruit farms"],
+      "answer": 0,
+      "explain": { "en": "Men 'had found a yellow metal' in the North, and thousands were rushing there. They needed dogs to toil and to survive the frost.", "ar": "عثر رجالٌ على «معدن أصفر» في الشمال، وكان الآلاف يندفعون إليه، فاحتاجوا إلى كلابٍ تكدح وتحتمل الصقيع." },
+      "ref": "p2"
+    },
+    {
+      "type": "comprehension",
+      "q": { "en": "Why did Manuel sell Buck?", "ar": "لماذا باع مانويل باك؟" },
+      "options": ["He needed money because of his gambling", "Judge Miller asked him to", "Buck had bitten a child", "He wanted to go to the Klondike himself"],
+      "answer": 0,
+      "explain": { "en": "Manuel loved Chinese lottery and believed in a 'system', which needs money; his wages could not cover his family's needs.", "ar": "كان مانويل مولعًا باليانصيب الصيني ويؤمن بـ«نظام» للّعب يحتاج إلى مال، وأجره لا يكفي حاجات أسرته." },
+      "ref": "p7"
+    },
+    {
+      "type": "vocab",
+      "q": { "en": "“…in the fall of 1897…” In American English, what does 'fall' mean here?", "ar": "“…in the fall of 1897…” ماذا تعني fall في الإنجليزية الأمريكية هنا؟" },
+      "options": ["Autumn", "A waterfall", "An accident", "A drop in prices"],
+      "answer": 0,
+      "explain": { "en": "Americans say 'fall' for the season British speakers call 'autumn' (September to November).", "ar": "يقول الأمريكيون fall للفصل الذي يسمّيه البريطانيون autumn، أي الخريف (من سبتمبر إلى نوفمبر)." },
+      "ref": "p7"
+    },
+    {
+      "type": "vocab",
+      "q": { "en": "“…nursing his wrath and wounded pride.” What is 'wrath'?", "ar": "“…nursing his wrath and wounded pride.” ما معنى wrath؟" },
+      "options": ["Strong anger", "Deep sleep", "Hunger", "Fear of the dark"],
+      "answer": 0,
+      "explain": { "en": "'Wrath' is a literary word for very strong anger. Buck lies in the crate feeling angry and humiliated.", "ar": "wrath كلمة أدبية تعني الغضب الشديد. فباك راقدٌ في الصندوق يشعر بالغضب والإهانة." },
+      "ref": "p23"
+    },
+    {
+      "type": "comprehension",
+      "q": { "en": "What lesson does Buck learn from the man in the red sweater?", "ar": "ما الدرس الذي يتعلّمه باك من الرجل ذي الكنزة الحمراء؟" },
+      "options": ["He stands no chance against a man with a club", "All men are kind to dogs", "He should always fight until he wins", "Food is more important than freedom"],
+      "answer": 0,
+      "explain": { "en": "'He saw, once for all, that he stood no chance against a man with a club.' The club introduces him to 'the reign of primitive law'.", "ar": "«أدرك مرةً وإلى الأبد أنه لا فرصة له أمام رجلٍ يحمل هراوة». فالهراوة كانت مدخله إلى «عهد القانون البدائي»." },
+      "ref": "p41"
+    },
+    {
+      "type": "context",
+      "q": { "en": "“He was beaten (he knew that); but he was not broken.” What is the difference?", "ar": "“He was beaten (he knew that); but he was not broken.” ما الفرق؟" },
+      "options": ["He lost the fight, but his spirit was still strong", "He was hurt, but not injured", "He was tired, but not hungry", "He was sold, but not stolen"],
+      "answer": 0,
+      "explain": { "en": "'Beaten' = defeated in the fight; 'broken' = with no spirit or will left. Buck obeys, but he never fawns on the man.", "ar": "beaten = مهزوم في القتال، وbroken = فاقد الروح والإرادة. فباك يطيع، لكنه لا يتذلّل للرجل أبدًا." },
+      "ref": "p41"
+    },
+    {
+      "type": "grammar",
+      "q": { "en": "“So changed was he that the Judge himself would not have recognized him.” What is the normal word order?", "ar": "“So changed was he that the Judge himself would not have recognized him.” ما الترتيب العادي للكلمات؟" },
+      "options": ["He was so changed that the Judge himself would not have recognized him.", "He so was changed that…", "Was he so changed that…?", "He changed so the Judge…"],
+      "answer": 0,
+      "explain": { "en": "Putting 'So + adjective' first and inverting the verb (was he) makes the sentence more dramatic. The meaning is the same.", "ar": "تقديم «So + صفة» وقلب الفعل (was he) يجعل الجملة أكثر إثارة، والمعنى واحد." },
+      "ref": "p26"
+    },
+    {
+      "type": "comprehension",
+      "q": { "en": "Who buys Buck in Seattle, and for whom?", "ar": "من يشتري باك في سياتل، ولحساب من؟" },
+      "options": ["Perrault, for the Canadian Government", "François, for a gold miner", "Manuel, for Judge Miller", "A whaling captain, for his ship"],
+      "answer": 0,
+      "explain": { "en": "Perrault pays three hundred dollars of 'government money'; he carries despatches for the Canadian Government.", "ar": "يدفع بيرو ثلاثمئة دولار من «مال الحكومة»، فهو يحمل الرسائل الرسمية للحكومة الكندية." },
+      "ref": "p45"
+    },
+    {
+      "type": "translation",
+      "q": { "en": "Choose the best Arabic translation: “it was his first snow.”", "ar": "اختر أفضل ترجمة عربية: “it was his first snow.”" },
+      "options": ["فقد كان ذلك أول ثلجٍ يراه.", "كان أول من رأى الثلج.", "كان الثلج يتساقط أولًا.", "كان يحب الثلج كثيرًا."],
+      "answer": 0,
+      "explain": { "en": "The chapter ends with Buck tasting snow for the first time in his life; the onlookers laugh because he does not know what it is.", "ar": "ينتهي الفصل بباك يتذوّق الثلج لأول مرة في حياته، ويضحك المتفرجون لأنه لا يعرف ما هو." },
+      "ref": "p50"
+    },
+    {
+      "type": "context",
+      "q": { "en": "Why is the first paragraph of the chapter a short poem about 'old longings' and the 'ferine strain' waking from sleep?", "ar": "لماذا يبدأ الفصل بقصيدة قصيرة عن «الأشواق القديمة» و«النزعة الوحشية» التي تستيقظ من سباتها؟" },
+      "options": ["It announces the main idea: Buck's wild nature will wake up again", "It is a song the Judge's daughters sing", "It describes the gold miners' homesickness", "It is the advertisement for the dog sale"],
+      "answer": 0,
+      "explain": { "en": "'Ferine' means wild, like a wild animal; 'brumal' means wintry. The verse tells us that a wild instinct, asleep under civilized 'custom', is waking, which is the story of the whole book.", "ar": "ferine تعني «وحشي» كالحيوان البري، وbrumal تعني «شتوي». فالأبيات تخبرنا أن غريزةً برية نائمة تحت «العادة» المتحضّرة تستيقظ، وهذه قصة الكتاب كله." },
+      "ref": "p1"
+    }
+  ]
+}

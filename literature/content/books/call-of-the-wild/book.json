@@ -1,0 +1,56 @@
+{
+ "slug": "call-of-the-wild",
+ "title": "The Call of the Wild",
+ "titleAr": "نداء البرية",
+ "author": "Jack London",
+ "authorAr": "جاك لندن",
+ "year": 1903,
+ "genre": {
+  "en": "Adventure · American Literature",
+  "ar": "مغامرات · أدب أمريكي"
+ },
+ "tags": [
+  "american",
+  "adventure",
+  "classic",
+  "nature"
+ ],
+ "level": "B2",
+ "studyHours": 18,
+ "accent": "#1f6f8b",
+ "rights": {
+  "status": "public-domain-verified",
+  "authorDied": 1916,
+  "firstPublished": 1903,
+  "jurisdiction": {
+   "en": "Worldwide (author died more than 70 years ago; also expired under the life+50 terms of Sudan and Saudi Arabia)",
+   "ar": "عالميًا (توفي المؤلف قبل أكثر من ٧٠ عامًا؛ وانتهت أيضًا مدة الخمسين عامًا المعمول بها في السودان والسعودية)"
+  },
+  "sourceEdition": "Project Gutenberg eBook #215 (The Call of the Wild)",
+  "sourceUrl": "https://www.gutenberg.org/ebooks/215",
+  "translationRights": {
+   "en": "Arabic translations are original works produced for Albushra Literature (AI-drafted, editor-reviewed). No third-party translation is used.",
+   "ar": "الترجمات العربية أعمال أصلية أُعدّت لمنصة البشرى للأدب (مسودة بالذكاء الاصطناعي يراجعها المحرر). لا تُستخدم أي ترجمة منشورة لطرف آخر."
+  },
+  "audioRights": {
+   "en": "Device text-to-speech only; no third-party recordings are distributed.",
+   "ar": "نطق آلي من جهاز المستخدم فقط؛ لا تُوزَّع تسجيلات لطرف آخر."
+  },
+  "distributionRights": {
+   "en": "Full English text may be published and distributed. Project Gutenberg headers and trademark have been removed, as its licence requires.",
+   "ar": "يجوز نشر النص الإنجليزي كاملًا وتوزيعه. حُذفت ترويسة مشروع غوتنبرغ وعلامته التجارية وفق شروط ترخيصه."
+  },
+  "licenseDocs": [],
+  "conditions": {
+   "en": "None for the original text. Original illustrations are not reproduced.",
+   "ar": "لا قيود على النص الأصلي. لا تُعاد الرسوم الأصلية."
+  },
+  "verifiedBy": "",
+  "verifiedAt": "2026-11-23"
+ },
+ "language": "en",
+ "cover": "assets/covers/call-of-the-wild.svg",
+ "published": true,
+ "text": "full",
+ "stage": "translation"
+}

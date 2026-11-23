@@ -1,0 +1,176 @@
+{
+  "chapter": 2,
+  "summary": {
+    "en": "Buck lands at Dyea beach, Alaska, where neither dogs nor men know any law except 'the law of club and fang'. On the first day, friendly Curly approaches a husky and is killed by a pack of dogs within two minutes, while Spitz laughs; from that moment Buck hates Spitz. François puts Buck in a harness and he learns to pull a sled, taught by the strict driver, by Dave the wheeler and by Spitz the leader. New dogs join the team: the brothers Billee and Joe, and old one-eyed Sol-leks, who bites Buck for approaching his blind side. Thrown out of the warm tent, Buck learns from Billee to sleep in a hole in the snow. The team of nine crosses the Chilkoot Divide to Lake Bennett and goes on, day after day, through snow and ice. Always hungry, Buck learns to eat fast and to steal food without being caught. London explains that this 'decay' of his morals shows Buck's ability to adapt and survive. Old instincts wake in him: he fights like a wolf, and on cold nights he howls at the stars like his wild ancestors.",
+    "ar": "يصل باك إلى شاطئ دايا في ألاسكا، حيث لا تعرف الكلاب ولا الرجال قانونًا إلا «قانون الهراوة والناب». وفي اليوم الأول تقترب كيرلي الودودة من كلب هاسكي، فتقتلها مجموعة من الكلاب في دقيقتين، وسبيتز يضحك؛ ومنذ تلك اللحظة يكره باك سبيتز. ثم يضع فرانسوا باك في طقم الجرّ، فيتعلّم جرّ الزلاجة على يد السائق الصارم، وديف كلب المؤخرة، وسبيتز القائد. وتنضمّ إلى الفريق كلاب جديدة: الأخوان بيلي وجو، والعجوز الأعور سول-ليكس الذي يعضّ باك لأنه اقترب من جهته العمياء. وحين يُطرد باك من الخيمة الدافئة، يتعلّم من بيلي أن ينام في حفرة تحت الثلج. ويعبر الفريق المؤلف من تسعة كلاب خط تقسيم المياه في تشيلكوت إلى بحيرة بينيت، ويواصل السير يومًا بعد يوم عبر الثلج والجليد. ولأن باك جائع دائمًا، يتعلّم أن يأكل بسرعة وأن يسرق الطعام دون أن يُضبط. ويشرح لندن أن هذا «الاضمحلال» في أخلاقه يدلّ على قدرته على التكيّف والبقاء. وتستيقظ فيه غرائز قديمة: فيقاتل كالذئب، ويعوي في الليالي الباردة نحو النجوم كأسلافه البريّين."
+  },
+  "objectives": [
+    { "en": "Follow Buck's first lessons in the North: Curly's death, the harness, sleeping in the snow and stealing food.", "ar": "تتبّع دروس باك الأولى في الشمال: موت كيرلي، وطقم الجرّ، والنوم في الثلج، وسرقة الطعام." },
+    { "en": "Learn the vocabulary of sled dogs and the trail: harness, sled, traces, wheeler, trail and 'mush'.", "ar": "تعلّم مفردات كلاب الزلاجات والطريق: harness وsled وtraces وwheeler وtrail و«mush»." },
+    { "en": "Understand the chapter's central idea: survival depends on adapting, and old instincts return.", "ar": "فهم الفكرة المركزية للفصل: البقاء يعتمد على التكيّف، والغرائز القديمة تعود." },
+    { "en": "Practise the past perfect passive, 'so + adjective' inversion and 'would' for past habits.", "ar": "التدرّب على الماضي التام المبني للمجهول، والتقديم بعد «so + صفة»، و would للعادات الماضية." }
+  ],
+  "vocab": [
+    "primordial", "savage", "fang", "husky", "wolf", "harness", "sled", "wheeler", "trace", "mush",
+    "trail", "gaunt", "forlorn", "glacier", "ravenous", "adaptability", "instinct", "ancestor", "howl"
+  ],
+  "grammar": [
+    {
+      "id": "cotw-2-past-perfect-passive",
+      "topic": "tenses",
+      "level": "B2",
+      "title": { "en": "The past perfect passive: 'had been jerked'", "ar": "الماضي التام المبني للمجهول: «had been jerked»" },
+      "explain": {
+        "en": "'Had been + past participle' describes something that was done to someone before another past moment. Here the 'moment' is Buck's first day on the beach: the kidnapping happened earlier, and someone else did it to him. Notice that one 'had been' serves two verbs: 'had been jerked … and (had been) flung'.",
+        "ar": "تركيب «had been + التصريف الثالث» يصف شيئًا فُعل بشخصٍ قبل لحظةٍ ماضية أخرى. واللحظة هنا هي يوم باك الأول على الشاطئ: فالخطف حدث قبل ذلك، وفعله به غيره. ولاحظ أن had been واحدة تخدم فعلين: «had been jerked … and (had been) flung»."
+      },
+      "example": {
+        "en": "He had been suddenly jerked from the heart of civilization and flung into the heart of things primordial.",
+        "ar": "لقد انتُزع فجأةً من قلب الحضارة وقُذف به إلى قلب الأشياء البدائية.",
+        "ref": "p1"
+      },
+      "exercise": {
+        "q": { "en": "Complete: 'When Buck arrived at Dyea, he ___ (sell) twice already.'", "ar": "أكمل: 'When Buck arrived at Dyea, he ___ (sell) twice already.'" },
+        "options": ["had been sold", "has been sold", "had sold"],
+        "answer": 0,
+        "why": { "en": "The selling happened before another past action (arrived), and Buck did not do it, so we need the past perfect passive.", "ar": "البيع حدث قبل فعلٍ ماضٍ آخر (arrived)، ولم يقم به باك، فنحتاج إلى الماضي التام المبني للمجهول." }
+      }
+    },
+    {
+      "id": "cotw-2-so-adjective-inversion",
+      "topic": "sentence",
+      "level": "B2",
+      "title": { "en": "'So + adjective + verb + subject … that'", "ar": "«So + صفة + فعل + فاعل … that»" },
+      "explain": {
+        "en": "The normal pattern is 'It was so sudden that Buck was taken aback.' For drama, London moves 'so + adjective' to the front and puts the verb before the subject: 'So sudden was it … that'. The 'that' clause gives the result. He uses this again: 'So terrible was his appearance that Spitz was forced to forego disciplining him.'",
+        "ar": "النمط العادي هو: «It was so sudden that Buck was taken aback». ولإضفاء الإثارة يقدّم لندن «so + الصفة» إلى أول الجملة ويضع الفعل قبل الفاعل: «So sudden was it … that». وجملة that تبيّن النتيجة. ويكرّر ذلك: «So terrible was his appearance that Spitz was forced to forego disciplining him»."
+      },
+      "example": {
+        "en": "So sudden was it, and so unexpected, that Buck was taken aback.",
+        "ar": "كان الأمر مفاجئًا وغير متوقَّع إلى حدّ أن باك أُخذ على حين غرّة.",
+        "ref": "p4"
+      },
+      "exercise": {
+        "q": { "en": "Rewrite with inversion: 'The cold was so bitter that Buck could not sleep.'", "ar": "أعد الصياغة بالتقديم: 'The cold was so bitter that Buck could not sleep.'" },
+        "options": ["So bitter was the cold that Buck could not sleep.", "So bitter the cold was that Buck could not sleep.", "So was bitter the cold that Buck could not sleep."],
+        "answer": 0,
+        "why": { "en": "The pattern is So + adjective + verb (was) + subject (the cold) + that…", "ar": "النمط هو: So + صفة + فعل (was) + فاعل (the cold) + that…" }
+      }
+    },
+    {
+      "id": "cotw-2-would-habit",
+      "topic": "tenses",
+      "level": "B1",
+      "title": { "en": "'Would' for repeated actions in the past", "ar": "would للأفعال المتكرّرة في الماضي" },
+      "explain": {
+        "en": "'Would + base verb' can describe a habit: something Buck did every time a situation happened. Here, 'when he was thirsty … he would break it' means 'every time he was thirsty, he broke it'. It is not a conditional. The 'when' clause tells us the repeated situation.",
+        "ar": "تركيب «would + الفعل المجرّد» يصف عادة: شيئًا كان باك يفعله كلما تكرّر موقفٌ ما. فعبارة «when he was thirsty … he would break it» تعني: «كلما عطش كان يكسره». وليست هنا للشرط، وجملة when تبيّن الموقف المتكرّر."
+      },
+      "example": {
+        "en": "He learned to bite the ice out with his teeth when it collected between his toes; and when he was thirsty and there was a thick scum of ice over the water hole, he would break it by rearing and striking it with stiff fore legs.",
+        "ar": "وتعلّم أن يقتلع بأسنانه الجليد حين يتجمّع بين أصابع قدميه؛ وحين يعطش ويكون على حفرة الماء غطاءٌ سميك من الجليد، كان يكسره بأن ينتصب على قائمتيه الخلفيتين ويضربه بقائمتيه الأماميتين المتصلّبتين.",
+        "ref": "p24"
+      },
+      "exercise": {
+        "q": { "en": "In 'he would break it by rearing', what does 'would break' mean?", "ar": "في 'he would break it by rearing'، ماذا تعني 'would break'؟" },
+        "options": ["He broke it each time, as a habit.", "He wanted to break it but could not.", "He will break it tomorrow."],
+        "answer": 0,
+        "why": { "en": "'When he was thirsty' shows a repeated situation, so 'would break' = 'used to break'. Arabic uses 'كان يكسره'.", "ar": "عبارة 'When he was thirsty' تدل على موقف متكرّر، فـ'would break' = 'used to break'، وبالعربية: «كان يكسره»." }
+      }
+    }
+  ],
+  "culture": [
+    {
+      "term": "Sled dogs and their commands",
+      "en": "In the far North, dogs pulled sleds over snow where horses could not go. A team was tied in a line by leather straps called traces. The leader ran in front and found the way; the 'wheeler' or 'wheel dog' ran nearest the sled and did the heaviest work. Drivers shouted commands: 'mush' (from the French 'marche!', go) to start, 'ho' or 'whoa' to stop, and 'gee' and 'haw' for right and left. The 'gee-pole' was a pole on the sled used to steer it. Huskies, thick-furred northern dogs, were the most common sled dogs.",
+      "ar": "في أقصى الشمال كانت الكلاب تجرّ الزلاجات فوق الثلج حيث لا تستطيع الخيول السير. وكان الفريق يُربط في صفٍّ بسيورٍ جلدية تسمّى traces. يركض القائد في المقدّمة ويجد الطريق، أما «كلب المؤخرة» (wheeler) فيركض أقرب ما يكون إلى الزلاجة ويقوم بأثقل العمل. وكان السائقون يصيحون بالأوامر: «mush» (من الفرنسية marche أي «امشِ») للانطلاق، و«ho» أو «whoa» للتوقف، و«gee» و«haw» لليمين واليسار. أما gee-pole فعصا مثبّتة في الزلاجة لتوجيهها. وكانت كلاب الهاسكي، وهي كلاب شمالية كثيفة الفراء، أكثر كلاب الزلاجات شيوعًا."
+    },
+    {
+      "term": "The trail to the Yukon",
+      "en": "Many gold seekers landed at Dyea or Skagway in Alaska, climbed the steep Chilkoot Pass (London writes 'Chilcoot') past 'the Scales', where loads were weighed, and reached Lake Bennett in Canada. There they built boats and waited for the ice to break in spring, then travelled down the Yukon River to Dawson. Canadian police required every person to bring about a year's supplies. London himself made this journey in 1897, so the places in this chapter are real.",
+      "ar": "كان كثير من الباحثين عن الذهب ينزلون في دايا أو سكاغواي في ألاسكا، ثم يصعدون ممرّ تشيلكوت الشديد الانحدار مرورًا بـ«الموازين» حيث كانت الأحمال تُوزن، حتى يبلغوا بحيرة بينيت في كندا. وهناك كانوا يبنون القوارب وينتظرون تكسّر الجليد في الربيع، ثم ينحدرون في نهر يوكون إلى داوسون. وكانت الشرطة الكندية تشترط على كل شخص أن يحمل مؤنًا تكفيه نحو سنة. وقد قام لندن نفسه بهذه الرحلة عام ١٨٩٧، فالأماكن في هذا الفصل حقيقية."
+    }
+  ],
+  "quiz": [
+    {
+      "type": "context",
+      "q": { "en": "What does London mean by 'the law of club and fang'?", "ar": "ماذا يقصد لندن بـ«قانون الهراوة والناب»؟" },
+      "options": ["The strongest rules: men's clubs and dogs' teeth decide everything", "A legal code written for gold miners", "A rule that dogs must not bite", "The rules of a dog club in Seattle"],
+      "answer": 0,
+      "explain": { "en": "In the North there is no fair play: men rule with clubs and dogs with their teeth. It is the opposite of the 'law of love and fellowship' in the South.", "ar": "في الشمال لا لعب نزيه: الرجال يحكمون بالهراوات والكلاب بأنيابها. وهو نقيض «قانون المحبة والزمالة» في الجنوب." },
+      "ref": "p1"
+    },
+    {
+      "type": "comprehension",
+      "q": { "en": "What lesson does Buck learn from Curly's death?", "ar": "ما الدرس الذي يتعلّمه باك من موت كيرلي؟" },
+      "options": ["Once you go down in a fight, that is the end of you", "Huskies are friendly to newcomers", "Men will always protect dogs", "He must stay near the tent"],
+      "answer": 0,
+      "explain": { "en": "'No fair play. Once down, that was the end of you. Well, he would see to it that he never went down.'", "ar": "«لا لعب نزيه. ما إن تسقط حتى تكون نهايتك. حسنًا، سيحرص على ألا يسقط أبدًا»." },
+      "ref": "p4"
+    },
+    {
+      "type": "comprehension",
+      "q": { "en": "Why does Buck hate Spitz from the first day?", "ar": "لماذا يكره باك سبيتز منذ اليوم الأول؟" },
+      "options": ["Spitz laughed while Curly was killed", "Spitz stole his food", "Spitz bit his shoulder", "Spitz took his place in the tent"],
+      "answer": 0,
+      "explain": { "en": "Spitz 'ran out his tongue and laughed again', and from that moment Buck hated him 'with a bitter and deathless hatred'.", "ar": "أخرج سبيتز لسانه «وضحك مرة أخرى»، ومنذ تلك اللحظة كرهه باك «كراهيةً مريرة لا تموت»." },
+      "ref": "p4"
+    },
+    {
+      "type": "vocab",
+      "q": { "en": "“Dave, who was an experienced wheeler…” What is a wheeler?", "ar": "“Dave, who was an experienced wheeler…” ما هو الـ wheeler؟" },
+      "options": ["The dog nearest the sled", "The dog that leads the team", "The man who repairs sled wheels", "A dog that sleeps in the tent"],
+      "answer": 0,
+      "explain": { "en": "The wheeler (or 'sled dog') pulls directly in front of the sled. Paragraph 16 explains the order of the team.", "ar": "الـ wheeler (أو «كلب الزلاجة») يجرّ أمام الزلاجة مباشرة. وتشرح الفقرة ١٦ ترتيب الفريق." },
+      "ref": "p5"
+    },
+    {
+      "type": "comprehension",
+      "q": { "en": "Why does Sol-leks attack Buck?", "ar": "لماذا يهاجم سول-ليكس باك؟" },
+      "options": ["Buck approached him on his blind side", "Buck took his food", "Buck barked at Perrault", "Buck slept in his hole"],
+      "answer": 0,
+      "explain": { "en": "Sol-leks has one eye and 'did not like to be approached on his blind side'. Buck did it without knowing.", "ar": "لسول-ليكس عينٌ واحدة، و«لا يحب أن يقترب منه أحد من جهته العمياء». وقد فعل باك ذلك دون أن يدري." },
+      "ref": "p8"
+    },
+    {
+      "type": "comprehension",
+      "q": { "en": "How does Buck learn to sleep warmly on the snow?", "ar": "كيف يتعلّم باك أن ينام دافئًا على الثلج؟" },
+      "options": ["He finds Billee curled up in a hole under the snow and copies him", "François gives him a blanket", "He sleeps next to the fire", "Perrault lets him into the tent"],
+      "answer": 0,
+      "explain": { "en": "The snow gives way under him and he finds Billee 'curled up under the snow in a snug ball'. 'Another lesson.' He digs his own hole.", "ar": "ينهار الثلج تحته فيجد بيلي «ملتفًّا كالكرة تحت الثلج في دفء». «درسٌ آخر». فيحفر لنفسه حفرة." },
+      "ref": "p10"
+    },
+    {
+      "type": "vocab",
+      "q": { "en": "“Buck was ravenous.” What does 'ravenous' mean?", "ar": "“Buck was ravenous.” ما معنى ravenous؟" },
+      "options": ["Extremely hungry", "Very tired", "Very angry", "Very cold"],
+      "answer": 0,
+      "explain": { "en": "A pound and a half of dried salmon a day was not enough for a big dog doing hard work, so Buck was always extremely hungry.", "ar": "لم يكن رطلٌ ونصف من السلمون المجفّف يوميًّا يكفي كلبًا كبيرًا يعمل عملًا شاقًّا، فكان باك جائعًا جوعًا شديدًا دائمًا." },
+      "ref": "p20"
+    },
+    {
+      "type": "context",
+      "q": { "en": "According to London, what does Buck's first theft show?", "ar": "بحسب لندن، علامَ تدلّ سرقة باك الأولى؟" },
+      "options": ["That he can adapt and is fit to survive in the North", "That he was always a bad dog", "That Perrault does not feed the dogs", "That Pike is his friend"],
+      "answer": 0,
+      "explain": { "en": "The theft 'marked Buck as fit to survive'. It showed his adaptability, though London also calls it 'the decay … of his moral nature'.", "ar": "السرقة كانت «علامةً على أن باك أهلٌ للبقاء»، وأظهرت قدرته على التكيّف، وإن كان لندن يسمّيها أيضًا «اضمحلال طبيعته الأخلاقية»." },
+      "ref": "p22"
+    },
+    {
+      "type": "grammar",
+      "q": { "en": "“So terrible was his appearance that Spitz was forced to forego disciplining him.” Which sentence means the same?", "ar": "“So terrible was his appearance that Spitz was forced to forego disciplining him.” أيّ جملة لها المعنى نفسه؟" },
+      "options": ["His appearance was so terrible that Spitz had to stop trying to discipline him.", "Spitz looked so terrible that Joe ran away.", "His appearance was terrible, so Spitz disciplined him.", "Spitz was terrible, so Joe was disciplined."],
+      "answer": 0,
+      "explain": { "en": "'So + adjective + verb + subject + that' is an emphatic form of 'X was so … that'. Joe's fierce face made Spitz give up.", "ar": "تركيب «So + صفة + فعل + فاعل + that» صيغة توكيدية لـ«X was so … that». فوجه جو الشرس جعل سبيتز يتراجع." },
+      "ref": "p7"
+    },
+    {
+      "type": "translation",
+      "q": { "en": "Choose the best Arabic translation: “instincts long dead became alive again.”", "ar": "اختر أفضل ترجمة عربية: “instincts long dead became alive again.”" },
+      "options": ["غرائز ماتت منذ زمنٍ طويل عادت إلى الحياة.", "عاش طويلًا ثم مات بغريزته.", "الغرائز الطويلة ماتت مرة أخرى.", "عادت الحياة طويلة بعد الموت."],
+      "answer": 0,
+      "explain": { "en": "'Long dead' = dead for a long time. This is the key idea of the book: the wild nature of Buck's ancestors returns.", "ar": "long dead = ميّت منذ زمن طويل. وهذه الفكرة الأساسية في الكتاب: عودة الطبيعة البرية لأسلاف باك." },
+      "ref": "p25"
+    }
+  ]
+}
