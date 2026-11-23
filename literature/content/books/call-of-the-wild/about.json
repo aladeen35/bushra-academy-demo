@@ -1,0 +1,59 @@
+{
+  "author": {
+    "name": "Jack London",
+    "born": 1876,
+    "died": 1916,
+    "bio": {
+      "en": "Jack London was born John Griffith Chaney in San Francisco, California, in 1876, and grew up poor in Oakland. He left school young and worked in a cannery, as an 'oyster pirate' on San Francisco Bay, and as a sailor on a sealing ship to Japan and the Bering Sea. He travelled across America as a tramp, was jailed for vagrancy, and then went back to school, reading hungrily in public libraries and studying for a short time at the University of California, Berkeley. In July 1897 he joined the Klondike Gold Rush. He crossed the Chilkoot Pass and spent the winter in the Yukon, where he fell ill with scurvy and returned home in 1898 without gold, but with the stories that made him famous. The Call of the Wild (1903) became a best-seller, followed by The Sea-Wolf (1904), White Fang (1906), Martin Eden (1909) and short stories such as 'To Build a Fire'. He was one of the best-paid writers of his time and a passionate socialist. He built a large ranch at Glen Ellen, California, where he died in 1916, aged only 40.",
+      "ar": "وُلد جاك لندن باسم جون غريفيث تشيني في سان فرانسيسكو بكاليفورنيا عام ١٨٧٦، ونشأ فقيرًا في أوكلاند. ترك المدرسة صغيرًا وعمل في مصنع للتعليب، و«قرصانًا للمحار» في خليج سان فرانسيسكو، وبحّارًا على سفينة لصيد الفقمات أبحرت إلى اليابان وبحر بيرنغ. وجاب أمريكا متشرّدًا، وسُجن بتهمة التشرّد، ثم عاد إلى الدراسة، يقرأ بنهم في المكتبات العامة، ودرس مدة قصيرة في جامعة كاليفورنيا في بيركلي. وفي يوليو ١٨٩٧ انضمّ إلى حمّى ذهب كلوندايك، فعبر ممرّ تشيلكوت وقضى الشتاء في يوكون، حيث أصيب بداء الإسقربوط، وعاد إلى بيته عام ١٨٩٨ بلا ذهب، لكن بالقصص التي صنعت شهرته. أصبحت «نداء البرية» (١٩٠٣) من أكثر الكتب مبيعًا، ثم تلتها «ذئب البحر» (١٩٠٤) و«الناب الأبيض» (١٩٠٦) و«مارتن إيدن» (١٩٠٩) وقصص قصيرة مثل «إشعال نار». كان من أعلى الكتّاب أجرًا في عصره، واشتراكيًّا متحمّسًا. وبنى مزرعة كبيرة في غلين إلين بكاليفورنيا، وتوفّي فيها عام ١٩١٦ وعمره أربعون عامًا فقط."
+    }
+  },
+  "context": {
+    "en": "In August 1896 gold was discovered on Bonanza Creek, near the Klondike River in Canada's Yukon. When ships reached Seattle and San Francisco in July 1897 with miners carrying gold, newspapers started a 'Klondike fever', and in 1897–99 about 100,000 people set out for the far North, though only 30,000 to 40,000 reached the boom town of Dawson City. Most travelled by ship to Alaska, climbed the Chilkoot or White Pass with a year's supplies, and went down the Yukon River by boat or over the ice by dog sled. Strong sled dogs became so valuable that dogs were stolen from towns in the south, which is how Buck's story begins. London wrote the book in 1903 from his own experience in the Yukon. It belongs to American naturalism, a literary movement influenced by Charles Darwin's ideas: it shows living beings shaped by heredity, environment and the struggle to survive, rather than by free choice alone. London tells the story through the eyes of a dog, which was new and daring at the time. It first appeared in the Saturday Evening Post in the summer of 1903 and was published as a book the same year.",
+    "ar": "في أغسطس ١٨٩٦ اكتُشف الذهب في جدول بونانزا قرب نهر كلوندايك في إقليم يوكون الكندي. وحين وصلت السفن إلى سياتل وسان فرانسيسكو في يوليو ١٨٩٧ تحمل عمّال مناجم ومعهم الذهب، أشعلت الصحف «حمّى كلوندايك»، فانطلق بين عامي ١٨٩٧ و١٨٩٩ نحو مئة ألف شخص إلى أقصى الشمال، ولم يصل منهم إلى بلدة داوسون المزدهرة إلا ثلاثون إلى أربعون ألفًا. سافر أكثرهم بالسفن إلى ألاسكا، ثم صعدوا ممرّ تشيلكوت أو الممرّ الأبيض حاملين مؤنة سنة كاملة، ونزلوا نهر يوكون بالقوارب أو عبروا الجليد بزلاجات الكلاب. وصارت كلاب الزلاجات القوية ثمينة إلى حدّ أن الكلاب كانت تُسرق من مدن الجنوب، وهكذا تبدأ قصة باك. كتب لندن الرواية عام ١٩٠٣ من تجربته الشخصية في يوكون. وهي تنتمي إلى المذهب الطبيعي (Naturalism) في الأدب الأمريكي، وهو تيار تأثّر بأفكار تشارلز داروين، يُظهر الكائنات الحيّة وقد شكّلتها الوراثة والبيئة وصراع البقاء، لا الإرادة الحرّة وحدها. ويروي لندن القصة من خلال عيني كلب، وكان ذلك جديدًا وجريئًا في زمنه. نُشرت أولًا في مجلة «ساترداي إيفننغ بوست» في صيف ١٩٠٣، ثم صدرت كتابًا في العام نفسه."
+  },
+  "themes": [
+    {
+      "en": "Survival: in the North only those who adapt survive. Buck learns to dig a bed in the snow, eat fast, steal food and fight, because 'the law of club and fang' replaces the comfortable rules of the South.",
+      "ar": "البقاء: في الشمال لا يبقى إلا من يتكيّف. يتعلّم باك أن يحفر فراشه في الثلج، ويأكل بسرعة، ويسرق الطعام، ويقاتل، لأن «قانون الهراوة والناب» يحلّ محلّ القواعد المريحة في الجنوب."
+    },
+    {
+      "en": "Instinct versus civilization: as Buck's civilized habits fall away, the instincts of his wild ancestors wake up. The book asks how thin the layer of civilization is, for animals and perhaps for people too.",
+      "ar": "الغريزة في مواجهة الحضارة: كلما سقطت عن باك عاداته المتحضّرة استيقظت فيه غرائز أسلافه البريّين. ويطرح الكتاب سؤالًا: ما مدى رقّة طبقة الحضارة، عند الحيوان وربما عند الإنسان أيضًا؟"
+    },
+    {
+      "en": "Loyalty and love: Buck meets cruel, fair and foolish masters. Only with John Thornton, who treats his dogs with kindness, does he feel true love and loyalty, and this bond is the last tie that holds him to the human world.",
+      "ar": "الوفاء والمحبة: يلتقي باك بأسيادٍ قساة وعادلين وحمقى. ولا يشعر بالحب والوفاء الحقيقيين إلا مع جون ثورنتون الذي يعامل كلابه بلطف، وهذه الرابطة آخر ما يشدّه إلى عالم البشر."
+    },
+    {
+      "en": "Mastery and leadership: the rivalry between Buck and Spitz shows the struggle for power in the team, and Buck's growth from a pet into a leader.",
+      "ar": "السيادة والقيادة: يُظهر التنافس بين باك وسبيتز الصراع على السلطة داخل الفريق، وتحوّل باك من كلبٍ مدلَّل إلى قائد."
+    },
+    {
+      "en": "Nature as a powerful force: the cold, the snow, hunger and the endless trail are as important as any character. Nature is beautiful but has no mercy.",
+      "ar": "الطبيعة قوةً جبّارة: البرد والثلج والجوع والطريق الذي لا ينتهي لا تقلّ أهمية عن أي شخصية. فالطبيعة جميلة لكنها لا ترحم."
+    }
+  ],
+  "characters": [
+    { "name": "Buck", "en": "A large, proud dog, half St. Bernard and half Scotch shepherd, stolen from his comfortable home in California and sold as a sled dog in the North. The whole story is seen through his eyes.", "ar": "باك: كلب كبير معتزّ بنفسه، نصفه سانت برنارد ونصفه كلب رعي إسكتلندي، يُسرق من بيته المريح في كاليفورنيا ويُباع كلبَ زلاجة في الشمال. والقصة كلها تُرى من خلال عينيه." },
+    { "name": "Judge Miller", "en": "Buck's first owner, a rich judge in the Santa Clara Valley. His estate represents the warm, civilized 'Southland'.", "ar": "القاضي ميلر: أول مالكٍ لباك، قاضٍ ثري في وادي سانتا كلارا. وضيعته تمثّل «الجنوب» الدافئ المتحضّر." },
+    { "name": "Manuel", "en": "The Judge's gardener's helper, who sells Buck to pay for his gambling.", "ar": "مانويل: مساعد بستاني القاضي، يبيع باك ليدفع ثمن قماره." },
+    { "name": "The man in the red sweater", "en": "A dog-breaker in Seattle who beats Buck with a club and teaches him 'the law of club'.", "ar": "الرجل ذو الكنزة الحمراء: مروّض كلاب في سياتل يضرب باك بالهراوة ويعلّمه «قانون الهراوة»." },
+    { "name": "Perrault and François", "en": "French-Canadian couriers who carry mail for the Canadian Government. Strict but fair, they are Buck's first masters in the North.", "ar": "بيرو وفرانسوا: ساعيان كنديان فرنسيان يحملان بريد الحكومة الكندية. صارمان لكن عادلان، وهما أول سيّدين لباك في الشمال." },
+    { "name": "Spitz", "en": "The clever, cruel white lead dog of the team and Buck's great enemy.", "ar": "سبيتز: كلب القيادة الأبيض الذكي القاسي في الفريق، وعدوّ باك الكبير." },
+    { "name": "Curly", "en": "A friendly Newfoundland dog who travels north with Buck. Her sudden death teaches Buck that in the North there is no fair play.", "ar": "كيرلي: كلبة نيوفاوندلاند ودودة ترافق باك إلى الشمال. وموتها المفاجئ يعلّم باك أنه لا لعب نزيه في الشمال." },
+    { "name": "Dave and Sol-leks", "en": "Two quiet, experienced sled dogs who come alive in harness. They teach Buck the work of the trail and take great pride in it.", "ar": "ديف وسول-ليكس: كلبا زلاجة هادئان متمرّسان تدبّ فيهما الحياة حين يُربطان في طقم الجرّ. يعلّمان باك عمل الطريق ويفخران به كثيرًا." },
+    { "name": "Billee, Joe, Pike and Dub", "en": "Other dogs of the team: good-natured Billee, his sour brother Joe, Pike the clever thief, and clumsy Dub.", "ar": "بيلي وجو وبايك وداب: كلاب أخرى في الفريق: بيلي الطيّب، وأخوه جو النكد، وبايك اللص الماكر، وداب الأخرق." },
+    { "name": "Hal, Charles and Mercedes", "en": "Inexperienced travellers from the south who buy the team and do not understand the North or how to treat dogs.", "ar": "هال وتشارلز وميرسيدس: مسافرون من الجنوب بلا خبرة يشترون الفريق، ولا يفهمون الشمال ولا كيف تُعامَل الكلاب." },
+    { "name": "John Thornton", "en": "A gold-seeker who saves Buck and treats him with love. Buck becomes deeply loyal to him.", "ar": "جون ثورنتون: باحث عن الذهب ينقذ باك ويعامله بمحبة، فيصبح باك وفيًّا له وفاءً عميقًا." },
+    { "name": "Skeet and Nig", "en": "Thornton's gentle dogs, who welcome Buck as a friend.", "ar": "سكيت ونيغ: كلبا ثورنتون اللطيفان، يستقبلان باك صديقًا." },
+    { "name": "The Yeehats", "en": "A group of Native people in the wild land where the story ends.", "ar": "قبيلة اليِيهات: جماعة من السكان الأصليين في الأرض البرية التي تنتهي فيها القصة." }
+  ],
+  "objectives": [
+    { "en": "Read a classic American adventure novel in full and follow Buck's journey from California to the wild North.", "ar": "قراءة رواية مغامرات أمريكية كلاسيكية كاملةً، وتتبّع رحلة باك من كاليفورنيا إلى الشمال البري." },
+    { "en": "Build vocabulary of nature, weather, animals and adventure: frost, glacier, trail, howl, instinct, ravenous.", "ar": "بناء حصيلة من مفردات الطبيعة والطقس والحيوان والمغامرة: frost وglacier وtrail وhowl وinstinct وravenous." },
+    { "en": "Recognize American English words and the language of the gold rush and sled dogs: fall, saloon, sled, mush, strike.", "ar": "التعرّف على كلمات الإنجليزية الأمريكية ولغة حمّى الذهب وكلاب الزلاجات: fall وsaloon وsled وmush وstrike." },
+    { "en": "Understand long descriptive sentences, inversion for emphasis and conditional structures in a B2-level literary text.", "ar": "فهم الجمل الوصفية الطويلة، والتقديم للتوكيد، وتراكيب الشرط في نصٍّ أدبي بمستوى B2." },
+    { "en": "Discuss the novel's big ideas, such as survival, instinct and civilization, and loyalty, and learn about the Klondike Gold Rush and naturalism.", "ar": "مناقشة الأفكار الكبرى في الرواية، كالبقاء، والغريزة والحضارة، والوفاء، والتعرّف على حمّى ذهب كلوندايك والمذهب الطبيعي." }
+  ]
+}

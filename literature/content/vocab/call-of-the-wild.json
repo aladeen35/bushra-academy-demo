@@ -1,0 +1,902 @@
+[
+ {
+  "id": "brew",
+  "word": "brew",
+  "forms": [
+   "brewing"
+  ],
+  "ar": "يختمر / يتشكّل (للمتاعب)",
+  "ipa": "/bruː/",
+  "pos": "verb",
+  "def": "(of trouble or a storm) to begin to develop, usually something bad.",
+  "arExplain": "يُقال trouble is brewing حين تبدأ مشكلة في التكوّن ببطء قبل أن تظهر، كما يختمر الشراب أو تتجمّع العاصفة.",
+  "example": "or he would have known that trouble was brewing",
+  "exampleAr": "وإلا لعرف أن المتاعب كانت تختمر",
+  "exampleRef": "1:p2",
+  "synonyms": [
+   "develop",
+   "gather"
+  ],
+  "antonyms": [
+   "fade"
+  ],
+  "level": "B2",
+  "category": "idiom"
+ },
+ {
+  "id": "toil",
+  "word": "toil",
+  "forms": [
+   "toiled"
+  ],
+  "ar": "يكدح / الكدح",
+  "ipa": "/tɔɪl/",
+  "pos": "verb",
+  "def": "To work very hard for a long time, usually at physical work; (noun) hard, tiring work.",
+  "arExplain": "العمل الجسدي الشاق المتواصل الذي يُتعب صاحبه. وتأتي الكلمة فعلًا واسمًا، كما في the toil of the traces.",
+  "example": "with strong muscles by which to toil",
+  "exampleAr": "ذات عضلاتٍ قوية تكدح بها",
+  "exampleRef": "1:p2",
+  "synonyms": [
+   "labour",
+   "work hard"
+  ],
+  "antonyms": [
+   "rest",
+   "idle"
+  ],
+  "level": "C1",
+  "category": "literary"
+ },
+ {
+  "id": "frost",
+  "word": "frost",
+  "forms": [],
+  "ar": "الصقيع",
+  "ipa": "/frɒst/",
+  "pos": "noun",
+  "def": "Very cold weather in which water freezes; a thin white layer of ice on surfaces.",
+  "arExplain": "البرد الشديد الذي يتجمّد فيه الماء، والطبقة البيضاء الرقيقة من الجليد التي تغطّي الأشياء في الليالي الباردة.",
+  "example": "furry coats to protect them from the frost.",
+  "exampleAr": "وفراءٍ كثيف يحميها من الصقيع.",
+  "exampleRef": "1:p2",
+  "synonyms": [
+   "freeze",
+   "ice"
+  ],
+  "antonyms": [
+   "heat",
+   "thaw"
+  ],
+  "level": "B1",
+  "category": "intermediate"
+ },
+ {
+  "id": "veranda",
+  "word": "veranda",
+  "forms": [],
+  "ar": "الشرفة (الفِرَندة)",
+  "ipa": "/vəˈræn.də/",
+  "pos": "noun",
+  "def": "A roofed, open platform along the outside of a house, at ground level; Americans also call it a porch.",
+  "arExplain": "ممرّ مسقوف مفتوح يمتدّ على جانب البيت من الخارج، يجلس فيه الناس في الظل. ويسمّيه الأمريكيون أيضًا porch.",
+  "example": "the wide cool veranda that ran around its four sides",
+  "exampleAr": "الشرفة الواسعة الباردة التي تحيط بجوانبه الأربعة",
+  "exampleRef": "1:p3",
+  "synonyms": [
+   "porch",
+   "terrace"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "cultural"
+ },
+ {
+  "id": "orchard",
+  "word": "orchard",
+  "forms": [
+   "orchards"
+  ],
+  "ar": "بستان (أشجار فاكهة)",
+  "ipa": "/ˈɔː.tʃəd/",
+  "pos": "noun",
+  "def": "A piece of land where fruit trees are grown.",
+  "arExplain": "أرض مزروعة بأشجار الفاكهة، كالتفاح والبرتقال والمشمش.",
+  "example": "No one saw him and Buck go off through the orchard",
+  "exampleAr": "لم يرَه أحدٌ يمضي هو وباك عبر البستان",
+  "exampleRef": "1:p8",
+  "synonyms": [
+   "grove",
+   "fruit garden"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "kennel",
+  "word": "kennel",
+  "forms": [
+   "kennels",
+   "kennel-dog"
+  ],
+  "ar": "بيت الكلاب / مأوى الكلاب",
+  "ipa": "/ˈken.əl/",
+  "pos": "noun",
+  "def": "A small shelter for a dog, or a place where many dogs are kept.",
+  "arExplain": "مأوى صغير يعيش فيه الكلب، أو مكان تُربّى فيه كلاب كثيرة. ومنه kennel-dog أي الكلب الذي يعيش في الحظيرة لا في البيت.",
+  "example": "resided in the populous kennels",
+  "exampleAr": "وتقيم في البيوت المزدحمة للكلاب",
+  "exampleRef": "1:p4",
+  "synonyms": [
+   "doghouse"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "pampered",
+  "word": "pampered",
+  "forms": [],
+  "ar": "مُدلَّل",
+  "ipa": "/ˈpæm.pəd/",
+  "pos": "adjective",
+  "def": "Given too much care, comfort and attention.",
+  "arExplain": "يوصف به من يُعطى الراحة والعناية أكثر من اللازم حتى يصبح ضعيفًا أو كسولًا.",
+  "example": "he had saved himself by not becoming a mere pampered house-dog.",
+  "exampleAr": "لكنه نجّى نفسه من أن يصبح مجرد كلب بيتٍ مدلَّل.",
+  "exampleRef": "1:p6",
+  "synonyms": [
+   "spoiled",
+   "indulged"
+  ],
+  "antonyms": [
+   "neglected",
+   "hardy"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "fall-season",
+  "word": "fall",
+  "forms": [],
+  "ar": "الخريف (بالإنجليزية الأمريكية)",
+  "ipa": "/fɔːl/",
+  "pos": "noun",
+  "def": "(American English) The season between summer and winter; British English says 'autumn'.",
+  "arExplain": "يسمّي الأمريكيون فصل الخريف fall لأن أوراق الشجر «تسقط» فيه، أما البريطانيون فيقولون autumn.",
+  "example": "And this was the manner of dog Buck was in the fall of 1897",
+  "exampleAr": "وهكذا كان نوع الكلب الذي كانه باك في خريف عام ١٨٩٧",
+  "exampleRef": "1:p7",
+  "synonyms": [
+   "autumn"
+  ],
+  "antonyms": [
+   "spring"
+  ],
+  "level": "A2",
+  "category": "cultural"
+ },
+ {
+  "id": "strike",
+  "word": "strike",
+  "forms": [],
+  "ar": "اكتشاف (منجم ذهب أو نفط)",
+  "ipa": "/straɪk/",
+  "pos": "noun",
+  "def": "A sudden discovery of gold, oil or another valuable mineral in the ground.",
+  "arExplain": "في لغة المنقّبين تعني strike العثور المفاجئ على الذهب أو النفط. ومنها الفعل strike gold أي عثر على الذهب.",
+  "example": "when the Klondike strike dragged men from all the world into the frozen North.",
+  "exampleAr": "حين جرّ اكتشافُ الذهب في كلوندايك الرجالَ من أنحاء العالم كله إلى الشمال المتجمّد.",
+  "exampleRef": "1:p7",
+  "synonyms": [
+   "find",
+   "discovery"
+  ],
+  "antonyms": [],
+  "level": "C1",
+  "category": "historical"
+ },
+ {
+  "id": "treachery",
+  "word": "treachery",
+  "forms": [
+   "treacherous",
+   "treacherously"
+  ],
+  "ar": "الخيانة / الغدر",
+  "ipa": "/ˈtretʃ.ər.i/",
+  "pos": "noun",
+  "def": "The act of betraying someone who trusts you.",
+  "arExplain": "أن تخون من يثق بك. والصفة treacherous تعني غادرًا لا يؤمَن جانبه.",
+  "example": "on the memorable night of Manuel’s treachery.",
+  "exampleAr": "في تلك الليلة التي لا تُنسى، ليلة خيانة مانويل.",
+  "exampleRef": "1:p8",
+  "synonyms": [
+   "betrayal",
+   "disloyalty"
+  ],
+  "antonyms": [
+   "loyalty",
+   "faithfulness"
+  ],
+  "level": "C1",
+  "category": "literary"
+ },
+ {
+  "id": "growl",
+  "word": "growl",
+  "forms": [
+   "growled",
+   "growling",
+   "growls"
+  ],
+  "ar": "يزمجر / زمجرة",
+  "ipa": "/ɡraʊl/",
+  "pos": "verb",
+  "def": "(of an animal) to make a low, rough, angry sound in the throat as a warning.",
+  "arExplain": "صوت غليظ منخفض يُخرجه الكلب أو الحيوان من حلقه تحذيرًا وغضبًا قبل أن يهاجم.",
+  "example": "he growled menacingly.",
+  "exampleAr": "زمجر زمجرةً مهدِّدة.",
+  "exampleRef": "1:p11",
+  "synonyms": [
+   "snarl",
+   "rumble"
+  ],
+  "antonyms": [
+   "purr"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "kidnap",
+  "word": "kidnap",
+  "forms": [
+   "kidnapped",
+   "kidnapper"
+  ],
+  "ar": "يخطف",
+  "ipa": "/ˈkɪd.næp/",
+  "pos": "verb",
+  "def": "To take someone away illegally and by force, usually to get money.",
+  "arExplain": "أن يأخذ شخصٌ غيرَه بالقوة وبغير حق، غالبًا لطلب المال. والخاطف kidnapper.",
+  "example": "the unbridled anger of a kidnapped king.",
+  "exampleAr": "الغضب الجامح لملكٍ مخطوف.",
+  "exampleRef": "1:p12",
+  "synonyms": [
+   "abduct",
+   "seize"
+  ],
+  "antonyms": [
+   "release",
+   "free"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "saloon",
+  "word": "saloon",
+  "forms": [
+   "saloon-keeper"
+  ],
+  "ar": "حانة (في الغرب الأمريكي)",
+  "ipa": "/səˈluːn/",
+  "pos": "noun",
+  "def": "(American English, old-fashioned) A public bar where drinks were sold, especially in the 19th-century American West.",
+  "arExplain": "في الإنجليزية الأمريكية القديمة: مكان عام لبيع الشراب، وكان شائعًا في مدن الغرب الأمريكي ومرافئه. وsaloon-keeper صاحب الحانة.",
+  "example": "in a little shed back of a saloon on the San Francisco water front.",
+  "exampleAr": "في سقيفةٍ صغيرة خلف حانةٍ على واجهة سان فرانسيسكو البحرية.",
+  "exampleRef": "1:p14",
+  "synonyms": [
+   "bar",
+   "tavern"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "cultural"
+ },
+ {
+  "id": "crate",
+  "word": "crate",
+  "forms": [
+   "crates"
+  ],
+  "ar": "صندوق خشبي (للشحن)",
+  "ipa": "/kreɪt/",
+  "pos": "noun",
+  "def": "A large box made of wooden bars, used for carrying goods or animals.",
+  "arExplain": "صندوق كبير من ألواح أو قضبان خشبية، تُنقل فيه البضائع أو الحيوانات.",
+  "example": "he was flung into a cagelike crate.",
+  "exampleAr": "وقُذف به في صندوقٍ يشبه القفص.",
+  "exampleRef": "1:p22",
+  "synonyms": [
+   "box",
+   "cage"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "tormentor",
+  "word": "tormentor",
+  "forms": [
+   "tormentors",
+   "torment"
+  ],
+  "ar": "المعذِّب",
+  "ipa": "/tɔːˈmen.tə/",
+  "pos": "noun",
+  "def": "A person who causes another person or animal great pain or suffering on purpose.",
+  "arExplain": "من يُنزل بغيره الألم والعذاب عمدًا. والاسم torment يعني العذاب الشديد.",
+  "example": "Buck attempted to face his tormentors.",
+  "exampleAr": "حاول باك ... أن يواجه معذّبيه.",
+  "exampleRef": "1:p22",
+  "synonyms": [
+   "persecutor",
+   "abuser"
+  ],
+  "antonyms": [
+   "protector"
+  ],
+  "level": "C1",
+  "category": "literary"
+ },
+ {
+  "id": "wrath",
+  "word": "wrath",
+  "forms": [],
+  "ar": "الغضب الشديد / السخط",
+  "ipa": "/rɒθ/",
+  "pos": "noun",
+  "def": "(literary) Extreme anger.",
+  "arExplain": "كلمة أدبية قديمة تعني الغضب العارم، وتُستعمل كثيرًا في الكتب والنصوص الرفيعة.",
+  "example": "nursing his wrath and wounded pride.",
+  "exampleAr": "يكتم غضبه وكبرياءه الجريحة.",
+  "exampleRef": "1:p23",
+  "synonyms": [
+   "fury",
+   "rage"
+  ],
+  "antonyms": [
+   "calm",
+   "patience"
+  ],
+  "level": "C1",
+  "category": "literary"
+ },
+ {
+  "id": "club",
+  "word": "club",
+  "forms": [
+   "clubs",
+   "clubbed",
+   "clubbing"
+  ],
+  "ar": "هراوة",
+  "ipa": "/klʌb/",
+  "pos": "noun",
+  "def": "A heavy stick used as a weapon; (verb) to hit with such a stick.",
+  "arExplain": "عصا غليظة ثقيلة يُضرب بها. وفي الرواية رمزٌ لقوة الإنسان وقانون الشمال القاسي: «قانون الهراوة والناب».",
+  "example": "The man smiled grimly, and brought a hatchet and a club.",
+  "exampleAr": "فابتسم الرجل ابتسامةً قاتمة، وأحضر بلطةً وهراوة.",
+  "exampleRef": "1:p27",
+  "synonyms": [
+   "cudgel",
+   "stick"
+  ],
+  "antonyms": [],
+  "level": "B1",
+  "category": "intermediate"
+ },
+ {
+  "id": "bristle",
+  "word": "bristle",
+  "forms": [
+   "bristling",
+   "bristled"
+  ],
+  "ar": "ينتصب (الشعر) / ينفش شعره",
+  "ipa": "/ˈbrɪs.əl/",
+  "pos": "verb",
+  "def": "(of an animal's hair) to stand up stiffly because of anger or fear.",
+  "arExplain": "حين يغضب الكلب أو يخاف ينتصب شعر رقبته وظهره، فيبدو أكبر وأخطر.",
+  "example": "hair bristling, mouth foaming",
+  "exampleAr": "شعره منتصب، وفمه يزبد",
+  "exampleRef": "1:p33",
+  "synonyms": [
+   "stand on end",
+   "rise"
+  ],
+  "antonyms": [
+   "lie flat"
+  ],
+  "level": "C1",
+  "category": "literary"
+ },
+ {
+  "id": "snarl",
+  "word": "snarl",
+  "forms": [
+   "snarling",
+   "snarled"
+  ],
+  "ar": "يكشّر ويزمجر",
+  "ipa": "/snɑːl/",
+  "pos": "verb",
+  "def": "(of an animal) to make an angry sound while showing the teeth.",
+  "arExplain": "أن يكشف الحيوان عن أنيابه ويُخرج صوتًا غاضبًا، وهو أشدّ تهديدًا من growl.",
+  "example": "With a snarl that was part bark and more scream",
+  "exampleAr": "وبزمجرةٍ بعضها نباح وأكثرها صراخ",
+  "exampleRef": "1:p33",
+  "synonyms": [
+   "growl",
+   "bare teeth"
+  ],
+  "antonyms": [
+   "whimper"
+  ],
+  "level": "C1",
+  "category": "literary"
+ },
+ {
+  "id": "primitive",
+  "word": "primitive",
+  "forms": [],
+  "ar": "بدائي",
+  "ipa": "/ˈprɪm.ɪ.tɪv/",
+  "pos": "adjective",
+  "def": "Belonging to an early, simple stage of development; basic and wild, not civilized.",
+  "arExplain": "ما ينتمي إلى مرحلة أولى بسيطة قبل الحضارة. و«القانون البدائي» في الرواية هو قانون القوة والبقاء.",
+  "example": "It was his introduction to the reign of primitive law",
+  "exampleAr": "كانت مدخله إلى عهد القانون البدائي",
+  "exampleRef": "1:p41",
+  "synonyms": [
+   "primeval",
+   "basic"
+  ],
+  "antonyms": [
+   "civilized",
+   "advanced"
+  ],
+  "level": "B2",
+  "category": "advanced"
+ },
+ {
+  "id": "primordial",
+  "word": "primordial",
+  "forms": [],
+  "ar": "بدائي أوّلي / قديم قِدَم الخليقة",
+  "ipa": "/praɪˈmɔː.di.əl/",
+  "pos": "adjective",
+  "def": "Existing from the very beginning of time; very ancient and basic.",
+  "arExplain": "موجود منذ أول الزمان، أقدم وأعمق من «البدائي». ويستعمله لندن لوصف عالم الشمال البري.",
+  "example": "He had been suddenly jerked from the heart of civilization and flung into the heart of things primordial.",
+  "exampleAr": "لقد انتُزع فجأةً من قلب الحضارة وقُذف به إلى قلب الأشياء البدائية.",
+  "exampleRef": "2:p1",
+  "synonyms": [
+   "primeval",
+   "ancient"
+  ],
+  "antonyms": [
+   "modern"
+  ],
+  "level": "C2",
+  "category": "literary"
+ },
+ {
+  "id": "savage",
+  "word": "savage",
+  "forms": [
+   "savages",
+   "savagely",
+   "savagery"
+  ],
+  "ar": "متوحّش / شرس",
+  "ipa": "/ˈsæv.ɪdʒ/",
+  "pos": "noun",
+  "def": "A fierce, wild and violent creature; (adjective) fierce and cruel.",
+  "arExplain": "الكائن الشرس العنيف الذي لا يعرف قانونًا. وتأتي صفةً أيضًا: a savage growl أي زمجرة متوحشة.",
+  "example": "They were savages, all of them, who knew no law but the law of club and fang.",
+  "exampleAr": "كانوا متوحّشين جميعًا، لا يعرفون قانونًا إلا قانون الهراوة والناب.",
+  "exampleRef": "2:p1",
+  "synonyms": [
+   "brute",
+   "beast"
+  ],
+  "antonyms": [
+   "gentle"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "fang",
+  "word": "fang",
+  "forms": [
+   "fangs",
+   "fanged"
+  ],
+  "ar": "ناب",
+  "ipa": "/fæŋ/",
+  "pos": "noun",
+  "def": "A long, sharp tooth of a dog, wolf or snake.",
+  "arExplain": "السنّ الطويلة الحادة عند الكلب والذئب والأفعى. ومنها اسم رواية لندن الأخرى White Fang «الناب الأبيض».",
+  "example": "who knew no law but the law of club and fang.",
+  "exampleAr": "لا يعرفون قانونًا إلا قانون الهراوة والناب.",
+  "exampleRef": "2:p1",
+  "synonyms": [
+   "tusk",
+   "canine"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "husky",
+  "word": "husky",
+  "forms": [
+   "huskies"
+  ],
+  "ar": "كلب الهاسكي (كلب زلاجات شمالي)",
+  "ipa": "/ˈhʌs.ki/",
+  "pos": "noun",
+  "def": "A strong dog with thick fur, from the Arctic, used for pulling sleds.",
+  "arExplain": "كلب قوي كثيف الفراء من المناطق القطبية، يشبه الذئب، ويُستعمل لجرّ الزلاجات على الثلج.",
+  "example": "made advances to a husky dog the size of a full-grown wolf",
+  "exampleAr": "تودّدت ... إلى كلبٍ من كلاب الهاسكي في حجم ذئبٍ مكتمل",
+  "exampleRef": "2:p2",
+  "synonyms": [
+   "sled dog",
+   "malamute"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "cultural"
+ },
+ {
+  "id": "wolf",
+  "word": "wolf",
+  "forms": [
+   "wolves",
+   "wolfish",
+   "wolflike",
+   "wolf-cry"
+  ],
+  "ar": "ذئب",
+  "ipa": "/wʊlf/",
+  "pos": "noun",
+  "def": "A wild animal like a large dog that lives and hunts in groups (packs).",
+  "arExplain": "حيوان بري يشبه الكلب الكبير، يعيش ويصطاد في قطعان. وwolfish وwolflike تعنيان «كالذئب».",
+  "example": "It was the wolf manner of fighting, to strike and leap away",
+  "exampleAr": "كانت تلك طريقة الذئاب في القتال: أن تضرب ثم تقفز مبتعدة",
+  "exampleRef": "2:p3",
+  "synonyms": [],
+  "antonyms": [],
+  "level": "A2",
+  "category": "beginner"
+ },
+ {
+  "id": "harness",
+  "word": "harness",
+  "forms": [
+   "harnessed",
+   "harnessing",
+   "harnesses"
+  ],
+  "ar": "طقم الجرّ (أحزمة الحيوان)",
+  "ipa": "/ˈhɑː.nɪs/",
+  "pos": "noun",
+  "def": "A set of straps and buckles put on an animal so it can pull a sled or cart.",
+  "arExplain": "مجموعة من الأحزمة والإبزيمات تُشدّ على جسد الحيوان ليجرّ زلاجة أو عربة. وin harness أي مربوط ويعمل.",
+  "example": "It was a harness, such as he had seen the grooms put on the horses at home.",
+  "exampleAr": "كان ذلك طقم جرّ، كالذي رأى السُّيّاس يضعونه على الخيول في الوطن.",
+  "exampleRef": "2:p5",
+  "synonyms": [
+   "tack",
+   "straps"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "sled",
+  "word": "sled",
+  "forms": [
+   "sleds",
+   "sledded"
+  ],
+  "ar": "زلاجة",
+  "ipa": "/sled/",
+  "pos": "noun",
+  "def": "(mainly American English) A vehicle that slides over snow, pulled by dogs or horses; British English often says 'sledge'.",
+  "arExplain": "مركبة بلا عجلات تنزلق على الثلج وتجرّها الكلاب أو الخيول. والأمريكيون يقولون sled والبريطانيون sledge.",
+  "example": "hauling François on a sled to the forest that fringed the valley",
+  "exampleAr": "يجرّ فرانسوا على زلاجةٍ إلى الغابة التي تحفّ بالوادي",
+  "exampleRef": "2:p5",
+  "synonyms": [
+   "sledge",
+   "sleigh"
+  ],
+  "antonyms": [],
+  "level": "B1",
+  "category": "cultural"
+ },
+ {
+  "id": "wheeler",
+  "word": "wheeler",
+  "forms": [],
+  "ar": "كلب المؤخرة (الأقرب إلى الزلاجة)",
+  "ipa": "/ˈwiː.lə/",
+  "pos": "noun",
+  "def": "In a dog team, the dog harnessed nearest to the sled, which does the heaviest pulling.",
+  "arExplain": "الكلب المربوط في آخر الصفّ أمام الزلاجة مباشرة، ويقوم بأثقل العمل ويوجّه الزلاجة في المنعطفات.",
+  "example": "while Dave, who was an experienced wheeler, nipped Buck’s hind quarters whenever he was in error.",
+  "exampleAr": "بينما كان ديف، وهو كلب مؤخرة متمرّس، يعضّ أرداف باك كلما أخطأ.",
+  "exampleRef": "2:p5",
+  "synonyms": [
+   "wheel dog",
+   "sled dog"
+  ],
+  "antonyms": [
+   "leader"
+  ],
+  "level": "C2",
+  "category": "cultural"
+ },
+ {
+  "id": "trace",
+  "word": "trace",
+  "forms": [
+   "traces"
+  ],
+  "ar": "سير الجرّ (في طقم الحيوان)",
+  "ipa": "/treɪs/",
+  "pos": "noun",
+  "def": "Either of the two straps that connect an animal's harness to the sled or cart it pulls.",
+  "arExplain": "السيور الجلدية التي تربط طقم الكلب أو الحصان بالزلاجة أو العربة. وin the traces أي يعمل في الجرّ. (ولكلمة trace معنى آخر شائع: الأثر.)",
+  "example": "cunningly threw his weight in the traces to jerk Buck into the way he should go.",
+  "exampleAr": "أو يلقي بثقله بمكرٍ في السيور ليجرّ باك إلى الطريق الذي ينبغي أن يسلكه.",
+  "exampleRef": "2:p5",
+  "synonyms": [
+   "strap",
+   "harness line"
+  ],
+  "antonyms": [],
+  "level": "C2",
+  "category": "advanced"
+ },
+ {
+  "id": "mush",
+  "word": "mush",
+  "forms": [],
+  "ar": "«امشِ!» (أمر لكلاب الزلاجة)",
+  "ipa": "/mʌʃ/",
+  "pos": "exclamation",
+  "def": "(North American) A command telling a dog team to start or go forward; (verb) to travel by dog sled.",
+  "arExplain": "أمرٌ يصيح به سائق الزلاجة لتنطلق الكلاب، ويُرجَّح أنه من الفرنسية marche أي «امشِ». أما ho فأمر التوقف.",
+  "example": "to go ahead at “mush,”",
+  "exampleAr": "ويتقدّم عند «مَش»",
+  "exampleRef": "2:p5",
+  "synonyms": [
+   "go",
+   "hike"
+  ],
+  "antonyms": [
+   "ho",
+   "whoa"
+  ],
+  "level": "C2",
+  "category": "cultural"
+ },
+ {
+  "id": "trail",
+  "word": "trail",
+  "forms": [
+   "trails"
+  ],
+  "ar": "درب / طريق (في البرية)",
+  "ipa": "/treɪl/",
+  "pos": "noun",
+  "def": "A rough path or route across wild country; on the trail = travelling.",
+  "arExplain": "طريق غير معبّد يُسلك في البرية. وon the trail تعني في أثناء السفر، وbreak trail تعني شقّ طريق جديد في الثلج.",
+  "example": "who was in a hurry to be on the trail with his despatches",
+  "exampleAr": "وكان مستعجلًا للانطلاق على الطريق برسائله الرسمية",
+  "exampleRef": "2:p7",
+  "synonyms": [
+   "path",
+   "track"
+  ],
+  "antonyms": [],
+  "level": "B1",
+  "category": "intermediate"
+ },
+ {
+  "id": "gaunt",
+  "word": "gaunt",
+  "forms": [],
+  "ar": "هزيل / ناحل",
+  "ipa": "/ɡɔːnt/",
+  "pos": "adjective",
+  "def": "Very thin and bony, often because of hunger, age or hard life.",
+  "arExplain": "شديد النحول تبرز عظامه، من الجوع أو الكِبَر أو قسوة الحياة.",
+  "example": "an old husky, long and lean and gaunt",
+  "exampleAr": "هاسكي عجوز، طويلٍ نحيلٍ هزيل",
+  "exampleRef": "2:p8",
+  "synonyms": [
+   "bony",
+   "haggard"
+  ],
+  "antonyms": [
+   "plump",
+   "stout"
+  ],
+  "level": "C1",
+  "category": "literary"
+ },
+ {
+  "id": "forlorn",
+  "word": "forlorn",
+  "forms": [],
+  "ar": "بائس وحيد",
+  "ipa": "/fəˈlɔːn/",
+  "pos": "adjective",
+  "def": "Lonely, sad and without hope.",
+  "arExplain": "يوصف به من يشعر بالوحدة والحزن وفقدان العون، كمن تُرك وحده في مكان غريب.",
+  "example": "With drooping tail and shivering body, very forlorn indeed, he aimlessly circled the tent.",
+  "exampleAr": "وبذيلٍ متدلٍّ وجسدٍ يرتجف، بائسًا وحيدًا حقًّا، دار حول الخيمة بلا هدف.",
+  "exampleRef": "2:p10",
+  "synonyms": [
+   "lonely",
+   "miserable"
+  ],
+  "antonyms": [
+   "cheerful"
+  ],
+  "level": "C1",
+  "category": "literary"
+ },
+ {
+  "id": "glacier",
+  "word": "glacier",
+  "forms": [
+   "glaciers"
+  ],
+  "ar": "نهر جليدي",
+  "ipa": "/ˈɡlæs.i.ə/",
+  "pos": "noun",
+  "def": "A huge mass of ice that moves very slowly down a mountain or valley.",
+  "arExplain": "كتلة ضخمة من الجليد تتحرك ببطء شديد على سفوح الجبال أو في الأودية، وتوجد في المناطق الباردة.",
+  "example": "across glaciers and snowdrifts hundreds of feet deep",
+  "exampleAr": "عبر الأنهار الجليدية وأكوام الثلج التي يبلغ عمقها مئات الأقدام",
+  "exampleRef": "2:p18",
+  "synonyms": [
+   "ice field"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "ravenous",
+  "word": "ravenous",
+  "forms": [],
+  "ar": "جائع جدًّا / شَرِه",
+  "ipa": "/ˈræv.ən.əs/",
+  "pos": "adjective",
+  "def": "Extremely hungry.",
+  "arExplain": "شديد الجوع إلى حدّ أنه يأكل كل ما يجده بسرعة.",
+  "example": "Buck was ravenous.",
+  "exampleAr": "كان باك جائعًا جوعًا شديدًا.",
+  "exampleRef": "2:p20",
+  "synonyms": [
+   "starving",
+   "famished"
+  ],
+  "antonyms": [
+   "full",
+   "satisfied"
+  ],
+  "level": "C1",
+  "category": "advanced"
+ },
+ {
+  "id": "adaptability",
+  "word": "adaptability",
+  "forms": [],
+  "ar": "القدرة على التكيّف",
+  "ipa": "/əˌdæp.təˈbɪl.ə.ti/",
+  "pos": "noun",
+  "def": "The ability to change your behaviour to suit new conditions.",
+  "arExplain": "قدرة الكائن على تغيير سلوكه ليناسب ظروفًا جديدة، وهي في الرواية سرّ بقاء باك.",
+  "example": "It marked his adaptability, his capacity to adjust himself to changing conditions",
+  "exampleAr": "كانت علامةً على قدرته على التكيّف، وعلى استطاعته أن يوائم نفسه مع الظروف المتغيّرة",
+  "exampleRef": "2:p22",
+  "synonyms": [
+   "flexibility"
+  ],
+  "antonyms": [
+   "rigidity"
+  ],
+  "level": "C1",
+  "category": "advanced"
+ },
+ {
+  "id": "instinct",
+  "word": "instinct",
+  "forms": [
+   "instincts",
+   "instinctively"
+  ],
+  "ar": "غريزة",
+  "ipa": "/ˈɪn.stɪŋkt/",
+  "pos": "noun",
+  "def": "A natural way of behaving that an animal or person is born with, not learned.",
+  "arExplain": "سلوك فطري يولد به الحيوان أو الإنسان دون أن يتعلّمه، كخوف الحيوان البري من الفخ.",
+  "example": "And not only did he learn by experience, but instincts long dead became alive again.",
+  "exampleAr": "ولم يكن يتعلّم بالتجربة فحسب، بل إن غرائز ماتت منذ زمنٍ طويل عادت إلى الحياة.",
+  "exampleRef": "2:p25",
+  "synonyms": [
+   "intuition",
+   "nature"
+  ],
+  "antonyms": [
+   "learning"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "ancestor",
+  "word": "ancestor",
+  "forms": [
+   "ancestors"
+  ],
+  "ar": "سَلَف / جَدّ",
+  "ipa": "/ˈæn.ses.tə/",
+  "pos": "noun",
+  "def": "A person or animal in your family who lived a long time before you.",
+  "arExplain": "من عاش قبلك بزمنٍ طويل من أصلك، كالأجداد وأجداد الأجداد.",
+  "example": "In this manner had fought forgotten ancestors.",
+  "exampleAr": "هكذا قاتل أسلافٌ منسيّون.",
+  "exampleRef": "2:p25",
+  "synonyms": [
+   "forebear",
+   "forefather"
+  ],
+  "antonyms": [
+   "descendant"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "howl",
+  "word": "howl",
+  "forms": [
+   "howled",
+   "howling"
+  ],
+  "ar": "يعوي / عُواء",
+  "ipa": "/haʊl/",
+  "pos": "verb",
+  "def": "(of a wolf or dog) to make a long, loud, sad cry.",
+  "arExplain": "صوت الذئب أو الكلب الطويل العالي الحزين، وغالبًا في الليل.",
+  "example": "he pointed his nose at a star and howled long and wolflike",
+  "exampleAr": "يرفع أنفه نحو نجمٍ ويعوي عواءً طويلًا كعواء الذئاب",
+  "exampleRef": "2:p25",
+  "synonyms": [
+   "wail",
+   "bay"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "intermediate"
+ }
+]
