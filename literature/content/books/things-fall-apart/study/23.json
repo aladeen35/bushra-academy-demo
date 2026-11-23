@@ -1,0 +1,172 @@
+{
+ "chapter": 23,
+ "summary": {
+  "en": "Okonkwo feels almost happy, because the clan has finally acted. For two days armed men are on guard, but nothing happens. Then the District Commissioner returns and invites six leaders of Umuofia, including Okonkwo, to a friendly meeting to discuss what happened. The men come armed with their machetes but lay them down to be polite. As soon as they sit, they are surrounded, handcuffed and thrown into the guardroom. The commissioner announces a fine and says they will be released when it is paid. While he is away, the court messengers shave the prisoners' heads, mock them and give them little food. The messengers also tell the village that the fine is higher than it really is, keeping the difference. The villagers collect the money quickly.",
+  "ar": "يشعر أوكونكوو بشيء قريب من السعادة لأن العشيرة تحركت أخيرًا. يقف رجال مسلحون للحراسة يومين، لكن لا شيء يحدث. ثم يعود مفوض المقاطعة ويدعو ستة من زعماء أوموفيا، بينهم أوكونكوو، إلى اجتماع ودّي لمناقشة ما جرى. يأتي الرجال حاملين سواطيرهم لكنهم يضعونها جانبًا تأدبًا. وما إن يجلسوا حتى يُحاصروا ويُقيَّدوا بالأصفاد ويُلقوا في غرفة الحراسة. يعلن المفوض غرامة ويقول إنهم سيُطلقون حين تُدفع. وفي غيابه يحلق رسل المحكمة رؤوس السجناء ويسخرون منهم ولا يعطونهم إلا القليل من الطعام. ويخبر الرسل القرية أيضًا أن الغرامة أكبر من حقيقتها ليحتفظوا بالفرق لأنفسهم. ويجمع القرويون المال بسرعة."
+ },
+ "objectives": [
+  {
+   "en": "Explain how the leaders are deceived and arrested.",
+   "ar": "أن تشرح كيف خُدع الزعماء واعتُقلوا."
+  },
+  {
+   "en": "Discuss the abuse of power by the court messengers.",
+   "ar": "أن تناقش إساءة رسل المحكمة استعمال سلطتهم."
+  },
+  {
+   "en": "Use \"as soon as\", \"no sooner … than\" for quick sequences.",
+   "ar": "أن تستخدم as soon as و no sooner … than للأحداث المتتابعة بسرعة."
+  }
+ ],
+ "vocab": [
+  "humiliate",
+  "handcuff",
+  "deceive",
+  "ransom",
+  "treacherous",
+  "imprison",
+  "penalty",
+  "court-messenger",
+  "district-commissioner",
+  "indignation"
+ ],
+ "grammar": [
+  {
+   "id": "tfa-23-no-sooner",
+   "topic": "complex",
+   "level": "B2",
+   "title": {
+    "en": "As soon as / no sooner … than",
+    "ar": "as soon as و no sooner … than"
+   },
+   "explain": {
+    "en": "\"As soon as\" joins two events that happen one right after the other. \"No sooner had + subject + past participle … than\" is a more formal pattern with inverted word order.",
+    "ar": "تربط as soon as بين حدثين متتاليين مباشرة، أما no sooner had + الفاعل + التصريف الثالث … than فصيغة أكثر رسمية بترتيب مقلوب."
+   },
+   "example": {
+    "en": "No sooner had the guests sat down than the guards surrounded them.",
+    "ar": "ما إن جلس الضيوف حتى أحاط بهم الحراس."
+   },
+   "exercise": {
+    "q": {
+     "en": "Choose: No sooner ___ the money arrived than the men were released.",
+     "ar": "اختر: ما إن ___ المال حتى أُطلق سراح الرجال."
+    },
+    "options": [
+     "had",
+     "has",
+     "did"
+    ],
+    "answer": 0,
+    "why": {
+     "en": "The pattern is \"No sooner had + subject + past participle\".",
+     "ar": "الصيغة No sooner had + الفاعل + التصريف الثالث."
+    }
+   }
+  }
+ ],
+ "culture": [
+  {
+   "term": "Colonial fines",
+   "en": "Collective fines on whole villages were a common colonial punishment. They hurt everyone, not only those accused, and were often collected by force.",
+   "ar": "كانت الغرامات الجماعية على قرى بأكملها عقوبة استعمارية شائعة، تضر الجميع لا المتهمين وحدهم، وكثيرًا ما كانت تُجبى بالقوة."
+  },
+  {
+   "term": "Shaving the head",
+   "en": "For proud men of title, having their heads shaved by force and being mocked by younger men was a deep humiliation.",
+   "ar": "كان حلق الرؤوس بالقوة والسخرية من قِبل رجال أصغر سنًا إذلالًا عميقًا لرجال أصحاب ألقاب وكرامة."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "How are the six leaders arrested?",
+    "ar": "كيف اعتُقل الزعماء الستة؟"
+   },
+   "options": [
+    "In battle",
+    "After being invited to a friendly meeting",
+    "At the market",
+    "At night in their homes"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "They are tricked into coming and then handcuffed.",
+    "ar": "خُدعوا ليحضروا ثم قُيّدوا."
+   }
+  },
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "What do the court messengers do to the prisoners?",
+    "ar": "ماذا فعل رسل المحكمة بالسجناء؟"
+   },
+   "options": [
+    "Treat them as guests",
+    "Shave their heads and mock them",
+    "Teach them to read",
+    "Free them early"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "They humiliate the men while the commissioner is away.",
+    "ar": "يذلّون الرجال في غياب المفوض."
+   }
+  },
+  {
+   "type": "vocab",
+   "q": {
+    "en": "\"Treacherous\" describes someone who…",
+    "ar": "treacherous تصف من…"
+   },
+   "options": [
+    "keeps promises",
+    "betrays people who trust him",
+    "is very kind",
+    "works hard"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "The invitation was a treacherous trick.",
+    "ar": "كانت الدعوة حيلة غادرة."
+   }
+  },
+  {
+   "type": "context",
+   "q": {
+    "en": "Why do the messengers tell the village a higher fine?",
+    "ar": "لماذا أبلغ الرسل القرية بغرامة أعلى؟"
+   },
+   "options": [
+    "To help the village",
+    "To keep the extra money for themselves",
+    "Because the commissioner changed it",
+    "By mistake"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "They profit from the people's fear.",
+    "ar": "يستغلون خوف الناس لمصلحتهم."
+   }
+  },
+  {
+   "type": "grammar",
+   "q": {
+    "en": "Choose: ___ he heard the news, he ran home.",
+    "ar": "اختر: ___ سمع الخبر ركض إلى البيت."
+   },
+   "options": [
+    "As soon as",
+    "No sooner",
+    "Since then",
+    "During"
+   ],
+   "answer": 0,
+   "explain": {
+    "en": "\"As soon as\" joins two quick events.",
+    "ar": "as soon as تربط حدثين سريعين."
+   }
+  }
+ ]
+}

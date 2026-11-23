@@ -1,0 +1,172 @@
+{
+ "chapter": 20,
+ "summary": {
+  "en": "Okonkwo returns to Umuofia full of plans. He wants to rebuild his compound on a grander scale, marry two more wives, take more titles and arrange good marriages for his daughters, especially Ezinma, who agrees to marry in Umuofia. But the clan has changed during his seven years away. The church has won many converts, including some men of title. The white men have also set up a government with a court, a prison and a District Commissioner who judges cases without understanding local customs. His court messengers, men from another area, are hated for their arrogance. Obierika tells Okonkwo that a man was hanged after a land dispute. When Okonkwo asks why the clan does not fight, Obierika explains that the clan is no longer united.",
+  "ar": "يعود أوكونكوو إلى أوموفيا مليئًا بالخطط. فهو يريد أن يعيد بناء مجمعه على نطاق أكبر، ويتزوج زوجتين أخريين، وينال ألقابًا أكثر، ويرتّب زيجات طيبة لبناته، وخاصة إيزينما الجميلة التي توافق على الانتظار والزواج في أوموفيا. لكن العشيرة تغيّرت خلال سنوات غيابه السبع. فقد كسبت الكنيسة متحولين كثيرين، منهم بعض أصحاب الألقاب. وأقام البيض أيضًا حكومة فيها محكمة وسجن ومفوّض للمقاطعة يحكم في القضايا دون فهم لعادات أهل البلد. أما رسل محكمته، وهم رجال من منطقة أخرى، فمكروهون لغطرستهم. ويخبر أوبييريكا أوكونكوو أن رجلًا شُنق بعد نزاع على أرض. وحين يسأله أوكونكوو لماذا لا تقاتل العشيرة، يشرح له أوبييريكا أن العشيرة لم تعد متحدة."
+ },
+ "objectives": [
+  {
+   "en": "Describe the changes Okonkwo finds when he returns.",
+   "ar": "أن تصف التغييرات التي وجدها أوكونكوو عند عودته."
+  },
+  {
+   "en": "Explain how colonial government replaced local authority.",
+   "ar": "أن تشرح كيف حلّت الحكومة الاستعمارية محل السلطة المحلية."
+  },
+  {
+   "en": "Use the present perfect and past simple to contrast \"then\" and \"now\".",
+   "ar": "أن تستخدم المضارع التام والماضي البسيط للمقارنة بين الماضي والحاضر."
+  }
+ ],
+ "vocab": [
+  "district-commissioner",
+  "court-messenger",
+  "kotma",
+  "colonial",
+  "imprison",
+  "execute",
+  "administer",
+  "unity",
+  "authority",
+  "dispute"
+ ],
+ "grammar": [
+  {
+   "id": "tfa-20-present-perfect",
+   "topic": "tenses",
+   "level": "B1",
+   "title": {
+    "en": "Present perfect vs. past simple",
+    "ar": "المضارع التام مقابل الماضي البسيط"
+   },
+   "explain": {
+    "en": "Use the present perfect (have/has + past participle) for changes that connect the past to now. Use the past simple for finished events at a specific time.",
+    "ar": "نستخدم المضارع التام (have/has + التصريف الثالث) للتغييرات التي تربط الماضي بالحاضر، والماضي البسيط لأحداث انتهت في وقت محدد."
+   },
+   "example": {
+    "en": "A lot has changed since he left, and many old friends have joined the new church.",
+    "ar": "تغيّر الكثير منذ رحيله، وانضم كثير من أصدقائه القدامى إلى الكنيسة الجديدة."
+   },
+   "exercise": {
+    "q": {
+     "en": "Choose: The village ___ a new court since last year.",
+     "ar": "اختر: ___ القرية محكمة جديدة منذ العام الماضي."
+    },
+    "options": [
+     "has had",
+     "had",
+     "have"
+    ],
+    "answer": 0,
+    "why": {
+     "en": "\"Since\" with a situation continuing to now uses the present perfect.",
+     "ar": "since مع حالة مستمرة إلى الآن تستخدم المضارع التام."
+    }
+   }
+  }
+ ],
+ "culture": [
+  {
+   "term": "Indirect rule",
+   "en": "Britain governed Nigeria with very few officials. It used appointed local agents, courts and messengers, often from other regions, which caused resentment and misunderstanding.",
+   "ar": "حكمت بريطانيا نيجيريا بعدد قليل جدًا من الموظفين، فاستعانت بوكلاء محليين معيّنين ومحاكم ورسل كثيرًا ما كانوا من مناطق أخرى، مما ولّد الاستياء وسوء الفهم."
+  },
+  {
+   "term": "Kotma",
+   "en": "Villagers called the court messengers \"kotma\", an Igbo version of the English words. The name shows how foreign the new system felt.",
+   "ar": "سمّى القرويون رسل المحكمة «كوتما»، وهي نطق إيبوي للكلمات الإنجليزية، ويدل الاسم على غرابة النظام الجديد في نظرهم."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "What are Okonkwo's plans on his return?",
+    "ar": "ما خطط أوكونكوو عند عودته؟"
+   },
+   "options": [
+    "To join the church",
+    "To rebuild grandly and regain his high position",
+    "To leave Umuofia forever",
+    "To become a court messenger"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "He wants to recover his status and more.",
+    "ar": "يريد استعادة مكانته وأكثر."
+   }
+  },
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "What new institutions have the white men set up?",
+    "ar": "ما المؤسسات الجديدة التي أقامها البيض؟"
+   },
+   "options": [
+    "A wrestling school",
+    "A church, a court and a prison",
+    "A new market only",
+    "An oracle"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "Religion and government have both arrived.",
+    "ar": "وصل الدين والحكم كلاهما."
+   }
+  },
+  {
+   "type": "vocab",
+   "q": {
+    "en": "To \"administer\" a region means to…",
+    "ar": "administer منطقة تعني…"
+   },
+   "options": [
+    "leave it",
+    "govern it",
+    "destroy it",
+    "buy it"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "The District Commissioner administers the area.",
+    "ar": "يدير مفوض المقاطعة المنطقة."
+   }
+  },
+  {
+   "type": "context",
+   "q": {
+    "en": "Why, according to Obierika, can the clan not fight back?",
+    "ar": "لماذا لا تستطيع العشيرة المقاومة بحسب أوبييريكا؟"
+   },
+   "options": [
+    "It has no weapons at all",
+    "It is no longer united, as some of its own people have joined the newcomers",
+    "The oracle forbids it",
+    "Okonkwo is too old"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "Division inside the clan has weakened it.",
+    "ar": "أضعفها الانقسام الداخلي."
+   }
+  },
+  {
+   "type": "grammar",
+   "q": {
+    "en": "Choose the correct sentence.",
+    "ar": "اختر الجملة الصحيحة."
+   },
+   "options": [
+    "He has returned yesterday.",
+    "He returned yesterday.",
+    "He have returned yesterday.",
+    "He returning yesterday."
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "\"Yesterday\" is a finished time, so we use the past simple.",
+    "ar": "yesterday زمن منتهٍ فنستخدم الماضي البسيط."
+   }
+  }
+ ]
+}

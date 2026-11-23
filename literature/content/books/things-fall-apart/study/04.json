@@ -1,0 +1,172 @@
+{
+ "chapter": 4,
+ "summary": {
+  "en": "Ikemefuna is at first frightened and homesick, but slowly he becomes part of Okonkwo's family. He is lively and knows many stories, and Nwoye admires him. Okonkwo is fond of the boy too, but he never shows it, because he thinks showing affection is a sign of weakness. During the Week of Peace, a sacred time before planting, Okonkwo beats his youngest wife because she did not come home to cook. Breaking the peace is a serious offence. The priest of the earth goddess scolds him and orders him to bring an offering to her shrine. Okonkwo obeys and privately feels sorry, but he does not admit it in public. The chapter ends with the hard work of the planting season.",
+  "ar": "يكون إيكيميفونا في البداية خائفًا ومشتاقًا إلى أهله، لكنه يصبح شيئًا فشيئًا فردًا من أسرة أوكونكوو. فهو مرح ويعرف حكايات كثيرة، ويُعجب به نوويي. ويحب أوكونكوو الصبي أيضًا لكنه لا يُظهر ذلك أبدًا، لأنه يرى إظهار العاطفة علامة ضعف. وفي أسبوع السلام، وهو وقت مقدّس قبل الزراعة، يضرب أوكونكوو زوجته الصغرى لأنها لم تعد إلى البيت لتطبخ. وكسر السلام في هذا الأسبوع مخالفة خطيرة، فيوبّخه كاهن إلهة الأرض ويأمره بتقديم قربان إلى مزارها. يطيع أوكونكوو ويشعر بالندم في داخله، لكنه لا يعترف بذلك أمام الناس. وينتهي الفصل بوصف العمل الشاق في موسم الزراعة."
+ },
+ "objectives": [
+  {
+   "en": "Describe how Ikemefuna joins the family and his friendship with Nwoye.",
+   "ar": "أن تصف كيف انضم إيكيميفونا إلى الأسرة وصداقته مع نوويي."
+  },
+  {
+   "en": "Explain the meaning of the Week of Peace and why Okonkwo is punished.",
+   "ar": "أن تشرح معنى أسبوع السلام ولماذا عوقب أوكونكوو."
+  },
+  {
+   "en": "Use \"should have\" to talk about past mistakes.",
+   "ar": "أن تستخدم should have للحديث عن أخطاء الماضي."
+  }
+ ],
+ "vocab": [
+  "week-of-peace",
+  "ani",
+  "sacrilege",
+  "penalty",
+  "reprimand",
+  "homesick",
+  "temper",
+  "humble",
+  "prestige",
+  "harmony"
+ ],
+ "grammar": [
+  {
+   "id": "tfa-4-should-have",
+   "topic": "tenses",
+   "level": "B1",
+   "title": {
+    "en": "Should have + past participle",
+    "ar": "should have + التصريف الثالث"
+   },
+   "explain": {
+    "en": "Use \"should have\" + past participle to say that something was the right thing to do in the past but did not happen. It is often used for regret or criticism.",
+    "ar": "نستخدم should have + التصريف الثالث لنقول إن أمرًا كان صحيحًا فعله في الماضي لكنه لم يحدث، وتُستعمل غالبًا للندم أو اللوم."
+   },
+   "example": {
+    "en": "He should have controlled his anger during the sacred week.",
+    "ar": "كان ينبغي أن يتحكم في غضبه خلال الأسبوع المقدس."
+   },
+   "exercise": {
+    "q": {
+     "en": "Choose: She ___ home earlier to cook the meal.",
+     "ar": "اختر: ___ أن تعود إلى البيت مبكرًا لتطبخ الطعام."
+    },
+    "options": [
+     "should have come",
+     "should came",
+     "should has come"
+    ],
+    "answer": 0,
+    "why": {
+     "en": "The correct form is should have + past participle (come).",
+     "ar": "الصيغة الصحيحة should have + التصريف الثالث (come)."
+    }
+   }
+  }
+ ],
+ "culture": [
+  {
+   "term": "The Week of Peace",
+   "en": "Before planting, the clan honoured the earth goddess with a week in which no one should speak harshly or hurt a neighbour. People believed that peace in the village helped bring a good harvest.",
+   "ar": "قبل الزراعة كانت العشيرة تكرّم إلهة الأرض في معتقدها بأسبوع لا يجوز فيه القول الجارح ولا أذى الجار، إذ كانوا يرون أن السلام في القرية يجلب محصولًا طيبًا."
+  },
+  {
+   "term": "Ani, the earth goddess",
+   "en": "Ani was the most important deity in daily Igbo life. She was linked to the soil, to fertility and to right behaviour; many offences were judged as offences against her.",
+   "ar": "كانت آني أهم الآلهة في الحياة اليومية عند الإيبو في معتقدهم التقليدي، وترتبط بالتربة والخصوبة وحسن السلوك، وتُعدّ مخالفات كثيرة اعتداءً عليها."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "How does Ikemefuna feel when he first arrives?",
+    "ar": "كيف كان شعور إيكيميفونا حين وصل أول مرة؟"
+   },
+   "options": [
+    "Excited and proud",
+    "Frightened and homesick",
+    "Angry and violent",
+    "Bored"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "He misses his mother and his village at first.",
+    "ar": "كان يشتاق إلى أمه وقريته في البداية."
+   }
+  },
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "Why is Okonkwo punished in this chapter?",
+    "ar": "لماذا عوقب أوكونكوو في هذا الفصل؟"
+   },
+   "options": [
+    "He stole yams",
+    "He beat his wife during the Week of Peace",
+    "He missed a meeting",
+    "He refused to wrestle"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "Violence during the sacred week was an offence against the earth goddess.",
+    "ar": "العنف في الأسبوع المقدس كان مخالفة في حق إلهة الأرض."
+   }
+  },
+  {
+   "type": "vocab",
+   "q": {
+    "en": "To \"reprimand\" someone means to…",
+    "ar": "reprimand تعني…"
+   },
+   "options": [
+    "praise them",
+    "scold them for doing wrong",
+    "pay them",
+    "invite them"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "The priest reprimands Okonkwo for breaking the peace.",
+    "ar": "يوبّخ الكاهن أوكونكوو لكسره السلام."
+   }
+  },
+  {
+   "type": "context",
+   "q": {
+    "en": "Why does Okonkwo hide his affection for Ikemefuna?",
+    "ar": "لماذا يخفي أوكونكوو محبته لإيكيميفونا؟"
+   },
+   "options": [
+    "He does not like children",
+    "He thinks showing feelings is weak",
+    "The priest told him to",
+    "Ikemefuna asked him to"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "He believes that only anger is a manly emotion to show.",
+    "ar": "يعتقد أن الغضب وحده هو العاطفة التي يليق بالرجل إظهارها."
+   }
+  },
+  {
+   "type": "grammar",
+   "q": {
+    "en": "Choose the correct sentence.",
+    "ar": "اختر الجملة الصحيحة."
+   },
+   "options": [
+    "He should have listen to the priest.",
+    "He should have listened to the priest.",
+    "He should listened to the priest.",
+    "He should has listened to the priest."
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "should have + past participle (listened).",
+    "ar": "should have + التصريف الثالث (listened)."
+   }
+  }
+ ]
+}

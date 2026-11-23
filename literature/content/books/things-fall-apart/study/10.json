@@ -1,0 +1,173 @@
+{
+ "chapter": 10,
+ "summary": {
+  "en": "The village gathers for a public trial held by the egwugwu, masked figures who represent the ancestral spirits of the clan. The women watch from a distance, and some notice that one of the spirits walks like Okonkwo, but they keep this to themselves. A man named Uzowulu complains that his wife's brothers took her away and have not returned her bride price. Her family answers that he beat her cruelly and often. The egwugwu listen to both sides and then give their decision: Uzowulu must bring wine to his wife's family and politely ask her to return, and her family must let her go back if he does. The chapter shows a traditional system of justice that values peace and order.",
+  "ar": "تجتمع القرية لمحاكمة علنية يقيمها الإغووغوو، وهم شخصيات مقنّعة تمثّل أرواح أسلاف العشيرة. تراقب النساء من بعيد، وتلاحظ بعضهن أن واحدًا من الأرواح يمشي مثل أوكونكوو، لكنهن يحتفظن بذلك لأنفسهن. يشكو رجل اسمه أوزوولو أن إخوة زوجته أخذوها ولم يردّوا له مهرها. فيجيب أهلها بأنه كان يضربها بقسوة وكثيرًا. يستمع الإغووغوو إلى الطرفين ثم يصدرون حكمهم: على أوزوولو أن يحمل شرابًا إلى أهل زوجته ويطلب منهم بأدب أن تعود إليه، وعلى أهلها أن يسمحوا بعودتها إن فعل ذلك. يُظهر الفصل نظامًا تقليديًا للعدالة يقدّر السلام والنظام، ويحاول إصلاح ذات البين بدل العقاب."
+ },
+ "objectives": [
+  {
+   "en": "Describe how the egwugwu settle a dispute.",
+   "ar": "أن تصف كيف يفصل الإغووغوو في نزاع."
+  },
+  {
+   "en": "Discuss what this trial shows about justice and gender in Umuofia.",
+   "ar": "أن تناقش ما تكشفه هذه المحاكمة عن العدالة ووضع المرأة في أوموفيا."
+  },
+  {
+   "en": "Use reported speech to retell what each side said.",
+   "ar": "أن تستخدم الكلام المنقول لإعادة رواية ما قاله كل طرف."
+  }
+ ],
+ "vocab": [
+  "egwugwu",
+  "masquerade",
+  "mask",
+  "dispute",
+  "verdict",
+  "justice",
+  "elder",
+  "ancestral",
+  "reconcile",
+  "ndichie",
+  "assembly"
+ ],
+ "grammar": [
+  {
+   "id": "tfa-10-reported-statements",
+   "topic": "reported",
+   "level": "B1",
+   "title": {
+    "en": "Reported statements",
+    "ar": "الكلام المنقول (الإخبار)"
+   },
+   "explain": {
+    "en": "When we report what someone said, we often move the verb one step back in time (is → was, has → had) and change pronouns. We use \"said\" or \"told + person\".",
+    "ar": "عند نقل كلام شخص نرجع الفعل غالبًا خطوة في الزمن (is ← was، has ← had) ونغيّر الضمائر، ونستخدم said أو told مع الشخص."
+   },
+   "example": {
+    "en": "The husband said that his wife's family had taken her away.",
+    "ar": "قال الزوج إن أهل زوجته قد أخذوها."
+   },
+   "exercise": {
+    "q": {
+     "en": "Report: \"I want peace,\" the elder said. → The elder said that he ___ peace.",
+     "ar": "انقل: قال الشيخ «أريد السلام» ← قال الشيخ إنه ___ السلام."
+    },
+    "options": [
+     "wanted",
+     "wants to",
+     "was want"
+    ],
+    "answer": 0,
+    "why": {
+     "en": "\"Want\" moves back to \"wanted\" in reported speech.",
+     "ar": "يتحول want إلى wanted في الكلام المنقول."
+    }
+   }
+  }
+ ],
+ "culture": [
+  {
+   "term": "The egwugwu",
+   "en": "The egwugwu were masked men who represented the ancestral spirits. When they appeared, they were treated as spirits, not as neighbours, and they acted as the highest court of the clan.",
+   "ar": "الإغووغوو رجال مقنّعون يمثلون أرواح الأسلاف، وعند ظهورهم يُعاملون كأرواح لا كجيران، ويعملون كأعلى محكمة في العشيرة."
+  },
+  {
+   "term": "Justice as reconciliation",
+   "en": "The aim of the trial is to restore peace between families rather than to punish. The decision asks both sides to give something.",
+   "ar": "تهدف المحاكمة إلى إعادة السلام بين الأسر لا إلى العقاب، فالحكم يطلب من الطرفين تنازلًا."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "Who are the egwugwu?",
+    "ar": "من هم الإغووغوو؟"
+   },
+   "options": [
+    "Foreign soldiers",
+    "Masked figures representing ancestral spirits",
+    "Market traders",
+    "Okonkwo's sons"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "They represent the spirits of the ancestors and judge disputes.",
+    "ar": "يمثلون أرواح الأسلاف ويفصلون في النزاعات."
+   }
+  },
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "What does Uzowulu's wife's family say about him?",
+    "ar": "ماذا قال أهل زوجة أوزوولو عنه؟"
+   },
+   "options": [
+    "He is lazy",
+    "He beat her",
+    "He is too poor",
+    "He stole yams"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "They say he beat her, so they took her home.",
+    "ar": "قالوا إنه كان يضربها فأعادوها إلى بيتهم."
+   }
+  },
+  {
+   "type": "vocab",
+   "q": {
+    "en": "A \"verdict\" is…",
+    "ar": "الـ verdict هو…"
+   },
+   "options": [
+    "a question",
+    "the decision at the end of a trial",
+    "a kind of mask",
+    "a payment"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "The egwugwu give their verdict after hearing both sides.",
+    "ar": "يصدر الإغووغوو حكمهم بعد سماع الطرفين."
+   }
+  },
+  {
+   "type": "context",
+   "q": {
+    "en": "What is the aim of the egwugwu's decision?",
+    "ar": "ما هدف حكم الإغووغوو؟"
+   },
+   "options": [
+    "To punish the wife",
+    "To restore peace between the families",
+    "To send Uzowulu into exile",
+    "To take his land"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "The decision encourages both sides to reconcile.",
+    "ar": "يشجع الحكم الطرفين على الصلح."
+   }
+  },
+  {
+   "type": "grammar",
+   "q": {
+    "en": "Report: \"We are tired,\" they said.",
+    "ar": "انقل: قالوا «نحن متعبون»."
+   },
+   "options": [
+    "They said that they were tired.",
+    "They said that we are tired.",
+    "They said they tired.",
+    "They say that they was tired."
+   ],
+   "answer": 0,
+   "explain": {
+    "en": "\"Are\" becomes \"were\" and \"we\" becomes \"they\".",
+    "ar": "are تصبح were و we تصبح they."
+   }
+  }
+ ]
+}

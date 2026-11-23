@@ -1,0 +1,375 @@
+{
+  "chapter": 1,
+  "summary": {
+    "en": "Over breakfast in Park Lane, Rose, the wife of Lord Burlesdon, scolds her brother-in-law Rudolf Rassendyll: he is twenty-nine, has a comfortable income and does nothing useful. She also dislikes his dark-red hair and long, straight nose. Rudolf explains why. In 1733 a visiting prince, later King Rudolf III of Ruritania, fought a duel in England with the Earl of Burlesdon and had to leave quietly. Since then the red hair and nose of the royal Elphbergs have appeared now and then in the Rassendyll family. To please Rose, Rudolf agrees to join Sir Jacob Borrodaile's embassy as an attaché in six months. Meanwhile, curious about Ruritania and the coming coronation of King Rudolf V, he secretly plans a trip there, telling his family he is going to the Tyrol.",
+    "ar": "على مائدة الإفطار في منزل العائلة في بارك لين، توبّخ روز، زوجة اللورد بيرلسدون، أخا زوجها رودولف راسندل: فهو في التاسعة والعشرين، ولديه دخل مريح، ولا يفعل شيئًا نافعًا. كما أنها لا تحبّ شعره الأحمر الداكن وأنفه الطويل المستقيم. ويشرح رودولف، راوي القصة، السبب: ففي عام 1733 زار إنجلترا أميرٌ صار فيما بعد الملك رودولف الثالث ملك روريتانيا، وخاض مبارزة مع إيرل بيرلسدون، ثم اضطرّ إلى الرحيل بهدوء. ومنذ ذلك الحين يظهر في أسرة راسندل بين حين وآخر الشعر الأحمر والأنف الطويل اللذان يميّزان آل إلفبرغ الملكيين، وهو موضوع حسّاس. وإرضاءً لروز، يوافق رودولف على الالتحاق بسفارة السير جيكوب بوروديل ملحقًا بعد ستة أشهر. وفي هذه الأثناء، يدفعه الفضول نحو روريتانيا وحفل تتويج ملكها الجديد رودولف الخامس، فيخطّط سرًّا لزيارتها، ويخبر عائلته أنه ذاهب إلى التيرول."
+  },
+  "objectives": [
+    {
+      "en": "Understand how the narrator introduces himself, his family and the old secret that links him to Ruritania.",
+      "ar": "فهم الطريقة التي يقدّم بها الراوي نفسه وعائلته والسرّ القديم الذي يربطه بروريتانيا."
+    },
+    {
+      "en": "Learn key diplomatic and royal vocabulary: embassy, legation, attaché, ambassador, throne, crowned.",
+      "ar": "تعلّم مفردات أساسية في الدبلوماسية والملكية: سفارة، مفوّضية، ملحق، سفير، عرش، يُتوَّج."
+    },
+    {
+      "en": "Recognize irony and understatement in Rudolf's witty narration and dialogue.",
+      "ar": "التعرّف على السخرية والتلطيف (التهوين) في سرد رودولف الظريف وحواراته."
+    },
+    {
+      "en": "Practise conditionals and reported speech as they are used in formal 19th-century English.",
+      "ar": "التدرّب على الجمل الشرطية والكلام المنقول كما تُستعمل في الإنجليزية الرسمية في القرن التاسع عشر."
+    }
+  ],
+  "vocab": [
+    "ambassador",
+    "embassy",
+    "attache",
+    "legation",
+    "throne",
+    "crown",
+    "sway",
+    "peerage",
+    "countess",
+    "ancestry",
+    "lineage",
+    "heredity",
+    "scandal",
+    "accomplished",
+    "exasperate",
+    "vexed",
+    "eminent",
+    "duel",
+    "smuggle",
+    "discretion",
+    "inference",
+    "compunction",
+    "scamp",
+    "wistful",
+    "averse",
+    "propitiate",
+    "itinerary",
+    "at-loggerheads",
+    "under-a-cloud",
+    "give-a-wide-berth"
+  ],
+  "grammar": [
+    {
+      "id": "pz-1-conditional",
+      "topic": "conditional",
+      "level": "B2",
+      "title": {
+        "en": "Conditionals: real promises and polite hypotheses",
+        "ar": "الجمل الشرطية: الوعود الممكنة والافتراضات المهذّبة"
+      },
+      "explain": {
+        "en": "Rudolf uses a real (first) conditional for something likely: “if I find enough material, I will” (if + present, will). For something he does not plan to do, he uses a hypothetical form: “if I were to submit it” + “would”. ‘Were to’ makes the condition sound even more unlikely and formal. Note also the inversion “Neither would it…”, which means “It would not … either”.",
+        "ar": "يستعمل رودولف الشرط الحقيقي (الأول) لأمر محتمل: «if I find enough material, I will» أي (if + مضارع، ثم will). أما لأمر لا ينوي فعله فيستعمل صيغة افتراضية: «if I were to submit it» مع would. وعبارة were to تجعل الشرط أبعد احتمالًا وأكثر رسمية. ولاحظ أيضًا التقديم في «Neither would it…» ومعناه «ولن يُرضيها هو أيضًا»."
+      },
+      "example": {
+        "en": "Neither would it, I fear, please Lady Burlesdon, if I were to submit it to her critical eye—a step which I have no intention of taking.",
+        "ar": "ولا أظنه، كما أخشى، سيُرضي الليدي بيرلسدون لو عرضتُه على عينها الناقدة — وهي خطوة لا أنوي اتخاذها.",
+        "ref": "p53"
+      },
+      "exercise": {
+        "q": {
+          "en": "Complete Rudolf's real promise: “No, I won’t promise; but if I ___ enough material, I will.”",
+          "ar": "أكمل وعد رودولف الحقيقي: «No, I won’t promise; but if I ___ enough material, I will.»"
+        },
+        "options": [
+          "were to find",
+          "find",
+          "would find"
+        ],
+        "answer": 1,
+        "why": {
+          "en": "In a first conditional the if-clause takes the present simple: “if I find … I will.” This is the exact sentence in p49.",
+          "ar": "في الشرط الأول يأتي فعل جملة الشرط في المضارع البسيط: «if I find … I will». وهي الجملة نفسها في الفقرة p49."
+        }
+      }
+    },
+    {
+      "id": "pz-1-understatement",
+      "topic": "descriptive",
+      "level": "B2",
+      "title": {
+        "en": "Irony through understatement",
+        "ar": "السخرية عن طريق التلطيف (التهوين)"
+      },
+      "explain": {
+        "en": "Understatement means describing something serious in mild, small words, so that the reader understands more than is said. Rudolf never states the family scandal openly: the prince left “rather under a cloud”, and the earl died “without having found leisure to adjust his relations with his wife”. Words like ‘rather’, ‘somewhat’, ‘a trifle’ and ‘hardly’ soften the meaning and create a polite, ironic tone typical of English gentlemen.",
+        "ar": "التلطيف أو التهوين (understatement) هو وصف أمر خطير بكلمات هادئة صغيرة، فيفهم القارئ أكثر مما قيل. فرودولف لا يصرّح بفضيحة العائلة أبدًا: فالأمير غادر «rather under a cloud» أي «وقد خيّمت عليه سحابة من الشبهات»، والإيرل مات «من غير أن يجد متّسعًا من الوقت لتسوية علاقته بزوجته». وكلمات مثل rather وsomewhat وa trifle وhardly تخفّف المعنى وتصنع نبرة مهذّبة ساخرة يتميّز بها السادة الإنجليز."
+      },
+      "example": {
+        "en": "He stayed some months in England, where he was most courteously received; yet, in the end, he left rather under a cloud.",
+        "ar": "أقام بضعة أشهر في إنجلترا، حيث استُقبل بمنتهى الحفاوة واللطف؛ ومع ذلك فقد غادرها في النهاية وقد خيّمت عليه سحابةٌ من الشبهات.",
+        "ref": "p27"
+      },
+      "exercise": {
+        "q": {
+          "en": "In “her family is hardly of the same standing as the Rassendylls” (p5), what does ‘hardly’ really mean?",
+          "ar": "في عبارة «her family is hardly of the same standing as the Rassendylls» (الفقرة p5)، ماذا تعني كلمة hardly حقًّا؟"
+        },
+        "options": [
+          "Her family is of exactly the same standing",
+          "Her family works very hard",
+          "Her family is clearly of lower standing, said politely"
+        ],
+        "answer": 2,
+        "why": {
+          "en": "‘Hardly’ means ‘almost not’. It is a polite understatement: Rudolf means her family is clearly below the Rassendylls, but says it gently and ironically.",
+          "ar": "hardly تعني «بالكاد / لا يكاد». وهي تلطيف مهذّب: يقصد رودولف أن عائلتها أدنى مكانةً بوضوح من آل راسندل، لكنه يقولها برفق وسخرية."
+        }
+      }
+    },
+    {
+      "id": "pz-1-reported",
+      "topic": "reported",
+      "level": "B1",
+      "title": {
+        "en": "Reported speech and reporting verbs",
+        "ar": "الكلام المنقول وأفعال القول"
+      },
+      "explain": {
+        "en": "When we report what someone says now, the tense stays the same: “Robert says he is sure that he’ll take you as an attaché.” When the reporting verb is in the past, the tenses usually move back: “Robert said he was sure that he would take you as an attaché.” The chapter also uses many precise reporting verbs instead of ‘said’: observed, admitted, cried, murmured, hinted, exclaimed, and ‘gave out that’ (announced, often untruthfully).",
+        "ar": "عندما ننقل كلامًا يُقال الآن يبقى الزمن كما هو: «Robert says he is sure that he’ll take you as an attaché». أما إذا كان فعل القول في الماضي فإن الأزمنة ترجع عادةً خطوة إلى الوراء: «Robert said he was sure that he would take you as an attaché». ويستعمل الفصل أيضًا أفعال قول دقيقة بدل said، مثل: observed (لاحظ)، admitted (اعترف)، cried (هتف)، murmured (تمتم)، hinted (ألمح)، exclaimed (صاح)، و gave out that (أعلن، وغالبًا على غير الحقيقة)."
+      },
+      "example": {
+        "en": "He’s to have an Embassy in six months, and Robert says he is sure that he’ll take you as an attaché.",
+        "ar": "سيتولّى سفارةً بعد ستة أشهر، ويقول روبرت إنه متأكد من أنه سيأخذك معه ملحقًا.",
+        "ref": "p34"
+      },
+      "exercise": {
+        "q": {
+          "en": "Rudolf writes: “I gave out that I was going for a ramble in the Tyrol” What were his actual words to his family?",
+          "ar": "يكتب رودولف: «I gave out that I was going for a ramble in the Tyrol». ما الكلمات التي قالها فعلًا لعائلته؟"
+        },
+        "options": [
+          "“I am going for a ramble in the Tyrol.”",
+          "“I had gone for a ramble in the Tyrol.”",
+          "“I would go to Ruritania.”"
+        ],
+        "answer": 0,
+        "why": {
+          "en": "After a past reporting verb, ‘was going’ goes back to the present continuous ‘am going’ in direct speech.",
+          "ar": "بعد فعل قول في الماضي، تعود was going في الكلام المباشر إلى المضارع المستمر am going."
+        }
+      }
+    }
+  ],
+  "culture": [
+    {
+      "term": "Ruritania",
+      "en": "Ruritania is an imaginary kingdom invented by Anthony Hope, placed somewhere in central Europe between Germany and Austria-Hungary, with German-speaking people, a capital called Strelsau and a royal castle at Zenda. It was so successful that ‘Ruritanian’ became an English word for any small, romantic, old-fashioned kingdom full of palace intrigue.",
+      "ar": "روريتانيا مملكة خيالية ابتكرها أنتوني هوب، وجعلها في مكانٍ ما من وسط أوروبا بين ألمانيا والنمسا-المجر، وأهلها يتكلمون الألمانية، وعاصمتها شتريلساو، وفيها قلعة ملكية في زندا. ولشدّة نجاحها صارت كلمة Ruritanian في الإنجليزية تُطلق على كل مملكة صغيرة رومانسية قديمة الطراز مليئة بمؤامرات القصور."
+    },
+    {
+      "term": "European royal houses",
+      "en": "A ‘royal house’ is a ruling family, such as the Habsburgs of Austria or the Hohenzollerns of Prussia. The fictional Elphbergs are recognized by their dark-red hair and long, straight nose. In the 1890s most of Europe was still ruled by kings and emperors, and royal families were linked by marriages and visits, like Prince Rudolf's visit to the court of King George II (ruled Britain 1727–1760).",
+      "ar": "«البيت الملكي» هو الأسرة الحاكمة، مثل آل هابسبورغ في النمسا وآل هوهنتسولرن في بروسيا. ويُعرف آل إلفبرغ الخياليون بشعرهم الأحمر الداكن وأنفهم الطويل المستقيم. وفي تسعينيات القرن التاسع عشر كانت معظم أوروبا لا تزال تحت حكم الملوك والأباطرة، وكانت الأسر الملكية مترابطة بالمصاهرة والزيارات، مثل زيارة الأمير رودولف لبلاط الملك جورج الثاني (حكم بريطانيا من 1727 إلى 1760)."
+    },
+    {
+      "term": "The English gentry and younger sons",
+      "en": "In English aristocratic families the title and most of the estate went to the eldest son (primogeniture). Robert is Lord Burlesdon, an earl with duties in public life; Rudolf, the second son, has only a private income of two thousand pounds a year — a large sum then — and no title. Younger sons were expected to find a career in the army, the Church, law, politics or diplomacy, which is why Rose wants Rudolf to become an attaché.",
+      "ar": "في الأسر الأرستقراطية الإنجليزية كان اللقب ومعظم الأملاك يذهبان إلى الابن الأكبر (نظام البكورية). فروبرت هو اللورد بيرلسدون، إيرلٌ له واجبات في الحياة العامة؛ أما رودولف، الابن الثاني، فليس له لقب، وله دخل خاص قدره ألفا جنيه في السنة، وهو مبلغ كبير في ذلك الزمن. وكان يُنتظر من الأبناء الأصغر أن يجدوا مهنة في الجيش أو الكنيسة أو القانون أو السياسة أو الدبلوماسية، ولهذا تريد روز أن يصبح رودولف ملحقًا دبلوماسيًّا."
+    },
+    {
+      "term": "The diplomatic service: embassy, legation, attaché",
+      "en": "In the 19th century, great powers exchanged ambassadors and their missions were called embassies; smaller or less important countries received a ‘legation’ headed by a minister. An attaché was a young, often unpaid, junior member of a mission — a common first step for gentlemen like Rudolf. That is why he jokes that he would go even to “a beggarly Legation”.",
+      "ar": "في القرن التاسع عشر كانت الدول الكبرى تتبادل السفراء وتُسمّى بعثاتهم «سفارات»، أما الدول الأصغر أو الأقل أهمية فكانت تستقبل «مفوّضية» يرأسها وزير مفوّض. وكان الملحق عضوًا شابًّا مبتدئًا في البعثة، وكثيرًا ما كان بلا راتب، وكانت هذه خطوة أولى شائعة للسادة من أمثال رودولف. ولهذا يمزح قائلًا إنه سيذهب حتى لو كانت «مفوّضية بائسة»."
+    }
+  ],
+  "quiz": [
+    {
+      "type": "vocab",
+      "q": {
+        "en": "“my father … had always been averse from my going” What does ‘averse’ mean here?",
+        "ar": "«my father … had always been averse from my going». ما معنى averse هنا؟"
+      },
+      "options": [
+        "unaware of",
+        "responsible for",
+        "opposed to",
+        "excited about"
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "‘Averse’ means strongly against something. Rudolf's father did not want him to visit Ruritania.",
+        "ar": "averse تعني «معارض لشيء أو كاره له». فوالد رودولف لم يكن يريده أن يزور روريتانيا."
+      },
+      "ref": "p41"
+    },
+    {
+      "type": "vocab",
+      "q": {
+        "en": "“the King and the Prince of Wales being not yet at loggerheads” means that they …",
+        "ar": "عبارة «the King and the Prince of Wales being not yet at loggerheads» تعني أنهما …"
+      },
+      "options": [
+        "had not yet been crowned",
+        "had not yet started quarrelling",
+        "had not yet met each other",
+        "were not yet at war with Ruritania"
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "‘At loggerheads’ is an idiom for being in a strong disagreement. In 1733 the quarrel between George II and his son had not yet begun.",
+        "ar": "at loggerheads تعبير اصطلاحي يعني «في خلاف حادّ». ففي عام 1733 لم يكن الخلاف بين جورج الثاني وابنه قد بدأ بعد."
+      },
+      "ref": "p27"
+    },
+    {
+      "type": "comprehension",
+      "q": {
+        "en": "Why does Rose dislike Rudolf's red hair and long nose?",
+        "ar": "لماذا لا تحبّ روز شعر رودولف الأحمر وأنفه الطويل؟"
+      },
+      "options": [
+        "They make him look like a foreigner",
+        "Robert has the same hair and nose",
+        "Red hair is unlucky in England",
+        "They recall an old family scandal linked to the Elphbergs"
+      ],
+      "answer": 3,
+      "explain": {
+        "en": "The red hair and long nose are the marks of the royal Elphbergs, and they remind the family of the story of Countess Amelia and Prince Rudolf in 1733.",
+        "ar": "الشعر الأحمر والأنف الطويل علامتان مميّزتان لآل إلفبرغ الملكيين، وهما تذكّران العائلة بقصة الكونتيسة أميليا والأمير رودولف عام 1733."
+      },
+      "ref": "p26"
+    },
+    {
+      "type": "comprehension",
+      "q": {
+        "en": "What position does Sir Jacob Borrodaile probably offer Rudolf?",
+        "ar": "ما المنصب الذي يُرجَّح أن يعرضه السير جيكوب بوروديل على رودولف؟"
+      },
+      "options": [
+        "attaché at his embassy",
+        "ambassador to Ruritania",
+        "secretary to Lord Burlesdon",
+        "officer in the army"
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Rose says Sir Jacob will have an Embassy in six months and Robert is sure he will take Rudolf as an attaché.",
+        "ar": "تقول روز إن السير جيكوب سيتولّى سفارة بعد ستة أشهر، وإن روبرت متأكد من أنه سيأخذ رودولف ملحقًا."
+      },
+      "ref": "p34"
+    },
+    {
+      "type": "comprehension",
+      "q": {
+        "en": "Where does Rudolf tell his family he is going?",
+        "ar": "إلى أين يخبر رودولف عائلته أنه ذاهب؟"
+      },
+      "options": [
+        "to a German university",
+        "to Sir Jacob's embassy",
+        "to the Tyrol",
+        "to Ruritania"
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Expecting opposition, he hides his real plan and says he is going for a ramble in the Tyrol, an old haunt of his.",
+        "ar": "لأنه توقّع معارضة، أخفى خطته الحقيقية وقال إنه ذاهب في جولة في التيرول، وهي من مرابعه القديمة."
+      },
+      "ref": "p41"
+    },
+    {
+      "type": "grammar",
+      "q": {
+        "en": "In “if I were to submit it to her critical eye”, the form ‘were to’ shows that the action is …",
+        "ar": "في عبارة «if I were to submit it to her critical eye»، تدلّ صيغة were to على أن الفعل …"
+      },
+      "options": [
+        "already finished",
+        "certain to happen soon",
+        "a habit in the past",
+        "unlikely and hypothetical"
+      ],
+      "answer": 3,
+      "explain": {
+        "en": "‘If … were to’ + ‘would’ describes an unlikely hypothesis. Rudolf adds that it is “a step which I have no intention of taking.”",
+        "ar": "تركيب if … were to مع would يصف افتراضًا بعيد الاحتمال. ويضيف رودولف أنها «خطوة لا أنوي اتخاذها»."
+      },
+      "ref": "p53"
+    },
+    {
+      "type": "grammar",
+      "q": {
+        "en": "Report Rose's words in the past: “Robert says he is sure that he’ll take you as an attaché.” → Rose said that Robert ___ sure that Sir Jacob ___ take him.",
+        "ar": "انقل كلام روز بصيغة الماضي: «Robert says he is sure that he’ll take you as an attaché» ← Rose said that Robert ___ sure that Sir Jacob ___ take him."
+      },
+      "options": [
+        "were … shall",
+        "was … would",
+        "is … will",
+        "has been … will"
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "After the past reporting verb ‘said’, ‘is’ becomes ‘was’ and ‘will’ becomes ‘would’.",
+        "ar": "بعد فعل القول الماضي said تتحوّل is إلى was وتتحوّل will إلى would."
+      },
+      "ref": "p34"
+    },
+    {
+      "type": "translation",
+      "q": {
+        "en": "Choose the best Arabic translation of “I am visited with compunction.”",
+        "ar": "اختر أفضل ترجمة عربية لعبارة «I am visited with compunction»."
+      },
+      "options": [
+        "أشعر بالفخر الشديد.",
+        "أُصاب بنزلة برد.",
+        "يعتريني وخزُ الضمير.",
+        "يزورني الأصدقاء كثيرًا."
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "‘Compunction’ is a feeling of guilt; ‘I am visited with’ is a literary way of saying ‘I feel’. Rose's pleading makes Rudolf feel guilty.",
+        "ar": "compunction شعور بالذنب، و I am visited with طريقة أدبية لقول «أشعر بـ». فتوسّل روز يجعل رودولف يشعر بتأنيب الضمير."
+      },
+      "ref": "p35"
+    },
+    {
+      "type": "context",
+      "q": {
+        "en": "Rudolf says the prince “left rather under a cloud.” What is he really telling us?",
+        "ar": "يقول رودولف إن الأمير «left rather under a cloud». ماذا يخبرنا حقًّا؟"
+      },
+      "options": [
+        "The prince left England in disgrace after a scandal",
+        "The weather was bad on the day he left",
+        "The prince left England as a hero",
+        "The prince was sad to leave his friends"
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "‘Under a cloud’ means suspected or in disgrace. It is understatement: the narrator hints at a serious scandal without describing it.",
+        "ar": "under a cloud تعني «موضع شبهة» أو «فاقد حسن السمعة». وهو تلطيف: يلمّح الراوي إلى فضيحة خطيرة دون أن يصفها."
+      },
+      "ref": "p27"
+    },
+    {
+      "type": "context",
+      "q": {
+        "en": "What finally makes Rudolf decide to travel to Ruritania?",
+        "ar": "ما الذي جعل رودولف يحسم قراره بالسفر إلى روريتانيا؟"
+      },
+      "options": [
+        "Sir Jacob's embassy being sent to Strelsau",
+        "Reading in The Times about the coming coronation of Rudolf the Fifth",
+        "A letter from the King of Ruritania",
+        "Rose's advice to study politics"
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Rudolf says his determination was clinched when he read in The Times that Rudolf the Fifth was to be crowned at Strelsau within three weeks.",
+        "ar": "يقول رودولف إن عزمه قد حُسم حين قرأ في صحيفة «التايمز» أن رودولف الخامس سيُتوَّج في شتريلساو."
+      },
+      "ref": "p41"
+    }
+  ]
+}

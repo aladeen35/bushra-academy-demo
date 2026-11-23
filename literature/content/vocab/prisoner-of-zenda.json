@@ -1,0 +1,709 @@
+[
+  {
+    "id": "ambassador",
+    "word": "ambassador",
+    "forms": [],
+    "ar": "سفير",
+    "ipa": "/æmˈbæs.ə.dər/",
+    "pos": "noun",
+    "def": "The highest-ranking official sent by a government to represent it in a foreign country.",
+    "arExplain": "أرفع ممثل دبلوماسي ترسله دولة إلى دولة أخرى ليمثّلها ويرعى مصالحها.",
+    "example": "smuggled off by the Ruritanian ambassador, who had found him a pretty handful.",
+    "exampleAr": "هرّبه سفير روريتانيا، وكان قد وجده عبئًا مُتعبًا لا يُستهان به.",
+    "exampleRef": "1:p27",
+    "synonyms": [
+      "envoy",
+      "diplomat",
+      "emissary"
+    ],
+    "antonyms": [],
+    "level": "B2",
+    "category": "political"
+  },
+  {
+    "id": "embassy",
+    "word": "embassy",
+    "forms": [
+      "Embassy"
+    ],
+    "ar": "سفارة",
+    "ipa": "/ˈem.bə.si/",
+    "pos": "noun",
+    "def": "The official mission of an ambassador in a foreign country, or the building where it works.",
+    "arExplain": "البعثة الدبلوماسية التي يرأسها سفير في بلد أجنبي، أو المبنى الذي تعمل فيه.",
+    "example": "He’s to have an Embassy in six months, and Robert says he is sure that he’ll take you as an attaché.",
+    "exampleAr": "سيتولّى سفارةً بعد ستة أشهر، ويقول روبرت إنه متأكد من أنه سيأخذك معه ملحقًا.",
+    "exampleRef": "1:p34",
+    "synonyms": [
+      "diplomatic mission",
+      "consulate"
+    ],
+    "antonyms": [],
+    "level": "B1",
+    "category": "political"
+  },
+  {
+    "id": "attache",
+    "word": "attaché",
+    "forms": [
+      "attachés"
+    ],
+    "ar": "ملحق (دبلوماسي)",
+    "ipa": "/əˈtæʃ.eɪ/",
+    "pos": "noun",
+    "def": "A junior member of an embassy's staff, or a specialist attached to it.",
+    "arExplain": "موظف دبلوماسي في درجة مبتدئة أو متخصص يعمل ضمن طاقم السفارة، مثل الملحق الثقافي أو العسكري.",
+    "example": "I suppose attachés are industrious; but I know not, for I never became attaché to Sir Jacob or anybody else",
+    "exampleAr": "أفترض أن الملحقين مجتهدون؛ لكنني لا أدري، فأنا لم أصبح قط ملحقًا لدى السير جيكوب ولا لدى غيره.",
+    "exampleRef": "1:p41",
+    "synonyms": [
+      "diplomatic officer",
+      "envoy"
+    ],
+    "antonyms": [],
+    "level": "C1",
+    "category": "political"
+  },
+  {
+    "id": "legation",
+    "word": "legation",
+    "forms": [
+      "Legation"
+    ],
+    "ar": "مفوّضية (بعثة دبلوماسية أدنى من السفارة)",
+    "ipa": "/lɪˈɡeɪ.ʃən/",
+    "pos": "noun",
+    "def": "A diplomatic mission of lower rank than an embassy, headed by a minister rather than an ambassador.",
+    "arExplain": "بعثة دبلوماسية أقل رتبة من السفارة، كان يرأسها وزير مفوّض لا سفير، وكانت شائعة في القرن التاسع عشر.",
+    "example": "for your sake I’ll go, if it’s no more than a beggarly Legation.",
+    "exampleAr": "من أجلكِ سأذهب، حتى لو لم تكن سوى مفوّضيةٍ بائسة.",
+    "exampleRef": "1:p40",
+    "synonyms": [
+      "diplomatic mission"
+    ],
+    "antonyms": [
+      "embassy"
+    ],
+    "level": "C2",
+    "category": "political"
+  },
+  {
+    "id": "throne",
+    "word": "throne",
+    "forms": [],
+    "ar": "عرش",
+    "ipa": "/θrəʊn/",
+    "pos": "noun",
+    "def": "The ceremonial chair of a king or queen; also, the position and power of a monarch.",
+    "arExplain": "كرسي الملك الرسمي، ويُستعمل مجازًا بمعنى المُلك والسلطة الملكية. «اعتلى العرش» أي صار ملكًا.",
+    "example": "As for Rudolf, he went back to Ruritania, married a wife, and ascended the throne",
+    "exampleAr": "أما رودولف فقد عاد إلى روريتانيا، وتزوّج، واعتلى العرش.",
+    "exampleRef": "1:p27",
+    "synonyms": [
+      "crown",
+      "sovereignty"
+    ],
+    "antonyms": [],
+    "level": "B2",
+    "category": "political"
+  },
+  {
+    "id": "crown",
+    "word": "crown",
+    "forms": [
+      "crowned"
+    ],
+    "ar": "يُتوِّج (ملكًا)",
+    "ipa": "/kraʊn/",
+    "pos": "verb",
+    "def": "To place a crown on someone's head in an official ceremony that makes them king or queen.",
+    "arExplain": "أن يُوضع التاج على رأس الملك الجديد في احتفال رسمي يُعلن به ملكًا. الاحتفال نفسه يُسمّى «التتويج» (coronation).",
+    "example": "Rudolf the Fifth was to be crowned at Strelsau in the course of the next three weeks",
+    "exampleAr": "أن رودولف الخامس سيُتوَّج في شتريلساو خلال الأسابيع الثلاثة القادمة.",
+    "exampleRef": "1:p41",
+    "synonyms": [
+      "enthrone",
+      "install"
+    ],
+    "antonyms": [
+      "dethrone",
+      "depose"
+    ],
+    "level": "B2",
+    "category": "political"
+  },
+  {
+    "id": "sway",
+    "word": "sway",
+    "forms": [],
+    "ar": "حُكم، سلطان، نفوذ",
+    "ipa": "/sweɪ/",
+    "pos": "noun",
+    "def": "Rule or controlling power; 'under the sway of' means governed or influenced by.",
+    "arExplain": "السلطة والسيطرة. وعبارة under the sway of تعني «في ظلّ حكم» أو «تحت نفوذ» شخص ما.",
+    "example": "under the sway of a young and vigorous ruler",
+    "exampleAr": "في ظلّ حكم حاكمٍ شابّ نشيط.",
+    "exampleRef": "1:p41",
+    "synonyms": [
+      "rule",
+      "dominion",
+      "control"
+    ],
+    "antonyms": [
+      "subjection"
+    ],
+    "level": "C1",
+    "category": "political"
+  },
+  {
+    "id": "peerage",
+    "word": "peerage",
+    "forms": [
+      "Peerages"
+    ],
+    "ar": "طبقة النبلاء؛ سجلّ النبلاء",
+    "ipa": "/ˈpɪə.rɪdʒ/",
+    "pos": "noun",
+    "def": "The class of titled nobles (dukes, earls, barons ...) in Britain; also a book listing them and their families.",
+    "arExplain": "طبقة حَمَلة الألقاب النبيلة في بريطانيا (دوق، إيرل، بارون...)، وتُطلق أيضًا على الكتب التي تسجّل أنسابهم وألقابهم.",
+    "example": "both in the peerage of England, and a Knight of the Garter",
+    "exampleAr": "وكلا اللقبين من ألقاب النبلاء في إنجلترا، كما كان فارسًا من فرسان وسام الرباط.",
+    "exampleRef": "1:p27",
+    "synonyms": [
+      "nobility",
+      "aristocracy"
+    ],
+    "antonyms": [
+      "commoners"
+    ],
+    "level": "C2",
+    "category": "historical"
+  },
+  {
+    "id": "countess",
+    "word": "countess",
+    "forms": [
+      "Countess"
+    ],
+    "ar": "كونتيسة",
+    "ipa": "/ˈkaʊn.tes/",
+    "pos": "noun",
+    "def": "The wife of an earl or count, or a woman who holds that rank herself.",
+    "arExplain": "زوجة الإيرل أو الكونت، أو امرأة تحمل هذا اللقب النبيل بنفسها.",
+    "example": "I bowed to the portrait of Countess Amelia.",
+    "exampleAr": "انحنيتُ أمام صورة الكونتيسة أميليا.",
+    "exampleRef": "1:p15",
+    "synonyms": [
+      "noblewoman",
+      "lady"
+    ],
+    "antonyms": [
+      "commoner"
+    ],
+    "level": "B2",
+    "category": "historical"
+  },
+  {
+    "id": "ancestry",
+    "word": "ancestry",
+    "forms": [],
+    "ar": "النسب، الأصل",
+    "ipa": "/ˈæn.ses.tri/",
+    "pos": "noun",
+    "def": "The people from whom a person is descended; family origin.",
+    "arExplain": "سلسلة الآباء والأجداد الذين ينحدر منهم الإنسان، أي أصله العائلي.",
+    "example": "my brother Robert was wise enough not to mind about her ancestry.",
+    "exampleAr": "وكان أخي روبرت من الحكمة بحيث لم يكترث لنسبها.",
+    "exampleRef": "1:p5",
+    "synonyms": [
+      "descent",
+      "lineage",
+      "origin"
+    ],
+    "antonyms": [
+      "descendants"
+    ],
+    "level": "C1",
+    "category": "advanced"
+  },
+  {
+    "id": "lineage",
+    "word": "lineage",
+    "forms": [],
+    "ar": "سلالة، نسب",
+    "ipa": "/ˈlɪn.i.ɪdʒ/",
+    "pos": "noun",
+    "def": "Direct descent from an ancestor; a family line.",
+    "arExplain": "الخط العائلي المتصل من الأجداد إلى الأحفاد، ويُستعمل غالبًا للأسر العريقة.",
+    "example": "the blemishes on honourable lineage are a delicate subject",
+    "exampleAr": "فالشوائب التي تعتري النسب الشريف موضوعٌ حسّاس.",
+    "exampleRef": "1:p28",
+    "synonyms": [
+      "ancestry",
+      "pedigree",
+      "descent"
+    ],
+    "antonyms": [],
+    "level": "C2",
+    "category": "literary"
+  },
+  {
+    "id": "heredity",
+    "word": "heredity",
+    "forms": [],
+    "ar": "الوراثة",
+    "ipa": "/həˈred.ə.ti/",
+    "pos": "noun",
+    "def": "The passing of physical or mental features from parents to children.",
+    "arExplain": "انتقال الصفات الجسدية أو العقلية من الآباء إلى الأبناء. والصفة منها hereditary أي «وراثي».",
+    "example": "this heredity we hear so much about is the finest scandalmonger in the world",
+    "exampleAr": "هذه الوراثة التي نسمع عنها الكثير هي أبرع ناشرٍ للفضائح في العالم.",
+    "exampleRef": "1:p28",
+    "synonyms": [
+      "inheritance",
+      "genetics"
+    ],
+    "antonyms": [
+      "environment"
+    ],
+    "level": "C1",
+    "category": "advanced"
+  },
+  {
+    "id": "scandal",
+    "word": "scandal",
+    "forms": [
+      "scandalmonger"
+    ],
+    "ar": "فضيحة",
+    "ipa": "/ˈskæn.dəl/",
+    "pos": "noun",
+    "def": "An event or story that causes public shock and damages someone's reputation. A 'scandalmonger' spreads such stories.",
+    "arExplain": "حادثة أو حكاية تثير استياء الناس وتسيء إلى سمعة أصحابها. و«scandalmonger» هو من ينشر الفضائح ويتتبّعها.",
+    "example": "I am going, perforce, to rake up the very scandal which my dear Lady Burlesdon wishes forgotten",
+    "exampleAr": "أنني مضطرّ إلى نبش تلك الفضيحة نفسها التي تتمنّى عزيزتي الليدي بيرلسدون أن تُنسى.",
+    "exampleRef": "1:p27",
+    "synonyms": [
+      "disgrace",
+      "outrage"
+    ],
+    "antonyms": [
+      "honour"
+    ],
+    "level": "B2",
+    "category": "intermediate"
+  },
+  {
+    "id": "accomplished",
+    "word": "accomplished",
+    "forms": [],
+    "ar": "بارع، متعدّد المواهب",
+    "ipa": "/əˈkʌm.plɪʃt/",
+    "pos": "adjective",
+    "def": "Highly skilled; in the 19th century, (of a lady) trained in music, drawing, languages and manners.",
+    "arExplain": "ماهر متمكّن. وكانت تُقال في القرن التاسع عشر للسيدة المثقّفة التي تُحسن الموسيقى والرسم واللغات وآداب المجالس.",
+    "example": "pretty and accomplished as she herself is, her family is hardly of the same standing as the Rassendylls.",
+    "exampleAr": "على ما هي عليه من جمالٍ وبراعة، تنتمي إلى عائلة لا تكاد تبلغ مكانة آل راسندل.",
+    "exampleRef": "1:p5",
+    "synonyms": [
+      "skilled",
+      "talented",
+      "cultivated"
+    ],
+    "antonyms": [
+      "unskilled",
+      "inept"
+    ],
+    "level": "C1",
+    "category": "literary"
+  },
+  {
+    "id": "exasperate",
+    "word": "exasperate",
+    "forms": [
+      "exasperating"
+    ],
+    "ar": "يُغيظ، يُثير الحنق",
+    "ipa": "/ɪɡˈzæs.pə.reɪt/",
+    "pos": "verb",
+    "def": "To annoy someone greatly, especially by testing their patience.",
+    "arExplain": "أن تُغضب شخصًا وتُنفد صبره بتصرّفات مزعجة.",
+    "example": "of exasperating my strict little sister-in-law a trifle more",
+    "exampleAr": "لأُغيظ زوجة أخي الصغيرة الصارمة قليلًا بعد.",
+    "exampleRef": "1:p24",
+    "synonyms": [
+      "irritate",
+      "annoy",
+      "provoke"
+    ],
+    "antonyms": [
+      "soothe",
+      "please"
+    ],
+    "level": "C1",
+    "category": "advanced"
+  },
+  {
+    "id": "vexed",
+    "word": "vexed",
+    "forms": [],
+    "ar": "مستاء، منزعج",
+    "ipa": "/vekst/",
+    "pos": "adjective",
+    "def": "Annoyed, irritated or worried.",
+    "arExplain": "منزعج ومتضايق من أمر ما. كلمة أدبية أقدم من annoyed.",
+    "example": "I must explain why my sister-in-law was vexed with my nose and hair",
+    "exampleAr": "عليّ أن أوضّح لماذا كانت زوجة أخي مستاءةً من أنفي وشعري.",
+    "exampleRef": "1:p26",
+    "synonyms": [
+      "annoyed",
+      "irritated",
+      "displeased"
+    ],
+    "antonyms": [
+      "pleased",
+      "content"
+    ],
+    "level": "C2",
+    "category": "literary"
+  },
+  {
+    "id": "eminent",
+    "word": "eminent",
+    "forms": [
+      "eminence"
+    ],
+    "ar": "بارز، مرموق",
+    "ipa": "/ˈem.ɪ.nənt/",
+    "pos": "adjective",
+    "def": "Famous and respected, especially in a profession or in public life.",
+    "arExplain": "مشهور ومحترم ذو مكانة رفيعة. والاسم eminence أي «المكانة الرفيعة والتميّز».",
+    "example": "For eminent as, I must protest, the Rassendylls have been for many generations",
+    "exampleAr": "فمهما كان آل راسندل بارزين على مدى أجيال كثيرة — ولا بدّ لي من التأكيد على ذلك.",
+    "exampleRef": "1:p26",
+    "synonyms": [
+      "distinguished",
+      "prominent",
+      "renowned"
+    ],
+    "antonyms": [
+      "obscure",
+      "unknown"
+    ],
+    "level": "C1",
+    "category": "advanced"
+  },
+  {
+    "id": "duel",
+    "word": "duel",
+    "forms": [],
+    "ar": "مبارزة",
+    "ipa": "/ˈdjuː.əl/",
+    "pos": "noun",
+    "def": "A formal fight with swords or pistols between two people to settle a question of honour.",
+    "arExplain": "قتال رسمي بين رجلين بالسيوف أو المسدسات لتسوية خلاف يتعلّق بالشرف، وكان عرفًا بين النبلاء الأوروبيين قديمًا.",
+    "example": "In that duel Prince Rudolf received a severe wound",
+    "exampleAr": "وفي تلك المبارزة أُصيب الأمير رودولف بجرحٍ بليغ.",
+    "exampleRef": "1:p27",
+    "synonyms": [
+      "combat",
+      "contest"
+    ],
+    "antonyms": [
+      "truce",
+      "reconciliation"
+    ],
+    "level": "C1",
+    "category": "historical"
+  },
+  {
+    "id": "smuggle",
+    "word": "smuggle",
+    "forms": [
+      "smuggled"
+    ],
+    "ar": "يُهرِّب",
+    "ipa": "/ˈsmʌɡ.əl/",
+    "pos": "verb",
+    "def": "To move someone or something secretly and often illegally from one place to another.",
+    "arExplain": "أن تنقل شخصًا أو شيئًا خفيةً، وكثيرًا ما يكون ذلك مخالفًا للقانون. smuggle off أي يُخرجه سرًّا.",
+    "example": "recovering therefrom, was adroitly smuggled off by the Ruritanian ambassador",
+    "exampleAr": "ولمّا تعافى منه، هرّبه سفير روريتانيا بمهارة.",
+    "exampleRef": "1:p27",
+    "synonyms": [
+      "sneak",
+      "spirit away"
+    ],
+    "antonyms": [
+      "declare",
+      "expose"
+    ],
+    "level": "B2",
+    "category": "intermediate"
+  },
+  {
+    "id": "discretion",
+    "word": "discretion",
+    "forms": [],
+    "ar": "الكتمان، التحفّظ",
+    "ipa": "/dɪˈskreʃ.ən/",
+    "pos": "noun",
+    "def": "Care not to reveal private or embarrassing information; good judgement in behaviour.",
+    "arExplain": "الحرص على عدم إفشاء الأسرار أو الأمور المحرجة، وحسن التصرّف بحكمة.",
+    "example": "it laughs at discretion, and writes strange entries between the lines of the “Peerages”.",
+    "exampleAr": "فهي تسخر من الكتمان، وتدوّن عباراتٍ غريبة بين سطور «سجلات النبلاء».",
+    "exampleRef": "1:p28",
+    "synonyms": [
+      "tact",
+      "prudence",
+      "confidentiality"
+    ],
+    "antonyms": [
+      "indiscretion",
+      "carelessness"
+    ],
+    "level": "C1",
+    "category": "advanced"
+  },
+  {
+    "id": "inference",
+    "word": "inference",
+    "forms": [],
+    "ar": "استنتاج",
+    "ipa": "/ˈɪn.fər.əns/",
+    "pos": "noun",
+    "def": "A conclusion reached from evidence or reasoning rather than from direct statement.",
+    "arExplain": "نتيجة يصل إليها المرء بالاستدلال من علامات أو أدلة، لا من كلام صريح.",
+    "example": "this unjust inference she sought to buttress by pointing to the uselessness of the life I had led.",
+    "exampleAr": "وقد سعت إلى تدعيم هذا الاستنتاج الجائر بالإشارة إلى عدم جدوى الحياة التي عشتها.",
+    "exampleRef": "1:p29",
+    "synonyms": [
+      "conclusion",
+      "deduction"
+    ],
+    "antonyms": [
+      "premise"
+    ],
+    "level": "C1",
+    "category": "advanced"
+  },
+  {
+    "id": "compunction",
+    "word": "compunction",
+    "forms": [],
+    "ar": "وخز الضمير، تأنيب النفس",
+    "ipa": "/kəmˈpʌŋk.ʃən/",
+    "pos": "noun",
+    "def": "A feeling of guilt or regret that makes you hesitate or change your behaviour.",
+    "arExplain": "شعور بالذنب أو الندم يجعلك تتردّد في فعل شيء أو تغيّر موقفك.",
+    "example": "for whom she has no natural responsibility, I am visited with compunction.",
+    "exampleAr": "لا تقع عليها تجاهه أيّ مسؤولية طبيعية، يعتريني وخزُ الضمير.",
+    "exampleRef": "1:p35",
+    "synonyms": [
+      "remorse",
+      "guilt",
+      "scruple"
+    ],
+    "antonyms": [
+      "indifference",
+      "shamelessness"
+    ],
+    "level": "C2",
+    "category": "literary"
+  },
+  {
+    "id": "scamp",
+    "word": "scamp",
+    "forms": [],
+    "ar": "عابث، شقيّ لطيف",
+    "ipa": "/skæmp/",
+    "pos": "noun",
+    "def": "A mischievous, idle or good-for-nothing person, usually said affectionately.",
+    "arExplain": "شخص عابث كسول لا يُعتمد عليه، وتُقال غالبًا بنبرة مزاح ومودّة لا بنبرة ذمّ شديد.",
+    "example": "all on account of an idle scamp like myself",
+    "exampleAr": "كلّ ذلك من أجل متبطّلٍ عابث مثلي.",
+    "exampleRef": "1:p35",
+    "synonyms": [
+      "rascal",
+      "rogue",
+      "good-for-nothing"
+    ],
+    "antonyms": [
+      "worthy"
+    ],
+    "level": "C2",
+    "category": "literary"
+  },
+  {
+    "id": "wistful",
+    "word": "wistful",
+    "forms": [],
+    "ar": "حزين يملؤه الرجاء والحنين",
+    "ipa": "/ˈwɪst.fəl/",
+    "pos": "adjective",
+    "def": "Showing a gentle, slightly sad longing for something.",
+    "arExplain": "يصف نظرة أو مزاجًا فيه حنين ورجاء ممزوجان بشيء من الحزن الرقيق.",
+    "example": "growing wistful in the eyes",
+    "exampleAr": "وتمتلئ عيناها بالرجاء.",
+    "exampleRef": "1:p35",
+    "synonyms": [
+      "longing",
+      "yearning",
+      "pensive"
+    ],
+    "antonyms": [
+      "indifferent",
+      "content"
+    ],
+    "level": "C1",
+    "category": "literary"
+  },
+  {
+    "id": "averse",
+    "word": "averse",
+    "forms": [],
+    "ar": "كارِه، معارِض",
+    "ipa": "/əˈvɜːs/",
+    "pos": "adjective",
+    "def": "Strongly disliking or opposed to something (modern English: averse to; older: averse from).",
+    "arExplain": "رافض لشيء أو كاره له. تُستعمل اليوم مع to، وكانت تُستعمل قديمًا مع from كما في الرواية.",
+    "example": "had always been averse from my going",
+    "exampleAr": "كان دائمًا معارضًا لذهابي.",
+    "exampleRef": "1:p41",
+    "synonyms": [
+      "opposed",
+      "reluctant",
+      "unwilling"
+    ],
+    "antonyms": [
+      "eager",
+      "keen",
+      "willing"
+    ],
+    "level": "C1",
+    "category": "advanced"
+  },
+  {
+    "id": "propitiate",
+    "word": "propitiate",
+    "forms": [
+      "propitiated"
+    ],
+    "ar": "يسترضي، يستميل",
+    "ipa": "/prəˈpɪʃ.i.eɪt/",
+    "pos": "verb",
+    "def": "To calm someone's anger or win their favour by doing something that pleases them.",
+    "arExplain": "أن تُهدّئ غضب شخص أو تكسب رضاه بقول أو فعل يُرضيه.",
+    "example": "propitiated Rose’s wrath by declaring that I intended to study the political and social problems",
+    "exampleAr": "واسترضيتُ غضب روز بأن أعلنتُ أنني أنوي دراسة المشكلات السياسية والاجتماعية.",
+    "exampleRef": "1:p41",
+    "synonyms": [
+      "appease",
+      "placate",
+      "pacify"
+    ],
+    "antonyms": [
+      "provoke",
+      "anger"
+    ],
+    "level": "C2",
+    "category": "advanced"
+  },
+  {
+    "id": "itinerary",
+    "word": "itinerary",
+    "forms": [],
+    "ar": "خطّ سير الرحلة",
+    "ipa": "/aɪˈtɪn.ər.ər.i/",
+    "pos": "noun",
+    "def": "A detailed plan of a journey, listing the places to be visited.",
+    "arExplain": "خطة مفصّلة للرحلة تبيّن الأماكن التي سيمرّ بها المسافر ومواعيدها.",
+    "example": "it has never been my practice to furnish my relatives with an itinerary of my journeys",
+    "exampleAr": "لم يكن من عادتي قط أن أزوّد أقاربي بخطّ سير رحلاتي.",
+    "exampleRef": "1:p41",
+    "synonyms": [
+      "route",
+      "schedule",
+      "travel plan"
+    ],
+    "antonyms": [],
+    "level": "C1",
+    "category": "intermediate"
+  },
+  {
+    "id": "at-loggerheads",
+    "word": "at loggerheads",
+    "forms": [
+      "loggerheads"
+    ],
+    "ar": "على خلاف حادّ، متخاصمان",
+    "ipa": "/æt ˈlɒɡ.ə.hedz/",
+    "pos": "idiom",
+    "def": "In strong disagreement or open quarrel with someone.",
+    "arExplain": "تعبير اصطلاحي يعني أن طرفين في خصام أو نزاع حادّ. وقد اشتهر خلاف الملك جورج الثاني مع ابنه أمير ويلز.",
+    "example": "the King and the Prince of Wales being not yet at loggerheads",
+    "exampleAr": "ولم يكن الملك وأمير ويلز قد تخاصما بعد.",
+    "exampleRef": "1:p27",
+    "synonyms": [
+      "in conflict",
+      "at odds",
+      "quarrelling"
+    ],
+    "antonyms": [
+      "in agreement",
+      "reconciled"
+    ],
+    "level": "C2",
+    "category": "idiom"
+  },
+  {
+    "id": "under-a-cloud",
+    "word": "under a cloud",
+    "forms": [],
+    "ar": "موضع شبهة، في ظلّ الشكوك",
+    "ipa": "/ˌʌn.dər ə ˈklaʊd/",
+    "pos": "idiom",
+    "def": "Suspected of having done something wrong; in disgrace.",
+    "arExplain": "تعبير يعني أن الشخص مشكوك في سلوكه أو فقد حسن سمعته، وغالبًا ما يُقال بتلطيف لا يصرّح بالخطأ.",
+    "example": "yet, in the end, he left rather under a cloud.",
+    "exampleAr": "ومع ذلك فقد غادرها في النهاية وقد خيّمت عليه سحابةٌ من الشبهات.",
+    "exampleRef": "1:p27",
+    "synonyms": [
+      "in disgrace",
+      "discredited"
+    ],
+    "antonyms": [
+      "in favour",
+      "respected"
+    ],
+    "level": "C2",
+    "category": "idiom"
+  },
+  {
+    "id": "give-a-wide-berth",
+    "word": "give a wide berth",
+    "forms": [
+      "wide berth",
+      "berth"
+    ],
+    "ar": "يتجنّب، يبتعد عن",
+    "ipa": "/ɡɪv ə waɪd ˈbɜːθ/",
+    "pos": "idiom",
+    "def": "To keep well away from someone or something (originally a sailing term for leaving space around a ship).",
+    "arExplain": "أن تبتعد عن شخص أو مكان وتتجنّبه. أصلها من لغة البحّارة: ترك مسافة واسعة حول السفينة الراسية.",
+    "example": "a wide berth was to be given to that country",
+    "exampleAr": "الابتعاد عن ذلك البلد قدر المستطاع.",
+    "exampleRef": "1:p41",
+    "synonyms": [
+      "avoid",
+      "steer clear of",
+      "shun"
+    ],
+    "antonyms": [
+      "approach",
+      "seek out"
+    ],
+    "level": "C2",
+    "category": "idiom"
+  }
+]

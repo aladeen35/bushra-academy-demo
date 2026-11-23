@@ -1,0 +1,171 @@
+{
+ "chapter": 19,
+ "summary": {
+  "en": "Okonkwo's seventh and last year in Mbanta comes to an end. He has worked hard and prospered, but he has always felt that he would have done even better in Umuofia. He sends money to Obierika to build two huts in his old compound, where he will live until he can build more. Before leaving, Okonkwo prepares a great feast for his mother's kinsmen to thank them for their kindness. The guests eat and drink and praise his generosity. One of the oldest men stands to thank him and speaks about the value of kinship and gathering together. He also says he fears for the younger generation, because the new religion is making people abandon their family and their fathers' ways.",
+  "ar": "تنتهي السنة السابعة والأخيرة لأوكونكوو في مبانتا. لقد عمل بجد وازدهر، لكنه ظل يشعر أنه كان سيحقق أكثر لو كان في أوموفيا. يرسل مالًا إلى أوبييريكا ليبني له كوخين في مجمعه القديم يعيش فيهما إلى أن يبني المزيد. وقبل الرحيل يُعدّ أوكونكوو وليمة كبيرة لأقارب أمه شكرًا لهم على لطفهم. يأكل الضيوف ويشربون ويمدحون كرمه. ويقف أحد أكبر الرجال سنًا ليشكره، ويتحدث عن قيمة القرابة والاجتماع معًا. ويقول أيضًا إنه يخاف على الجيل الجديد، لأن الدين الجديد يجعل الناس يتركون أهلهم وطرق آبائهم. يحمل الفصل امتنانًا دافئًا وقلقًا عميقًا في آن واحد."
+ },
+ "objectives": [
+  {
+   "en": "Describe how Okonkwo thanks his mother's kinsmen.",
+   "ar": "أن تصف كيف شكر أوكونكوو أقارب أمه."
+  },
+  {
+   "en": "Understand the elder's fears about the younger generation.",
+   "ar": "أن تفهم مخاوف الشيخ من الجيل الجديد."
+  },
+  {
+   "en": "Use the future perfect and \"by the time\" for plans.",
+   "ar": "أن تستخدم المستقبل التام و by the time للتخطيط."
+  }
+ ],
+ "vocab": [
+  "gratitude",
+  "feast",
+  "umunna",
+  "kinsman",
+  "elder",
+  "generation",
+  "apprehensive",
+  "kola-nut",
+  "hospitality"
+ ],
+ "grammar": [
+  {
+   "id": "tfa-19-future-perfect",
+   "topic": "tenses",
+   "level": "B2",
+   "title": {
+    "en": "The future perfect",
+    "ar": "المستقبل التام"
+   },
+   "explain": {
+    "en": "Use \"will have + past participle\" for an action that will be finished before a certain time in the future. It is often used with \"by\" or \"by the time\".",
+    "ar": "نستخدم will have + التصريف الثالث لحدث سيكتمل قبل وقت معيّن في المستقبل، وغالبًا مع by أو by the time."
+   },
+   "example": {
+    "en": "By the time he returns home, his friend will have built two new huts for him.",
+    "ar": "بحلول عودته إلى بيته سيكون صديقه قد بنى له كوخين جديدين."
+   },
+   "exercise": {
+    "q": {
+     "en": "Choose: By next year, they ___ the harvest.",
+     "ar": "اختر: بحلول العام القادم سيكونون ___ المحصول."
+    },
+    "options": [
+     "will have finished",
+     "will finish have",
+     "have finished will"
+    ],
+    "answer": 0,
+    "why": {
+     "en": "will + have + past participle.",
+     "ar": "will + have + التصريف الثالث."
+    }
+   }
+  }
+ ],
+ "culture": [
+  {
+   "term": "Feasts of gratitude",
+   "en": "Giving a feast was a public way to thank a community. Generosity was a sign of a great man, and guests remembered the size of a feast for years.",
+   "ar": "كانت إقامة الوليمة طريقة علنية لشكر المجتمع، والكرم علامة على الرجل العظيم، ويذكر الضيوف حجم الوليمة سنوات."
+  },
+  {
+   "term": "Umunna and kinship",
+   "en": "The umunna, a man's kinsmen through his father, met together, shared food and settled problems. The elder's speech praises this habit of gathering and worries that it will be lost.",
+   "ar": "الأومونّا، أي أقارب الرجل من جهة الأب، كانوا يجتمعون ويتقاسمون الطعام ويحلون المشكلات، وخطبة الشيخ تمدح عادة الاجتماع هذه وتخشى ضياعها."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "Why does Okonkwo give a feast?",
+    "ar": "لماذا أقام أوكونكوو الوليمة؟"
+   },
+   "options": [
+    "To celebrate a title",
+    "To thank his mother's kinsmen",
+    "To welcome missionaries",
+    "To mourn Ikemefuna"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "It is his way of showing gratitude before leaving.",
+    "ar": "هي طريقته في إظهار الامتنان قبل الرحيل."
+   }
+  },
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "What does Okonkwo ask Obierika to do?",
+    "ar": "ماذا طلب أوكونكوو من أوبييريكا؟"
+   },
+   "options": [
+    "Find him a wife",
+    "Build two huts in his old compound",
+    "Sell his gun",
+    "Visit the church"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "He sends money for two huts to be built.",
+    "ar": "أرسل مالًا لبناء كوخين."
+   }
+  },
+  {
+   "type": "vocab",
+   "q": {
+    "en": "\"Apprehensive\" means…",
+    "ar": "apprehensive تعني…"
+   },
+   "options": [
+    "worried about the future",
+    "very happy",
+    "tired",
+    "angry"
+   ],
+   "answer": 0,
+   "explain": {
+    "en": "The elder is apprehensive about the young.",
+    "ar": "الشيخ متوجّس على الشباب."
+   }
+  },
+  {
+   "type": "context",
+   "q": {
+    "en": "What worries the old man who speaks at the feast?",
+    "ar": "ما الذي يقلق الشيخ الذي تكلم في الوليمة؟"
+   },
+   "options": [
+    "The weather",
+    "Young people abandoning their kin for the new religion",
+    "A coming war",
+    "The price of yams"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "He fears that family bonds are weakening.",
+    "ar": "يخشى أن تضعف روابط الأسرة."
+   }
+  },
+  {
+   "type": "grammar",
+   "q": {
+    "en": "Choose: By tomorrow, I ___ my homework.",
+    "ar": "اختر: بحلول الغد سأكون ___ واجبي."
+   },
+   "options": [
+    "will have done",
+    "will done",
+    "have will done",
+    "will doing"
+   ],
+   "answer": 0,
+   "explain": {
+    "en": "Future perfect: will have + past participle.",
+    "ar": "المستقبل التام: will have + التصريف الثالث."
+   }
+  }
+ ]
+}

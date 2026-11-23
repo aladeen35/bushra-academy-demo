@@ -1,0 +1,172 @@
+{
+ "chapter": 24,
+ "summary": {
+  "en": "The leaders are released and walk home in silence. Okonkwo is still in pain from the way he was treated, and he cannot sleep for anger. He has prepared his war clothes and decided that he will take revenge, even if the clan will not. The next morning the whole clan gathers in the marketplace. A powerful speaker urges the people to stand up for their gods and ancestors, even if it means fighting their own brothers who have joined the white men. Suddenly five court messengers arrive and order the meeting to stop. In fury, Okonkwo kills their leader with his machete. The crowd does not attack the others but lets them escape, and Okonkwo understands that Umuofia will not go to war.",
+  "ar": "يُطلق سراح الزعماء فيعودون إلى بيوتهم صامتين، بينما يتنحى الناس ليفسحوا لهم الطريق. وما زال أوكونكوو يتألم مما لقيه من معاملة، ولا يستطيع النوم من شدة الغضب. وقد جهّز ملابس الحرب وقرر أن ينتقم حتى لو لم تفعل العشيرة. في صباح اليوم التالي تجتمع العشيرة كلها في ساحة السوق. ويحث خطيب مؤثر الناس على الدفاع عن آلهتهم وأسلافهم، حتى لو اضطروا إلى قتال إخوتهم الذين انضموا إلى البيض. وفجأة يصل خمسة من رسل المحكمة ويأمرون بإنهاء الاجتماع. وفي ثورة غضب يقتل أوكونكوو زعيمهم بساطوره. لا يهاجم الجمع الآخرين بل يتركهم يهربون، فيدرك أوكونكوو أن أوموفيا لن تخوض الحرب، وأنه صار وحيدًا."
+ },
+ "objectives": [
+  {
+   "en": "Follow the events of the clan meeting and its violent end.",
+   "ar": "أن تتابع أحداث اجتماع العشيرة ونهايته العنيفة."
+  },
+  {
+   "en": "Explain what Okonkwo realises when the crowd lets the messengers escape.",
+   "ar": "أن تشرح ما أدركه أوكونكوو حين ترك الجمع الرسل يهربون."
+  },
+  {
+   "en": "Use \"even if\" and \"unless\" in conditions.",
+   "ar": "أن تستخدم even if و unless في الشرط."
+  }
+ ],
+ "vocab": [
+  "indignation",
+  "defiance",
+  "assembly",
+  "rebellion",
+  "machete",
+  "vengeance",
+  "isolation",
+  "despair",
+  "pride",
+  "warrior"
+ ],
+ "grammar": [
+  {
+   "id": "tfa-24-even-if-unless",
+   "topic": "conditional",
+   "level": "B2",
+   "title": {
+    "en": "Even if and unless",
+    "ar": "even if و unless"
+   },
+   "explain": {
+    "en": "\"Even if\" means that the result does not change whatever happens. \"Unless\" means \"if … not\".",
+    "ar": "even if تعني أن النتيجة لا تتغير مهما حدث، و unless تعني «إلا إذا» أو «إن لم»."
+   },
+   "example": {
+    "en": "He decided to fight even if no one else joined him.",
+    "ar": "قرر أن يقاتل حتى لو لم ينضم إليه أحد."
+   },
+   "exercise": {
+    "q": {
+     "en": "Choose: The clan will not act ___ everyone agrees.",
+     "ar": "اختر: لن تتحرك العشيرة ___ اتفق الجميع."
+    },
+    "options": [
+     "unless",
+     "even if",
+     "if not"
+    ],
+    "answer": 0,
+    "why": {
+     "en": "\"Unless\" = if … not; action needs agreement.",
+     "ar": "unless تعني إلا إذا، فالتحرك يحتاج إلى اتفاق."
+    }
+   }
+  }
+ ],
+ "culture": [
+  {
+   "term": "Decisions by assembly",
+   "en": "Important decisions in Umuofia were made by the gathered clan after many speakers had been heard. No single man, however brave, could decide war alone.",
+   "ar": "كانت القرارات المهمة في أوموفيا تُتخذ في اجتماع العشيرة بعد سماع خطباء كثيرين، ولا يستطيع رجل واحد مهما بلغت شجاعته أن يقرر الحرب وحده."
+  },
+  {
+   "term": "A divided clan",
+   "en": "By this point some members of the clan worked for, or worshipped with, the newcomers. Fighting the white men would mean fighting kinsmen, which made many people hesitate.",
+   "ar": "في هذه المرحلة كان بعض أبناء العشيرة يعملون مع القادمين الجدد أو يتعبدون معهم، فقتال البيض يعني قتال الأقارب، مما جعل كثيرين يترددون."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "Where does the clan meet?",
+    "ar": "أين تجتمع العشيرة؟"
+   },
+   "options": [
+    "In the church",
+    "In the marketplace",
+    "In Okonkwo's obi",
+    "At the river"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "The whole clan gathers in the marketplace.",
+    "ar": "تجتمع العشيرة كلها في ساحة السوق."
+   }
+  },
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "What does Okonkwo do when the messengers order the meeting to stop?",
+    "ar": "ماذا فعل أوكونكوو حين أمر الرسل بإنهاء الاجتماع؟"
+   },
+   "options": [
+    "He leaves quietly",
+    "He kills their leader",
+    "He joins them",
+    "He asks for forgiveness"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "He strikes the head messenger with his machete.",
+    "ar": "ضرب كبير الرسل بساطوره."
+   }
+  },
+  {
+   "type": "vocab",
+   "q": {
+    "en": "\"Defiance\" is…",
+    "ar": "defiance هو…"
+   },
+   "options": [
+    "open refusal to obey",
+    "quiet agreement",
+    "a type of drum",
+    "a festival"
+   ],
+   "answer": 0,
+   "explain": {
+    "en": "Okonkwo acts in defiance of colonial power.",
+    "ar": "يتصرف أوكونكوو تحديًا للسلطة الاستعمارية."
+   }
+  },
+  {
+   "type": "context",
+   "q": {
+    "en": "What does Okonkwo realise at the end?",
+    "ar": "ماذا أدرك أوكونكوو في النهاية؟"
+   },
+   "options": [
+    "That the clan will go to war",
+    "That Umuofia will not go to war",
+    "That the white men have left",
+    "That Nwoye will return"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "The crowd lets the messengers escape, showing it will not fight.",
+    "ar": "ترك الجمع الرسل يهربون، فدلّ ذلك على أنه لن يقاتل."
+   }
+  },
+  {
+   "type": "grammar",
+   "q": {
+    "en": "Choose: I will go ___ it rains.",
+    "ar": "اختر: سأذهب ___ أمطرت."
+   },
+   "options": [
+    "even if",
+    "unless",
+    "so that",
+    "because of"
+   ],
+   "answer": 0,
+   "explain": {
+    "en": "\"Even if\" shows that rain will not change the decision.",
+    "ar": "even if تدل على أن المطر لن يغيّر القرار."
+   }
+  }
+ ]
+}

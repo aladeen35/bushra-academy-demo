@@ -1,0 +1,51 @@
+# البشرى للأدب — خطوات المالك (من الهاتف)
+
+كل الخطوات تعمل من متصفح الهاتف (Chrome). لا تحتاج حاسوبًا ولا أوامر.
+
+## ١) النشر الآن (يعمل فورًا)
+بعد دمج الفرع في `main` يُنشر التطبيق تلقائيًا على GitHub Pages مع موقع الأكاديمية:
+`https://aladeen35.github.io/bushra-academy-demo/literature/`
+
+يعمل التطبيق كاملًا بلا حساب: المكتبة، والقارئ ثنائي اللغة، والقاموس، والنطق، والمفردات، والقواعد، والاختبارات، واختبار المستوى. يُحفظ التقدّم على جهاز المتعلّم.
+
+## ٢) النطاق literature.albushra.app (Cloudflare Pages، مجاني)
+نطاقك على Cloudflare، والمستودع الواحد على GitHub Pages لا يقبل إلا نطاقًا واحدًا، لذا نستخدم Cloudflare Pages للمجلد `literature`:
+1. افتح dash.cloudflare.com ← **Workers & Pages** ← **Create** ← تبويب **Pages** ← **Connect to Git**.
+2. اختر GitHub واسمح بالوصول إلى المستودع `bushra-academy-demo`.
+3. Production branch: `main`. Framework preset: **None**. Build command: اتركه فارغًا. Build output directory: `literature`.
+4. اضغط **Save and Deploy**.
+5. بعد النشر افتح المشروع ← **Custom domains** ← **Set up a custom domain** ← اكتب `literature.albushra.app` ← **Activate domain** (Cloudflare يضيف سجل DNS تلقائيًا).
+
+## ٣) Firebase: الحسابات وإدارة المحتوى والمعلّم الذكي (خطة Spark المجانية)
+يُفضَّل مشروع مستقل عن «هدايا أمير» حتى لا تختلط قواعد الأمان.
+1. افتح console.firebase.google.com ← **Add project** ← الاسم `albushra-literature` ← أوقف Google Analytics ← **Create project**.
+2. **Build ← Authentication ← Get started**:
+   - فعّل **Google** (اختر بريد الدعم) ثم **Save**.
+   - فعّل **Email/Password** ثم **Save**.
+   - تبويب **Settings ← Authorized domains ← Add domain**: أضف `literature.albushra.app` و `aladeen35.github.io`.
+3. **Build ← Firestore Database ← Create database** ← اختر المنطقة `eur3 (europe-west)` ← **Start in production mode** ← **Create**.
+4. في Firestore افتح تبويب **Rules**، واحذف كل ما فيه، والصق محتوى الملف `literature/firestore.rules` من GitHub، ثم **Publish**.
+5. **Build ← AI Logic ← Get started** ← اختر **Gemini Developer API** ← **Enable** (مجاني ضمن حدود الاستخدام اليومية، ولا يوجد مفتاح سري داخل الموقع).
+6. ⚙️ **Project settings ← General ← Your apps ← أيقونة الويب `</>`** ← الاسم `literature-web` ← **Register app** ← انسخ كائن `firebaseConfig`.
+7. في GitHub من الهاتف افتح `literature/js/firebase-config.js` ← أيقونة القلم ✏️ ← استبدل `export const FIREBASE_CONFIG = null;` بـ:
+   ```js
+   export const FIREBASE_CONFIG = { apiKey: "…", authDomain: "…", projectId: "…", storageBucket: "…", messagingSenderId: "…", appId: "…" };
+   ```
+   ثم **Commit changes**.
+8. افتح التطبيق ← **ملفي** ← سجّل الدخول بحساب Google ← افتح الرابط `#/admin` ← اضغط **تفعيل حسابي كمدير أول** (يعمل مرة واحدة فقط لأول مستخدم).
+
+## ٤) إدارة المحتوى (من التطبيق)
+- **إضافة كتاب**: إدارة المحتوى ← إضافة كتاب ← املأ البيانات والحقوق.
+- **استيراد النص**: الفهرس ← الصق النص أو ارفع ملف ‎.txt‎ (مثل ملفات Project Gutenberg). يحفظ ترتيب الفقرات والفصول.
+- **التحقق التحريري**: «تحقّق التحرير من النص» يعرض المواضع المشتبه بها (أخطاء OCR) لتصحيحها.
+- **مراجعة الترجمة**: كل فقرة لها حالة: مسودة ← مراجَعة ← معتمدة. تبقى شارة «ترجمة بالذكاء الاصطناعي — بانتظار مراجعة المحرر» ظاهرة للمتعلّم حتى تُعتمد كل فقرات الفصل.
+- **الحقوق**: لا يظهر النص الكامل للعامة إلا إذا كانت حالة الحقوق «ملكية عامة» أو «مرخّص»، وقواعد Firestore تفرض ذلك على الخادم أيضًا.
+
+## ٥) ما يحتاج خطة Blaze (لاحقًا، بموافقتك)
+- **Firebase Storage**: رفع وثائق التراخيص، والرسوم، وتسجيلات صوتية حقيقية. حاليًا تُحفظ وثائق التراخيص كروابط، والنطق من قارئ الجهاز.
+- **Cloud Functions**: صوت TTS سحابي أعلى جودة، والشهادات، والاشتراكات.
+
+## ٦) مراجعات يجب أن يقوم بها إنسان
+- ترجمات الفصل الأول من «جين إير» و«جزيرة الكنز» و«سجين زندا» مسودات بالذكاء الاصطناعي، وتحتاج مراجعة محرر.
+- ملخصات «الأشياء تتداعى» الخمسة والعشرون أصلية ولا تقتبس من الرواية. يُنصح بمطابقة الوقائع مع النسخة الورقية، خاصة الفصول ١٤ و١٦ و١٧ و٢٣.
+- **الأشياء تتداعى محمية بحقوق النشر.** ملف PDF المرفق نسخة ممسوحة من طبعة Anchor 1994، ولا يحق لنا نشر نصها. نحتاج ترخيصًا من Penguin Random House / Heinemann قبل إضافة أي نص.

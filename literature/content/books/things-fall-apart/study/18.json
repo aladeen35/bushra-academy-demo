@@ -1,0 +1,172 @@
+{
+ "chapter": 18,
+ "summary": {
+  "en": "The church in Mbanta grows. At first the clan does not take it very seriously, because the converts are mostly people of little standing. Then a difficult question arises: osu, people traditionally treated as outcasts, want to join. Mr. Kiaga welcomes them, and some converts leave in protest, but soon the osu become some of the most committed members. Then a rumour spreads that a convert has killed the sacred python, an act the clan sees as a terrible abomination. Okonkwo wants to drive the Christians out by force, but the clan decides instead to exclude them from community life. When the man suspected of killing the python dies soon after, many people believe that their gods are still able to fight their own battles.",
+  "ar": "تتوسع الكنيسة في مبانتا. في البداية لا تأخذها العشيرة بجدية كبيرة، لأن المتحولين في الغالب أناس قليلو المكانة. ثم تظهر مسألة صعبة: الأوسو، وهم فئة كانت تُعامل تقليديًا كمنبوذين، يريدون الانضمام. يرحب بهم السيد كياغا، فيغادر بعض المتحولين احتجاجًا، لكن الأوسو يصبحون سريعًا من أكثر الأعضاء التزامًا. ثم تنتشر إشاعة بأن أحد المتحولين قتل الثعبان المقدس، وهو فعل تعدّه العشيرة رجسًا فظيعًا. يريد أوكونكوو طرد المسيحيين بالقوة، لكن العشيرة تقرر بدلًا من ذلك عزلهم عن حياة المجتمع. وحين يموت الرجل المتهم بقتل الثعبان بعد وقت قصير، يعتقد كثيرون أن آلهتهم ما زالت قادرة على خوض معاركها بنفسها."
+ },
+ "objectives": [
+  {
+   "en": "Explain who the osu were and why they joined the church.",
+   "ar": "أن تشرح من هم الأوسو ولماذا انضموا إلى الكنيسة."
+  },
+  {
+   "en": "Describe how the clan responds to the killing of the sacred python.",
+   "ar": "أن تصف كيف ردّت العشيرة على قتل الثعبان المقدس."
+  },
+  {
+   "en": "Use \"instead of\" and \"rather than\" to compare choices.",
+   "ar": "أن تستخدم instead of و rather than للمقارنة بين الخيارات."
+  }
+ ],
+ "vocab": [
+  "osu",
+  "outcast",
+  "sacred",
+  "ostracize",
+  "zealous",
+  "tolerate",
+  "conflict",
+  "sacrilege",
+  "taboo",
+  "nso-ani"
+ ],
+ "grammar": [
+  {
+   "id": "tfa-18-instead-of",
+   "topic": "prepositions",
+   "level": "B1",
+   "title": {
+    "en": "Instead of / rather than",
+    "ar": "instead of و rather than"
+   },
+   "explain": {
+    "en": "Use \"instead of\" + noun or -ing to show a replacement choice. \"Rather than\" works in the same way and can also come before a base verb.",
+    "ar": "نستخدم instead of + اسم أو فعل بصيغة ing للتعبير عن خيار بديل، و rather than تعمل بالطريقة نفسها ويمكن أن تأتي قبل المصدر أيضًا."
+   },
+   "example": {
+    "en": "Instead of fighting the newcomers, the clan chose to keep away from them.",
+    "ar": "بدل أن تقاتل القادمين الجدد اختارت العشيرة الابتعاد عنهم."
+   },
+   "exercise": {
+    "q": {
+     "en": "Choose: They decided to talk ___ fight.",
+     "ar": "اختر: قرروا أن يتحاوروا ___ يتقاتلوا."
+    },
+    "options": [
+     "rather than",
+     "instead",
+     "rather of"
+    ],
+    "answer": 0,
+    "why": {
+     "en": "\"Rather than\" can come before a base verb.",
+     "ar": "rather than يمكن أن تسبق المصدر."
+    }
+   }
+  }
+ ],
+ "culture": [
+  {
+   "term": "The osu",
+   "en": "Osu were people believed to be dedicated to a deity. They could not marry freeborn people and lived apart. Many Igbo people today reject this discrimination, and campaigns have worked to end it.",
+   "ar": "الأوسو أناس يُعتقد أنهم مكرّسون لإله، فلا يتزوجون من الأحرار ويعيشون معزولين. ويرفض كثير من الإيبو اليوم هذا التمييز، وقد عملت حملات على إنهائه."
+  },
+  {
+   "term": "The sacred python",
+   "en": "In parts of Igboland the royal python was respected as a messenger of a deity and was never harmed. Killing one was a grave offence.",
+   "ar": "في أجزاء من بلاد الإيبو كان الثعبان الملكي يُحترم بوصفه رسولًا لإله في معتقدهم، فلا يُؤذى أبدًا، وكان قتله جرمًا عظيمًا."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "Who are the osu?",
+    "ar": "من هم الأوسو؟"
+   },
+   "options": [
+    "Foreign traders",
+    "People traditionally treated as outcasts",
+    "The egwugwu",
+    "Wrestling champions"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "They were excluded from ordinary social life.",
+    "ar": "كانوا مستبعدين من الحياة الاجتماعية العادية."
+   }
+  },
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "What does the clan decide to do about the Christians?",
+    "ar": "ماذا قررت العشيرة بشأن المسيحيين؟"
+   },
+   "options": [
+    "Kill them",
+    "Exclude them from community life",
+    "Join them",
+    "Send them to Umuofia"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "They choose ostracism rather than violence.",
+    "ar": "اختاروا العزل بدل العنف."
+   }
+  },
+  {
+   "type": "vocab",
+   "q": {
+    "en": "To \"ostracize\" means to…",
+    "ar": "ostracize تعني…"
+   },
+   "options": [
+    "welcome warmly",
+    "exclude from a group",
+    "pay a fine",
+    "sing hymns"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "The clan ostracizes the converts.",
+    "ar": "العشيرة تعزل المتحولين."
+   }
+  },
+  {
+   "type": "context",
+   "q": {
+    "en": "Why do some people think their gods are still powerful?",
+    "ar": "لماذا اعتقد بعض الناس أن آلهتهم ما زالت قوية؟"
+   },
+   "options": [
+    "It rained heavily",
+    "The suspected python-killer died soon after",
+    "The church burned down",
+    "The white men left"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "They read his death as a sign from the gods.",
+    "ar": "فسّروا موته علامة من الآلهة."
+   }
+  },
+  {
+   "type": "grammar",
+   "q": {
+    "en": "Choose: She walked ___ taking the bus.",
+    "ar": "اختر: مشت ___ أن تركب الحافلة."
+   },
+   "options": [
+    "instead of",
+    "instead",
+    "rather",
+    "despite"
+   ],
+   "answer": 0,
+   "explain": {
+    "en": "\"Instead of\" + -ing.",
+    "ar": "instead of + ing."
+   }
+  }
+ ]
+}

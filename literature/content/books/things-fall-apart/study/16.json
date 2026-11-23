@@ -1,0 +1,171 @@
+{
+ "chapter": 16,
+ "summary": {
+  "en": "About two years later, Obierika visits again, this time with worrying news: missionaries have come to Umuofia and built a church, and Okonkwo's son Nwoye has been seen among the converts. The story then goes back to explain how the missionaries first came to Mbanta. A white man spoke to the villagers through an interpreter whose dialect made people laugh. He told them about one God and said their gods were false. Most people thought the strangers were mad, and Okonkwo wanted to drive them away. But Nwoye was deeply moved, especially by the music of the hymns. The new faith seemed to answer the painful questions in his heart about twins left in the forest and about Ikemefuna.",
+  "ar": "بعد نحو سنتين يزور أوبييريكا صديقه مرة أخرى بخبر مقلق: لقد جاء المبشّرون إلى أوموفيا وبنوا كنيسة، وشوهد نوويي ابن أوكونكوو بين المتحولين إلى الدين الجديد. ثم تعود القصة لتشرح كيف وصل المبشّرون أول مرة إلى مبانتا. تحدث رجل أبيض إلى القرويين عبر مترجم كانت لهجته تُضحك الناس، وأخبرهم عن إله واحد وقال إن آلهتهم باطلة. ظن أكثر الناس أن الغرباء مجانين، وأراد أوكونكوو طردهم. أما نوويي فتأثر تأثرًا عميقًا، خاصة بموسيقى الترانيم. فقد بدا له أن الدين الجديد يجيب عن الأسئلة المؤلمة في قلبه عن التوائم الذين يُتركون في الغابة وعن إيكيميفونا. ويبدأ هنا الشرخ بين الأب والابن."
+ },
+ "objectives": [
+  {
+   "en": "Describe the arrival of the missionaries in Mbanta.",
+   "ar": "أن تصف وصول المبشّرين إلى مبانتا."
+  },
+  {
+   "en": "Explain why Nwoye is attracted to the new religion.",
+   "ar": "أن تشرح لماذا انجذب نوويي إلى الدين الجديد."
+  },
+  {
+   "en": "Use relative clauses to add information about people.",
+   "ar": "أن تستخدم جمل الصلة لإضافة معلومات عن الأشخاص."
+  }
+ ],
+ "vocab": [
+  "missionary",
+  "convert",
+  "interpreter",
+  "hymn",
+  "dialect",
+  "preach",
+  "faith",
+  "persuade",
+  "doubt"
+ ],
+ "grammar": [
+  {
+   "id": "tfa-16-relative-clauses",
+   "topic": "complex",
+   "level": "B1",
+   "title": {
+    "en": "Relative clauses with who, which and whose",
+    "ar": "جمل الصلة مع who و which و whose"
+   },
+   "explain": {
+    "en": "Use \"who\" for people, \"which\" for things, and \"whose\" for possession. A relative clause gives more information about a noun.",
+    "ar": "نستخدم who للأشخاص و which للأشياء و whose للملكية، وجملة الصلة تضيف معلومات عن الاسم."
+   },
+   "example": {
+    "en": "The young man, whose heart was full of questions, listened closely to the songs.",
+    "ar": "استمع الشاب، الذي كان قلبه مليئًا بالأسئلة، إلى الأناشيد بانتباه."
+   },
+   "exercise": {
+    "q": {
+     "en": "Choose: The interpreter, ___ dialect was different, made the crowd laugh.",
+     "ar": "اختر: المترجم، ___ لهجته مختلفة، أضحك الجمهور."
+    },
+    "options": [
+     "whose",
+     "who",
+     "which"
+    ],
+    "answer": 0,
+    "why": {
+     "en": "\"Whose\" shows that the dialect belongs to the interpreter.",
+     "ar": "whose تدل على أن اللهجة تخص المترجم."
+    }
+   }
+  }
+ ],
+ "culture": [
+  {
+   "term": "Missionaries in Igboland",
+   "en": "Christian missionaries reached Igbo areas in the second half of the nineteenth century. They often worked through local interpreters and opened churches, schools and clinics.",
+   "ar": "وصل المبشّرون المسيحيون إلى مناطق الإيبو في النصف الثاني من القرن التاسع عشر، وكانوا يعملون غالبًا عبر مترجمين محليين ويفتحون الكنائس والمدارس والعيادات."
+  },
+  {
+   "term": "Twins",
+   "en": "In some Igbo communities of that time, the birth of twins was feared and the babies were abandoned. Achebe presents this custom honestly as one source of pain that made some people open to change.",
+   "ar": "في بعض مجتمعات الإيبو في ذلك الزمن كانت ولادة التوائم تُخشى ويُترك الرضّع، ويعرض أتشيبي هذا العرف بصدق بوصفه مصدر ألم جعل بعض الناس منفتحين على التغيير."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "What news does Obierika bring?",
+    "ar": "ما الخبر الذي أحضره أوبييريكا؟"
+   },
+   "options": [
+    "Okonkwo can return early",
+    "Nwoye has been seen with the missionaries",
+    "Ezinma is married",
+    "Abame was rebuilt"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "He saw Nwoye among the converts in Umuofia.",
+    "ar": "رأى نوويي بين المتحولين في أوموفيا."
+   }
+  },
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "How do most people in Mbanta react to the missionaries at first?",
+    "ar": "كيف تفاعل أكثر أهل مبانتا مع المبشّرين في البداية؟"
+   },
+   "options": [
+    "They join immediately",
+    "They think the strangers are mad and laugh",
+    "They attack them",
+    "They ignore them completely"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "Many find their message strange and amusing.",
+    "ar": "وجد كثيرون رسالتهم غريبة ومضحكة."
+   }
+  },
+  {
+   "type": "vocab",
+   "q": {
+    "en": "An \"interpreter\" is someone who…",
+    "ar": "الـ interpreter هو من…"
+   },
+   "options": [
+    "writes laws",
+    "translates speech between languages",
+    "builds churches",
+    "plays drums"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "The missionary speaks through an interpreter.",
+    "ar": "يتكلم المبشّر عبر مترجم."
+   }
+  },
+  {
+   "type": "context",
+   "q": {
+    "en": "What attracts Nwoye to the new religion?",
+    "ar": "ما الذي جذب نوويي إلى الدين الجديد؟"
+   },
+   "options": [
+    "Money",
+    "The music of the hymns and answers to his painful questions",
+    "His father's advice",
+    "A promise of land"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "The hymns touch feelings he had since Ikemefuna's death.",
+    "ar": "لامست الترانيم مشاعر لديه منذ موت إيكيميفونا."
+   }
+  },
+  {
+   "type": "grammar",
+   "q": {
+    "en": "Choose: The man ___ spoke first was a stranger.",
+    "ar": "اختر: الرجل ___ تكلم أولًا كان غريبًا."
+   },
+   "options": [
+    "which",
+    "who",
+    "whose",
+    "where"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "Use \"who\" for a person.",
+    "ar": "نستخدم who للشخص."
+   }
+  }
+ ]
+}

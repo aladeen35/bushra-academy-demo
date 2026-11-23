@@ -1,0 +1,188 @@
+{
+  "chapter": 1,
+  "summary": {
+    "en": "On a cold, rainy November afternoon at Gateshead Hall, ten-year-old Jane Eyre, an orphan living with her aunt Mrs. Reed, is shut out of the family circle. Mrs. Reed says Jane may not join her own children until she learns to be more cheerful and childlike. Jane slips into the breakfast-room, hides behind a red curtain in the window-seat and loses herself in the pictures of Bewick's book of birds, imagining Arctic seas, shipwrecks and lonely churchyards. Her peace is broken by her cousin John Reed, a spoiled, bullying fourteen-year-old. He reminds her that she is a penniless dependent and throws the heavy book at her, cutting her head. For the first time Jane fights back, calling him a murderer and a Roman emperor. Mrs. Reed takes John's side and orders Jane to be locked in the red-room.",
+    "ar": "في عصر يومٍ بارد ممطر من أيام نوفمبر في قصر غيتسهيد، تُستبعد جين إير، اليتيمة ذات الأعوام العشرة التي تعيش في بيت زوجة خالها مسز ريد، من مجلس الأسرة. فمسز ريد ترى أن جين لا يحق لها أن تجالس أبناءها حتى تتعلم أن تكون أكثر بشاشة وأقرب إلى طبع الأطفال. تتسلل جين إلى غرفة الإفطار، وتختبئ خلف ستارة حمراء في مقعد النافذة، وتغرق في صور كتاب بيويك عن الطيور، متخيلةً بحار القطب وحطام السفن والمقابر الموحشة. لكن ابن خالها جون ريد، الفتى المدلل المتنمّر ذو الأربعة عشر عامًا، يقطع عليها خلوتها، ويذكّرها بأنها عالة لا مال لها، ثم يقذفها بالكتاب الثقيل فيجرح رأسها. وللمرة الأولى تقاومه جين، فتصفه بالقاتل وتشبّهه بأباطرة الرومان. فتنحاز مسز ريد إلى جون، وتأمر بحبس جين في الغرفة الحمراء."
+  },
+  "objectives": [
+    {"en": "Understand Jane's position as an orphan and dependent in the Reed household.", "ar": "فهم وضع جين بوصفها يتيمة وعالة في بيت آل ريد."},
+    {"en": "Learn descriptive vocabulary for weather, landscape and mood (sombre, dreary, bleak, desolate).", "ar": "تعلّم مفردات الوصف الخاصة بالطقس والمكان والحالة النفسية (sombre وdreary وbleak وdesolate)."},
+    {"en": "Recognise the past perfect continuous, fronted objects and participle clauses in Victorian prose.", "ar": "التعرّف على الماضي التام المستمر، وتقديم المفعول به، وجمل اسم الفاعل/المفعول في النثر الفيكتوري."},
+    {"en": "Follow tense dialogue and identify how characters show power, anger and fear.", "ar": "متابعة الحوار المتوتر وملاحظة كيف تُظهر الشخصيات السلطة والغضب والخوف."}
+  ],
+  "vocab": [
+    "sombre", "penetrating", "shrubbery", "chilly", "twilight", "chide", "humble", "inferiority",
+    "disposition", "sprightly", "forbidding", "adjoin", "dreary", "lamentable", "solitary", "bleak",
+    "forlorn", "melancholy", "desolate", "ghastly", "torpid", "fervent", "diffidence", "antipathy",
+    "bully", "menace", "impudence", "endure", "dependent", "tyrant"
+  ],
+  "grammar": [
+    {
+      "id": "je-1-past-perfect-continuous",
+      "topic": "tenses",
+      "level": "B1",
+      "title": {"en": "Past perfect continuous and past perfect", "ar": "الماضي التام المستمر والماضي التام"},
+      "explain": {
+        "en": "Use 'had been + -ing' (past perfect continuous) for an activity that was in progress before another past moment, and 'had + past participle' (past perfect) for an action completed before that moment. Here the walk in the morning and the arrival of the storm both happened before the moment Jane is describing ('now').",
+        "ar": "نستعمل had been + الفعل مع ing (الماضي التام المستمر) لنشاط كان مستمرًّا قبل لحظة معينة في الماضي، ونستعمل had + التصريف الثالث (الماضي التام) لحدث اكتمل قبل تلك اللحظة. فالتجوّل في الصباح ومجيء العاصفة كلاهما وقعا قبل اللحظة التي تصفها جين (now)."
+      },
+      "example": {
+        "en": "We had been wandering, indeed, in the leafless shrubbery an hour in the morning; but since dinner (Mrs. Reed, when there was no company, dined early) the cold winter wind had brought with it clouds so sombre, and a rain so penetrating, that further outdoor exercise was now out of the question.",
+        "ar": "صحيحٌ أننا كنّا قد تجوّلنا ساعةً في الصباح بين الشجيرات العارية من أوراقها، لكن منذ وقت الغداء (إذ كانت مسز ريد تتناول غداءها مبكرًا حين لا يكون عندها ضيوف) جلبت ريحُ الشتاء الباردة معها غيومًا بالغةَ القتامة، ومطرًا شديدَ النفاذ، حتى صار أيّ خروجٍ آخر للرياضة في الهواء الطلق أمرًا غير وارد.",
+        "ref": "p1"
+      },
+      "exercise": {
+        "q": {"en": "Choose the correct form: By the time John found her, Jane ___ for nearly an hour.", "ar": "اختر الصيغة الصحيحة: عندما وجدها جون، كانت جين ___ منذ نحو ساعة."},
+        "options": ["had been reading", "has been reading", "was read"],
+        "answer": 0,
+        "why": {"en": "The reading was in progress up to a past moment (John finding her), so we need the past perfect continuous.", "ar": "القراءة كانت مستمرة حتى لحظة في الماضي (عثور جون عليها)، لذا نحتاج إلى الماضي التام المستمر."}
+      }
+    },
+    {
+      "id": "je-1-fronted-object",
+      "topic": "sentence",
+      "level": "B2",
+      "title": {"en": "Fronting: putting the object first for emphasis", "ar": "التقديم: وضع المفعول به في أول الجملة للتوكيد"},
+      "explain": {
+        "en": "Normal English order is subject + verb + object. Brontë often moves the object to the front to make it the topic: 'The two ships ... I believed to be marine phantoms' = 'I believed the two ships ... to be marine phantoms'. The same pattern appears in 'Me, she had dispensed from joining the group' (p3). It is formal and literary; in everyday English keep the normal order.",
+        "ar": "الترتيب المعتاد في الإنجليزية هو: الفاعل + الفعل + المفعول به. لكن برونتي كثيرًا ما تقدّم المفعول به لتجعله محور الكلام، تمامًا كما نقول في العربية: «أمّا السفينتان فقد حسبتُهما أشباحًا». ومثله في الفقرة الثالثة: Me, she had dispensed from joining the group. هذا أسلوب أدبي رسمي؛ أما في الكلام اليومي فالتزم الترتيب العادي."
+      },
+      "example": {
+        "en": "The two ships becalmed on a torpid sea, I believed to be marine phantoms.",
+        "ar": "أمّا السفينتان الراكدتان على بحرٍ ساكنٍ خامد، فقد حسبتُهما أشباحًا بحرية.",
+        "ref": "p12"
+      },
+      "exercise": {
+        "q": {"en": "Which sentence has the normal (unfronted) word order?", "ar": "أيّ جملة جاءت بالترتيب المعتاد (دون تقديم)؟"},
+        "options": ["I believed the two ships to be marine phantoms.", "The two ships I believed to be marine phantoms.", "Marine phantoms I believed the two ships to be."],
+        "answer": 0,
+        "why": {"en": "Subject (I) + verb (believed) + object (the two ships) is the standard order; the other two move the object or complement to the front.", "ar": "الفاعل (I) + الفعل (believed) + المفعول به (the two ships) هو الترتيب القياسي؛ أما الجملتان الأخريان فقدّمتا المفعول به أو المكمّل."}
+      }
+    },
+    {
+      "id": "je-1-participle-clause",
+      "topic": "complex",
+      "level": "B2",
+      "title": {"en": "Opening participle clauses (Accustomed to ..., Habitually obedient to ...)", "ar": "الجمل الافتتاحية باسم المفعول أو الصفة (Accustomed to ...)"},
+      "explain": {
+        "en": "A sentence can open with a past participle or adjective phrase that describes the subject and often gives a reason: 'Accustomed to John Reed’s abuse, I never had an idea of replying' = 'Because I was accustomed to his abuse, I never thought of replying'. The phrase must describe the subject of the main clause (here 'I'). Compare 'Habitually obedient to John, I came up to his chair' (p26).",
+        "ar": "يمكن أن تبدأ الجملة بعبارة فيها اسم مفعول (past participle) أو صفة تصف الفاعل وتبيّن السبب غالبًا: Accustomed to John Reed’s abuse تعني «لأنني كنت معتادة على إساءات جون». ويجب أن تصف العبارة فاعل الجملة الرئيسية (هنا I). وقارن بها: Habitually obedient to John, I came up to his chair في الفقرة 26."
+      },
+      "example": {
+        "en": "Accustomed to John Reed’s abuse, I never had an idea of replying to it; my care was how to endure the blow which would certainly follow the insult.",
+        "ar": "ولأنني اعتدتُ إساءات جون ريد، لم يخطر لي قطّ أن أردّ عليها؛ كان كلّ همّي كيف أتحمّل الضربة التي ستتبع الإهانة لا محالة.",
+        "ref": "p28"
+      },
+      "exercise": {
+        "q": {"en": "Which sentence uses the opening participle clause correctly?", "ar": "أيّ جملة استعملت العبارة الافتتاحية استعمالًا صحيحًا؟"},
+        "options": ["Frightened by the noise, Jane hid behind the curtain.", "Frightened by the noise, the curtain hid Jane.", "Frightened by the noise, it was dark in the room."],
+        "answer": 0,
+        "why": {"en": "The person who was frightened is Jane, so 'Jane' must be the subject of the main clause. The other options make the curtain or 'it' frightened (a dangling participle).", "ar": "التي شعرت بالخوف هي جين، فيجب أن تكون Jane فاعل الجملة الرئيسية. أما الخياران الآخران فيجعلان الستارة أو it هي الخائفة، وهذا خطأ يُسمّى dangling participle."}
+      }
+    }
+  ],
+  "culture": [
+    {
+      "term": "Bewick's History of British Birds",
+      "en": "Thomas Bewick (1753–1828) was an English wood-engraver. His 'History of British Birds' (1797–1804) was famous for its detailed bird pictures and for small engraved scenes ('vignettes') at the ends of sections: shipwrecks, churchyards, devils and gallows. Charlotte Brontë loved the book as a child. Jane's choice of it shows her imagination and her need to escape into another world.",
+      "ar": "توماس بيويك (1753–1828) فنان إنجليزي اشتهر بالحفر على الخشب. وكان كتابه «تاريخ الطيور البريطانية» (1797–1804) مشهورًا بصور الطيور الدقيقة وبالرسوم الصغيرة المحفورة (vignettes) في نهايات الفصول: سفن غارقة، ومقابر، وشياطين، ومشانق. وقد أحبّت شارلوت برونتي هذا الكتاب في طفولتها. واختيار جين له يكشف خيالها الواسع وحاجتها إلى الهروب إلى عالم آخر."
+    },
+    {
+      "term": "Orphans and dependents in Victorian families",
+      "en": "In the 19th century there was no state support for orphans of the middle class. A child like Jane depended completely on the charity of relatives. She was not a servant, but not an equal family member either: she could be reminded that she ate 'at our mama’s expense'. Inheritance went mainly to sons, which is why John can say the whole house 'will' belong to him.",
+      "ar": "في القرن التاسع عشر لم تكن هناك رعاية حكومية لأيتام الطبقة الوسطى، فكان الطفل مثل جين يعتمد كليًّا على إحسان أقاربه. لم تكن خادمة، ولم تكن كذلك فردًا مساويًا لبقية الأسرة، فيمكن أن يُعيَّر بأنه يأكل على نفقة الآخرين. وكان الميراث يذهب أساسًا إلى الأبناء الذكور، ولهذا يقول جون إن البيت كله سيصير ملكه."
+    },
+    {
+      "term": "Goldsmith's History of Rome",
+      "en": "Oliver Goldsmith (1728–1774), an Irish writer, wrote a popular 'Roman History' (1769) used in schools. It describes cruel emperors such as Nero and Caligula, famous for violence and abuse of power. When Jane calls John 'like the Roman emperors', she uses her reading to name his cruelty: a sign of her intelligence and moral judgment.",
+      "ar": "أوليفر غولدسميث (1728–1774) كاتب أيرلندي ألّف «تاريخ روما» (1769)، وكان كتابًا شائعًا في المدارس. ويصف فيه أباطرة قساة مثل نيرون وكاليغولا اشتهروا بالعنف والاستبداد. وحين تشبّه جين جون بـ«أباطرة الرومان» فإنها توظّف قراءاتها لتسمّي قسوته باسمها، وهذا دليل على ذكائها وحسّها الأخلاقي."
+    },
+    {
+      "term": "Master, Miss and the household servants",
+      "en": "In a wealthy Victorian home, children of the family were addressed with titles by servants and inferiors: a boy was 'Master John' or 'Master Reed'. John demands that Jane use this title, treating her like a servant. Bessie (the nurse who cared for the children) and Abbot (Mrs. Reed's lady's maid) belong to the servant class and side with the family.",
+      "ar": "في البيت الفيكتوري الثري كان الخدم ومن هم أدنى مكانة يخاطبون أبناء الأسرة بألقاب، فيُنادى الصبي «السيد جون» أو «السيد ريد» (Master). ويطالب جون جين بأن تستعمل هذا اللقب، كأنها خادمة. أما بيسي (المربية التي ترعى الأطفال) وأبوت (وصيفة مسز ريد) فهما من طبقة الخدم وتنحازان إلى الأسرة."
+    }
+  ],
+  "quiz": [
+    {
+      "type": "vocab",
+      "q": {"en": "In 'clouds so sombre', what does 'sombre' mean?", "ar": "في عبارة clouds so sombre، ما معنى sombre؟"},
+      "options": ["dark and gloomy", "light and fluffy", "fast-moving", "warm"],
+      "answer": 0,
+      "explain": {"en": "'Sombre' means dark and gloomy; it creates the sad, heavy mood that opens the novel.", "ar": "كلمة sombre تعني قاتمًا كئيبًا، وهي تصنع الجو الحزين الثقيل الذي تبدأ به الرواية."},
+      "ref": "p1"
+    },
+    {
+      "type": "comprehension",
+      "q": {"en": "Why was there no walk that afternoon?", "ar": "لماذا لم تكن هناك نزهة في ذلك العصر؟"},
+      "options": ["Cold wind, dark clouds and heavy rain made it impossible.", "Mrs. Reed was ill.", "The children were being punished.", "Bessie had gone to town."],
+      "answer": 0,
+      "explain": {"en": "Paragraph 1 says the cold winter wind brought sombre clouds and penetrating rain, so outdoor exercise was 'out of the question'.", "ar": "تقول الفقرة الأولى إن ريح الشتاء الباردة جلبت غيومًا قاتمة ومطرًا نافذًا، فصار الخروج للرياضة أمرًا غير وارد."},
+      "ref": "p1"
+    },
+    {
+      "type": "comprehension",
+      "q": {"en": "Why does Mrs. Reed keep Jane away from the family group?", "ar": "لماذا تُبعد مسز ريد جين عن مجلس الأسرة؟"},
+      "options": ["She says Jane must first become more sociable, cheerful and natural.", "Jane has a cold.", "Jane refused to come.", "There was no room on the sofa."],
+      "answer": 0,
+      "explain": {"en": "Mrs. Reed says she will exclude Jane until she acquires 'a more sociable and childlike disposition'. The reason is her dislike of Jane, not anything Jane has clearly done.", "ar": "تقول مسز ريد إنها ستُبعد جين حتى تكتسب طبعًا أكثر أنسًا وأقرب إلى طبع الأطفال؛ والسبب الحقيقي كراهيتها لجين لا ذنب واضح ارتكبته."},
+      "ref": "p3"
+    },
+    {
+      "type": "vocab",
+      "q": {"en": "'John had ... an antipathy to me.' 'Antipathy' means:", "ar": "في جملة John had ... an antipathy to me، معنى antipathy هو:"},
+      "options": ["a strong dislike", "a deep love", "a fear", "a small gift"],
+      "answer": 0,
+      "explain": {"en": "'Antipathy' is a strong feeling of dislike, the opposite of 'affection' in the same sentence.", "ar": "antipathy شعور قوي بالنفور والكراهية، وهو عكس affection الواردة في الجملة نفسها."},
+      "ref": "p25"
+    },
+    {
+      "type": "grammar",
+      "q": {"en": "'We had been wandering ... an hour in the morning.' Which tense is 'had been wandering'?", "ar": "في جملة We had been wandering ... an hour in the morning، ما زمن had been wandering؟"},
+      "options": ["past perfect continuous", "present perfect", "past simple", "future continuous"],
+      "answer": 0,
+      "explain": {"en": "'Had been + -ing' is the past perfect continuous: an activity in progress before another point in the past.", "ar": "had been + الفعل مع ing هو الماضي التام المستمر: نشاط كان مستمرًّا قبل لحظة أخرى في الماضي."},
+      "ref": "p1"
+    },
+    {
+      "type": "context",
+      "q": {"en": "Where does Jane hide to read?", "ar": "أين تختبئ جين لتقرأ؟"},
+      "options": ["In the window-seat behind a red curtain", "Under the dining table", "In the red-room", "In the garden shrubbery"],
+      "answer": 0,
+      "explain": {"en": "She climbs into the window-seat in the breakfast-room and draws the red moreen curtain, so she is 'shrined in double retirement'.", "ar": "تصعد إلى مقعد النافذة في غرفة الإفطار وتسدل الستارة الحمراء، فتصير محتجبة في عزلة مضاعفة."},
+      "ref": "p6"
+    },
+    {
+      "type": "grammar",
+      "q": {"en": "In 'Accustomed to John Reed’s abuse, I never had an idea of replying to it', the opening phrase shows:", "ar": "في جملة Accustomed to John Reed’s abuse, I never had an idea of replying to it، تبيّن العبارة الافتتاحية:"},
+      "options": ["the reason Jane does not reply", "the time of the action", "a condition (if)", "a place"],
+      "answer": 0,
+      "explain": {"en": "The participle clause means 'Because I was accustomed to his abuse'; it explains why Jane never answers back.", "ar": "العبارة تعني «لأنني كنت معتادة على إساءاته»، فهي تفسّر سبب عدم ردّ جين."},
+      "ref": "p28"
+    },
+    {
+      "type": "translation",
+      "q": {"en": "Choose the best Arabic translation of: 'I was glad of it: I never liked long walks'.", "ar": "اختر أفضل ترجمة عربية لـ: I was glad of it: I never liked long walks"},
+      "options": ["وقد سرّني ذلك؛ فلم أكن أحبّ النزهات الطويلة قطّ", "كنتُ حزينة لذلك؛ فقد أحببتُ النزهات الطويلة دائمًا", "كنتُ سعيدة بالنزهة الطويلة", "لم أكن أعرف شيئًا عن النزهات الطويلة"],
+      "answer": 0,
+      "explain": {"en": "'Glad of it' = pleased about it (the cancelled walk); 'never liked' = did not ever like.", "ar": "glad of it تعني «سرّني ذلك» (أي إلغاء النزهة)، وnever liked تعني «لم أحب قطّ»."},
+      "ref": "p2"
+    },
+    {
+      "type": "context",
+      "q": {"en": "Why does Jane compare John to 'the Roman emperors'?", "ar": "لماذا تشبّه جين جون بـ«أباطرة الرومان»؟"},
+      "options": ["She had read Goldsmith's History of Rome about cruel emperors like Nero and Caligula.", "John wants to visit Rome.", "John is studying Latin at school.", "Mrs. Reed told her a story about Rome."],
+      "answer": 0,
+      "explain": {"en": "Paragraph 36 explains that she had read Goldsmith's History of Rome and formed her opinion of Nero and Caligula, famous tyrants.", "ar": "توضّح الفقرة 36 أنها قرأت «تاريخ روما» لغولدسميث وكوّنت رأيها في نيرون وكاليغولا، وهما طاغيتان مشهوران."},
+      "ref": "p36"
+    },
+    {
+      "type": "context",
+      "q": {"en": "When John says 'you are a dependent', what does he mean about Jane?", "ar": "حين يقول جون you are a dependent، ماذا يقصد عن جين؟"},
+      "options": ["She has no money and lives at the Reeds' expense.", "She is very independent.", "She is a paid servant.", "She is his older sister."],
+      "answer": 0,
+      "explain": {"en": "He explains it himself: she has no money, her father left her none, and she eats and dresses at his mother's expense.", "ar": "يشرح ذلك بنفسه: ليس لديها مال، ولم يترك لها أبوها شيئًا، وهي تأكل وتلبس على نفقة أمه."},
+      "ref": "p33"
+    }
+  ]
+}

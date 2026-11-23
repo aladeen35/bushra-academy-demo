@@ -1,0 +1,179 @@
+{
+ "chapter": 1,
+ "summary": {
+  "en": "The novel opens by introducing Okonkwo, a man known across the nine villages of Umuofia and beyond. As a young man he became famous by defeating a champion wrestler. Now he is a prosperous farmer with wives, children, barns of yams and two titles. Achebe then describes Okonkwo's father, Unoka, a gentle man who loved music and conversation but was lazy, poor and always in debt. When a neighbour comes to ask for his money back, Unoka laughs and shows him the many debts he already owes. Okonkwo is deeply ashamed of his father. This shame shapes his whole character: he wants to be everything his father was not.",
+  "ar": "تبدأ الرواية بتقديم أوكونكوو، وهو رجل معروف في قرى أوموفيا التسع وما حولها. اشتهر في شبابه حين هزم بطلًا كبيرًا في المصارعة، وصار اليوم مزارعًا ميسور الحال له زوجات وأولاد ومخازن مليئة باليام ولقبان اجتماعيان. ثم يصف أتشيبي والد أوكونكوو، أونوكا، وهو رجل لطيف يحب الموسيقى والحديث، لكنه كسول فقير مثقل بالديون دائمًا. وحين يأتيه جار يطالبه بماله يضحك أونوكا ويريه الديون الكثيرة التي عليه أصلًا. يشعر أوكونكوو بخجل عميق من أبيه، وهذا الخجل يشكّل شخصيته كلها، فهو يريد أن يكون عكس أبيه في كل شيء، قويًا وناجحًا ومهابًا بين الناس."
+ },
+ "objectives": [
+  {
+   "en": "Describe Okonkwo and his father Unoka and explain how they differ.",
+   "ar": "أن تصف أوكونكوو وأباه أونوكا وتشرح الفرق بينهما."
+  },
+  {
+   "en": "Understand how success and titles bring respect in Umuofia.",
+   "ar": "أن تفهم كيف يجلب النجاح والألقاب الاحترام في أوموفيا."
+  },
+  {
+   "en": "Use the past simple and past perfect to tell a life story.",
+   "ar": "أن تستخدم الماضي البسيط والماضي التام لسرد قصة حياة."
+  }
+ ],
+ "vocab": [
+  "renowned",
+  "wrestle",
+  "debt",
+  "improvident",
+  "prosperous",
+  "cowrie",
+  "title",
+  "proverb",
+  "shame",
+  "imperious",
+  "clan",
+  "fierce"
+ ],
+ "grammar": [
+  {
+   "id": "tfa-1-past-perfect",
+   "topic": "tenses",
+   "level": "B1",
+   "title": {
+    "en": "The past perfect for earlier events",
+    "ar": "الماضي التام للأحداث الأسبق"
+   },
+   "explain": {
+    "en": "Use had + past participle for an action that happened before another past action. It helps a storyteller move back in time, as this chapter does when it moves from Okonkwo's present fame to his father's life.",
+    "ar": "نستخدم had + التصريف الثالث للفعل لحدث وقع قبل حدث آخر في الماضي. يساعد ذلك الراوي على العودة بالزمن إلى الوراء، كما يفعل هذا الفصل حين ينتقل من شهرة أوكونكوو إلى حياة أبيه."
+   },
+   "example": {
+    "en": "By the time he was thirty, he had already earned two titles.",
+    "ar": "بحلول سن الثلاثين كان قد نال لقبين بالفعل."
+   },
+   "exercise": {
+    "q": {
+     "en": "Choose the correct form: When the neighbour arrived, Unoka ___ all his money on music and food.",
+     "ar": "اختر الصيغة الصحيحة: حين وصل الجار كان أونوكا ___ كل ماله على الموسيقى والطعام."
+    },
+    "options": [
+     "had spent",
+     "has spent",
+     "spends"
+    ],
+    "answer": 0,
+    "why": {
+     "en": "The spending happened before the neighbour arrived, so we use the past perfect.",
+     "ar": "الإنفاق حدث قبل وصول الجار، لذلك نستخدم الماضي التام."
+    }
+   }
+  }
+ ],
+ "culture": [
+  {
+   "term": "Titles",
+   "en": "In traditional Igbo society, a man could rise by taking titles. Each title cost goods and a feast, so it showed hard work and wealth, not birth alone. Men with high titles sat among the respected elders.",
+   "ar": "في مجتمع الإيبو التقليدي كان الرجل يرتقي بنيل الألقاب، ولكل لقب كلفة من المال والولائم، فكان دليلًا على الجهد والثروة لا على النسب وحده. ويجلس أصحاب الألقاب العالية بين الشيوخ المحترمين."
+  },
+  {
+   "term": "Proverbs",
+   "en": "Igbo speakers value proverbs highly. A skilled speaker uses them to make a point politely and wisely, much like Arabic speakers use أمثال in serious conversation.",
+   "ar": "يقدّر الإيبو الأمثال كثيرًا، فالمتكلم البارع يستعملها ليوصل فكرته بأدب وحكمة، كما نستعمل الأمثال العربية في الأحاديث الجادة."
+  },
+  {
+   "term": "Cowries",
+   "en": "Cowrie shells served as money in many West African markets before coins and notes. Debts in the chapter are counted in cowries.",
+   "ar": "كانت أصداف الودع عملةً في أسواق كثيرة في غرب أفريقيا قبل النقود المعدنية والورقية، والديون في هذا الفصل تُحسب بالودع."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "How did Okonkwo first become famous?",
+    "ar": "كيف اشتهر أوكونكوو أول مرة؟"
+   },
+   "options": [
+    "By defeating a great wrestler",
+    "By playing the flute",
+    "By trading cowries",
+    "By travelling abroad"
+   ],
+   "answer": 0,
+   "explain": {
+    "en": "As a young man he threw a famous champion in a wrestling match.",
+    "ar": "هزم في شبابه بطلًا مشهورًا في مباراة مصارعة."
+   }
+  },
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "What is Okonkwo's main feeling about his father?",
+    "ar": "ما شعور أوكونكوو الرئيسي تجاه أبيه؟"
+   },
+   "options": [
+    "Admiration",
+    "Shame",
+    "Pity only",
+    "Fear"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "He is ashamed of Unoka's laziness and debts and wants to be his opposite.",
+    "ar": "يخجل من كسل أونوكا وديونه ويريد أن يكون عكسه."
+   }
+  },
+  {
+   "type": "vocab",
+   "q": {
+    "en": "\"Improvident\" best describes someone who…",
+    "ar": "كلمة improvident تصف شخصًا…"
+   },
+   "options": [
+    "saves carefully",
+    "does not plan for the future",
+    "works very hard",
+    "is very famous"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "An improvident person spends today without thinking of tomorrow, like Unoka.",
+    "ar": "المبذّر ينفق اليوم دون تفكير في الغد، مثل أونوكا."
+   }
+  },
+  {
+   "type": "context",
+   "q": {
+    "en": "Why are titles important in Umuofia?",
+    "ar": "لماذا الألقاب مهمة في أوموفيا؟"
+   },
+   "options": [
+    "They are given at birth",
+    "They show a man's achievement and earn respect",
+    "They are only for priests",
+    "They are bought from foreigners"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "Titles are earned with work and wealth, and they bring a man respect and a voice among elders.",
+    "ar": "تُنال الألقاب بالعمل والثروة، فتمنح الرجل احترامًا وصوتًا بين الشيوخ."
+   }
+  },
+  {
+   "type": "grammar",
+   "q": {
+    "en": "Choose the correct sentence.",
+    "ar": "اختر الجملة الصحيحة."
+   },
+   "options": [
+    "He had borrowed money before he bought the flute.",
+    "He had borrow money before he bought the flute.",
+    "He has borrowed money before he bought the flute.",
+    "He borrowing money before he bought the flute."
+   ],
+   "answer": 0,
+   "explain": {
+    "en": "Past perfect = had + past participle (borrowed).",
+    "ar": "الماضي التام = had + التصريف الثالث (borrowed)."
+   }
+  }
+ ]
+}

@@ -1,0 +1,172 @@
+{
+ "chapter": 5,
+ "summary": {
+  "en": "Umuofia prepares for the Feast of the New Yam, a joyful festival that gives thanks for the harvest. Houses are cleaned and painted, old yams are given away, and relatives are invited from far villages. Okonkwo, however, is restless; he prefers work to celebration. Looking for someone to blame, he accuses his second wife, Ekwefi, of damaging a banana tree, beats her and later shoots at her with his gun, but misses. Despite this, the festival goes on, and the drums of the coming wrestling contest fill Ekwefi with excitement. The chapter also shows the close bond between Ekwefi and her only child, Ezinma, who is curious, bold and very dear to Okonkwo.",
+  "ar": "تستعد أوموفيا لعيد اليام الجديد، وهو عيد بهيج يُشكر فيه على المحصول. تُنظَّف البيوت وتُطلى، ويُتصدَّق باليام القديم، ويُدعى الأقارب من القرى البعيدة. أما أوكونكوو فهو قلق لا يهدأ، إذ يفضّل العمل على الاحتفال. وبحثًا عن شخص يلومه يتهم زوجته الثانية إكويفي بإتلاف شجرة موز، فيضربها ثم يطلق النار نحوها من بندقيته لكنه يخطئها. ورغم ذلك يستمر العيد، وتملأ طبول مباراة المصارعة القادمة قلب إكويفي حماسة. ويُظهر الفصل كذلك الرابطة القوية بين إكويفي وابنتها الوحيدة إيزينما، وهي فتاة فضولية جريئة عزيزة جدًا على قلب أوكونكوو."
+ },
+ "objectives": [
+  {
+   "en": "Describe the Feast of the New Yam and what it means to the clan.",
+   "ar": "أن تصف عيد اليام الجديد ومعناه عند العشيرة."
+  },
+  {
+   "en": "Analyse Okonkwo's restlessness and violence at a time of celebration.",
+   "ar": "أن تحلل قلق أوكونكوو وعنفه في وقت الاحتفال."
+  },
+  {
+   "en": "Use adjectives and adverbs to describe a festival.",
+   "ar": "أن تستخدم الصفات والأحوال لوصف احتفال."
+  }
+ ],
+ "vocab": [
+  "new-yam-festival",
+  "feast",
+  "ancestral",
+  "kola-nut",
+  "hospitality",
+  "abundance",
+  "harvest",
+  "ritual",
+  "temper",
+  "wrestle"
+ ],
+ "grammar": [
+  {
+   "id": "tfa-5-adj-adv",
+   "topic": "descriptive",
+   "level": "B1",
+   "title": {
+    "en": "Adjectives and adverbs",
+    "ar": "الصفات والأحوال"
+   },
+   "explain": {
+    "en": "Adjectives describe nouns (a joyful festival). Adverbs describe verbs and often end in -ly (they danced joyfully). Good description uses both.",
+    "ar": "الصفة تصف الاسم (a joyful festival)، والحال يصف الفعل وكثيرًا ما ينتهي بـ ly (they danced joyfully). والوصف الجيد يستخدم الاثنين."
+   },
+   "example": {
+    "en": "The women painted their walls carefully, and the village looked bright and welcoming.",
+    "ar": "طلت النساء جدرانهن بعناية، فبدت القرية مشرقة ومرحّبة."
+   },
+   "exercise": {
+    "q": {
+     "en": "Choose: The guests were welcomed ___.",
+     "ar": "اختر: استُقبل الضيوف ___."
+    },
+    "options": [
+     "warm",
+     "warmly",
+     "warmth"
+    ],
+    "answer": 1,
+    "why": {
+     "en": "We need an adverb to describe the verb \"were welcomed\".",
+     "ar": "نحتاج حالًا يصف الفعل were welcomed."
+    }
+   }
+  }
+ ],
+ "culture": [
+  {
+   "term": "The Feast of the New Yam",
+   "en": "This harvest festival thanked the earth goddess and the ancestors. Old yams were finished or given away before the new crop was eaten, and in-laws came to share large meals.",
+   "ar": "عيد حصاد يُشكر فيه على المحصول بحسب معتقدهم، ويُنهى فيه اليام القديم أو يُتصدق به قبل أكل الجديد، ويأتي الأصهار لمشاركة الولائم."
+  },
+  {
+   "term": "Yam as a symbol",
+   "en": "Yam was called the king of crops. Growing many yams showed that a man was hard-working and able to feed a large family.",
+   "ar": "كان اليام يُسمى ملك المحاصيل، وزراعة الكثير منه دليل على أن الرجل مجتهد قادر على إعالة أسرة كبيرة."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "What is the Feast of the New Yam?",
+    "ar": "ما هو عيد اليام الجديد؟"
+   },
+   "options": [
+    "A wedding",
+    "A harvest festival of thanks",
+    "A funeral",
+    "A war ceremony"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "It celebrates and gives thanks for the new harvest.",
+    "ar": "يُحتفل فيه بالمحصول الجديد ويُشكر عليه."
+   }
+  },
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "How does Okonkwo feel during the festival?",
+    "ar": "كيف يشعر أوكونكوو أثناء العيد؟"
+   },
+   "options": [
+    "Relaxed and happy",
+    "Restless and irritable",
+    "Sad and quiet",
+    "Sleepy"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "He prefers work and becomes angry when there is nothing to do.",
+    "ar": "يفضّل العمل ويغضب حين لا يجد ما يفعله."
+   }
+  },
+  {
+   "type": "vocab",
+   "q": {
+    "en": "\"Abundance\" means…",
+    "ar": "abundance تعني…"
+   },
+   "options": [
+    "a small amount",
+    "a large quantity",
+    "a dangerous place",
+    "a sad feeling"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "An abundance is more than enough of something.",
+    "ar": "الوفرة كمية تزيد عن الحاجة."
+   }
+  },
+  {
+   "type": "context",
+   "q": {
+    "en": "Who is Ezinma?",
+    "ar": "من هي إيزينما؟"
+   },
+   "options": [
+    "Okonkwo's mother",
+    "Ekwefi's only child",
+    "A priestess",
+    "Nwoye's wife"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "Ezinma is the daughter of Ekwefi and Okonkwo.",
+    "ar": "إيزينما ابنة إكويفي وأوكونكوو."
+   }
+  },
+  {
+   "type": "grammar",
+   "q": {
+    "en": "Which word is an adverb?",
+    "ar": "أي كلمة حال؟"
+   },
+   "options": [
+    "proud",
+    "proudly",
+    "pride",
+    "prouder"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "\"Proudly\" ends in -ly and describes how someone does something.",
+    "ar": "proudly تنتهي بـ ly وتصف كيفية الفعل."
+   }
+  }
+ ]
+}

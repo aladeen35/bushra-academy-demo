@@ -1,0 +1,41 @@
+{
+  "author": {
+    "name": "Robert Louis Stevenson",
+    "born": 1850,
+    "died": 1894,
+    "bio": {
+      "en": "Robert Louis Stevenson was born in Edinburgh, Scotland, in 1850, into a famous family of lighthouse engineers. He was often ill as a child and spent long days in bed, where stories and his nurse's tales fed his imagination. He studied engineering and then law at the University of Edinburgh, but he chose to become a writer. All his life he suffered from weak lungs, so he travelled in search of better health: to France, the United States, and finally the South Pacific. He married Fanny Osbourne, an American, in 1880. Treasure Island (1883) made him famous, and it was followed by Strange Case of Dr Jekyll and Mr Hyde and Kidnapped (both 1886). He settled in Samoa, where the local people called him 'Tusitala', the teller of tales, and he died there in 1894, aged only 44.",
+      "ar": "وُلد روبرت لويس ستيفنسون في إدنبرة بإسكتلندا عام ١٨٥٠، في أسرة مشهورة من مهندسي المنارات. كان كثير المرض في طفولته، فقضى أيامًا طويلة في الفراش، حيث غذّت القصص وحكايات مربّيته خياله. درس الهندسة ثم القانون في جامعة إدنبرة، لكنه اختار أن يصبح كاتبًا. وعانى طوال حياته من ضعف الرئتين، فسافر بحثًا عن صحة أفضل: إلى فرنسا، ثم الولايات المتحدة، وأخيرًا جزر جنوب المحيط الهادئ. تزوّج الأمريكية فاني أوزبورن عام ١٨٨٠. جعلته «جزيرة الكنز» (١٨٨٣) مشهورًا، ثم كتب بعدها «الحالة الغريبة للدكتور جيكل والسيد هايد» و«المخطوف» (كلتاهما ١٨٨٦). استقرّ في جزر ساموا، حيث سمّاه أهلها «توسيتالا» أي راوي الحكايات، وتوفّي هناك عام ١٨٩٤ وعمره أربعة وأربعون عامًا فقط."
+    }
+  },
+  "context": {
+    "en": "Treasure Island is set in the middle of the 18th century, when England was a great sea power and ships carried trade, sailors and news across the world. The story looks back to the 'golden age of piracy' (about 1650–1730), when pirates and buccaneers attacked ships in the Caribbean and the Atlantic; many ended their lives on the gallows. In 1881, on a rainy holiday in Braemar, Scotland, Stevenson drew a map of an imaginary island with his twelve-year-old stepson, Lloyd Osbourne, and began to write a story around it. It first appeared in parts in the magazine Young Folks (1881–1882) under the pen name 'Captain George North', for young readers. It was published as a book in 1883 and became one of the most loved adventure stories ever written. It gave us many images we still connect with pirates today: treasure maps marked with an X, one-legged sailors, parrots on shoulders and the 'black spot'.",
+    "ar": "تجري أحداث «جزيرة الكنز» في منتصف القرن الثامن عشر، حين كانت إنجلترا قوة بحرية كبرى، وكانت السفن تنقل التجارة والبحّارة والأخبار عبر العالم. وتعود القصة بذاكرتها إلى «العصر الذهبي للقرصنة» (نحو ١٦٥٠–١٧٣٠)، حين كان القراصنة يهاجمون السفن في البحر الكاريبي والمحيط الأطلسي، وانتهت حياة كثير منهم على المشنقة. في عام ١٨٨١، خلال عطلة ممطرة في بريمار بإسكتلندا، رسم ستيفنسون خريطة لجزيرة خيالية مع ابن زوجته لويد أوزبورن، وكان عمره اثني عشر عامًا، ثم بدأ يكتب قصة حولها. نُشرت أولًا على حلقات في مجلة «Young Folks» (١٨٨١–١٨٨٢) باسم مستعار هو «الكابتن جورج نورث»، وكانت موجّهة إلى القرّاء الصغار. ثم صدرت كتابًا عام ١٨٨٣، وأصبحت من أحبّ قصص المغامرات في العالم. ومنها جاءت صور كثيرة ما زلنا نربطها بالقراصنة: خريطة الكنز وعليها علامة X، والبحّار ذو الساق الواحدة، والببغاء على الكتف، و«البقعة السوداء»."
+  },
+  "themes": [
+    { "en": "Growing up: Jim begins as a frightened boy at an inn and learns courage, judgement and responsibility through danger.", "ar": "النضج: يبدأ جيم صبيًّا خائفًا في نُزل، ثم يتعلّم الشجاعة وحسن التقدير وتحمّل المسؤولية من خلال المخاطر." },
+    { "en": "Greed and its cost: the search for gold drives almost every character, and it brings betrayal, violence and death.", "ar": "الطمع وثمنه: البحث عن الذهب يحرّك معظم الشخصيات، ويجرّ معه الخيانة والعنف والموت." },
+    { "en": "Good and evil are not simple: Long John Silver is charming and clever but also dangerous and dishonest.", "ar": "الخير والشر ليسا بسيطين: لونغ جون سيلفر ذكي وجذّاب، لكنه أيضًا خطير وغير أمين." },
+    { "en": "Loyalty and trust: the story keeps asking who can be trusted, on land and at sea.", "ar": "الوفاء والثقة: تطرح القصة باستمرار سؤال: من يمكن الوثوق به، في البرّ والبحر؟" },
+    { "en": "Adventure and the sea: the sea is both exciting and frightening, a place of freedom and of great danger.", "ar": "المغامرة والبحر: البحر مثير ومخيف معًا، فهو مكان للحرية وللخطر الكبير." }
+  ],
+  "characters": [
+    { "name": "Jim Hawkins", "en": "The young narrator, son of the keeper of the Admiral Benbow inn. Brave, curious and quick-thinking, he finds the treasure map and sails to the island.", "ar": "الراوي الشاب، ابن صاحب نُزل الأدميرال بنبو. شجاع وفضولي وسريع التفكير، يعثر على خريطة الكنز ويبحر إلى الجزيرة." },
+    { "name": "Billy Bones (the captain)", "en": "A rough, scarred old seaman who stays at the inn and calls himself 'captain'. He hides a sea-chest and fears a one-legged sailor.", "ar": "بحّار عجوز خشن، على وجهه ندبة، يقيم في النُّزل ويسمّي نفسه «القبطان». يُخفي صندوقًا بحريًا ويخاف من بحّار ذي ساق واحدة." },
+    { "name": "Dr. Livesey", "en": "A calm, wise and brave doctor who is also a local magistrate. He stands up to the captain and later joins the voyage.", "ar": "طبيب هادئ حكيم شجاع، وهو أيضًا قاضٍ في المنطقة. يقف في وجه القبطان، ثم ينضمّ إلى الرحلة." },
+    { "name": "Squire Trelawney", "en": "A rich, generous but talkative country gentleman who buys and prepares the ship for the treasure hunt.", "ar": "سيّد ريفي ثري كريم لكنه كثير الكلام، يشتري السفينة ويجهّزها لرحلة البحث عن الكنز." },
+    { "name": "Long John Silver", "en": "A one-legged ship's cook with a parrot. Friendly and clever on the surface, he is really the leader of the pirates.", "ar": "طبّاخ السفينة ذو الساق الواحدة ومعه ببغاء. يبدو ودودًا وذكيًا، لكنه في الحقيقة زعيم القراصنة." },
+    { "name": "Captain Smollett", "en": "The strict, honest captain of the ship Hispaniola. He suspects the crew from the beginning.", "ar": "قبطان سفينة «هسبانيولا»، صارم وأمين. يشكّ في البحّارة منذ البداية." },
+    { "name": "Ben Gunn", "en": "A former pirate left alone on the island for three years. Strange and lonely, he becomes an important ally.", "ar": "قرصان سابق تُرك وحيدًا على الجزيرة ثلاث سنوات. غريب الأطوار ووحيد، لكنه يصبح حليفًا مهمًّا." },
+    { "name": "Blind Pew", "en": "A frightening blind beggar and old pirate who brings the captain the 'black spot', a pirate's warning.", "ar": "متسوّل أعمى مخيف وقرصان قديم، يحمل إلى القبطان «البقعة السوداء»، وهي إنذار عند القراصنة." },
+    { "name": "Black Dog", "en": "A pale pirate missing two fingers who comes to the inn looking for the captain.", "ar": "قرصان شاحب ينقصه إصبعان، يأتي إلى النُّزل باحثًا عن القبطان." },
+    { "name": "Israel Hands", "en": "A dangerous pirate, the ship's coxswain, who fights Jim on board the Hispaniola.", "ar": "قرصان خطير، وهو مسؤول دفّة السفينة، يتقاتل مع جيم على متن «هسبانيولا»." }
+  ],
+  "objectives": [
+    { "en": "Build a strong vocabulary of adventure and maritime words: ships, the sea, pirates and treasure.", "ar": "بناء حصيلة قوية من مفردات المغامرة والبحر: السفن، والبحر، والقراصنة، والكنز." },
+    { "en": "Follow and understand dialogue, and notice how speech shows a character's personality and social class.", "ar": "متابعة الحوار وفهمه، وملاحظة كيف يكشف الكلام شخصية المتكلّم وطبقته الاجتماعية." },
+    { "en": "Recognize informal, old-fashioned and sailors' expressions, and know their modern standard meaning.", "ar": "التعرّف على التعابير العامية والقديمة وتعابير البحّارة، ومعرفة معناها في الإنجليزية الفصحى الحديثة." },
+    { "en": "Master past-tense narration: the past simple, past continuous, past perfect and 'would' for past habits.", "ar": "إتقان السرد بالأزمنة الماضية: الماضي البسيط، والماضي المستمر، والماضي التام، و«would» للعادات الماضية." },
+    { "en": "Read a complete classic novel with growing confidence and retell its events in your own words.", "ar": "قراءة رواية كلاسيكية كاملة بثقة متزايدة، وإعادة سرد أحداثها بأسلوبك الخاص." }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+ "chapter": 17,
+ "summary": {
+  "en": "The missionaries ask the leaders of Mbanta for land to build their church. The elders give them a piece of the Evil Forest, sure that the strangers will die there within days. When the missionaries survive and build their church, more people begin to join them. An Igbo Christian teacher, Mr. Kiaga, is left in charge of the small congregation. One day Nwoye is seen among the Christians. When he returns home, Okonkwo grabs him in fury and beats him. Nwoye leaves his father's house for good and goes to Umuofia to attend the missionaries' school. Okonkwo is devastated. He wonders how a man of fire like himself could have a son like Nwoye, and he fears that his family line will be shamed.",
+  "ar": "يطلب المبشّرون من زعماء مبانتا أرضًا لبناء كنيستهم، فيعطيهم الشيوخ قطعة من الغابة الملعونة، واثقين أن الغرباء سيموتون فيها خلال أيام. لكن حين ينجو المبشّرون ويبنون كنيستهم يبدأ مزيد من الناس بالانضمام إليهم. ويُترك معلم مسيحي من الإيبو اسمه السيد كياغا مسؤولًا عن الجماعة الصغيرة. وفي أحد الأيام يُرى نوويي بين المسيحيين، فحين يعود إلى البيت يمسك به أوكونكوو في غضب شديد ويضربه. يترك نوويي بيت أبيه إلى الأبد ويذهب إلى أوموفيا ليدرس في مدرسة المبشّرين. يتحطم أوكونكوو من الداخل، ويتساءل كيف يكون لرجل ناري مثله ابن كنوويي، ويخشى أن يلحق العار بنسبه."
+ },
+ "objectives": [
+  {
+   "en": "Explain why the elders give the missionaries the Evil Forest.",
+   "ar": "أن تشرح لماذا أعطى الشيوخ المبشّرين الغابة الملعونة."
+  },
+  {
+   "en": "Describe the break between Okonkwo and Nwoye.",
+   "ar": "أن تصف القطيعة بين أوكونكوو ونوويي."
+  },
+  {
+   "en": "Use \"expect/hope/believe + that\" and future in the past.",
+   "ar": "أن تستخدم المستقبل في الماضي بعد expect و hope و believe."
+  }
+ ],
+ "vocab": [
+  "evil-forest",
+  "church",
+  "defy",
+  "disown",
+  "wrath",
+  "convert",
+  "generation",
+  "stubborn",
+  "missionary",
+  "lineage"
+ ],
+ "grammar": [
+  {
+   "id": "tfa-17-future-in-past",
+   "topic": "tenses",
+   "level": "B2",
+   "title": {
+    "en": "Future in the past",
+    "ar": "المستقبل في الماضي"
+   },
+   "explain": {
+    "en": "To talk about what people expected in the past, use \"would\" or \"was/were going to\" after verbs like expect, believe and think.",
+    "ar": "للحديث عما توقعه الناس في الماضي نستخدم would أو was/were going to بعد أفعال مثل expect و believe و think."
+   },
+   "example": {
+    "en": "The elders believed that the newcomers would not survive for long in that place.",
+    "ar": "اعتقد الشيوخ أن القادمين الجدد لن يعيشوا طويلًا في ذلك المكان."
+   },
+   "exercise": {
+    "q": {
+     "en": "Choose: Everyone thought the building ___ fall down soon.",
+     "ar": "اختر: ظن الجميع أن المبنى ___ قريبًا."
+    },
+    "options": [
+     "would",
+     "will",
+     "is going to"
+    ],
+    "answer": 0,
+    "why": {
+     "en": "After a past reporting verb, \"will\" becomes \"would\".",
+     "ar": "بعد فعل ماضٍ تتحول will إلى would."
+    }
+   }
+  }
+ ],
+ "culture": [
+  {
+   "term": "The Evil Forest",
+   "en": "The Evil Forest was feared as a place full of dangerous spirits. Offering it to the missionaries was a test: the clan expected the forest's power to destroy them.",
+   "ar": "كانت الغابة الملعونة مكانًا مخيفًا يُظن أنه مليء بالأرواح الخطرة، فكان إعطاؤها للمبشّرين اختبارًا توقعت فيه العشيرة أن تهلكهم قوة الغابة."
+  },
+  {
+   "term": "Sons and family honour",
+   "en": "For Okonkwo, a son continued the family line and honoured the ancestors. Nwoye's choice therefore feels to him like a threat to the whole lineage, not only a personal disagreement.",
+   "ar": "كان الابن عند أوكونكوو امتدادًا لنسب الأسرة وتكريمًا للأسلاف، لذلك بدا له اختيار نوويي تهديدًا للنسب كله لا خلافًا شخصيًا فقط."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "Where do the missionaries build their church in Mbanta?",
+    "ar": "أين بنى المبشّرون كنيستهم في مبانتا؟"
+   },
+   "options": [
+    "In the market",
+    "In the Evil Forest",
+    "In Uchendu's compound",
+    "By the river"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "The elders gave them land in the Evil Forest.",
+    "ar": "أعطاهم الشيوخ أرضًا في الغابة الملعونة."
+   }
+  },
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "What does Nwoye do after his father beats him?",
+    "ar": "ماذا فعل نوويي بعد أن ضربه أبوه؟"
+   },
+   "options": [
+    "He apologises",
+    "He leaves to attend the mission school in Umuofia",
+    "He becomes a wrestler",
+    "He goes to Abame"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "He leaves his father's house for good.",
+    "ar": "ترك بيت أبيه نهائيًا."
+   }
+  },
+  {
+   "type": "vocab",
+   "q": {
+    "en": "\"Wrath\" means…",
+    "ar": "wrath تعني…"
+   },
+   "options": [
+    "great joy",
+    "extreme anger",
+    "deep sleep",
+    "strong friendship"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "Okonkwo's wrath frightens his family.",
+    "ar": "غضب أوكونكوو الشديد يخيف أسرته."
+   }
+  },
+  {
+   "type": "context",
+   "q": {
+    "en": "Why are the elders surprised?",
+    "ar": "لماذا تفاجأ الشيوخ؟"
+   },
+   "options": [
+    "The missionaries left",
+    "The missionaries survived in the Evil Forest",
+    "Nwoye returned",
+    "It rained"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "They expected the forest to kill them within days.",
+    "ar": "توقعوا أن تقتلهم الغابة خلال أيام."
+   }
+  },
+  {
+   "type": "grammar",
+   "q": {
+    "en": "Choose: She hoped that her son ___ come back.",
+    "ar": "اختر: تمنت أن ابنها ___ يعود."
+   },
+   "options": [
+    "would",
+    "will",
+    "shall",
+    "is"
+   ],
+   "answer": 0,
+   "explain": {
+    "en": "Future in the past uses \"would\".",
+    "ar": "المستقبل في الماضي يستخدم would."
+   }
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "slug": "things-fall-apart",
+ "title": "Things Fall Apart",
+ "titleAr": "الأشياء تتداعى",
+ "author": "Chinua Achebe",
+ "authorAr": "تشينوا أتشيبي",
+ "year": 1958,
+ "genre": {
+  "en": "African Literature · Historical Fiction",
+  "ar": "أدب أفريقي · رواية تاريخية"
+ },
+ "tags": [
+  "african",
+  "historical",
+  "modern"
+ ],
+ "level": "B1",
+ "studyHours": 20,
+ "accent": "#b3121b",
+ "text": "none",
+ "stage": "educational-review",
+ "rights": {
+  "status": "educational-reference",
+  "authorDied": 2013,
+  "firstPublished": 1958,
+  "jurisdiction": "In copyright worldwide (author died 2013)",
+  "sourceEdition": "First Anchor Books Edition, 1994 (eISBN 978-0-307-74385-5), © 1959 Chinua Achebe. Reference PDF supplied by the owner: image-only scan, 202 pages, no text layer.",
+  "sourceUrl": "https://marul.ffst.hr/~bwillems/fymob/things.pdf",
+  "translationRights": {
+   "en": "No Arabic translation rights. Arabic summaries and analysis are original educational works.",
+   "ar": "لا توجد حقوق ترجمة عربية. الملخصات والتحليل بالعربية أعمال تعليمية أصلية."
+  },
+  "audioRights": {
+   "en": "None. Pronunciation of vocabulary uses device text-to-speech.",
+   "ar": "لا توجد. نطق المفردات بقارئ الجهاز الآلي."
+  },
+  "distributionRights": {
+   "en": "The novel's text is NOT published. The course offers original summaries, analysis, vocabulary and exercises only. A licence from the rights holder is required before any full text is added.",
+   "ar": "لا يُنشر نص الرواية. يقدّم المقرر ملخصات وتحليلًا ومفردات وتمارين أصلية فقط. يلزم ترخيص من صاحب الحقوق قبل إضافة أي نص كامل."
+  },
+  "licenseDocs": [],
+  "conditions": {
+   "en": "No quotations from the novel in the app. Short quotations for criticism may be added later only after a legal review.",
+   "ar": "لا اقتباسات من الرواية داخل التطبيق. يمكن إضافة اقتباسات قصيرة للنقد لاحقًا بعد مراجعة قانونية فقط."
+  },
+  "verifiedBy": "",
+  "verifiedAt": "2026-11-23"
+ },
+ "language": "en",
+ "cover": "assets/covers/things-fall-apart.svg",
+ "published": true
+}

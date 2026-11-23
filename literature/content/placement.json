@@ -1,0 +1,468 @@
+{
+ "levels": [
+  "A1",
+  "A2",
+  "B1",
+  "B2",
+  "C1",
+  "C2"
+ ],
+ "questions": [
+  {
+   "level": "A1",
+   "type": "grammar",
+   "q": {
+    "en": "She ___ a teacher.",
+    "ar": "اختر الكلمة الصحيحة."
+   },
+   "options": [
+    "is",
+    "are",
+    "am",
+    "be"
+   ],
+   "answer": 0
+  },
+  {
+   "level": "A1",
+   "type": "vocab",
+   "q": {
+    "en": "Which word means «كتاب»?",
+    "ar": "أي كلمة تعني «كتاب»؟"
+   },
+   "options": [
+    "book",
+    "door",
+    "chair",
+    "window"
+   ],
+   "answer": 0
+  },
+  {
+   "level": "A1",
+   "type": "grammar",
+   "q": {
+    "en": "I ___ to school every day.",
+    "ar": "اختر الصيغة الصحيحة."
+   },
+   "options": [
+    "go",
+    "goes",
+    "going",
+    "gone"
+   ],
+   "answer": 0
+  },
+  {
+   "level": "A1",
+   "type": "vocab",
+   "q": {
+    "en": "The opposite of «big» is…",
+    "ar": "عكس كلمة big هو…"
+   },
+   "options": [
+    "small",
+    "tall",
+    "long",
+    "happy"
+   ],
+   "answer": 0
+  },
+  {
+   "level": "A1",
+   "type": "reading",
+   "q": {
+    "en": "Where is the cat?",
+    "ar": "أين القطة؟"
+   },
+   "options": [
+    "under the table",
+    "on the bed",
+    "in the garden",
+    "in the car"
+   ],
+   "answer": 0,
+   "text": "The cat is under the table. The dog is in the garden."
+  },
+  {
+   "level": "A2",
+   "type": "grammar",
+   "q": {
+    "en": "Yesterday we ___ to the market.",
+    "ar": "اختر الصيغة الصحيحة."
+   },
+   "options": [
+    "went",
+    "go",
+    "have gone",
+    "going"
+   ],
+   "answer": 0
+  },
+  {
+   "level": "A2",
+   "type": "grammar",
+   "q": {
+    "en": "This book is ___ than that one.",
+    "ar": "اختر الصيغة الصحيحة."
+   },
+   "options": [
+    "more interesting",
+    "most interesting",
+    "interestinger",
+    "interesting"
+   ],
+   "answer": 0
+  },
+  {
+   "level": "A2",
+   "type": "vocab",
+   "q": {
+    "en": "«He was tired, ___ he went to bed early.»",
+    "ar": "اختر أداة الربط المناسبة."
+   },
+   "options": [
+    "so",
+    "but",
+    "because",
+    "although"
+   ],
+   "answer": 0
+  },
+  {
+   "level": "A2",
+   "type": "grammar",
+   "q": {
+    "en": "There isn't ___ milk in the fridge.",
+    "ar": "اختر الكلمة الصحيحة."
+   },
+   "options": [
+    "any",
+    "some",
+    "many",
+    "a"
+   ],
+   "answer": 0
+  },
+  {
+   "level": "A2",
+   "type": "reading",
+   "q": {
+    "en": "Why did Amal stay at home?",
+    "ar": "لماذا بقيت أمل في البيت؟"
+   },
+   "options": [
+    "She was ill.",
+    "It was raining.",
+    "She had no money.",
+    "She was studying."
+   ],
+   "answer": 0,
+   "text": "Amal wanted to visit her grandmother on Friday, but she had a fever, so she stayed at home and slept."
+  },
+  {
+   "level": "B1",
+   "type": "grammar",
+   "q": {
+    "en": "If it rains tomorrow, we ___ the trip.",
+    "ar": "اختر الصيغة الصحيحة."
+   },
+   "options": [
+    "will cancel",
+    "would cancel",
+    "cancelled",
+    "had cancelled"
+   ],
+   "answer": 0
+  },
+  {
+   "level": "B1",
+   "type": "grammar",
+   "q": {
+    "en": "By the time we arrived, the film ___.",
+    "ar": "اختر الصيغة الصحيحة."
+   },
+   "options": [
+    "had already started",
+    "has already started",
+    "already starts",
+    "was already start"
+   ],
+   "answer": 0
+  },
+  {
+   "level": "B1",
+   "type": "vocab",
+   "q": {
+    "en": "«The village was quiet and ___; nobody lived there any more.»",
+    "ar": "اختر الكلمة الأنسب للمعنى."
+   },
+   "options": [
+    "deserted",
+    "crowded",
+    "noisy",
+    "busy"
+   ],
+   "answer": 0
+  },
+  {
+   "level": "B1",
+   "type": "grammar",
+   "q": {
+    "en": "The letter ___ by my grandfather in 1960.",
+    "ar": "اختر صيغة المبني للمجهول الصحيحة."
+   },
+   "options": [
+    "was written",
+    "wrote",
+    "has written",
+    "is writing"
+   ],
+   "answer": 0
+  },
+  {
+   "level": "B1",
+   "type": "reading",
+   "q": {
+    "en": "What did the fisherman learn?",
+    "ar": "ماذا تعلّم الصياد؟"
+   },
+   "options": [
+    "Patience brings rewards.",
+    "Fishing is dangerous.",
+    "The sea is cold.",
+    "Boats are expensive."
+   ],
+   "answer": 0,
+   "text": "For three days the old fisherman caught nothing. He did not complain; he mended his nets and waited. On the fourth morning his boat came home full."
+  },
+  {
+   "level": "B2",
+   "type": "grammar",
+   "q": {
+    "en": "She said that she ___ the novel the week before.",
+    "ar": "حوّل إلى الكلام المنقول."
+   },
+   "options": [
+    "had finished",
+    "has finished",
+    "finishes",
+    "will finish"
+   ],
+   "answer": 0
+  },
+  {
+   "level": "B2",
+   "type": "grammar",
+   "q": {
+    "en": "Had I known about the meeting, I ___ earlier.",
+    "ar": "اختر الصيغة الصحيحة."
+   },
+   "options": [
+    "would have come",
+    "will come",
+    "would come",
+    "had come"
+   ],
+   "answer": 0
+  },
+  {
+   "level": "B2",
+   "type": "vocab",
+   "q": {
+    "en": "«His ___ remarks offended everyone at the table.»",
+    "ar": "اختر الكلمة الأنسب للمعنى."
+   },
+   "options": [
+    "tactless",
+    "tactful",
+    "generous",
+    "humble"
+   ],
+   "answer": 0
+  },
+  {
+   "level": "B2",
+   "type": "vocab",
+   "q": {
+    "en": "To «put up with» something means to…",
+    "ar": "معنى put up with هو…"
+   },
+   "options": [
+    "tolerate it",
+    "build it",
+    "praise it",
+    "forget it"
+   ],
+   "answer": 0
+  },
+  {
+   "level": "B2",
+   "type": "reading",
+   "q": {
+    "en": "What does the writer suggest about the narrator?",
+    "ar": "ماذا يوحي الكاتب عن الراوي؟"
+   },
+   "options": [
+    "He is pretending to be calm.",
+    "He is genuinely relaxed.",
+    "He is angry with his friend.",
+    "He does not understand the news."
+   ],
+   "answer": 0,
+   "text": "\"It is of no consequence,\" I said lightly, though my hand trembled as I folded the letter and slipped it into my pocket."
+  },
+  {
+   "level": "C1",
+   "type": "grammar",
+   "q": {
+    "en": "Not only ___ late, but he also forgot the tickets.",
+    "ar": "اختر الصيغة الصحيحة (تقديم وتأخير)."
+   },
+   "options": [
+    "did he arrive",
+    "he arrived",
+    "he did arrive",
+    "arrived he"
+   ],
+   "answer": 0
+  },
+  {
+   "level": "C1",
+   "type": "vocab",
+   "q": {
+    "en": "An «ominous» silence is one that…",
+    "ar": "الصمت ominous هو صمت…"
+   },
+   "options": [
+    "suggests something bad will happen",
+    "is pleasant and calm",
+    "is very short",
+    "is broken by laughter"
+   ],
+   "answer": 0
+  },
+  {
+   "level": "C1",
+   "type": "grammar",
+   "q": {
+    "en": "It is high time we ___ a decision.",
+    "ar": "اختر الصيغة الصحيحة."
+   },
+   "options": [
+    "made",
+    "make",
+    "will make",
+    "have made"
+   ],
+   "answer": 0
+  },
+  {
+   "level": "C1",
+   "type": "vocab",
+   "q": {
+    "en": "«She bore the loss with great ___, never once complaining.»",
+    "ar": "اختر الكلمة الأنسب للمعنى."
+   },
+   "options": [
+    "fortitude",
+    "frivolity",
+    "indolence",
+    "vanity"
+   ],
+   "answer": 0
+  },
+  {
+   "level": "C1",
+   "type": "reading",
+   "q": {
+    "en": "The tone of the passage is best described as…",
+    "ar": "أفضل وصف لنبرة النص…"
+   },
+   "options": [
+    "ironic",
+    "celebratory",
+    "neutral and factual",
+    "fearful"
+   ],
+   "answer": 0,
+   "text": "The committee, having spent eleven months and a considerable sum discussing the shortage of funds, concluded that more meetings would be required."
+  },
+  {
+   "level": "C2",
+   "type": "grammar",
+   "q": {
+    "en": "Little ___ that his decision would change the course of the war.",
+    "ar": "اختر الصيغة الصحيحة."
+   },
+   "options": [
+    "did he realise",
+    "he realised",
+    "he did realise",
+    "realised he"
+   ],
+   "answer": 0
+  },
+  {
+   "level": "C2",
+   "type": "vocab",
+   "q": {
+    "en": "A «pyrrhic» victory is one that…",
+    "ar": "النصر pyrrhic هو نصر…"
+   },
+   "options": [
+    "costs the winner almost as much as defeat",
+    "is won easily",
+    "is celebrated by everyone",
+    "happens by accident"
+   ],
+   "answer": 0
+  },
+  {
+   "level": "C2",
+   "type": "vocab",
+   "q": {
+    "en": "«His prose is so ___ that a single sentence can fill half a page.»",
+    "ar": "اختر الكلمة الأنسب للمعنى."
+   },
+   "options": [
+    "prolix",
+    "terse",
+    "laconic",
+    "lucid"
+   ],
+   "answer": 0
+  },
+  {
+   "level": "C2",
+   "type": "grammar",
+   "q": {
+    "en": "Choose the sentence with correct usage.",
+    "ar": "اختر الجملة الصحيحة الاستخدام."
+   },
+   "options": [
+    "Were it not for your help, I would have failed.",
+    "Was it not for your help, I would fail.",
+    "If it wasn't for your help, I had failed.",
+    "Were not it for your help, I would have failed."
+   ],
+   "answer": 0
+  },
+  {
+   "level": "C2",
+   "type": "reading",
+   "q": {
+    "en": "What is implied about the narrator's view of the house?",
+    "ar": "ما الذي يُفهم ضمنًا عن رأي الراوي في البيت؟"
+   },
+   "options": [
+    "It reflects its owner's decline.",
+    "It is a cheerful family home.",
+    "It has been newly renovated.",
+    "It belongs to the narrator."
+   ],
+   "answer": 0,
+   "text": "The house had not so much aged as surrendered: shutters hung at angles of resignation, and the garden, once a matter of pride, had quietly reverted to the field it had always wished to be."
+  }
+ ]
+}

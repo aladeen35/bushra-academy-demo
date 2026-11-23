@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" role="img" aria-label="Treasure Island — original cover art">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0d2438"/><stop offset=".6" stop-color="#2f5d78"/><stop offset="1" stop-color="#d7a565"/></linearGradient>
+<linearGradient id="sea" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1d4a63"/><stop offset="1" stop-color="#08182a"/></linearGradient></defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<path d="M0 560 H600 V900 H0Z" fill="url(#sea)"/>
+<path d="M380 560 c20 -60 60 -90 110 -80 c40 -30 80 -10 110 20 V560z" fill="#0b1d2c"/>
+<path d="M470 480 c-4 -40 4 -60 14 -76 M484 404 c-20 -6 -36 2 -44 12 M484 404 c16 -14 34 -12 46 -2 M484 404 c-8 -18 -2 -34 10 -42" stroke="#0b1d2c" stroke-width="5" fill="none"/>
+<g fill="#0b1d2c"><path d="M120 560 h240 l-26 34 h-190z"/><rect x="236" y="250" width="6" height="312"/><rect x="170" y="330" width="6" height="232"/>
+<path d="M242 262 c60 20 70 120 60 180 h-60z" fill="#efe3c6"/><path d="M242 450 c50 10 60 70 55 100 h-55z" fill="#efe3c6"/>
+<path d="M176 340 c46 14 52 90 44 130 h-44z" fill="#e3d4b0"/><path d="M236 250 h22 v14 h-22z" fill="#b3121b"/></g>
+<g stroke="#c9a24b" stroke-width="2" fill="none" opacity=".85"><circle cx="300" cy="150" r="52"/><path d="M300 92 v116 M240 150 h120"/><path d="M300 100 l9 50 l-9 50 l-9 -50z" fill="#c9a24b"/></g>
+<g stroke="#9cc3d8" stroke-opacity=".4" fill="none" stroke-width="2"><path d="M40 620 q20 -8 40 0 t40 0"/><path d="M420 660 q20 -8 40 0 t40 0"/><path d="M200 700 q20 -8 40 0 t40 0"/></g>
+<text x="300" y="790" text-anchor="middle" font-family="Playfair Display, Georgia, serif" font-size="60" font-weight="700" fill="#f6efe3" letter-spacing="4">TREASURE</text>
+<text x="300" y="850" text-anchor="middle" font-family="Playfair Display, Georgia, serif" font-size="60" font-weight="700" fill="#f6efe3" letter-spacing="4">ISLAND</text>
+<text x="300" y="50" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-style="italic" fill="#f3e2bf">Robert Louis Stevenson</text>
+</svg>

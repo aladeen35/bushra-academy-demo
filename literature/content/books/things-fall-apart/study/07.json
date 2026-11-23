@@ -1,0 +1,172 @@
+{
+ "chapter": 7,
+ "summary": {
+  "en": "Ikemefuna has now lived with Okonkwo's family for three years, and Nwoye has grown more confident because of him. Okonkwo is pleased and invites the boys to his hut to hear stories of war and violence, which he thinks are proper for men, although Nwoye secretly prefers his mother's gentler folktales. One day locusts arrive, and the village happily gathers them to eat. Then an elder, Ezeudu, warns Okonkwo that the oracle has decided Ikemefuna must die, and advises him to take no part in it. Okonkwo goes with the men anyway. When the moment comes, he acts against the boy himself because he is afraid of being thought weak. Nwoye senses what has happened, and something breaks inside him.",
+  "ar": "عاش إيكيميفونا مع أسرة أوكونكوو ثلاث سنوات، وصار نوويي أكثر ثقة بنفسه بفضله. يسرّ ذلك أوكونكوو، فيدعو الصبيين إلى كوخه ليسمعا حكايات الحرب والعنف التي يراها لائقة بالرجال، مع أن نوويي يفضّل في سرّه حكايات أمه الشعبية الألطف. وفي أحد الأيام يصل الجراد، فيجمعه أهل القرية فرحين ليأكلوه. ثم يحذّر شيخ اسمه إيزيودو أوكونكوو من أن الوحي قضى بموت إيكيميفونا، وينصحه بألا يشارك في ذلك. لكن أوكونكوو يذهب مع الرجال. وحين تحين اللحظة يقدم هو نفسه على إيذاء الصبي لأنه يخاف أن يُظن ضعيفًا. ويشعر نوويي بما حدث، فينكسر شيء في داخله."
+ },
+ "objectives": [
+  {
+   "en": "Follow the events that lead to Ikemefuna's death.",
+   "ar": "أن تتابع الأحداث التي أدت إلى موت إيكيميفونا."
+  },
+  {
+   "en": "Explain how fear of weakness drives Okonkwo's choice.",
+   "ar": "أن تشرح كيف دفع الخوف من الضعف أوكونكوو إلى اختياره."
+  },
+  {
+   "en": "Use modal verbs of advice and obligation.",
+   "ar": "أن تستخدم أفعال النصح والإلزام."
+  }
+ ],
+ "vocab": [
+  "locust",
+  "oracle",
+  "decree",
+  "sacrifice",
+  "masculinity",
+  "betray",
+  "folktale",
+  "weakness",
+  "kinsman",
+  "dread"
+ ],
+ "grammar": [
+  {
+   "id": "tfa-7-modals-advice",
+   "topic": "sentence",
+   "level": "B1",
+   "title": {
+    "en": "Modals of advice and obligation",
+    "ar": "أفعال النصح والإلزام"
+   },
+   "explain": {
+    "en": "\"Should\" gives advice. \"Must\" shows strong obligation. \"Mustn't\" means something is forbidden. The difference matters: advice can be ignored, but an obligation is stronger.",
+    "ar": "should للنصيحة، و must للإلزام القوي، و mustn't للمنع. والفرق مهم: فالنصيحة قد تُترك، أما الإلزام فأقوى."
+   },
+   "example": {
+    "en": "A wise friend told him that he should stay at home that day.",
+    "ar": "أخبره صديق حكيم أن عليه أن يبقى في البيت ذلك اليوم."
+   },
+   "exercise": {
+    "q": {
+     "en": "Choose: The elder's advice: \"You ___ take part in this.\"",
+     "ar": "اختر: نصيحة الشيخ: «___ أن تشارك في هذا»."
+    },
+    "options": [
+     "should not",
+     "must to",
+     "should to"
+    ],
+    "answer": 0,
+    "why": {
+     "en": "\"Should not\" + base verb gives negative advice.",
+     "ar": "should not + المصدر تعطي نصيحة بالنفي."
+    }
+   }
+  }
+ ],
+ "culture": [
+  {
+   "term": "Oracles and the clan",
+   "en": "The clan believed that the oracle of the Hills and the Caves spoke for the gods, and its decisions were not openly questioned. Many readers see this chapter as the novel's first great moral crisis.",
+   "ar": "كانت العشيرة تعتقد أن وحي التلال والكهوف يتكلم باسم الآلهة، فلا تُناقش قراراته علنًا. ويرى قرّاء كثيرون في هذا الفصل أول أزمة أخلاقية كبرى في الرواية."
+  },
+  {
+   "term": "Stories for boys and girls",
+   "en": "Okonkwo thinks stories of war are for men and folktales are for women. Achebe shows that the gentle stories also carry wisdom.",
+   "ar": "يرى أوكونكوو أن حكايات الحرب للرجال والحكايات الشعبية للنساء، لكن أتشيبي يبيّن أن الحكايات الرقيقة تحمل حكمة أيضًا."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "How long has Ikemefuna lived with the family?",
+    "ar": "كم عاش إيكيميفونا مع الأسرة؟"
+   },
+   "options": [
+    "One month",
+    "One year",
+    "Three years",
+    "Ten years"
+   ],
+   "answer": 2,
+   "explain": {
+    "en": "He has lived there for three years.",
+    "ar": "عاش معهم ثلاث سنوات."
+   }
+  },
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "What advice does Ezeudu give Okonkwo?",
+    "ar": "بماذا نصح إيزيودو أوكونكوو؟"
+   },
+   "options": [
+    "To run away",
+    "Not to take part in Ikemefuna's death",
+    "To go to Mbaino",
+    "To become a priest"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "Ezeudu tells him the boy calls him father, so he should stay out of it.",
+    "ar": "قال له إيزيودو إن الصبي يناديه أبي فعليه أن يبتعد عن الأمر."
+   }
+  },
+  {
+   "type": "vocab",
+   "q": {
+    "en": "To \"betray\" someone means to…",
+    "ar": "betray تعني…"
+   },
+   "options": [
+    "protect them",
+    "hurt someone who trusts you",
+    "teach them",
+    "follow them"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "Ikemefuna trusted Okonkwo as a father, which makes the act a betrayal.",
+    "ar": "كان إيكيميفونا يثق بأوكونكوو كأب، لذلك يُعدّ ما حدث خيانة."
+   }
+  },
+  {
+   "type": "context",
+   "q": {
+    "en": "Why does Okonkwo act against the boy himself?",
+    "ar": "لماذا أقدم أوكونكوو بنفسه على إيذاء الصبي؟"
+   },
+   "options": [
+    "He hated Ikemefuna",
+    "He was afraid of looking weak",
+    "The oracle named him",
+    "Nwoye asked him to"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "His fear of seeming weak is stronger than his love for the boy.",
+    "ar": "خوفه من أن يبدو ضعيفًا أقوى من محبته للصبي."
+   }
+  },
+  {
+   "type": "grammar",
+   "q": {
+    "en": "Which sentence shows strong obligation?",
+    "ar": "أي جملة تدل على إلزام قوي؟"
+   },
+   "options": [
+    "You should rest.",
+    "You must obey the law.",
+    "You could visit.",
+    "You might win."
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "\"Must\" shows strong obligation.",
+    "ar": "must تدل على الإلزام القوي."
+   }
+  }
+ ]
+}

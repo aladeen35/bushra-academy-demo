@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" role="img" aria-label="Things Fall Apart — original cover art">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2a0d08"/><stop offset=".55" stop-color="#8f2a12"/><stop offset="1" stop-color="#d9732b"/></linearGradient>
+<radialGradient id="sun" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#ffd27a"/><stop offset=".7" stop-color="#f29a3a"/><stop offset="1" stop-color="#f29a3a" stop-opacity="0"/></radialGradient></defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<circle cx="300" cy="470" r="190" fill="url(#sun)"/>
+<g fill="none" stroke="#2a0d08" stroke-opacity=".35" stroke-width="3">
+<path d="M40 120 q40 -40 80 0 t80 0 t80 0 t80 0 t80 0 t80 0 t80 0"/><path d="M40 150 q40 -40 80 0 t80 0 t80 0 t80 0 t80 0 t80 0 t80 0"/></g>
+<path d="M0 640 C120 600 180 560 300 585 C420 610 470 570 600 600 V900 H0Z" fill="#1c0906"/>
+<g fill="#1c0906"><path d="M115 640 l6 -150 c-40 10 -70 -20 -60 -40 c25 10 45 5 62 -8 c-30 -20 -35 -55 -18 -70 c12 25 26 40 22 60 c10 -30 40 -45 60 -40 c-15 18 -25 40 -46 52 c28 -4 52 8 60 30 c-30 0 -50 -6 -70 -6 l4 172z"/>
+<path d="M420 600 l10 -60 h80 l10 60z"/><path d="M404 545 l66 -60 l66 60z"/><rect x="452" y="560" width="22" height="40" fill="#8f2a12"/></g>
+<g fill="none" stroke="#e8b25a" stroke-width="2" opacity=".75"><path d="M60 725 h480"/><path d="M60 733 h480" stroke-dasharray="2 8"/></g>
+<text x="300" y="800" text-anchor="middle" font-family="Playfair Display, Georgia, serif" font-size="54" font-weight="700" fill="#fff4e2" letter-spacing="2">THINGS FALL</text>
+<text x="300" y="852" text-anchor="middle" font-family="Playfair Display, Georgia, serif" font-size="54" font-weight="700" fill="#fff4e2" letter-spacing="2">APART</text>
+<text x="300" y="70" text-anchor="middle" font-family="Georgia, serif" font-size="24" font-style="italic" fill="#ffd9a0">Chinua Achebe</text>
+</svg>
