@@ -1,0 +1,177 @@
+{
+ "chapter": 14,
+ "summary": {
+  "en": "Part Two begins in Mbanta, the home village of Okonkwo's mother. His wise old uncle Uchendu welcomes the family. The kinsmen give Okonkwo land and seed-yams so that he can build a new compound and start farming again. Yet Okonkwo works without joy; his great dream of becoming one of the lords of Umuofia seems lost, and he feels that his personal god has failed him. After a family marriage ceremony, Uchendu gathers Okonkwo and his own sons. He asks why people give children the name Nneka, meaning that the mother is supreme, and explains that a man finds refuge in his mother's land when life is bitter. He warns Okonkwo not to give in to despair, reminding him that others have suffered far greater losses.",
+  "ar": "يبدأ الجزء الثاني في مبانتا، قرية أم أوكونكوو. يستقبله خاله أوتشيندو، الشيخ الحكيم، هو وأسرته. ويعطيه الأقارب أرضًا وبذور يام ليبني مجمّعًا جديدًا ويبدأ الزراعة من جديد. لكن أوكونكوو يعمل بلا فرح، فقد بدا حلمه الكبير بأن يصبح من سادة أوموفيا ضائعًا، ويشعر أن إلهه الشخصي قد خذله. وبعد حفل زواج في الأسرة يجمع أوتشيندو أوكونكوو وأبناءه هو. يسألهم لماذا يسمي الناس أبناءهم نِنيكا، أي أن الأم هي الأسمى، ويشرح أن الرجل يجد ملجأه في أرض أمه حين تقسو عليه الحياة. ويحذّر أوكونكوو من الاستسلام لليأس، مذكّرًا إياه بأن غيره عانى خسائر أكبر بكثير. إنه درس في الصبر والتواضع من شيخ خبر الحياة."
+ },
+ "objectives": [
+  {
+   "en": "Explain why Okonkwo goes to Mbanta and how he is received.",
+   "ar": "أن تشرح لماذا ذهب أوكونكوو إلى مبانتا وكيف استُقبل."
+  },
+  {
+   "en": "Understand Uchendu's lesson about the mother's land and about despair.",
+   "ar": "أن تفهم درس أوتشيندو عن أرض الأم وعن اليأس."
+  },
+  {
+   "en": "Ask and answer indirect questions politely.",
+   "ar": "أن تطرح أسئلة غير مباشرة وتجيب عنها بأدب."
+  }
+ ],
+ "vocab": [
+  "refuge",
+  "despair",
+  "exile",
+  "nneka",
+  "isa-ifi",
+  "consolation",
+  "ambition",
+  "kinsman",
+  "motherland",
+  "lineage"
+ ],
+ "grammar": [
+  {
+   "id": "tfa-14-indirect-questions",
+   "topic": "reported",
+   "level": "B1",
+   "title": {
+    "en": "Indirect questions",
+    "ar": "الأسئلة غير المباشرة"
+   },
+   "explain": {
+    "en": "An indirect question starts with a phrase such as \"Can you tell me…\" or \"I wonder…\" and uses normal word order (subject before verb), without \"do/does/did\".",
+    "ar": "يبدأ السؤال غير المباشر بعبارة مثل Can you tell me أو I wonder، ويستخدم ترتيب الجملة الخبرية (الفاعل قبل الفعل) دون do/does/did."
+   },
+   "example": {
+    "en": "The old man asked the young men why a child belongs to its mother's people in times of trouble.",
+    "ar": "سأل الشيخ الشباب لماذا ينتمي الطفل إلى أهل أمه في أوقات الشدة."
+   },
+   "exercise": {
+    "q": {
+     "en": "Choose: Can you tell me where ___?",
+     "ar": "اختر: هل تخبرني أين ___؟"
+    },
+    "options": [
+     "his mother was born",
+     "was his mother born",
+     "did his mother born"
+    ],
+    "answer": 0,
+    "why": {
+     "en": "Indirect questions use statement word order.",
+     "ar": "الأسئلة غير المباشرة تستخدم ترتيب الجملة الخبرية."
+    }
+   }
+  }
+ ],
+ "culture": [
+  {
+   "term": "The mother's kin",
+   "en": "Igbo society was organised mainly through the father's line, but the mother's people had a special duty to protect and comfort. An exile could find refuge with them.",
+   "ar": "كان مجتمع الإيبو ينتظم أساسًا عبر نسب الأب، لكن لأهل الأم واجبًا خاصًا في الحماية والمواساة، فيجد المنفي عندهم ملجأ."
+  },
+  {
+   "term": "Isa-ifi",
+   "en": "Before a marriage was completed, the bride was asked before her family to confirm that she had been faithful to her suitor. The ceremony shows how seriously marriage was taken.",
+   "ar": "قبل إتمام الزواج كانت العروس تُسأل أمام أهلها لتؤكد إخلاصها لخاطبها، ويبيّن هذا الحفل جدية الزواج عندهم."
+  },
+  {
+   "term": "Nneka",
+   "en": "Nneka, \"mother is supreme\", is a real Igbo name. Uchendu uses it to explain that a mother's love and her family offer shelter in sorrow.",
+   "ar": "نِنيكا، أي «الأم هي الأسمى»، اسم حقيقي عند الإيبو، ويستعمله أوتشيندو ليشرح أن حب الأم وأهلها ملاذ في الحزن."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "Who welcomes Okonkwo in Mbanta?",
+    "ar": "من يستقبل أوكونكوو في مبانتا؟"
+   },
+   "options": [
+    "Obierika",
+    "His uncle Uchendu",
+    "The District Commissioner",
+    "Chielo"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "Uchendu is his mother's brother.",
+    "ar": "أوتشيندو هو خاله."
+   }
+  },
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "How does Okonkwo feel about his new life?",
+    "ar": "كيف يشعر أوكونكوو تجاه حياته الجديدة؟"
+   },
+   "options": [
+    "Excited",
+    "Joyless and disappointed",
+    "Relieved and calm",
+    "Indifferent to everything"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "He works hard, but without his old passion.",
+    "ar": "يعمل بجد لكن دون شغفه القديم."
+   }
+  },
+  {
+   "type": "vocab",
+   "q": {
+    "en": "A \"refuge\" is…",
+    "ar": "الـ refuge هو…"
+   },
+   "options": [
+    "a place of safety",
+    "a punishment",
+    "a festival",
+    "a weapon"
+   ],
+   "answer": 0,
+   "explain": {
+    "en": "Mbanta becomes Okonkwo's refuge.",
+    "ar": "صارت مبانتا ملاذ أوكونكوو."
+   }
+  },
+  {
+   "type": "context",
+   "q": {
+    "en": "What is Uchendu's main message to Okonkwo?",
+    "ar": "ما رسالة أوتشيندو الأساسية لأوكونكوو؟"
+   },
+   "options": [
+    "Return to Umuofia at once",
+    "Do not despair; your mother's people will comfort you",
+    "Become a priest",
+    "Fight the white men"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "He tells him to accept comfort and not give up.",
+    "ar": "يطلب منه قبول المواساة وعدم الاستسلام."
+   }
+  },
+  {
+   "type": "grammar",
+   "q": {
+    "en": "Choose the correct indirect question.",
+    "ar": "اختر السؤال غير المباشر الصحيح."
+   },
+   "options": [
+    "I wonder why is he sad.",
+    "I wonder why he is sad.",
+    "I wonder why does he sad.",
+    "I wonder why he sad is."
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "Subject + verb: \"he is\".",
+    "ar": "الفاعل ثم الفعل: he is."
+   }
+  }
+ ]
+}

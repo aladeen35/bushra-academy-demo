@@ -1,0 +1,178 @@
+{
+ "chapter": 3,
+ "summary": {
+  "en": "This chapter goes back to Okonkwo's youth. His father left him no barn, no title and no seed-yams. Unoka had once asked the oracle why his harvests were poor and was told that the fault was his own laziness. He later died of a swelling illness and, by custom, was not buried in the earth. To start farming, young Okonkwo asked a wealthy man, Nwakibie, for seed-yams, and received them because of his respectful words and obvious hard work. That first year was a disaster: drought and then heavy rain ruined the crops. Many farmers lost hope, but Okonkwo survived. The experience made him believe that if he could survive that year, he could survive anything.",
+  "ar": "يعود هذا الفصل إلى شباب أوكونكوو. لم يترك له أبوه مخزنًا ولا لقبًا ولا بذور يام. وكان أونوكا قد سأل الوحي يومًا لماذا يكون محصوله ضعيفًا، فقيل له إن العيب في كسله هو. ثم مات لاحقًا بمرض التورّم، ولم يُدفن في الأرض بحسب العرف. ولكي يبدأ الزراعة طلب أوكونكوو الشاب من رجل ثري اسمه نواكيبي بذور يام، فأعطاه إياها لأدبه في الكلام ولما ظهر من جدّه في العمل. لكن السنة الأولى كانت كارثة، فقد أفسد الجفاف ثم المطر الغزير الزرع. فقد كثير من المزارعين الأمل، أما أوكونكوو فصمد، وجعلته التجربة يؤمن بأنه ما دام قد نجا من تلك السنة فإنه يستطيع النجاة من أي شيء."
+ },
+ "objectives": [
+  {
+   "en": "Explain how Okonkwo built his wealth from nothing.",
+   "ar": "أن تشرح كيف بنى أوكونكوو ثروته من لا شيء."
+  },
+  {
+   "en": "Understand the role of the oracle and of sharecropping in the clan.",
+   "ar": "أن تفهم دور الوحي ونظام الزراعة بالمحاصصة في العشيرة."
+  },
+  {
+   "en": "Use \"although\" and \"despite\" to show contrast.",
+   "ar": "أن تستخدم although و despite للتعبير عن التناقض."
+  }
+ ],
+ "vocab": [
+  "inheritance",
+  "sharecropper",
+  "seed-yam",
+  "yam",
+  "drought",
+  "resilient",
+  "chi",
+  "agbala",
+  "priestess",
+  "shrine",
+  "evil-forest"
+ ],
+ "grammar": [
+  {
+   "id": "tfa-3-contrast",
+   "topic": "conjunctions",
+   "level": "B1",
+   "title": {
+    "en": "Although vs. despite",
+    "ar": "although مقابل despite"
+   },
+   "explain": {
+    "en": "Use \"although\" before a full clause (subject + verb). Use \"despite\" before a noun or an -ing form. Both show that something happened even when another fact made it difficult.",
+    "ar": "نستخدم although قبل جملة كاملة (فاعل + فعل)، ونستخدم despite قبل اسم أو فعل بصيغة ing. وكلاهما يدل على أن أمرًا وقع رغم وجود ما يصعّبه."
+   },
+   "example": {
+    "en": "Despite the terrible weather, the young farmer planted his fields again.",
+    "ar": "رغم الطقس السيئ جدًا زرع المزارع الشاب حقوله من جديد."
+   },
+   "exercise": {
+    "q": {
+     "en": "Complete: ___ he had no inheritance, he became rich.",
+     "ar": "أكمل: ___ أنه لم يرث شيئًا، صار غنيًا."
+    },
+    "options": [
+     "Although",
+     "Despite",
+     "Because of"
+    ],
+    "answer": 0,
+    "why": {
+     "en": "\"He had no inheritance\" is a full clause, so we use \"although\".",
+     "ar": "\"he had no inheritance\" جملة كاملة، فنستخدم although."
+    }
+   }
+  }
+ ],
+ "culture": [
+  {
+   "term": "Chi",
+   "en": "Chi is a person's personal spirit or guardian in Igbo belief. Success was seen as a mix of personal effort and destiny, with a determined person and his chi working together.",
+   "ar": "التشي في معتقد الإيبو روح حارسة خاصة بكل إنسان، وكانوا يرون النجاح مزيجًا من الجهد الشخصي والقدر، يعمل فيه عزم الإنسان والتشي الخاص به معًا."
+  },
+  {
+   "term": "Sharecropping",
+   "en": "A young man without seed could farm with yams lent by a richer man and return part of the harvest. It was hard work for a small reward.",
+   "ar": "كان الشاب الذي لا يملك بذورًا يزرع بيام يقرضه إياه رجل أغنى ثم يرد له جزءًا من المحصول، وكان عملًا شاقًا مقابل ربح قليل."
+  },
+  {
+   "term": "The Evil Forest",
+   "en": "Some deaths, such as those from swelling illnesses, were seen as hateful to the earth, so the person was left in the Evil Forest instead of being buried.",
+   "ar": "بعض حالات الوفاة، كالموت بمرض التورّم، كانت تُعدّ مكروهة عند الأرض في معتقدهم، فيُترك الميت في الغابة الملعونة بدل أن يُدفن."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "What did Okonkwo inherit from his father?",
+    "ar": "ماذا ورث أوكونكوو عن أبيه؟"
+   },
+   "options": [
+    "A large barn",
+    "Two titles",
+    "Nothing useful",
+    "A farm by the river"
+   ],
+   "answer": 2,
+   "explain": {
+    "en": "Unoka left him no barn, title or seed-yams.",
+    "ar": "لم يترك له أونوكا مخزنًا ولا لقبًا ولا بذور يام."
+   }
+  },
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "Why was Okonkwo's first harvest so bad?",
+    "ar": "لماذا كان أول محصول لأوكونكوو سيئًا جدًا؟"
+   },
+   "options": [
+    "He was lazy",
+    "Drought and then too much rain ruined the crops",
+    "Locusts ate everything",
+    "He planted the wrong seeds"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "The weather was extreme in both directions that year.",
+    "ar": "كان الطقس قاسيًا في الاتجاهين تلك السنة."
+   }
+  },
+  {
+   "type": "vocab",
+   "q": {
+    "en": "A \"resilient\" person is one who…",
+    "ar": "الشخص resilient هو من…"
+   },
+   "options": [
+    "gives up easily",
+    "recovers after hard times",
+    "is always sick",
+    "avoids work"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "Resilient means able to recover and continue after difficulty.",
+    "ar": "resilient تعني القدرة على التعافي والاستمرار بعد الشدة."
+   }
+  },
+  {
+   "type": "context",
+   "q": {
+    "en": "What did the oracle tell Unoka?",
+    "ar": "ماذا قال الوحي لأونوكا؟"
+   },
+   "options": [
+    "That his gods were angry with his neighbours",
+    "That his poor harvests came from his own laziness",
+    "That he should move to another village",
+    "That he would become rich"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "The priestess told him the problem was his own lack of effort.",
+    "ar": "أخبرته الكاهنة أن المشكلة في قلة جهده."
+   }
+  },
+  {
+   "type": "grammar",
+   "q": {
+    "en": "Complete: ___ the drought, he did not give up.",
+    "ar": "أكمل: ___ الجفاف لم يستسلم."
+   },
+   "options": [
+    "Although",
+    "Despite",
+    "Even",
+    "Because"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "\"The drought\" is a noun phrase, so we use \"despite\".",
+    "ar": "\"the drought\" عبارة اسمية فنستخدم despite."
+   }
+  }
+ ]
+}

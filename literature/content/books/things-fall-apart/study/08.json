@@ -1,0 +1,171 @@
+{
+ "chapter": 8,
+ "summary": {
+  "en": "For two days after Ikemefuna's death, Okonkwo cannot eat or sleep properly. He drinks heavily and is troubled, though he tells himself he must not be weak. Only Ezinma's care comforts him, and he wishes again that she had been born a boy. On the third day he visits his close friend Obierika, who did not go with the men. Obierika says calmly that Okonkwo's action will not please the earth goddess. They talk about titles, about men who respect their wives, and about strange news of white men. Then the family of a young man arrives to agree on the bride price for Obierika's daughter, and the negotiations are carried out politely, with humour and custom.",
+  "ar": "يقضي أوكونكوو يومين بعد موت إيكيميفونا لا يأكل ولا ينام كما ينبغي. يشرب كثيرًا ويبدو مضطربًا، مع أنه يقول لنفسه إن عليه ألا يكون ضعيفًا. ولا يواسيه إلا اهتمام إيزينما به، فيتمنى من جديد لو أنها وُلدت صبيًا. وفي اليوم الثالث يزور صديقه المقرب أوبييريكا الذي لم يذهب مع الرجال. يقول له أوبييريكا بهدوء إن ما فعله لن يُرضي إلهة الأرض. ويتحدثان عن الألقاب، وعن رجال يحترمون زوجاتهم، وعن أخبار غريبة عن الرجال البيض. ثم تصل أسرة شاب لتتفق على مهر ابنة أوبييريكا، وتجري المفاوضات بأدب ومزاح ووفق العادات المعروفة."
+ },
+ "objectives": [
+  {
+   "en": "Describe Okonkwo's inner state after Ikemefuna's death.",
+   "ar": "أن تصف حالة أوكونكوو النفسية بعد موت إيكيميفونا."
+  },
+  {
+   "en": "Compare Okonkwo with his thoughtful friend Obierika.",
+   "ar": "أن تقارن أوكونكوو بصديقه المتأمل أوبييريكا."
+  },
+  {
+   "en": "Use \"wish\" + past simple/past perfect for regrets and wishes.",
+   "ar": "أن تستخدم wish مع الماضي البسيط أو التام للأمنيات والندم."
+  }
+ ],
+ "vocab": [
+  "remorse",
+  "guilt",
+  "bride-price",
+  "negotiate",
+  "custom",
+  "title",
+  "palm-wine",
+  "ani",
+  "proverb"
+ ],
+ "grammar": [
+  {
+   "id": "tfa-8-wish",
+   "topic": "conditional",
+   "level": "B2",
+   "title": {
+    "en": "Wishes about the present and the past",
+    "ar": "التمني في الحاضر والماضي"
+   },
+   "explain": {
+    "en": "Use \"wish\" + past simple for a present situation you want to be different, and \"wish\" + past perfect for a past event you regret.",
+    "ar": "نستخدم wish + الماضي البسيط لتمني تغيّر وضع حاضر، و wish + الماضي التام للندم على حدث ماضٍ."
+   },
+   "example": {
+    "en": "He wished that he had listened to his friend's advice.",
+    "ar": "تمنى لو أنه استمع إلى نصيحة صديقه."
+   },
+   "exercise": {
+    "q": {
+     "en": "Choose: He wishes his daughter ___ a boy.",
+     "ar": "اختر: يتمنى لو أن ابنته ___ صبيًا."
+    },
+    "options": [
+     "were",
+     "is",
+     "will be"
+    ],
+    "answer": 0,
+    "why": {
+     "en": "A present wish uses a past form; \"were\" is common in careful English.",
+     "ar": "التمني في الحاضر يستخدم صيغة ماضية، وwere شائعة في الإنجليزية الفصيحة."
+    }
+   }
+  }
+ ],
+ "culture": [
+  {
+   "term": "Bride price",
+   "en": "Marriage joined two families. The groom's family gave goods or money to the bride's family, and elders bargained politely, sometimes using small sticks to count. This is similar to how families in Sudan and the Gulf discuss the mahr.",
+   "ar": "يربط الزواج بين أسرتين، فتقدّم أسرة العريس مالًا أو متاعًا لأسرة العروس، ويتفاوض الكبار بأدب وأحيانًا يعدّون بعيدان صغيرة، وهذا يشبه تفاوض الأسر في السودان والخليج على المهر."
+  },
+  {
+   "term": "Hospitality and kola nut",
+   "en": "Guests were welcomed with kola nut and drink, and the eldest present usually broke the kola. Refusing hospitality could be an insult.",
+   "ar": "كان الضيوف يُستقبلون بجوز الكولا والشراب، ويكسر الكولا أكبر الحاضرين سنًا عادة، ورفض الضيافة قد يُعدّ إهانة."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "How does Okonkwo behave after Ikemefuna's death?",
+    "ar": "كيف يتصرف أوكونكوو بعد موت إيكيميفونا؟"
+   },
+   "options": [
+    "He celebrates",
+    "He cannot eat or rest well and feels troubled",
+    "He leaves the village",
+    "He goes to war"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "He is shaken although he tries to hide it.",
+    "ar": "كان مضطربًا مع أنه يحاول إخفاء ذلك."
+   }
+  },
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "What does Obierika think of Okonkwo's action?",
+    "ar": "ما رأي أوبييريكا فيما فعله أوكونكوو؟"
+   },
+   "options": [
+    "He praises it",
+    "He thinks the earth goddess will not be pleased",
+    "He thinks it was required by law",
+    "He does not care"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "He says it was the kind of act that offends the goddess.",
+    "ar": "قال إن هذا النوع من الأفعال يُغضب الإلهة."
+   }
+  },
+  {
+   "type": "vocab",
+   "q": {
+    "en": "\"Remorse\" is…",
+    "ar": "remorse هي…"
+   },
+   "options": [
+    "deep regret for doing wrong",
+    "great happiness",
+    "a kind of tax",
+    "a festival"
+   ],
+   "answer": 0,
+   "explain": {
+    "en": "Remorse is the painful regret Okonkwo tries to hide.",
+    "ar": "الندم المؤلم هو ما يحاول أوكونكوو إخفاءه."
+   }
+  },
+  {
+   "type": "context",
+   "q": {
+    "en": "Why do the visitors come to Obierika's house?",
+    "ar": "لماذا جاء الضيوف إلى بيت أوبييريكا؟"
+   },
+   "options": [
+    "To arrest him",
+    "To agree on his daughter's bride price",
+    "To buy yams",
+    "To ask for war"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "The suitor's family comes to settle the bride price.",
+    "ar": "جاءت أسرة الخاطب للاتفاق على المهر."
+   }
+  },
+  {
+   "type": "grammar",
+   "q": {
+    "en": "Choose the correct sentence about a past regret.",
+    "ar": "اختر الجملة الصحيحة عن ندم في الماضي."
+   },
+   "options": [
+    "I wish I stayed home yesterday.",
+    "I wish I had stayed home yesterday.",
+    "I wish I stay home yesterday.",
+    "I wish I will stay home yesterday."
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "A past regret uses wish + past perfect.",
+    "ar": "الندم على الماضي = wish + الماضي التام."
+   }
+  }
+ ]
+}

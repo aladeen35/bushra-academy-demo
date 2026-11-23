@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" role="img" aria-label="The Prisoner of Zenda — original cover art">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e9d9b6"/><stop offset=".6" stop-color="#c9a56a"/><stop offset="1" stop-color="#6b4a25"/></linearGradient></defs>
+<rect width="600" height="900" fill="url(#bg)"/>
+<circle cx="440" cy="190" r="60" fill="#fff6dc" opacity=".8"/>
+<g fill="#2b1d12">
+<path d="M90 560 V360 h30 v-30 h20 v30 h20 v-30 h20 v30 h30 V560z"/>
+<path d="M210 560 V300 h22 v-24 h16 v24 h16 v-24 h16 v24 h16 v-24 h16 v24 h22 V560z"/>
+<path d="M232 300 l46 -80 l46 80z"/><rect x="276" y="200" width="4" height="22"/><path d="M280 200 l26 7 l-26 7z"/>
+<path d="M340 560 V390 h120 V560z"/><path d="M460 560 V330 h26 v-22 h16 v22 h16 v-22 h16 v22 h26 V560z"/>
+<path d="M0 600 C150 560 250 590 330 570 C430 545 520 570 600 560 V900 H0Z"/>
+<path d="M60 600 l30 -6 l30 6z" opacity=".5"/></g>
+<g fill="#f3d36e" opacity=".9"><rect x="252" y="340" width="10" height="16" rx="5"/><rect x="292" y="380" width="10" height="16" rx="5"/><rect x="520" y="390" width="10" height="16" rx="5"/></g>
+<g fill="#b3121b"><path d="M245 650 l20 30 l35 -40 l35 40 l20 -30 l-10 60 h-90z"/><rect x="255" y="712" width="90" height="10"/></g>
+<text x="300" y="790" text-anchor="middle" font-family="Playfair Display, Georgia, serif" font-size="30" font-weight="600" fill="#f6efe3" letter-spacing="6">THE PRISONER OF</text>
+<text x="300" y="850" text-anchor="middle" font-family="Playfair Display, Georgia, serif" font-size="64" font-weight="700" fill="#f6efe3" letter-spacing="6">ZENDA</text>
+<text x="300" y="80" text-anchor="middle" font-family="Georgia, serif" font-size="24" font-style="italic" fill="#3b2a14">Anthony Hope</text>
+</svg>

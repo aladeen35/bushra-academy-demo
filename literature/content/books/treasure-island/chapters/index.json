@@ -1,0 +1,240 @@
+[
+ {
+  "n": 1,
+  "title": "The Old Sea-dog at the Admiral Benbow",
+  "part": "The Old Buccaneer",
+  "words": 2203,
+  "sections": 3
+ },
+ {
+  "n": 2,
+  "title": "Black Dog Appears and Disappears",
+  "part": "The Old Buccaneer",
+  "words": 2243,
+  "sections": 4
+ },
+ {
+  "n": 3,
+  "title": "The Black Spot",
+  "part": "The Old Buccaneer",
+  "words": 2151,
+  "sections": 3
+ },
+ {
+  "n": 4,
+  "title": "The Sea-chest",
+  "part": "The Old Buccaneer",
+  "words": 2134,
+  "sections": 3
+ },
+ {
+  "n": 5,
+  "title": "The Last of the Blind Man",
+  "part": "The Old Buccaneer",
+  "words": 1849,
+  "sections": 3
+ },
+ {
+  "n": 6,
+  "title": "The Captain’s Papers",
+  "part": "The Old Buccaneer",
+  "words": 1949,
+  "sections": 3
+ },
+ {
+  "n": 7,
+  "title": "I Go to Bristol",
+  "part": "The Sea-cook",
+  "words": 1816,
+  "sections": 3
+ },
+ {
+  "n": 8,
+  "title": "At the Sign of the Spy-glass",
+  "part": "The Sea-cook",
+  "words": 1764,
+  "sections": 3
+ },
+ {
+  "n": 9,
+  "title": "Powder and Arms",
+  "part": "The Sea-cook",
+  "words": 1711,
+  "sections": 3
+ },
+ {
+  "n": 10,
+  "title": "The Voyage",
+  "part": "The Sea-cook",
+  "words": 1932,
+  "sections": 3
+ },
+ {
+  "n": 11,
+  "title": "What I Heard in the Apple-Barrel",
+  "part": "The Sea-cook",
+  "words": 2062,
+  "sections": 3
+ },
+ {
+  "n": 12,
+  "title": "Council of War",
+  "part": "The Sea-cook",
+  "words": 1835,
+  "sections": 3
+ },
+ {
+  "n": 13,
+  "title": "How I Began My Shore Adventure",
+  "part": "My Shore Adventure",
+  "words": 1788,
+  "sections": 3
+ },
+ {
+  "n": 14,
+  "title": "The First Blow",
+  "part": "My Shore Adventure",
+  "words": 1912,
+  "sections": 3
+ },
+ {
+  "n": 15,
+  "title": "The Man of the Island",
+  "part": "My Shore Adventure",
+  "words": 2219,
+  "sections": 4
+ },
+ {
+  "n": 16,
+  "title": "Narrative Continued by the Doctor: How the Ship Was Abandoned",
+  "part": "The Stockade",
+  "words": 1634,
+  "sections": 3
+ },
+ {
+  "n": 17,
+  "title": "Narrative Continued by the Doctor: The Jolly-boat’s Last Trip",
+  "part": "The Stockade",
+  "words": 1470,
+  "sections": 3
+ },
+ {
+  "n": 18,
+  "title": "Narrative Continued by the Doctor: End of the First Day’s Fighting",
+  "part": "The Stockade",
+  "words": 1469,
+  "sections": 3
+ },
+ {
+  "n": 19,
+  "title": "Narrative Resumed by Jim Hawkins: The Garrison in the Stockade",
+  "part": "The Stockade",
+  "words": 1998,
+  "sections": 3
+ },
+ {
+  "n": 20,
+  "title": "Silver’s Embassy",
+  "part": "The Stockade",
+  "words": 1884,
+  "sections": 3
+ },
+ {
+  "n": 21,
+  "title": "The Attack",
+  "part": "The Stockade",
+  "words": 2005,
+  "sections": 3
+ },
+ {
+  "n": 22,
+  "title": "How I Began My Sea Adventure",
+  "part": "My Sea Adventure",
+  "words": 2073,
+  "sections": 3
+ },
+ {
+  "n": 23,
+  "title": "The Ebb-tide Runs",
+  "part": "My Sea Adventure",
+  "words": 1578,
+  "sections": 3
+ },
+ {
+  "n": 24,
+  "title": "The Cruise of the Coracle",
+  "part": "My Sea Adventure",
+  "words": 1974,
+  "sections": 3
+ },
+ {
+  "n": 25,
+  "title": "I Strike the Jolly Roger",
+  "part": "My Sea Adventure",
+  "words": 1703,
+  "sections": 3
+ },
+ {
+  "n": 26,
+  "title": "Israel Hands",
+  "part": "My Sea Adventure",
+  "words": 2933,
+  "sections": 5
+ },
+ {
+  "n": 27,
+  "title": "“Pieces of Eight”",
+  "part": "My Sea Adventure",
+  "words": 2156,
+  "sections": 4
+ },
+ {
+  "n": 28,
+  "title": "In the Enemy’s Camp",
+  "part": "Captain Silver",
+  "words": 2726,
+  "sections": 4
+ },
+ {
+  "n": 29,
+  "title": "The Black Spot Again",
+  "part": "Captain Silver",
+  "words": 2107,
+  "sections": 3
+ },
+ {
+  "n": 30,
+  "title": "On Parole",
+  "part": "Captain Silver",
+  "words": 2306,
+  "sections": 4
+ },
+ {
+  "n": 31,
+  "title": "The Treasure-hunt—Flint’s Pointer",
+  "part": "Captain Silver",
+  "words": 2253,
+  "sections": 4
+ },
+ {
+  "n": 32,
+  "title": "The Treasure-hunt—The Voice Among the Trees",
+  "part": "Captain Silver",
+  "words": 1943,
+  "sections": 3
+ },
+ {
+  "n": 33,
+  "title": "The Fall of a Chieftain",
+  "part": "Captain Silver",
+  "words": 1985,
+  "sections": 3
+ },
+ {
+  "n": 34,
+  "title": "And Last",
+  "part": "Captain Silver",
+  "words": 1890,
+  "sections": 3
+ }
+]

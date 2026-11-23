@@ -1,0 +1,41 @@
+{
+  "author": {
+    "name": "Charlotte Brontë",
+    "born": 1816,
+    "died": 1855,
+    "bio": {
+      "en": "Charlotte Brontë was born in Thornton, Yorkshire, in 1816, the third of six children of Patrick Brontë, an Irish-born clergyman. The family moved to Haworth, a village on the edge of the moors, where her mother died in 1821. Charlotte and her sister Emily were sent to the Clergy Daughters' School at Cowan Bridge, where harsh conditions contributed to the deaths of their two elder sisters; this experience later shaped Lowood School in Jane Eyre. Charlotte worked as a teacher and governess, studied in Brussels, and wrote with her sisters Emily and Anne under male pen names. Jane Eyre, published in 1847 under the name 'Currer Bell', was an immediate success. She also wrote Shirley (1849) and Villette (1853). After losing all her siblings, she married Arthur Bell Nicholls in 1854 and died during pregnancy in 1855, aged 38.",
+      "ar": "وُلدت شارلوت برونتي عام 1816 في بلدة ثورنتون بمقاطعة يوركشاير، وهي الثالثة بين ستة أبناء لباتريك برونتي، القسّ ذي الأصل الأيرلندي. انتقلت الأسرة إلى هاوورث، وهي قرية على أطراف المروج الموحشة، وهناك توفيت أمها عام 1821. أُرسلت شارلوت وأختها إميلي إلى مدرسة بنات رجال الدين في كوان بريدج، حيث أسهمت الظروف القاسية في وفاة أختيهما الكبريين، وقد ألهمت هذه التجربة لاحقًا صورة مدرسة لوود في «جين إير». عملت شارلوت معلّمةً ومربّيةً منزلية، ودرست في بروكسل، وكتبت مع أختيها إميلي وآن بأسماء رجالية مستعارة. نُشرت «جين إير» عام 1847 باسم «كورير بيل» فلاقت نجاحًا فوريًّا. ومن أعمالها أيضًا «شيرلي» (1849) و«فيليت» (1853). وبعد أن فقدت جميع إخوتها، تزوجت آرثر بيل نيكولز عام 1854، وتوفيت أثناء حملها عام 1855 عن ثمانية وثلاثين عامًا."
+    }
+  },
+  "context": {
+    "en": "Jane Eyre was published in 1847, ten years into the reign of Queen Victoria, when Britain was being transformed by industry, railways and a growing middle class. Society was strictly divided by class, and a person's position depended heavily on birth and money. Women had very few rights: they could not vote, attend university or, once married, easily own property. For an educated woman without money, one of the few respectable jobs was to become a governess, living in a wealthy family's house but belonging neither to the family nor to the servants. Orphans depended on the charity of relatives or on cheap charity schools, many of which were cold, hungry and strict. Religion, especially the Church of England, shaped moral life, but writers were beginning to question hypocrisy and cruelty done in its name. Brontë's novel gave a poor, plain young woman a strong first-person voice that demanded respect and equality, which made it both popular and controversial.",
+    "ar": "نُشرت «جين إير» عام 1847، بعد عشر سنوات من بداية عهد الملكة فيكتوريا، حين كانت بريطانيا تتحول بفعل الصناعة والسكك الحديدية ونموّ الطبقة الوسطى. وكان المجتمع مقسّمًا تقسيمًا صارمًا بحسب الطبقة، وتتوقف مكانة الفرد إلى حدّ بعيد على نسبه وماله. ولم يكن للمرأة إلا القليل من الحقوق: فلم تكن تستطيع التصويت ولا دخول الجامعة، ولا تملّك المال بسهولة بعد الزواج. وكانت من الوظائف المحترمة القليلة المتاحة للمرأة المتعلمة الفقيرة أن تعمل مربّية منزلية (governess)، تعيش في بيت أسرة ثرية دون أن تنتمي إلى الأسرة ولا إلى الخدم. وكان الأيتام يعتمدون على إحسان الأقارب أو على المدارس الخيرية الرخيصة، وكان كثير منها باردًا قاسيًا قليل الطعام. وكان الدين، ولا سيما كنيسة إنجلترا، يوجّه الحياة الأخلاقية، لكن الكتّاب بدؤوا ينتقدون النفاق والقسوة اللذين يُرتكبان باسمه. وقد منحت رواية برونتي فتاةً فقيرةً عادية المظهر صوتًا قويًّا بضمير المتكلم يطالب بالاحترام والمساواة، فكانت ناجحة ومثيرة للجدل في آنٍ واحد."
+  },
+  "themes": [
+    {"en": "Independence and self-respect: Jane insists on being treated as an equal human being, whatever her money or position.", "ar": "الاستقلال واحترام الذات: تصرّ جين على أن تُعامل إنسانةً مساويةً لغيرها، مهما كان مالها أو مكانتها."},
+    {"en": "Social class: the novel shows how wealth and birth decide who is respected, and questions whether this is just.", "ar": "الطبقة الاجتماعية: تُظهر الرواية كيف يحدّد المال والنسب من يستحق الاحترام، وتتساءل هل هذا عدل."},
+    {"en": "Love versus conscience: Jane must choose between the desires of her heart and what she believes is morally right.", "ar": "الحب في مواجهة الضمير: على جين أن تختار بين رغبات قلبها وما تؤمن بأنه الصواب الأخلاقي."},
+    {"en": "Religion and hypocrisy: true faith and kindness are contrasted with cruel people who use religion to control others.", "ar": "الدين والنفاق: تُقابل الرواية بين الإيمان الصادق والرحمة، وبين قساة يستعملون الدين للسيطرة على غيرهم."},
+    {"en": "Belonging and home: the orphan Jane searches throughout the novel for a family and a place where she is loved.", "ar": "الانتماء والبيت: تبحث جين اليتيمة طوال الرواية عن أسرة ومكان تُحَبّ فيه."}
+  ],
+  "characters": [
+    {"name": "Jane Eyre", "en": "The narrator: a plain, intelligent, passionate orphan who grows from a mistreated child into an independent young woman and governess.", "ar": "الراوية: يتيمة عادية المظهر، ذكية، متّقدة المشاعر، تنمو من طفلة مظلومة إلى شابة مستقلة تعمل مربّية."},
+    {"name": "Mrs. Reed", "en": "Jane's aunt by marriage at Gateshead Hall, who raises her unwillingly and treats her coldly and unfairly.", "ar": "زوجة خال جين في قصر غيتسهيد، تربّيها على كُره منها وتعاملها ببرود وظلم."},
+    {"name": "John Reed", "en": "Mrs. Reed's spoiled, violent son, who bullies Jane constantly.", "ar": "ابن مسز ريد المدلّل العنيف، الذي يتنمّر على جين باستمرار."},
+    {"name": "Bessie Lee", "en": "The nurse at Gateshead, sometimes sharp but often the only person who shows Jane kindness.", "ar": "المربية في غيتسهيد، حادّة أحيانًا لكنها كثيرًا ما تكون الوحيدة التي تُظهر لجين شيئًا من اللطف."},
+    {"name": "Mr. Brocklehurst", "en": "The strict, hypocritical clergyman who runs Lowood School and preaches hardship to the pupils while his own family lives in luxury.", "ar": "القسّ الصارم المنافق الذي يدير مدرسة لوود، يعظ التلميذات بالتقشف بينما تعيش أسرته في الترف."},
+    {"name": "Helen Burns", "en": "Jane's gentle, deeply religious friend at Lowood, who teaches her patience and forgiveness.", "ar": "صديقة جين الوديعة شديدة التديّن في لوود، تعلّمها الصبر والتسامح."},
+    {"name": "Miss Temple", "en": "The kind superintendent of Lowood, a model of fairness and good teaching for Jane.", "ar": "مديرة لوود الطيبة، وهي لجين مثال للعدل وحسن التعليم."},
+    {"name": "Edward Rochester", "en": "The moody, proud master of Thornfield Hall, who employs Jane as a governess and hides a troubled past.", "ar": "سيد قصر ثورنفيلد المتقلّب المزاج المتكبر، الذي يستخدم جين مربّية ويخفي ماضيًا مضطربًا."},
+    {"name": "Mrs. Fairfax", "en": "The kind elderly housekeeper at Thornfield who welcomes Jane.", "ar": "مدبّرة المنزل المسنّة الطيبة في ثورنفيلد، التي ترحّب بجين."},
+    {"name": "Adèle Varens", "en": "Rochester's young French ward, Jane's lively pupil at Thornfield.", "ar": "الطفلة الفرنسية التي يتولى روتشستر رعايتها، وهي تلميذة جين المرحة في ثورنفيلد."}
+  ],
+  "objectives": [
+    {"en": "Read authentic Victorian English and understand its long sentences, formal vocabulary and older word forms.", "ar": "قراءة الإنجليزية الفيكتورية الأصيلة وفهم جملها الطويلة ومفرداتها الرسمية وصيغها القديمة."},
+    {"en": "Build a rich descriptive vocabulary for weather, places, people and moods.", "ar": "بناء حصيلة غنية من مفردات الوصف للطقس والأماكن والأشخاص والحالات النفسية."},
+    {"en": "Follow dialogue between characters of different ages and classes, and notice how speech shows power and politeness.", "ar": "متابعة الحوار بين شخصيات من أعمار وطبقات مختلفة، وملاحظة كيف يكشف الكلام عن السلطة والتأدّب."},
+    {"en": "Learn to express emotions in English, from fear and anger to love and hope, through Jane's first-person voice.", "ar": "تعلّم التعبير عن المشاعر بالإنجليزية، من الخوف والغضب إلى الحب والأمل، من خلال صوت جين بضمير المتكلم."},
+    {"en": "Analyse and produce complex sentences with participle clauses, inversion and subordinate clauses.", "ar": "تحليل الجمل المركّبة وإنتاجها، بما فيها جمل اسم الفاعل والمفعول والتقديم والتأخير والجمل التابعة."}
+  ]
+}

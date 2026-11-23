@@ -1,0 +1,171 @@
+{
+ "chapter": 15,
+ "summary": {
+  "en": "In the second year of Okonkwo's exile, his friend Obierika visits him with two young men carrying heavy bags of cowries, money from the sale of Okonkwo's yams in Umuofia. Obierika brings terrible news. The village of Abame no longer exists. A white man had arrived there on a strange iron machine, and the elders, warned by their oracle that he would bring destruction, killed him. Some time later, more white men came with armed men and attacked Abame on a busy market day, killing almost everyone. Uchendu says that the people of Abame were foolish to kill a stranger they did not understand. Okonkwo thinks they should have been better prepared. The friendship between Okonkwo and Obierika shines in this chapter.",
+  "ar": "في السنة الثانية من نفي أوكونكوو يزوره صديقه أوبييريكا ومعه شابان يحملان أكياسًا ثقيلة من الودع، وهي ثمن يام أوكونكوو الذي بيع في أوموفيا. ويحمل أوبييريكا خبرًا فظيعًا: قرية أبامي لم تعد موجودة. لقد وصل إليها رجل أبيض على آلة حديدية غريبة، فقتله الشيوخ بعد أن حذّرهم وحيهم من أنه سيجلب الدمار. وبعد مدة جاء رجال بيض آخرون مع رجال مسلحين وهاجموا أبامي في يوم سوق مزدحم، فقتلوا الجميع تقريبًا. يقول أوتشيندو إن أهل أبامي كانوا حمقى لأنهم قتلوا غريبًا لم يفهموه، بينما يرى أوكونكوو أنه كان عليهم أن يستعدوا أفضل. ويبرز في هذا الفصل وفاء الصداقة بين أوكونكوو وأوبييريكا."
+ },
+ "objectives": [
+  {
+   "en": "Retell the story of Abame and explain its importance.",
+   "ar": "أن تعيد رواية قصة أبامي وتشرح أهميتها."
+  },
+  {
+   "en": "Compare the reactions of Uchendu and Okonkwo.",
+   "ar": "أن تقارن ردّي فعل أوتشيندو وأوكونكوو."
+  },
+  {
+   "en": "Use reported speech for news and stories.",
+   "ar": "أن تستخدم الكلام المنقول لنقل الأخبار والقصص."
+  }
+ ],
+ "vocab": [
+  "massacre",
+  "rumor",
+  "omen",
+  "colonial",
+  "vengeance",
+  "oracle",
+  "foolhardy",
+  "cowrie",
+  "loyal"
+ ],
+ "grammar": [
+  {
+   "id": "tfa-15-reported-news",
+   "topic": "reported",
+   "level": "B2",
+   "title": {
+    "en": "Reporting verbs",
+    "ar": "أفعال النقل"
+   },
+   "explain": {
+    "en": "Besides \"say\" and \"tell\", English uses reporting verbs such as \"warn\", \"explain\", \"claim\" and \"report\". \"Warn\" is often followed by \"that\" or by \"someone (not) to do\".",
+    "ar": "إلى جانب say و tell تستخدم الإنجليزية أفعال نقل مثل warn و explain و claim و report، ويأتي بعد warn غالبًا that أو شخص + (not) to + الفعل."
+   },
+   "example": {
+    "en": "The messenger warned the villagers not to go to the market that day.",
+    "ar": "حذّر الرسول القرويين من الذهاب إلى السوق ذلك اليوم."
+   },
+   "exercise": {
+    "q": {
+     "en": "Choose: The elder warned us ___ strangers.",
+     "ar": "اختر: حذّرنا الشيخ ___ الغرباء."
+    },
+    "options": [
+     "not to attack",
+     "to not attacking",
+     "not attack"
+    ],
+    "answer": 0,
+    "why": {
+     "en": "warn + object + not to + base verb.",
+     "ar": "warn + المفعول + not to + المصدر."
+    }
+   }
+  }
+ ],
+ "culture": [
+  {
+   "term": "Abame and colonial violence",
+   "en": "The destruction of Abame in the novel reflects real punitive expeditions in which colonial forces attacked whole communities in southeastern Nigeria in the early twentieth century.",
+   "ar": "يعكس تدمير أبامي في الرواية حملات عقابية حقيقية هاجمت فيها القوات الاستعمارية مجتمعات كاملة في جنوب شرق نيجيريا في أوائل القرن العشرين."
+  },
+  {
+   "term": "Market days",
+   "en": "The Igbo week had four market days, and each village held its market on one of them. Attacking on market day meant striking when the most people were gathered.",
+   "ar": "كان أسبوع الإيبو أربعة أيام سوق، ولكل قرية سوقها في يوم منها، والهجوم يوم السوق يعني الضرب حين يجتمع أكبر عدد من الناس."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "What does Obierika bring Okonkwo?",
+    "ar": "ماذا أحضر أوبييريكا لأوكونكوو؟"
+   },
+   "options": [
+    "A wife",
+    "Money from the sale of his yams",
+    "A gun",
+    "A letter from the missionaries"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "He brings bags of cowries from selling Okonkwo's yams.",
+    "ar": "أحضر أكياس الودع من بيع يام أوكونكوو."
+   }
+  },
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "What happened to Abame?",
+    "ar": "ماذا حدث لأبامي؟"
+   },
+   "options": [
+    "It became rich",
+    "It was destroyed after its people killed a white man",
+    "It joined Umuofia",
+    "It built a church"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "White men and armed men attacked the market and killed most people.",
+    "ar": "هاجم رجال بيض ومسلحون السوق وقتلوا معظم الناس."
+   }
+  },
+  {
+   "type": "vocab",
+   "q": {
+    "en": "A \"massacre\" is…",
+    "ar": "الـ massacre هي…"
+   },
+   "options": [
+    "a big feast",
+    "the killing of many defenceless people",
+    "a trading agreement",
+    "a long journey"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "The attack on Abame was a massacre.",
+    "ar": "كان الهجوم على أبامي مجزرة."
+   }
+  },
+  {
+   "type": "context",
+   "q": {
+    "en": "What does Uchendu think of Abame's action?",
+    "ar": "ما رأي أوتشيندو فيما فعلته أبامي؟"
+   },
+   "options": [
+    "It was brave and wise",
+    "It was foolish to kill a stranger they did not understand",
+    "It was required by law",
+    "He has no opinion"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "He believes killing a silent stranger was unwise.",
+    "ar": "يرى أن قتل غريب صامت لم يكن حكيمًا."
+   }
+  },
+  {
+   "type": "grammar",
+   "q": {
+    "en": "Choose: He explained that the village ___ destroyed.",
+    "ar": "اختر: شرح أن القرية ___ دُمّرت."
+   },
+   "options": [
+    "has been",
+    "had been",
+    "is being",
+    "will be"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "Reported past event → past perfect.",
+    "ar": "الحدث الماضي المنقول ← الماضي التام."
+   }
+  }
+ ]
+}

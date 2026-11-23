@@ -1,0 +1,69 @@
+rules_version = '2';
+// Albushra Literature — Firestore security rules (paste into Firebase console → Firestore → Rules → Publish).
+// Least privilege: learners touch only their own progress doc; editors manage content; copyrighted text is never
+// readable by the public unless the book's rights status allows publishing it.
+service cloud.firestore {
+  match /databases/{db}/documents {
+    function signedIn() { return request.auth != null; }
+    function role() { return exists(/databases/$(db)/documents/lit_roles/$(request.auth.uid)) ? get(/databases/$(db)/documents/lit_roles/$(request.auth.uid)).data.role : ''; }
+    function isAdmin() { return signedIn() && role() == 'admin'; }
+    function isEditor() { return signedIn() && (role() == 'admin' || role() == 'editor'); }
+    function book(slug) { return get(/databases/$(db)/documents/lit_books/$(slug)).data; }
+    function bookPublic(slug) { return exists(/databases/$(db)/documents/lit_books/$(slug)) && book(slug).published == true; }
+    function textPublic(slug) { return bookPublic(slug) && book(slug).text != 'none' && book(slug).rights.status in ['public-domain-verified', 'licensed']; }
+
+    // Staff roles. The first signed-in user may create the bootstrap lock once and make themselves admin.
+    match /lit_roles/{uid} {
+      allow read: if signedIn() && (request.auth.uid == uid || isAdmin());
+      allow create: if isAdmin() || (signedIn() && uid == request.auth.uid && request.resource.data.role == 'admin'
+                     && !exists(/databases/$(db)/documents/lit_config/bootstrap)
+                     && existsAfter(/databases/$(db)/documents/lit_config/bootstrap)
+                     && getAfter(/databases/$(db)/documents/lit_config/bootstrap).data.uid == request.auth.uid);
+      allow update, delete: if isAdmin() && uid != request.auth.uid;
+    }
+    match /lit_config/bootstrap {
+      allow read: if signedIn();
+      allow create: if signedIn() && request.resource.data.uid == request.auth.uid;
+      allow update, delete: if false;
+    }
+
+    // Book metadata and rights records.
+    match /lit_books/{slug} {
+      allow read: if resource.data.published == true || isEditor();
+      allow write: if isEditor();
+    }
+    match /lit_about/{slug} {
+      allow read: if bookPublic(slug) || isEditor();
+      allow write: if isEditor();
+    }
+    match /lit_chapter_index/{slug} {
+      allow read: if bookPublic(slug) || isEditor();
+      allow write: if isEditor();
+    }
+    // Full text and translations: only when rights allow publication.
+    match /lit_chapters/{id} {
+      allow read: if isEditor() || textPublic(resource.data.slug);
+      allow write: if isEditor() && request.resource.data.slug is string;
+    }
+    match /lit_translations/{id} {
+      allow read: if isEditor() || textPublic(resource.data.slug);
+      allow write: if isEditor() && request.resource.data.slug is string;
+    }
+    match /lit_study/{id} {
+      allow read: if isEditor() || bookPublic(resource.data.slug);
+      allow write: if isEditor() && request.resource.data.slug is string;
+    }
+    match /lit_vocab/{slug} {
+      allow read: if bookPublic(slug) || isEditor();
+      allow write: if isEditor();
+    }
+
+    // Learner progress: one private doc per user.
+    match /lit_users/{uid} {
+      allow get, delete: if signedIn() && request.auth.uid == uid;
+      allow create, update: if signedIn() && request.auth.uid == uid
+                            && request.resource.data.keys().hasOnly(['state', 'updatedAt', 'updatedBy'])
+                            && request.resource.data.state is string && request.resource.data.state.size() < 900000;
+    }
+  }
+}

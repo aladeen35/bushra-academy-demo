@@ -1,0 +1,177 @@
+{
+ "chapter": 13,
+ "summary": {
+  "en": "One night drums and cannons announce the death of Ezeudu, the respected elder who had warned Okonkwo about Ikemefuna. His funeral is grand, with warriors, drums and the appearance of ancestral spirits. During the final salute, Okonkwo's gun accidentally explodes and a piece of iron kills Ezeudu's sixteen-year-old son. Killing a clansman, even by accident, is a crime against the earth goddess. Because it was not deliberate, Okonkwo must leave Umuofia for seven years. He and his family flee that night to Mbanta, his mother's village. The next morning men from his own clan destroy his compound, as custom demands. Obierika, who helped his friend, wonders sadly why a man should suffer so much for an accident.",
+  "ar": "في إحدى الليالي تُعلن الطبول والمدافع وفاة إيزيودو، الشيخ المحترم الذي كان قد حذّر أوكونكوو بشأن إيكيميفونا. وتكون جنازته مهيبة، فيها محاربون وطبول وظهور لأرواح الأسلاف. وفي التحية الأخيرة تنفجر بندقية أوكونكوو دون قصد، فتقتل شظية حديد ابن إيزيودو البالغ ستة عشر عامًا. إن قتل أحد أبناء العشيرة، ولو خطأً، جريمة في حق إلهة الأرض في معتقدهم. ولأن القتل لم يكن متعمدًا، يجب على أوكونكوو أن يغادر أوموفيا سبع سنوات. فيهرب مع أسرته تلك الليلة إلى مبانتا، قرية أمه. وفي الصباح يهدم رجال من عشيرته مجمّعه كما يقتضي العرف. ويتساءل أوبييريكا، الذي ساعد صديقه، بحزن: لماذا يعاني رجل كل هذا بسبب حادث؟"
+ },
+ "objectives": [
+  {
+   "en": "Explain why Okonkwo is sent into exile and for how long.",
+   "ar": "أن تشرح لماذا نُفي أوكونكوو وكم مدة نفيه."
+  },
+  {
+   "en": "Discuss Obierika's questions about the clan's customs.",
+   "ar": "أن تناقش تساؤلات أوبييريكا عن أعراف العشيرة."
+  },
+  {
+   "en": "Use the third conditional to talk about past possibilities.",
+   "ar": "أن تستخدم الشرط الثالث للحديث عن احتمالات الماضي."
+  }
+ ],
+ "vocab": [
+  "funeral",
+  "exile",
+  "inadvertent",
+  "banish",
+  "cleanse",
+  "ani",
+  "mourn",
+  "fate",
+  "warrior",
+  "compound"
+ ],
+ "grammar": [
+  {
+   "id": "tfa-13-third-conditional",
+   "topic": "conditional",
+   "level": "B2",
+   "title": {
+    "en": "The third conditional",
+    "ar": "الجملة الشرطية الثالثة"
+   },
+   "explain": {
+    "en": "Use \"If + past perfect, would have + past participle\" to imagine a different past. It is often used to talk about regret or about how events could have gone differently.",
+    "ar": "نستخدم If + الماضي التام، would have + التصريف الثالث لتخيّل ماضٍ مختلف، وتُستعمل كثيرًا للندم أو للحديث عن مسار آخر للأحداث."
+   },
+   "example": {
+    "en": "If the old gun had not exploded, the family would have stayed in their village.",
+    "ar": "لو لم تنفجر البندقية القديمة لبقيت الأسرة في قريتها."
+   },
+   "exercise": {
+    "q": {
+     "en": "Choose: If he ___ more careful, the accident would not have happened.",
+     "ar": "اختر: لو ___ أكثر حذرًا لما وقع الحادث."
+    },
+    "options": [
+     "had been",
+     "was",
+     "would be"
+    ],
+    "answer": 0,
+    "why": {
+     "en": "The if-clause in the third conditional uses the past perfect.",
+     "ar": "جملة الشرط في الشرط الثالث تستخدم الماضي التام."
+    }
+   }
+  }
+ ],
+ "culture": [
+  {
+   "term": "Male and female crimes",
+   "en": "The clan divided killings of a kinsman into deliberate and inadvertent ones. An accidental killing was punished by seven years of exile rather than death, and the killer could return afterwards.",
+   "ar": "كانت العشيرة تميّز بين قتل القريب عمدًا وقتله خطأً، فالقتل الخطأ عقوبته النفي سبع سنوات لا الموت، ويحق للقاتل العودة بعدها."
+  },
+  {
+   "term": "Cleansing the land",
+   "en": "Destroying the compound was not personal revenge. The clan believed it was cleansing the land of the offence so that the earth goddess would not punish everyone.",
+   "ar": "لم يكن هدم المجمع انتقامًا شخصيًا، فالعشيرة كانت تعتقد أنها تطهّر الأرض من الذنب حتى لا تعاقب إلهة الأرض الجميع بحسب معتقدهم."
+  },
+  {
+   "term": "Funerals of great men",
+   "en": "A man of high titles received a large funeral with drums, gunfire and the presence of the ancestral spirits, showing the honour of his life.",
+   "ar": "كان صاحب الألقاب العالية يُشيَّع بجنازة كبيرة فيها طبول وإطلاق نار وحضور لأرواح الأسلاف، تكريمًا لحياته."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "Whose funeral is described?",
+    "ar": "جنازة من يصفها الفصل؟"
+   },
+   "options": [
+    "Unoka's",
+    "Ezeudu's",
+    "Obierika's",
+    "Ikemefuna's"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "It is the funeral of the elder Ezeudu.",
+    "ar": "هي جنازة الشيخ إيزيودو."
+   }
+  },
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "Why must Okonkwo leave Umuofia?",
+    "ar": "لماذا يجب أن يغادر أوكونكوو أوموفيا؟"
+   },
+   "options": [
+    "He lost a wrestling match",
+    "He accidentally killed a clansman",
+    "He insulted the priest",
+    "He owed money"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "His gun exploded and killed Ezeudu's son.",
+    "ar": "انفجرت بندقيته فقتلت ابن إيزيودو."
+   }
+  },
+  {
+   "type": "vocab",
+   "q": {
+    "en": "\"Inadvertent\" means…",
+    "ar": "inadvertent تعني…"
+   },
+   "options": [
+    "planned",
+    "accidental",
+    "violent",
+    "famous"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "An inadvertent act is not done on purpose.",
+    "ar": "الفعل غير المتعمد لم يُقصد."
+   }
+  },
+  {
+   "type": "context",
+   "q": {
+    "en": "Why do the men destroy Okonkwo's compound?",
+    "ar": "لماذا هدم الرجال مجمع أوكونكوو؟"
+   },
+   "options": [
+    "They hate him",
+    "To cleanse the land as custom requires",
+    "To steal his yams",
+    "The white men ordered it"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "It is a ritual duty, not personal revenge.",
+    "ar": "هو واجب طقسي لا انتقام شخصي."
+   }
+  },
+  {
+   "type": "grammar",
+   "q": {
+    "en": "Complete: If he had stayed at home, he ___ the accident.",
+    "ar": "أكمل: لو بقي في البيت لـ ___ الحادث."
+   },
+   "options": [
+    "would have avoided",
+    "will avoid",
+    "would avoid",
+    "avoided"
+   ],
+   "answer": 0,
+   "explain": {
+    "en": "Result clause = would have + past participle.",
+    "ar": "جواب الشرط = would have + التصريف الثالث."
+   }
+  }
+ ]
+}

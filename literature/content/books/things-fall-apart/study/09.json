@@ -1,0 +1,171 @@
+{
+ "chapter": 9,
+ "summary": {
+  "en": "Okonkwo finally sleeps well, but before dawn Ekwefi wakes him: Ezinma is very ill with fever. Ekwefi's great fear is explained. She has lost many children in infancy, and people believe Ezinma may be an ogbanje, a child who dies and returns again and again. A year earlier, a medicine man had searched with Ezinma for the hidden stone, the iyi-uwa, which was thought to tie her to the spirit world. After a long search it was found and destroyed, giving the family new hope. Now Okonkwo goes into the bush, gathers herbs and boils medicine for her. The chapter shows a softer side of Okonkwo and the deep love of a mother.",
+  "ar": "ينام أوكونكوو أخيرًا نومًا هانئًا، لكن إكويفي توقظه قبل الفجر: إيزينما مريضة جدًا بالحمى. ويشرح الفصل خوف إكويفي الكبير، فقد فقدت أطفالًا كثيرين وهم رضّع، ويعتقد الناس أن إيزينما قد تكون أوغبانجي، أي طفلة تموت وتعود مرة بعد مرة بحسب معتقدهم. وقبل سنة بحث معالج شعبي مع إيزينما عن الحجر المخبوء، الإيي-أوا، الذي يُظن أنه يربطها بعالم الأرواح. وبعد بحث طويل وُجد وأُتلف، فمنح ذلك الأسرة أملًا جديدًا. والآن يذهب أوكونكوو إلى الأحراش ويجمع الأعشاب ويغلي لها الدواء. يُظهر الفصل جانبًا أرق من أوكونكوو، وحب الأم العميق لابنتها."
+ },
+ "objectives": [
+  {
+   "en": "Understand the belief in ogbanje and how it explains loss in the family.",
+   "ar": "أن تفهم معتقد الأوغبانجي وكيف يفسّر الفقد في الأسرة."
+  },
+  {
+   "en": "Describe Ekwefi's love and Okonkwo's care for Ezinma.",
+   "ar": "أن تصف حب إكويفي واهتمام أوكونكوو بإيزينما."
+  },
+  {
+   "en": "Use time clauses with \"when\", \"after\" and \"before\".",
+   "ar": "أن تستخدم جمل الزمن مع when و after و before."
+  }
+ ],
+ "vocab": [
+  "ogbanje",
+  "iyi-uwa",
+  "medicine-man",
+  "herb",
+  "fever",
+  "anxious",
+  "devoted",
+  "grief",
+  "chi"
+ ],
+ "grammar": [
+  {
+   "id": "tfa-9-time-clauses",
+   "topic": "complex",
+   "level": "B1",
+   "title": {
+    "en": "Time clauses",
+    "ar": "جمل الزمن"
+   },
+   "explain": {
+    "en": "Time clauses with \"when\", \"after\", \"before\" and \"as soon as\" show the order of events. Use a comma when the time clause comes first.",
+    "ar": "تبيّن جمل الزمن مع when و after و before و as soon as ترتيب الأحداث، ونضع فاصلة إذا جاءت جملة الزمن أولًا."
+   },
+   "example": {
+    "en": "As soon as the medicine was ready, he carried the pot to his daughter.",
+    "ar": "بمجرد أن أصبح الدواء جاهزًا حمل القدر إلى ابنته."
+   },
+   "exercise": {
+    "q": {
+     "en": "Choose: ___ the stone was found, the family felt hopeful.",
+     "ar": "اختر: ___ عُثر على الحجر شعرت الأسرة بالأمل."
+    },
+    "options": [
+     "After",
+     "Before",
+     "Until"
+    ],
+    "answer": 0,
+    "why": {
+     "en": "The hope came after the stone was found.",
+     "ar": "الأمل جاء بعد العثور على الحجر."
+    }
+   }
+  }
+ ],
+ "culture": [
+  {
+   "term": "Ogbanje",
+   "en": "In Igbo belief, an ogbanje was a child who repeatedly died and was reborn to the same mother. This belief helped families explain the painful loss of many infants at a time when medicine was limited.",
+   "ar": "في معتقد الإيبو كان الأوغبانجي طفلًا يموت ويولد للأم نفسها مرارًا، وكان هذا المعتقد يساعد الأسر على تفسير الفقد المؤلم لأطفال كثيرين في زمن قلّ فيه الطب."
+  },
+  {
+   "term": "Traditional medicine",
+   "en": "Healers knew many plants and roots. Okonkwo's fever medicine, made from herbs and leaves, shows real knowledge of local plants.",
+   "ar": "كان المعالجون يعرفون نباتات وجذورًا كثيرة، ودواء الحمى الذي صنعه أوكونكوو من الأعشاب والأوراق يدل على معرفة حقيقية بالنباتات المحلية."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "Why does Ekwefi wake Okonkwo?",
+    "ar": "لماذا أيقظت إكويفي أوكونكوو؟"
+   },
+   "options": [
+    "A thief is in the compound",
+    "Ezinma has a high fever",
+    "There is a fire",
+    "The ogene is sounding"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "Ezinma is seriously ill.",
+    "ar": "إيزينما مريضة جدًا."
+   }
+  },
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "What was the iyi-uwa?",
+    "ar": "ما هو الإيي-أوا؟"
+   },
+   "options": [
+    "A medicine",
+    "A hidden stone believed to link Ezinma to the spirit world",
+    "A kind of drum",
+    "A gift from Chielo"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "Finding and destroying it was meant to keep her alive.",
+    "ar": "كان العثور عليه وإتلافه يهدف إلى إبقائها حيّة."
+   }
+  },
+  {
+   "type": "vocab",
+   "q": {
+    "en": "A \"devoted\" mother is…",
+    "ar": "الأم devoted هي…"
+   },
+   "options": [
+    "careless",
+    "loving and loyal",
+    "angry",
+    "absent"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "Ekwefi is devoted to Ezinma.",
+    "ar": "إكويفي متفانية في حب إيزينما."
+   }
+  },
+  {
+   "type": "context",
+   "q": {
+    "en": "What does this chapter show about Okonkwo?",
+    "ar": "ماذا يكشف هذا الفصل عن أوكونكوو؟"
+   },
+   "options": [
+    "He never cares for his family",
+    "He has a caring side he rarely shows",
+    "He wants to become a healer",
+    "He is afraid of the forest"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "He works quickly to make medicine for his daughter.",
+    "ar": "يعمل بسرعة ليصنع الدواء لابنته."
+   }
+  },
+  {
+   "type": "grammar",
+   "q": {
+    "en": "Choose the correct time word: She waited ___ the medicine cooled.",
+    "ar": "اختر كلمة الزمن الصحيحة: انتظرت ___ برد الدواء."
+   },
+   "options": [
+    "until",
+    "after that",
+    "during",
+    "yet"
+   ],
+   "answer": 0,
+   "explain": {
+    "en": "\"Until\" means up to the time when.",
+    "ar": "until تعني إلى أن."
+   }
+  }
+ ]
+}

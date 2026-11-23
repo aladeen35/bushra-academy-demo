@@ -1,0 +1,171 @@
+{
+ "chapter": 11,
+ "summary": {
+  "en": "On a dark evening, Ekwefi tells Ezinma a folktale about a clever tortoise who tricks the birds at a feast and is punished when they take back the feathers they lent him. The story explains, in a playful way, why the tortoise's shell looks cracked. Suddenly the voice of Chielo, the priestess, is heard. Speaking for the oracle Agbala, she says that the god wants to see Ezinma, and she carries the girl away on her back into the night. Okonkwo and Ekwefi cannot refuse a god, but Ekwefi follows at a distance through the dark, afraid and exhausted, all the way to the caves in the hills. There she waits outside, and Okonkwo quietly arrives to wait beside her.",
+  "ar": "في مساء مظلم تحكي إكويفي لإيزينما حكاية شعبية عن سلحفاة ماكرة تخدع الطيور في وليمة، ثم تُعاقب حين تسترد الطيور الريش الذي أعارته إياها. وتشرح الحكاية بطريقة مرحة لماذا تبدو صَدَفة السلحفاة متشققة. وفجأة يُسمع صوت الكاهنة تشيلو، فتقول متحدثة باسم وحي أغبالا إن الإله يريد أن يرى إيزينما، وتحمل الفتاة على ظهرها وتمضي بها في الليل. لا يستطيع أوكونكوو وإكويفي أن يرفضا طلب الإله في معتقدهما، لكن إكويفي تتبعهما من بعيد في الظلام، خائفة منهكة، حتى الكهوف في التلال. وهناك تنتظر في الخارج، ثم يصل أوكونكوو بهدوء لينتظر بجانبها."
+ },
+ "objectives": [
+  {
+   "en": "Retell the tortoise folktale and explain its lesson.",
+   "ar": "أن تعيد رواية حكاية السلحفاة وتشرح عبرتها."
+  },
+  {
+   "en": "Describe Ekwefi's courage in following Chielo.",
+   "ar": "أن تصف شجاعة إكويفي في تتبّع تشيلو."
+  },
+  {
+   "en": "Use \"so … that\" and \"such … that\" to show result.",
+   "ar": "أن تستخدم so … that و such … that للتعبير عن النتيجة."
+  }
+ ],
+ "vocab": [
+  "folktale",
+  "cunning",
+  "priestess",
+  "agbala",
+  "pursue",
+  "devoted",
+  "anxious",
+  "shrine",
+  "courage"
+ ],
+ "grammar": [
+  {
+   "id": "tfa-11-so-such",
+   "topic": "complex",
+   "level": "B1",
+   "title": {
+    "en": "So … that / such … that",
+    "ar": "so … that و such … that"
+   },
+   "explain": {
+    "en": "Use \"so + adjective/adverb + that\" and \"such + (a) + adjective + noun + that\" to show a result.",
+    "ar": "نستخدم so + صفة أو حال + that، و such + (a) + صفة + اسم + that للتعبير عن نتيجة."
+   },
+   "example": {
+    "en": "The night was so dark that the mother could hardly see the path.",
+    "ar": "كان الليل مظلمًا جدًا حتى إن الأم بالكاد رأت الطريق."
+   },
+   "exercise": {
+    "q": {
+     "en": "Choose: It was ___ long walk that her legs ached.",
+     "ar": "اختر: كان مشيًا ___ طويلًا حتى آلمتها ساقاها."
+    },
+    "options": [
+     "such a",
+     "so a",
+     "so"
+    ],
+    "answer": 0,
+    "why": {
+     "en": "Before \"a + adjective + noun\" we use \"such a\".",
+     "ar": "قبل a + صفة + اسم نستخدم such a."
+    }
+   }
+  }
+ ],
+ "culture": [
+  {
+   "term": "Folktales",
+   "en": "Folktales told at night taught children values in an entertaining way. Animal characters such as the tortoise, a famous trickster in West African stories, often show what happens to the greedy or proud.",
+   "ar": "كانت الحكايات الشعبية الليلية تعلّم الأطفال القيم بطريقة ممتعة، والسلحفاة شخصية محتالة مشهورة في حكايات غرب أفريقيا، تبيّن مصير الطمّاع والمغرور."
+  },
+  {
+   "term": "The authority of the oracle",
+   "en": "When the priestess spoke for Agbala, even a powerful man like Okonkwo could not openly refuse her. Ekwefi's journey shows a mother's love testing the limits of custom.",
+   "ar": "حين تتكلم الكاهنة باسم أغبالا لا يستطيع حتى رجل قوي مثل أوكونكوو أن يرفض علنًا، ورحلة إكويفي تُظهر حب الأم وهو يختبر حدود العرف."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "What happens to the tortoise at the end of the story?",
+    "ar": "ماذا يحدث للسلحفاة في نهاية الحكاية؟"
+   },
+   "options": [
+    "He becomes king",
+    "The birds take back their feathers and he falls",
+    "He flies home",
+    "He marries a bird"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "Without feathers he cannot fly, so he falls and his shell breaks.",
+    "ar": "بلا ريش لا يستطيع الطيران فيسقط وتتشقق صدفته."
+   }
+  },
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "Where does Chielo take Ezinma?",
+    "ar": "إلى أين تأخذ تشيلو إيزينما؟"
+   },
+   "options": [
+    "To the market",
+    "To the caves of the oracle in the hills",
+    "To Mbaino",
+    "To the river"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "She carries her to Agbala's shrine in the hills and caves.",
+    "ar": "تحملها إلى مزار أغبالا في التلال والكهوف."
+   }
+  },
+  {
+   "type": "vocab",
+   "q": {
+    "en": "\"Cunning\" means…",
+    "ar": "cunning تعني…"
+   },
+   "options": [
+    "honest and simple",
+    "clever at tricking others",
+    "very strong",
+    "afraid"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "The tortoise is cunning; he tricks the birds.",
+    "ar": "السلحفاة ماكرة تخدع الطيور."
+   }
+  },
+  {
+   "type": "context",
+   "q": {
+    "en": "Why does Ekwefi follow Chielo?",
+    "ar": "لماذا تتبع إكويفي تشيلو؟"
+   },
+   "options": [
+    "She wants to become a priestess",
+    "She is afraid for her only daughter",
+    "Okonkwo ordered her",
+    "She is lost"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "Her love and fear for Ezinma give her courage.",
+    "ar": "حبها وخوفها على إيزينما يمنحانها الشجاعة."
+   }
+  },
+  {
+   "type": "grammar",
+   "q": {
+    "en": "Choose: She was ___ tired that she sat on the ground.",
+    "ar": "اختر: كانت متعبة ___ حتى جلست على الأرض."
+   },
+   "options": [
+    "such",
+    "so",
+    "such a",
+    "too"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "\"So + adjective + that\".",
+    "ar": "so + صفة + that."
+   }
+  }
+ ]
+}

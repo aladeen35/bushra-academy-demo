@@ -1,0 +1,172 @@
+{
+ "chapter": 21,
+ "summary": {
+  "en": "Not everyone in Umuofia dislikes the new order. A trading store brings money into the clan, as palm oil and kernels can now be sold at good prices. The missionary Mr. Brown is patient and respectful. He tells his followers not to provoke the clan, and he spends long hours discussing religion with a respected man named Akunna. Each learns something about the other's beliefs, including the place of the supreme god, Chukwu. Mr. Brown builds a school and a hospital and encourages families to send their children to learn. Okonkwo's return, meanwhile, attracts little attention, and he grieves for a clan that seems to be softening. When Mr. Brown visits him, Okonkwo sends him away. Soon after, Mr. Brown falls ill and must leave.",
+  "ar": "ليس كل أهل أوموفيا يكرهون النظام الجديد. فقد جلب متجر تجاري المال إلى العشيرة، إذ صار بالإمكان بيع زيت النخيل ونواه بأسعار جيدة. والمبشّر السيد براون صبور ومحترم، يطلب من أتباعه ألا يستفزوا العشيرة، ويقضي ساعات طويلة في نقاش الدين مع رجل محترم اسمه أكونّا. ويتعلم كل منهما شيئًا عن معتقد الآخر، ومن ذلك مكانة الإله الأعلى تشوكوو. ويبني السيد براون مدرسة ومستشفى، ويشجع الأسر على إرسال أبنائها للتعلم. أما عودة أوكونكوو فلا تلفت إلا قليلًا من الانتباه، فيحزن على عشيرة يراها قد صارت لينة. وحين يزوره السيد براون يطرده أوكونكوو. وبعد مدة قصيرة يمرض السيد براون ويضطر إلى الرحيل."
+ },
+ "objectives": [
+  {
+   "en": "Describe Mr. Brown's approach to the clan.",
+   "ar": "أن تصف أسلوب السيد براون مع العشيرة."
+  },
+  {
+   "en": "Summarise the dialogue between Mr. Brown and Akunna.",
+   "ar": "أن تلخص الحوار بين السيد براون وأكونّا."
+  },
+  {
+   "en": "Use comparatives to compare two people or ideas.",
+   "ar": "أن تستخدم صيغ المقارنة للمقارنة بين شخصين أو فكرتين."
+  }
+ ],
+ "vocab": [
+  "tolerate",
+  "dialogue",
+  "chukwu",
+  "literacy",
+  "restrain",
+  "compromise",
+  "missionary",
+  "convert",
+  "trading-store",
+  "prestige"
+ ],
+ "grammar": [
+  {
+   "id": "tfa-21-comparatives",
+   "topic": "descriptive",
+   "level": "B1",
+   "title": {
+    "en": "Comparatives",
+    "ar": "صيغ المقارنة"
+   },
+   "explain": {
+    "en": "Add -er to short adjectives (calmer) and use \"more\" with longer adjectives (more patient). Use \"than\" to compare. \"As … as\" shows that two things are equal.",
+    "ar": "نضيف er للصفات القصيرة (calmer) ونستخدم more مع الصفات الطويلة (more patient)، ونستخدم than للمقارنة، و as … as للتساوي."
+   },
+   "example": {
+    "en": "The first missionary was more patient than many of his followers.",
+    "ar": "كان المبشّر الأول أكثر صبرًا من كثير من أتباعه."
+   },
+   "exercise": {
+    "q": {
+     "en": "Choose: The new school was ___ than the old meeting house.",
+     "ar": "اختر: كانت المدرسة الجديدة ___ من دار الاجتماع القديمة."
+    },
+    "options": [
+     "bigger",
+     "more big",
+     "biggest"
+    ],
+    "answer": 0,
+    "why": {
+     "en": "\"Big\" is short, so we add -er (and double the g).",
+     "ar": "big صفة قصيرة فنضيف er مع مضاعفة g."
+    }
+   }
+  }
+ ],
+ "culture": [
+  {
+   "term": "Chukwu and the lesser gods",
+   "en": "Traditional Igbo religion recognised a supreme god, Chukwu, and many lesser deities who were approached for daily needs. Akunna explains this structure to Mr. Brown.",
+   "ar": "اعترف الدين التقليدي للإيبو بإله أعلى هو تشوكوو وبآلهة أدنى كثيرة يُتوجه إليها في الحاجات اليومية، ويشرح أكونّا هذا التصور للسيد براون."
+  },
+  {
+   "term": "Schools and change",
+   "en": "Mission schools taught reading and writing, which opened jobs in the colonial system. Many families saw education as the path to the future, even when they kept their old beliefs.",
+   "ar": "علّمت مدارس الإرساليات القراءة والكتابة ففتحت أبواب الوظائف في النظام الاستعماري، ورأت أسر كثيرة في التعليم طريقًا إلى المستقبل حتى مع تمسكها بمعتقداتها القديمة."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "How does Mr. Brown treat the clan?",
+    "ar": "كيف يعامل السيد براون العشيرة؟"
+   },
+   "options": [
+    "With force",
+    "With patience and respect",
+    "He ignores it",
+    "He takes its land"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "He restrains his followers and listens to the elders.",
+    "ar": "يكبح أتباعه ويستمع إلى الشيوخ."
+   }
+  },
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "Who is Akunna?",
+    "ar": "من هو أكونّا؟"
+   },
+   "options": [
+    "A court messenger",
+    "A respected man who discusses religion with Mr. Brown",
+    "Okonkwo's son",
+    "A trader from Umuru"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "Their conversations show mutual respect.",
+    "ar": "تُظهر حواراتهما احترامًا متبادلًا."
+   }
+  },
+  {
+   "type": "vocab",
+   "q": {
+    "en": "\"Literacy\" is…",
+    "ar": "literacy هي…"
+   },
+   "options": [
+    "the ability to read and write",
+    "a kind of crop",
+    "a religious song",
+    "a punishment"
+   ],
+   "answer": 0,
+   "explain": {
+    "en": "Mr. Brown's school brings literacy.",
+    "ar": "مدرسة السيد براون تجلب القراءة والكتابة."
+   }
+  },
+  {
+   "type": "context",
+   "q": {
+    "en": "How does Okonkwo feel about his return?",
+    "ar": "كيف يشعر أوكونكوو تجاه عودته؟"
+   },
+   "options": [
+    "Proud and celebrated",
+    "Disappointed because it attracts little attention",
+    "Happy with the changes",
+    "Indifferent"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "The clan is busy with the new things and hardly notices him.",
+    "ar": "العشيرة مشغولة بالجديد فلا تكاد تلاحظه."
+   }
+  },
+  {
+   "type": "grammar",
+   "q": {
+    "en": "Choose: Akunna was ___ than many people expected.",
+    "ar": "اختر: كان أكونّا ___ مما توقع كثيرون."
+   },
+   "options": [
+    "wiser",
+    "more wise",
+    "wisest",
+    "wise"
+   ],
+   "answer": 0,
+   "explain": {
+    "en": "\"Wise\" is short, so \"wiser\".",
+    "ar": "wise قصيرة فتصبح wiser."
+   }
+  }
+ ]
+}

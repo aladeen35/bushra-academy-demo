@@ -1,0 +1,172 @@
+{
+ "chapter": 22,
+ "summary": {
+  "en": "Mr. Brown's successor, the Reverend James Smith, is very different. He sees the world in black and white and has no patience with the clan's beliefs or with compromise. His strictness encourages the most zealous converts. One of them, Enoch, commits the greatest possible offence: during a public ceremony he unmasks one of the egwugwu, which the clan believes kills an ancestral spirit. That night the whole clan is in turmoil. The next day the egwugwu gather from all the villages, destroy Enoch's compound and march to the church. Mr. Smith stands firm, and the leader of the egwugwu tells him through an interpreter that he will be spared but the church must go. They burn it down, and Okonkwo feels satisfied for the first time in years.",
+  "ar": "يحل محل السيد براون القسّ جيمس سميث، وهو رجل مختلف تمامًا. فهو يرى العالم أبيض وأسود فقط، ولا صبر لديه على معتقدات العشيرة ولا على الحلول الوسط. وتشجع صرامته أشد المتحولين حماسة. ويرتكب أحدهم، واسمه إينوك، أعظم مخالفة ممكنة: ففي احتفال عام ينزع قناع أحد الإغووغوو، وهو ما تعتقد العشيرة أنه قتل لروح من أرواح الأسلاف. وتضطرب العشيرة كلها تلك الليلة. وفي اليوم التالي يجتمع الإغووغوو من كل القرى، فيهدمون مجمع إينوك ويسيرون إلى الكنيسة. يثبت السيد سميث في مكانه، ويخبره زعيم الإغووغوو عبر المترجم أنه لن يُمسّ بأذى لكن الكنيسة يجب أن تزول. فيحرقونها، ويشعر أوكونكوو بالرضا لأول مرة منذ سنوات."
+ },
+ "objectives": [
+  {
+   "en": "Compare Mr. Smith with Mr. Brown.",
+   "ar": "أن تقارن السيد سميث بالسيد براون."
+  },
+  {
+   "en": "Explain why unmasking an egwugwu is so serious.",
+   "ar": "أن تشرح لماذا يُعدّ نزع قناع الإغووغوو أمرًا خطيرًا جدًا."
+  },
+  {
+   "en": "Use linking words of cause and result.",
+   "ar": "أن تستخدم أدوات الربط للسبب والنتيجة."
+  }
+ ],
+ "vocab": [
+  "zealous",
+  "unmask",
+  "desecrate",
+  "retaliate",
+  "egwugwu",
+  "uncompromising",
+  "confront",
+  "sacrilege",
+  "church",
+  "masquerade"
+ ],
+ "grammar": [
+  {
+   "id": "tfa-22-cause-result",
+   "topic": "conjunctions",
+   "level": "B1",
+   "title": {
+    "en": "Cause and result linkers",
+    "ar": "أدوات السبب والنتيجة"
+   },
+   "explain": {
+    "en": "Use \"because\" and \"since\" to give a cause, and \"so\", \"therefore\" and \"as a result\" to give a result. \"Therefore\" and \"as a result\" usually start a new sentence and are followed by a comma.",
+    "ar": "نستخدم because و since لذكر السبب، و so و therefore و as a result لذكر النتيجة، وتأتي therefore و as a result غالبًا في بداية جملة جديدة تليها فاصلة."
+   },
+   "example": {
+    "en": "The new leader refused every compromise. As a result, the quarrel grew worse.",
+    "ar": "رفض القائد الجديد كل حل وسط، ونتيجة لذلك ازداد الخلاف سوءًا."
+   },
+   "exercise": {
+    "q": {
+     "en": "Choose: The spirit's mask was removed; ___, the clan was furious.",
+     "ar": "اختر: نُزع قناع الروح، ___ غضبت العشيرة غضبًا شديدًا."
+    },
+    "options": [
+     "therefore",
+     "because",
+     "although"
+    ],
+    "answer": 0,
+    "why": {
+     "en": "\"Therefore\" introduces a result.",
+     "ar": "therefore تقدّم النتيجة."
+    }
+   }
+  }
+ ],
+ "culture": [
+  {
+   "term": "Unmasking the egwugwu",
+   "en": "The masks made the egwugwu spirits in the eyes of the clan. To unmask one in public was believed to kill the ancestral spirit and to bring shame on the whole clan.",
+   "ar": "كانت الأقنعة تجعل الإغووغوو أرواحًا في نظر العشيرة، ونزع قناع أحدهم علنًا كان يُعتقد أنه يقتل روح السلف ويجلب العار على العشيرة كلها."
+  },
+  {
+   "term": "Two styles of mission",
+   "en": "Achebe contrasts a missionary who listens with one who condemns. Through them, the novel shows that the way people meet another culture matters as much as their beliefs.",
+   "ar": "يقارن أتشيبي بين مبشّر يُصغي وآخر يُدين، ومن خلالهما تُظهر الرواية أن طريقة لقاء ثقافة أخرى لا تقل أهمية عن المعتقدات نفسها."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "How is Mr. Smith different from Mr. Brown?",
+    "ar": "كيف يختلف السيد سميث عن السيد براون؟"
+   },
+   "options": [
+    "He is more patient",
+    "He is strict and refuses compromise",
+    "He speaks Igbo fluently",
+    "He supports the egwugwu"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "Mr. Smith condemns the clan's beliefs completely.",
+    "ar": "يدين السيد سميث معتقدات العشيرة كليًا."
+   }
+  },
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "What does Enoch do?",
+    "ar": "ماذا فعل إينوك؟"
+   },
+   "options": [
+    "He burns the church",
+    "He unmasks an egwugwu in public",
+    "He kills a python",
+    "He leaves Umuofia"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "This is the clan's gravest offence.",
+    "ar": "هذه أخطر مخالفة عند العشيرة."
+   }
+  },
+  {
+   "type": "vocab",
+   "q": {
+    "en": "To \"retaliate\" means to…",
+    "ar": "retaliate تعني…"
+   },
+   "options": [
+    "forgive",
+    "respond to harm with harm",
+    "pray",
+    "run away"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "The egwugwu retaliate by destroying Enoch's compound and the church.",
+    "ar": "يردّ الإغووغوو بهدم مجمع إينوك والكنيسة."
+   }
+  },
+  {
+   "type": "context",
+   "q": {
+    "en": "What do the egwugwu tell Mr. Smith?",
+    "ar": "ماذا قال الإغووغوو للسيد سميث؟"
+   },
+   "options": [
+    "He must leave Africa at once",
+    "He will not be harmed, but the church must go",
+    "He must pay a fine",
+    "He can stay if he converts"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "They spare him but destroy the church.",
+    "ar": "عفوا عنه لكنهم هدموا الكنيسة."
+   }
+  },
+  {
+   "type": "grammar",
+   "q": {
+    "en": "Choose: He was ill; ___, he could not attend.",
+    "ar": "اختر: كان مريضًا، ___ لم يستطع الحضور."
+   },
+   "options": [
+    "because",
+    "as a result",
+    "although",
+    "despite"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "\"As a result\" introduces a result.",
+    "ar": "as a result تقدّم النتيجة."
+   }
+  }
+ ]
+}

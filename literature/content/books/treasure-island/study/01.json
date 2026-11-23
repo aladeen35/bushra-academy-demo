@@ -1,0 +1,187 @@
+{
+  "chapter": 1,
+  "summary": {
+    "en": "Jim Hawkins, now grown up, begins to write the story of Treasure Island. He remembers the day a rough old seaman with a sabre scar arrived at his father's inn, the Admiral Benbow, on a lonely stretch of the English coast. The stranger asks to be called 'captain', pays with a few gold coins and stays for months. He spends his days watching the sea through a telescope and pays Jim a silver coin each month to look out for a one-legged sailor, a figure who soon fills the boy's nightmares. The captain frightens the local people with his loud songs and terrible stories, and he never pays again. One evening he threatens the calm Dr. Livesey with a knife, but the doctor, who is also a magistrate, stands firm, and the captain gives in.",
+    "ar": "يبدأ جيم هوكنز، بعد أن كبر، في كتابة قصة جزيرة الكنز. ويتذكّر اليوم الذي وصل فيه بحّار عجوز خشن، على وجهه ندبة سيف، إلى نُزل أبيه «الأدميرال بنبو» على ساحل إنجليزي منعزل. يطلب الغريب أن يُنادى «القبطان»، ويدفع بضع قطع ذهبية، ثم يبقى شهورًا طويلة. يقضي نهاره في مراقبة البحر بمنظاره، ويعطي جيم قطعة فضية كل شهر ليترقّب بحّارًا ذا ساق واحدة، فتمتلئ أحلام الصبي بالكوابيس. ويخيف القبطان أهل القرية بأغانيه الصاخبة وحكاياته المرعبة، ولا يدفع أي مال بعد ذلك. وذات مساء يهدّد الدكتور ليفسي الهادئ بسكّين، لكن الطبيب، وهو قاضٍ أيضًا، يثبت في مكانه بشجاعة، فيخضع القبطان ويعيد سكّينه إلى جيبه، ويلزم الصمت تلك الليلة وليالي كثيرة بعدها. وهكذا يفتتح الفصل الرواية بجوّ من الغموض والخوف، ويجعلنا نتساءل: من هذا الرجل؟ وماذا يخبّئ في صندوقه؟"
+  },
+  "objectives": [
+    { "en": "Understand the opening situation: the narrator, the inn, the mysterious captain and the one-legged sailor.", "ar": "فهم الموقف الافتتاحي للرواية: الراوي، والنُّزل، والقبطان الغامض، والبحّار ذو الساق الواحدة." },
+    { "en": "Learn key maritime words such as cove, berth, capstan, handspike and sea-chest.", "ar": "تعلّم مفردات بحرية أساسية مثل: cove وberth وcapstan وhandspike وsea-chest." },
+    { "en": "Recognize how the past simple and 'would' are used to tell a story and describe past habits.", "ar": "التعرّف على استخدام الماضي البسيط و«would» في السرد ووصف العادات الماضية." },
+    { "en": "Compare the rough, informal speech of the captain with the calm, formal speech of Dr. Livesey.", "ar": "المقارنة بين كلام القبطان الخشن غير الرسمي وكلام الدكتور ليفسي الهادئ الرسمي." }
+  ],
+  "vocab": [
+    "cove", "capstan", "handspike", "berth", "seafaring", "buccaneer", "pirate", "sabre", "sea-chest", "telescope",
+    "skipper", "mate", "sea-dog", "old-salt", "plod", "scar", "livid", "lodging", "inn", "parlour",
+    "fierce", "haunt", "nightmare", "tyrannize", "glare", "scoundrel", "magistrate", "knuckle-under", "weather-eye", "threshold"
+  ],
+  "grammar": [
+    {
+      "id": "ti-1-past-simple-narration",
+      "topic": "tenses",
+      "level": "B1",
+      "title": { "en": "Telling a story with the past simple", "ar": "السرد بالماضي البسيط" },
+      "explain": {
+        "en": "Jim tells his story in the past simple. A chain of past simple verbs (sprang, drew, opened, threatened) shows actions that happened one after another, quickly. Many of these verbs are irregular: spring → sprang, draw → drew. The '-ing' form (balancing) adds an action happening at the same time.",
+        "ar": "يروي جيم قصته بالماضي البسيط. وسلسلة الأفعال الماضية (sprang, drew, opened, threatened) تُظهر أحداثًا وقعت واحدًا تلو الآخر بسرعة. كثير من هذه الأفعال شاذّ: spring ← sprang و draw ← drew. أما صيغة «-ing» (balancing) فتضيف فعلًا يحدث في الوقت نفسه."
+      },
+      "example": {
+        "en": "He sprang to his feet, drew and opened a sailor’s clasp-knife, and balancing it open on the palm of his hand, threatened to pin the doctor to the wall.",
+        "ar": "فقد هبّ واقفًا، وأخرج سكّين بحّار قابلة للطيّ وفتحها، وأخذ يوازنها مفتوحةً على راحة يده، مهدّدًا بأن يثبّت الطبيب بها إلى الجدار.",
+        "ref": "p19"
+      },
+      "exercise": {
+        "q": { "en": "Choose the correct past form: 'The captain ___ (glare) at him for a while.'", "ar": "اختر صيغة الماضي الصحيحة: 'The captain ___ (glare) at him for a while.'" },
+        "options": ["glared", "glaring", "has glared"],
+        "answer": 0,
+        "why": { "en": "In a story about a finished past event we use the past simple: 'glared'. This is the exact sentence from paragraph 17.", "ar": "في سرد حدث ماضٍ منتهٍ نستخدم الماضي البسيط: glared. وهي الجملة نفسها في الفقرة ١٧." }
+      }
+    },
+    {
+      "id": "ti-1-would-past-habit",
+      "topic": "tenses",
+      "level": "B1",
+      "title": { "en": "'Would' for repeated actions in the past", "ar": "«would» للأفعال المتكرّرة في الماضي" },
+      "explain": {
+        "en": "'Would + base verb' can describe something a person did again and again in the past. It is not a conditional here. Words like 'every day', 'often' and 'sometimes' are clues. You can usually replace it with 'used to' (for actions) or the past simple.",
+        "ar": "تركيب «would + الفعل المجرّد» يصف شيئًا اعتاد الشخص فعله مرارًا في الماضي، وليس هنا للشرط. وكلمات مثل every day وoften وsometimes علامات على ذلك. ويمكن غالبًا استبداله بـ used to (للأفعال) أو بالماضي البسيط."
+      },
+      "example": {
+        "en": "Every day when he came back from his stroll he would ask if any seafaring men had gone by along the road.",
+        "ar": "وكان كل يوم، حين يعود من نزهته، يسأل إن كان أحد من رجال البحر قد مرّ على الطريق.",
+        "ref": "p9"
+      },
+      "exercise": {
+        "q": { "en": "In 'he would ask if any seafaring men had gone by', what does 'would ask' mean?", "ar": "في الجملة 'he would ask if any seafaring men had gone by'، ماذا تعني 'would ask'؟" },
+        "options": ["He asked this regularly, as a habit.", "He might ask this in the future.", "He wanted to ask but did not."],
+        "answer": 0,
+        "why": { "en": "'Every day' shows repetition, so 'would ask' = 'used to ask'. Arabic often uses 'كان + المضارع' (كان يسأل) for the same idea.", "ar": "عبارة 'Every day' تدل على التكرار، فمعنى 'would ask' هو 'used to ask'. والعربية تعبّر عن ذلك بـ«كان + المضارع»: كان يسأل." }
+      }
+    },
+    {
+      "id": "ti-1-descriptive-noun-phrases",
+      "topic": "descriptive",
+      "level": "B2",
+      "title": { "en": "Building a portrait with descriptive noun phrases", "ar": "رسم صورة الشخصية بالعبارات الاسمية الوصفية" },
+      "explain": {
+        "en": "Stevenson paints the captain with a list of noun phrases instead of full sentences: several adjectives before a noun (a tall, strong, heavy, nut-brown man), and 'noun + -ing/-ed' phrases (his tarry pigtail falling…, his hands ragged and scarred). Commas separate the adjectives. This style lets the reader 'see' a person in one long sentence.",
+        "ar": "يرسم ستيفنسون صورة القبطان بسلسلة من العبارات الاسمية بدل الجمل الكاملة: عدة صفات قبل الاسم (a tall, strong, heavy, nut-brown man)، وعبارات «اسم + صيغة -ing أو -ed» (his tarry pigtail falling… و his hands ragged and scarred). وتفصل الفواصل بين الصفات. هذا الأسلوب يجعل القارئ «يرى» الشخص في جملة طويلة واحدة."
+      },
+      "example": {
+        "en": "I remember him as if it were yesterday, as he came plodding to the inn door, his sea-chest following behind him in a hand-barrow—a tall, strong, heavy, nut-brown man, his tarry pigtail falling over the shoulder of his soiled blue coat, his hands ragged and scarred, with black, broken nails, and the sabre cut across one cheek, a dirty, livid white.",
+        "ar": "أتذكّره كأن ذلك كان بالأمس، حين أقبل يمشي بخطى ثقيلة إلى باب النُّزل، وصندوقه البحري يتبعه على عربة يد: رجلٌ طويل قوي ضخم، أسمر بلون الجوز، تتدلّى ضفيرته الملطّخة بالقطران على كتف معطفه الأزرق المتّسخ، ويداه خشنتان مشقّقتان مليئتان بالندوب، وأظافره سوداء مكسورة، وندبة السيف تمتد عبر إحدى وجنتيه، بيضاء قذرة شاحبة كلون الكدمة.",
+        "ref": "p2"
+      },
+      "exercise": {
+        "q": { "en": "Which phrase is built like 'his hands ragged and scarred'?", "ar": "أيّ عبارة مبنية على نمط 'his hands ragged and scarred'؟" },
+        "options": ["his eyes black and bright", "he had black eyes", "his eyes were black"],
+        "answer": 0,
+        "why": { "en": "The pattern is 'possessive + noun + adjectives' with no verb. The other options are full clauses with a verb.", "ar": "النمط هو «ضمير ملكية + اسم + صفات» دون فعل. أما الخياران الآخران فهما جملتان كاملتان فيهما فعل." }
+      }
+    }
+  ],
+  "culture": [
+    {
+      "term": "18th-century inns",
+      "en": "In 18th-century England, inns stood along roads and coasts where travellers could sleep, eat and rest their horses. Mail coaches stopped at them, so they were also places for news. An inn like the Admiral Benbow was a family business, and the innkeeper often lived upstairs. A sign with a picture and a name (here, a famous admiral) hung outside, because many people could not read.",
+      "ar": "في إنجلترا القرن الثامن عشر كانت النُّزُل تنتشر على الطرق والسواحل، ينام فيها المسافرون ويأكلون ويريحون خيولهم. وكانت عربات البريد تتوقف عندها، فكانت أيضًا مكانًا لتبادل الأخبار. ونُزل مثل «الأدميرال بنبو» كان عملًا عائليًا، وكثيرًا ما يسكن صاحبه في الطابق العلوي. وكانت تُعلَّق في الخارج لافتة فيها صورة واسم (هنا اسم أدميرال مشهور)، لأن كثيرًا من الناس لم يكونوا يقرؤون."
+    },
+    {
+      "term": "Sabre and sea-chest",
+      "en": "A sabre (or the sailor's shorter cutlass) was a curved sword used in sea battles, so a 'sabre cut' on the captain's face tells us he has fought. A sailor's sea-chest held everything he owned on long voyages. The captain never lets anyone see inside his chest, which makes readers curious from the very first page.",
+      "ar": "السيف المقوّس (sabre) أو سيف البحّارة الأقصر (cutlass) كان يُستعمل في معارك البحر، فندبة السيف على وجه القبطان تخبرنا أنه خاض قتالًا. أما صندوق البحّار فكان يحوي كل ما يملكه في رحلاته الطويلة. والقبطان لا يسمح لأحد برؤية ما في صندوقه، وهذا يثير فضول القارئ منذ الصفحة الأولى."
+    },
+    {
+      "term": "Buccaneers and pirates",
+      "en": "Buccaneers were pirates who attacked Spanish ships and towns in the Caribbean (the 'Spanish Main') in the 1600s. The years around 1650–1730 are called the 'golden age of piracy'. Real pirates were criminals who robbed and killed, and many were hanged. In Treasure Island, Stevenson shows both the excitement the villagers feel and the fear and cruelty behind the pirate's stories.",
+      "ar": "الـ buccaneers قراصنة هاجموا السفن والمدن الإسبانية في البحر الكاريبي («المَين الإسباني») في القرن السابع عشر. وتُسمّى الفترة بين نحو ١٦٥٠ و١٧٣٠ «العصر الذهبي للقرصنة». وكان القراصنة الحقيقيون مجرمين يسرقون ويقتلون، وقد شُنق كثير منهم. وفي «جزيرة الكنز» يُظهر ستيفنسون الإثارة التي يشعر بها أهل القرية، والخوف والقسوة اللذين وراء حكايات القرصان معًا."
+    },
+    {
+      "term": "The year of grace 17—",
+      "en": "'The year of grace' is an old, formal way of saying 'the year of our Lord' (A.D.), used in Christian Europe. By writing '17—' Jim hides the exact year; we only know the story happens in the 1700s. Writers of the time often used a dash to hide dates, names or places, to make a story feel real and secret.",
+      "ar": "«سنة النعمة» (the year of grace) طريقة قديمة رسمية في أوروبا المسيحية للإشارة إلى السنة الميلادية. وبكتابة «١٧—» يُخفي جيم السنة بالضبط، فلا نعرف إلا أن القصة تقع في القرن الثامن عشر. وكان كُتّاب ذلك العصر يستخدمون الشَّرطة لإخفاء التواريخ أو الأسماء أو الأماكن، ليبدو الخبر حقيقيًا وسرّيًا."
+    }
+  ],
+  "quiz": [
+    {
+      "type": "vocab",
+      "q": { "en": "“This is a handy cove,” says the captain. What is a cove?", "ar": "يقول القبطان: “This is a handy cove”. ما معنى cove؟" },
+      "options": ["A small sheltered bay", "A high mountain", "A large ship", "A fishing net"],
+      "answer": 0,
+      "explain": { "en": "A cove is a small bay protected by land, a good place for boats. The captain likes it because he can watch the sea from it.", "ar": "الـ cove خليج صغير تحميه اليابسة، وهو مكان مناسب للقوارب. ويعجب القبطان لأنه يستطيع مراقبة البحر منه." },
+      "ref": "p5"
+    },
+    {
+      "type": "vocab",
+      "q": { "en": "“…the captain soon knuckled under…” What does 'knuckled under' mean?", "ar": "“…the captain soon knuckled under…” ما معنى knuckled under؟" },
+      "options": ["Gave in and stopped resisting", "Hit the table with his fist", "Fell asleep", "Ran out of the room"],
+      "answer": 0,
+      "explain": { "en": "'Knuckle under' is a phrasal verb meaning to submit. The captain puts his knife away and sits down.", "ar": "knuckle under فعل مركّب بمعنى «خضع واستسلم». فالقبطان يعيد سكّينه ويجلس." },
+      "ref": "p21"
+    },
+    {
+      "type": "comprehension",
+      "q": { "en": "Why did the captain choose the Admiral Benbow?", "ar": "لماذا اختار القبطان نُزل الأدميرال بنبو؟" },
+      "options": ["He heard it was well spoken of and lonely", "It was the biggest inn in Bristol", "His brother owned it", "It had good stables for his horse"],
+      "answer": 0,
+      "explain": { "en": "Paragraph 8 says he heard the inn 'well spoken of' and 'described as lonely'. A quiet place suited a man who wanted to hide.", "ar": "تقول الفقرة ٨ إنه سمع ثناءً على النُّزل وأنه «منعزل». والمكان الهادئ يناسب رجلًا يريد أن يختبئ." },
+      "ref": "p8"
+    },
+    {
+      "type": "comprehension",
+      "q": { "en": "What did the captain pay Jim a silver fourpenny to do each month?", "ar": "ماذا طلب القبطان من جيم مقابل قطعة الأربعة بنسات الفضية كل شهر؟" },
+      "options": ["Watch for a seafaring man with one leg", "Carry his sea-chest upstairs", "Clean his telescope", "Sing songs with him"],
+      "answer": 0,
+      "explain": { "en": "Jim must keep his 'weather-eye open for a seafaring man with one leg' and tell the captain the moment he appears.", "ar": "كان على جيم أن يبقى منتبهًا لـ«بحّار ذي ساق واحدة» وأن يخبر القبطان لحظة ظهوره." },
+      "ref": "p9"
+    },
+    {
+      "type": "comprehension",
+      "q": { "en": "How did Dr. Livesey react when the captain opened his knife?", "ar": "كيف تصرّف الدكتور ليفسي حين فتح القبطان سكّينه؟" },
+      "options": ["He stayed calm and warned that the captain would hang", "He ran out of the inn", "He took out a pistol", "He called Jim's father for help"],
+      "answer": 0,
+      "explain": { "en": "The doctor 'never so much as moved' and spoke 'perfectly calm and steady', promising the captain would hang at the next assizes.", "ar": "لم يتحرّك الطبيب أدنى حركة، وتكلّم بهدوء وثبات تامّين، وأقسم أن القبطان سيُشنق في الدورة القادمة لمحكمة الجنايات." },
+      "ref": "p20"
+    },
+    {
+      "type": "grammar",
+      "q": { "en": "“Often enough... he would only blow through his nose at me.” Why does the writer use 'would' here?", "ar": "“Often enough... he would only blow through his nose at me.” لماذا استخدم الكاتب would هنا؟" },
+      "options": ["To show a repeated past habit", "To make a polite request", "To talk about the future", "To show an impossible condition"],
+      "answer": 0,
+      "explain": { "en": "With 'often', 'would + verb' describes something that happened many times in the past.", "ar": "مع كلمة often يصف تركيب «would + فعل» شيئًا حدث مرّات كثيرة في الماضي." },
+      "ref": "p9"
+    },
+    {
+      "type": "grammar",
+      "q": { "en": "Complete with the past simple: “He ___ to his feet, drew and opened a sailor’s clasp-knife.”", "ar": "أكمل بالماضي البسيط: “He ___ to his feet, drew and opened a sailor’s clasp-knife.”" },
+      "options": ["sprang", "springed", "sprung", "springs"],
+      "answer": 0,
+      "explain": { "en": "'Spring' is irregular: spring – sprang – sprung. The past simple is 'sprang'.", "ar": "الفعل spring شاذّ: spring – sprang – sprung، وصيغة الماضي البسيط هي sprang." },
+      "ref": "p19"
+    },
+    {
+      "type": "translation",
+      "q": { "en": "Choose the best Arabic translation: “I’m not a doctor only; I’m a magistrate”", "ar": "اختر أفضل ترجمة عربية: “I’m not a doctor only; I’m a magistrate”" },
+      "options": ["لستُ طبيبًا فحسب؛ بل أنا قاضٍ أيضًا.", "أنا لستُ طبيبًا، أنا محامٍ.", "أنا الطبيب الوحيد هنا.", "لستُ قاضيًا؛ أنا طبيب فقط."],
+      "answer": 0,
+      "explain": { "en": "'Not ... only' = 'ليس ... فحسب', and a magistrate is a local judge (قاضٍ). This is why the doctor's warning is serious.", "ar": "تركيب not ... only يعني «ليس ... فحسب»، وmagistrate قاضٍ محلي. ولهذا كان تحذير الطبيب جادًّا." },
+      "ref": "p22"
+    },
+    {
+      "type": "context",
+      "q": { "en": "Jim writes “in the year of grace 17—”. What does this tell us?", "ar": "يكتب جيم: “in the year of grace 17—”. ماذا يخبرنا ذلك؟" },
+      "options": ["The story is set in the 1700s, but the exact year is hidden", "The story happens in the year 17", "Jim forgot the year", "The book was written in 1717"],
+      "answer": 0,
+      "explain": { "en": "'The year of grace' means a year A.D.; the dash hides the last digits, a common 18th-century style.", "ar": "«سنة النعمة» تعني سنة ميلادية، والشَّرطة تخفي الرقمين الأخيرين، وهو أسلوب شائع في القرن الثامن عشر." },
+      "ref": "p1"
+    },
+    {
+      "type": "context",
+      "q": { "en": "The younger men call the captain a “true sea-dog” and a “real old salt”. What do they mean?", "ar": "يسمّي الشبّان القبطان “true sea-dog” و“real old salt”. ماذا يقصدون؟" },
+      "options": ["He is a very experienced sailor", "He smells of fish and salt", "He keeps a dog on his ship", "He is a cook on a ship"],
+      "answer": 0,
+      "explain": { "en": "Both are informal expressions for an old, experienced sailor. The young men use them because they pretend to admire him.", "ar": "كلا التعبيرين عاميّ ويعني بحّارًا عجوزًا خبيرًا. ويستعملهما الشبّان لأنهم يتظاهرون بالإعجاب به." },
+      "ref": "p12"
+    }
+  ]
+}

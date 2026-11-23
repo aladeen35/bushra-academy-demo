@@ -1,0 +1,41 @@
+{
+  "author": {
+    "name": "Anthony Hope (Sir Anthony Hope Hawkins)",
+    "born": 1863,
+    "died": 1933,
+    "bio": {
+      "en": "Anthony Hope Hawkins was born in London in 1863, the son of a clergyman. He studied at Marlborough College and Balliol College, Oxford, where he was president of the Oxford Union debating society, and then worked as a barrister in London. He hoped for a political career and stood for Parliament as a Liberal in 1892, but lost. Writing under the name ‘Anthony Hope’, he became famous almost overnight with The Prisoner of Zenda (1894); its success allowed him to leave the law and write full time. He followed it with a sequel, Rupert of Hentzau (1898), the witty society sketches The Dolly Dialogues (1894) and many other novels. During the First World War he worked for the British Ministry of Information and was knighted in 1918. He died in Surrey in 1933.",
+      "ar": "وُلد أنتوني هوب هوكينز في لندن عام 1863، وكان أبوه رجل دين. درس في كلية مارلبورو ثم في كلية باليول بجامعة أكسفورد، حيث ترأّس جمعية المناظرات الشهيرة «اتحاد أكسفورد»، ثم عمل محاميًا في لندن. وكان يطمح إلى حياة سياسية، فترشّح للبرلمان عن حزب الأحرار عام 1892 لكنه لم يفز. وبالكتابة باسم «أنتوني هوب» اشتهر بين ليلة وضحاها بفضل رواية «سجين زندا» (1894)، التي أتاح له نجاحها أن يترك المحاماة ويتفرّغ للكتابة. ثم كتب لها جزءًا ثانيًا هو «روبرت هنتزاو» (1898)، ومشاهد اجتماعية ظريفة بعنوان «حوارات دوللي» (1894)، وروايات أخرى كثيرة. وفي أثناء الحرب العالمية الأولى عمل في وزارة الإعلام البريطانية، ومُنح لقب «سير» عام 1918. وتوفي في مقاطعة سَري عام 1933."
+    }
+  },
+  "context": {
+    "en": "The Prisoner of Zenda appeared in 1894, at the height of the late-Victorian taste for adventure romance, the same decade as the novels of Robert Louis Stevenson, H. Rider Haggard and Arthur Conan Doyle. Readers wanted fast plots, brave heroes, sword fights and honour. Europe at the time was still a continent of monarchies: emperors ruled Germany, Austria-Hungary and Russia, and many small kingdoms and duchies had their own courts, coronations and palace rivalries. Hope set his story in Ruritania, an invented German-speaking kingdom in central Europe, where an English gentleman who looks exactly like the king must take his place. The book was a huge success and founded a new genre, the ‘Ruritanian romance’: adventure and intrigue in a small imaginary European kingdom. It inspired many imitations, stage plays and several films, and the word ‘Ruritanian’ entered the English language.",
+    "ar": "صدرت «سجين زندا» عام 1894، في ذروة إقبال القرّاء في أواخر العصر الفيكتوري على روايات المغامرة الرومانسية، وهو العقد نفسه الذي شهد روايات روبرت لويس ستيفنسون وهـ. رايدر هاغارد وآرثر كونان دويل. كان القرّاء يريدون أحداثًا سريعة وأبطالًا شجعانًا ومبارزات بالسيوف وقيم الشرف. وكانت أوروبا آنذاك لا تزال قارة الممالك: يحكم الأباطرة ألمانيا والنمسا-المجر وروسيا، ولكثير من الممالك والدوقيات الصغيرة بلاطاتها وحفلات تتويجها وصراعات قصورها. وقد جعل هوب أحداث قصته في روريتانيا، وهي مملكة خيالية ناطقة بالألمانية في وسط أوروبا، حيث يُضطرّ رجل إنجليزي نبيل يشبه الملك تمامًا إلى أن يحلّ محلّه. ولاقى الكتاب نجاحًا هائلًا وأسّس نوعًا أدبيًّا جديدًا هو «الرومانسية الروريتانية»: المغامرة والمكائد في مملكة أوروبية صغيرة متخيَّلة. وألهم كثيرًا من المحاكاة والمسرحيات وعددًا من الأفلام، ودخلت كلمة Ruritanian اللغة الإنجليزية."
+  },
+  "themes": [
+    {"en": "Duty and honour: Rudolf moves from an idle life to accepting heavy responsibility, and must choose between personal wishes and what is right.", "ar": "الواجب والشرف: ينتقل رودولف من حياة الفراغ إلى تحمّل مسؤولية ثقيلة، ويجب عليه أن يختار بين رغباته الشخصية وما هو صواب."},
+    {"en": "Identity and appearance: a chance family likeness lets one man play the part of another, raising the question of what truly makes a king.", "ar": "الهوية والمظهر: شبهٌ عائلي بالمصادفة يتيح لرجل أن يؤدي دور رجل آخر، فيطرح سؤالًا: ما الذي يصنع الملك حقًّا؟"},
+    {"en": "Power, loyalty and betrayal: a struggle for the throne tests who is faithful to the rightful king and who serves only ambition.", "ar": "السلطة والولاء والخيانة: صراع على العرش يكشف من يبقى وفيًّا للملك الشرعي ومن لا يخدم إلا طموحه."},
+    {"en": "Courage and adventure: danger, secrecy and quick decisions show how ordinary people discover their own bravery.", "ar": "الشجاعة والمغامرة: الخطر والكتمان والقرارات السريعة تُظهر كيف يكتشف الناس العاديون شجاعتهم."},
+    {"en": "Sacrifice and self-control: the story ends not with simple reward but with choices that put duty before personal happiness.", "ar": "التضحية وضبط النفس: لا تنتهي القصة بمكافأة بسيطة، بل باختيارات تقدّم الواجب على السعادة الشخصية."}
+  ],
+  "characters": [
+    {"name": "Rudolf Rassendyll", "en": "The narrator: a witty, well-off English gentleman of twenty-nine, younger brother of Lord Burlesdon, a good swordsman and linguist, who carries the red hair and long nose of the Elphbergs.", "ar": "الراوي: رجل إنجليزي نبيل ميسور الحال ظريف في التاسعة والعشرين، الأخ الأصغر للورد بيرلسدون، مبارز ماهر ويتقن عدة لغات، ويحمل الشعر الأحمر والأنف الطويل اللذين يميّزان آل إلفبرغ."},
+    {"name": "Rudolf V", "en": "The young King of Ruritania, of the House of Elphberg, about to be crowned at Strelsau; he looks remarkably like Rudolf Rassendyll.", "ar": "ملك روريتانيا الشاب من آل إلفبرغ، وهو على وشك أن يُتوَّج في شتريلساو؛ ويشبه رودولف راسندل شبهًا مدهشًا."},
+    {"name": "Princess Flavia", "en": "A gracious royal cousin of the King, much loved by the people of Ruritania and expected to become queen.", "ar": "أميرة كريمة الخُلق من أقارب الملك، يحبّها شعب روريتانيا كثيرًا، ويُنتظر أن تصبح ملكة."},
+    {"name": "Duke Michael of Strelsau (Black Michael)", "en": "The King's ambitious half-brother, lord of the castle of Zenda, who wants the throne for himself.", "ar": "الأخ غير الشقيق للملك، طموح، وسيد قلعة زندا، ويريد العرش لنفسه."},
+    {"name": "Rupert of Hentzau", "en": "A young, charming but ruthless nobleman in Duke Michael's service; bold, clever and dangerous.", "ar": "نبيل شاب ساحر لكنه قاسٍ لا يرحم، في خدمة الدوق مايكل؛ جريء وذكي وخطير."},
+    {"name": "Colonel Sapt", "en": "An old, blunt and fiercely loyal soldier who serves the King and guides the dangerous plan to protect the crown.", "ar": "جندي عجوز صريح شديد الولاء للملك، يقود الخطة الخطرة لحماية العرش."},
+    {"name": "Fritz von Tarlenheim", "en": "A young, warm-hearted nobleman, loyal to the King and a true friend to Rudolf Rassendyll.", "ar": "نبيل شاب طيّب القلب، وفيّ للملك وصديق مخلص لرودولف راسندل."},
+    {"name": "Antoinette de Mauban", "en": "A French lady in Duke Michael's circle who comes to oppose his plans.", "ar": "سيدة فرنسية من المقرّبين إلى الدوق مايكل، تنقلب في النهاية على خططه."},
+    {"name": "Rose, Lady Burlesdon", "en": "Rudolf's earnest sister-in-law, who wants him to do something useful with his life and dislikes reminders of the old family scandal.", "ar": "زوجة أخي رودولف الجادّة، تريده أن يفعل شيئًا نافعًا في حياته، ولا تحبّ ما يذكّر بالفضيحة العائلية القديمة."},
+    {"name": "Robert, Lord Burlesdon", "en": "Rudolf's hard-working elder brother, an earl with political ambitions and the author of serious books.", "ar": "الأخ الأكبر لرودولف، مجتهد في عمله، إيرل ذو طموحات سياسية ومؤلف كتب جادّة."}
+  ],
+  "objectives": [
+    {"en": "Build adventure vocabulary: duels, swords, castles, plots, escapes and rescues.", "ar": "بناء مفردات المغامرة: المبارزات والسيوف والقلاع والمؤامرات والهروب والإنقاذ."},
+    {"en": "Learn political and diplomatic terminology: throne, coronation, embassy, legation, attaché, heir, loyalty and treason.", "ar": "تعلّم المصطلحات السياسية والدبلوماسية: العرش، التتويج، السفارة، المفوّضية، الملحق، الوريث، الولاء، الخيانة."},
+    {"en": "Read and understand lively dialogue, including tone, irony and polite understatement.", "ar": "قراءة الحوار الحيّ وفهمه، بما في ذلك النبرة والسخرية والتلطيف المهذّب."},
+    {"en": "Recognize and use formal 19th-century English: long sentences, inversion, conditionals and reported speech.", "ar": "التعرّف على الإنجليزية الرسمية في القرن التاسع عشر واستعمالها: الجمل الطويلة، والتقديم والتأخير، والشرط، والكلام المنقول."},
+    {"en": "Follow how suspense and narrative structure work in a first-person adventure story.", "ar": "تتبّع كيف يُبنى التشويق والبناء السردي في قصة مغامرات يرويها البطل بضمير المتكلم."}
+  ]
+}

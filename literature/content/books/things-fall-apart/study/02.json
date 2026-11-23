@@ -1,0 +1,179 @@
+{
+ "chapter": 2,
+ "summary": {
+  "en": "One night the town crier beats his gong and calls the men of Umuofia to a meeting the next morning. A woman of Umuofia has been killed by men from the neighbouring village of Mbaino. The clan is angry and ready for war, but first it sends Okonkwo as its messenger with a choice: war, or compensation. Mbaino chooses peace and gives a young woman and a boy named Ikemefuna. The boy is placed in Okonkwo's household until the clan decides his future. The chapter also shows Okonkwo's home and his strict rule over his family. He is driven by a fear of failure and weakness, and he worries that his son Nwoye is too gentle.",
+  "ar": "في إحدى الليالي يقرع المنادي جرسه ويدعو رجال أوموفيا إلى اجتماع في الصباح التالي. لقد قُتلت امرأة من أوموفيا على أيدي رجال من قرية مباينو المجاورة. تغضب العشيرة وتستعد للحرب، لكنها ترسل أوكونكوو أولًا مبعوثًا يحمل خيارين: الحرب أو التعويض. تختار مباينو السلام وتقدّم فتاة صغيرة وصبيًا اسمه إيكيميفونا. يوضع الصبي في بيت أوكونكوو إلى أن تقرر العشيرة مصيره. ويعرض الفصل أيضًا بيت أوكونكوو وحكمه الصارم لأسرته، فهو مدفوع بخوف دائم من الفشل والضعف، ويقلق لأن ابنه نوويي يبدو له رقيقًا أكثر مما ينبغي."
+ },
+ "objectives": [
+  {
+   "en": "Explain how Umuofia settles a conflict with a neighbouring village.",
+   "ar": "أن تشرح كيف تحل أوموفيا نزاعًا مع قرية مجاورة."
+  },
+  {
+   "en": "Identify Okonkwo's fear of weakness as a key motive.",
+   "ar": "أن تتعرف على خوف أوكونكوو من الضعف بوصفه دافعًا أساسيًا."
+  },
+  {
+   "en": "Use the passive voice to describe decisions made by a group.",
+   "ar": "أن تستخدم المبني للمجهول لوصف قرارات تتخذها جماعة."
+  }
+ ],
+ "vocab": [
+  "emissary",
+  "ultimatum",
+  "compensation",
+  "ogene",
+  "oracle",
+  "obi",
+  "compound",
+  "dread",
+  "ndichie",
+  "clan",
+  "polygamy",
+  "barn"
+ ],
+ "grammar": [
+  {
+   "id": "tfa-2-passive-past",
+   "topic": "passive",
+   "level": "B1",
+   "title": {
+    "en": "The past simple passive",
+    "ar": "المبني للمجهول في الماضي البسيط"
+   },
+   "explain": {
+    "en": "Use was/were + past participle when the action matters more than the person who did it, or when the doer is a group. It is useful for describing what a community decides.",
+    "ar": "نستخدم was/were + التصريف الثالث عندما يكون الفعل أهم من فاعله، أو عندما يكون الفاعل جماعة. وهو مفيد لوصف ما يقرره المجتمع."
+   },
+   "example": {
+    "en": "A messenger was sent to the next village before any fighting began.",
+    "ar": "أُرسل مبعوث إلى القرية المجاورة قبل أن يبدأ أي قتال."
+   },
+   "exercise": {
+    "q": {
+     "en": "Choose the passive form: The boy ___ to a strong family.",
+     "ar": "اختر صيغة المجهول: ___ الصبي إلى أسرة قوية."
+    },
+    "options": [
+     "was given",
+     "gave",
+     "was give"
+    ],
+    "answer": 0,
+    "why": {
+     "en": "Passive past = was + past participle (given).",
+     "ar": "المجهول في الماضي = was + التصريف الثالث (given)."
+    }
+   }
+  }
+ ],
+ "culture": [
+  {
+   "term": "The town crier and the ogene",
+   "en": "News and calls to meet were spread by a crier who beat a metal gong called the ogene. Its sound at night meant something serious.",
+   "ar": "كان المنادي ينشر الأخبار والدعوات إلى الاجتماع بقرع جرس معدني يسمى الأوجيني، وصوته في الليل يعني أمرًا خطيرًا."
+  },
+  {
+   "term": "The family compound",
+   "en": "A wealthy man lived in a walled compound: his own hut (obi), a hut for each wife, a barn for yams and a small shrine.",
+   "ar": "كان الرجل الميسور يعيش في مجمع مسوّر يضم كوخه (الأوبي) وكوخًا لكل زوجة ومخزنًا لليام ومزارًا صغيرًا."
+  },
+  {
+   "term": "War and compensation",
+   "en": "Villages in Igboland usually tried negotiation first. Compensation could end a quarrel without bloodshed, and the clan only went to war in a cause it believed was just.",
+   "ar": "كانت قرى بلاد الإيبو تبدأ عادة بالتفاوض، فقد ينهي التعويض الخلاف دون دماء، ولم تكن العشيرة تخوض حربًا إلا في قضية تراها عادلة."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "Why is Okonkwo sent to Mbaino?",
+    "ar": "لماذا أُرسل أوكونكوو إلى مباينو؟"
+   },
+   "options": [
+    "To buy yams",
+    "To deliver Umuofia's choice of war or compensation",
+    "To find a wife",
+    "To visit his mother's family"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "He goes as the clan's emissary after a woman of Umuofia was killed.",
+    "ar": "ذهب مبعوثًا للعشيرة بعد مقتل امرأة من أوموفيا."
+   }
+  },
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "Who is Ikemefuna?",
+    "ar": "من هو إيكيميفونا؟"
+   },
+   "options": [
+    "Okonkwo's eldest son",
+    "A boy given to Umuofia by Mbaino",
+    "A priest",
+    "A famous wrestler"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "Mbaino gives him as part of the compensation, and he lives with Okonkwo's family.",
+    "ar": "قدّمته مباينو ضمن التعويض، فعاش مع أسرة أوكونكوو."
+   }
+  },
+  {
+   "type": "vocab",
+   "q": {
+    "en": "An \"ultimatum\" is…",
+    "ar": "الـ ultimatum هو…"
+   },
+   "options": [
+    "a friendly invitation",
+    "a final demand with a threat",
+    "a kind of drum",
+    "a market day"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "It is a final demand: accept, or face the consequences.",
+    "ar": "هو طلب أخير: إما القبول وإما العواقب."
+   }
+  },
+  {
+   "type": "context",
+   "q": {
+    "en": "What does Okonkwo fear most?",
+    "ar": "ما أكثر ما يخشاه أوكونكوو؟"
+   },
+   "options": [
+    "Snakes",
+    "Looking weak or failing like his father",
+    "The sea",
+    "Losing his gong"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "His fear of failure and weakness drives his harsh behaviour.",
+    "ar": "خوفه من الفشل والضعف هو ما يدفع سلوكه القاسي."
+   }
+  },
+  {
+   "type": "grammar",
+   "q": {
+    "en": "Which sentence is passive?",
+    "ar": "أي جملة مبنية للمجهول؟"
+   },
+   "options": [
+    "The elders called a meeting.",
+    "A meeting was called by the elders.",
+    "The elders were calling.",
+    "The elders call a meeting."
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "\"Was called\" is was + past participle.",
+    "ar": "\"was called\" مكونة من was + التصريف الثالث."
+   }
+  }
+ ]
+}

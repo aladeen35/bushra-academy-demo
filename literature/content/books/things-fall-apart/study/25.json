@@ -1,0 +1,172 @@
+{
+ "chapter": 25,
+ "summary": {
+  "en": "The District Commissioner arrives at Okonkwo's compound with soldiers and court messengers to arrest him. Men waiting there say Okonkwo is not at home. Obierika then leads the commissioner to a tree behind the compound, where Okonkwo has taken his own life. In the clan's belief, this is an abomination against the earth, so his own people may not touch or bury his body; they ask the strangers to take him down. Obierika, full of grief and anger, tells the commissioner that one of the greatest men in Umuofia has been driven to this end. The commissioner, unmoved, thinks that Okonkwo's story might fill a short paragraph in the book he plans to write about the region, a book whose title reveals a colonial view of Africa.",
+  "ar": "يصل مفوض المقاطعة إلى مجمع أوكونكوو مع جنود ورسل المحكمة لاعتقاله. فتخبره جماعة من الرجال المنتظرين هناك أن أوكونكوو ليس في البيت. ثم يقود أوبييريكا المفوض إلى شجرة خلف المجمع، حيث أنهى أوكونكوو حياته بنفسه. وفي معتقد العشيرة يُعد هذا رجسًا في حق الأرض، فلا يجوز لأهله أن يلمسوا جسده أو يدفنوه، فيطلبون من الغرباء أن يُنزلوه. ويقول أوبييريكا للمفوض، وقد امتلأ حزنًا وغضبًا، إن واحدًا من أعظم رجال أوموفيا قد دُفع إلى هذه النهاية. أما المفوض فلا يتأثر، ويفكر أن قصة أوكونكوو قد تملأ فقرة قصيرة في الكتاب الذي ينوي كتابته عن المنطقة، وهو كتاب يكشف عنوانه نظرة استعمارية إلى أفريقيا."
+ },
+ "objectives": [
+  {
+   "en": "Understand the ending and why the clan cannot touch Okonkwo's body.",
+   "ar": "أن تفهم النهاية ولماذا لا تستطيع العشيرة لمس جسد أوكونكوو."
+  },
+  {
+   "en": "Discuss the irony of the final perspective of the District Commissioner.",
+   "ar": "أن تناقش مفارقة المنظور الأخير لمفوض المقاطعة."
+  },
+  {
+   "en": "Use the passive with modal verbs (may not be touched).",
+   "ar": "أن تستخدم المبني للمجهول مع الأفعال الناقصة."
+  }
+ ],
+ "vocab": [
+  "abomination",
+  "suicide",
+  "nso-ani",
+  "pacification",
+  "tragic",
+  "irony",
+  "perspective",
+  "colonial",
+  "district-commissioner",
+  "isolation"
+ ],
+ "grammar": [
+  {
+   "id": "tfa-25-modal-passive",
+   "topic": "passive",
+   "level": "B2",
+   "title": {
+    "en": "The passive with modal verbs",
+    "ar": "المبني للمجهول مع الأفعال الناقصة"
+   },
+   "explain": {
+    "en": "Use modal + be + past participle (must be done, cannot be touched, should be told) to talk about rules and possibilities when the doer is not important.",
+    "ar": "نستخدم الفعل الناقص + be + التصريف الثالث (must be done، cannot be touched، should be told) للحديث عن القواعد والاحتمالات حين لا يهم الفاعل."
+   },
+   "example": {
+    "en": "In their belief, the body could not be buried by his own clan.",
+    "ar": "في معتقدهم لم يكن من الممكن أن تدفن عشيرته جسده."
+   },
+   "exercise": {
+    "q": {
+     "en": "Choose: This story ___ forgotten.",
+     "ar": "اختر: هذه القصة ___ تُنسى."
+    },
+    "options": [
+     "must not be",
+     "must not",
+     "must not been"
+    ],
+    "answer": 0,
+    "why": {
+     "en": "Modal passive = modal + be + past participle.",
+     "ar": "المجهول مع الناقص = الفعل الناقص + be + التصريف الثالث."
+    }
+   }
+  }
+ ],
+ "culture": [
+  {
+   "term": "Death and the earth",
+   "en": "In traditional Igbo belief, taking one's own life offended Ani, the earth goddess. The person could not receive normal burial rites from the clan, and strangers had to handle the body. Many faiths, including Islam, also strongly forbid suicide.",
+   "ar": "في معتقد الإيبو التقليدي كان قتل النفس يُغضب آني إلهة الأرض، فلا يحصل صاحبه على مراسم الدفن المعتادة من العشيرة، ويتولى الغرباء أمر الجسد. وتحرّم أديان كثيرة، منها الإسلام، قتل النفس تحريمًا شديدًا."
+  },
+  {
+   "term": "The commissioner's book",
+   "en": "The title the commissioner imagines uses the colonial word \"pacification\", which hides violence behind the idea of peace. Achebe ends with this outsider's view to show how African lives were reduced in colonial writing, the very writing his novel answers.",
+   "ar": "يستعمل العنوان الذي يتخيله المفوض كلمة «التهدئة» الاستعمارية التي تخفي العنف وراء فكرة السلام، ويختم أتشيبي بهذه النظرة الخارجية ليبيّن كيف اختُزلت حياة الأفارقة في الكتابة الاستعمارية، وهي الكتابة نفسها التي تردّ عليها روايته."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "Why does the District Commissioner come to Okonkwo's compound?",
+    "ar": "لماذا جاء مفوض المقاطعة إلى مجمع أوكونكوو؟"
+   },
+   "options": [
+    "To give him a title",
+    "To arrest him",
+    "To buy yams",
+    "To invite him to church"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "He comes after the killing of the head messenger.",
+    "ar": "جاء بعد مقتل كبير الرسل."
+   }
+  },
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "Why do Okonkwo's clansmen ask strangers to take down his body?",
+    "ar": "لماذا طلب أبناء عشيرة أوكونكوو من الغرباء إنزال جسده؟"
+   },
+   "options": [
+    "They are too weak",
+    "In their belief, his death is an abomination and they may not touch him",
+    "The commissioner ordered it",
+    "They are angry with him only"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "The act offends the earth, so the clan cannot handle the body.",
+    "ar": "الفعل يُغضب الأرض في معتقدهم فلا يجوز للعشيرة لمس الجسد."
+   }
+  },
+  {
+   "type": "vocab",
+   "q": {
+    "en": "\"Irony\" is…",
+    "ar": "irony هي…"
+   },
+   "options": [
+    "a situation opposite to what is expected",
+    "a kind of metal",
+    "a festival",
+    "a long journey"
+   ],
+   "answer": 0,
+   "explain": {
+    "en": "It is ironic that a great man ends as a paragraph in a stranger's book.",
+    "ar": "من المفارقة أن ينتهي رجل عظيم فقرةً في كتاب غريب."
+   }
+  },
+  {
+   "type": "context",
+   "q": {
+    "en": "What does the commissioner's plan for his book show?",
+    "ar": "ماذا تُظهر خطة المفوض لكتابه؟"
+   },
+   "options": [
+    "Deep respect for the clan",
+    "A colonial view that reduces African lives",
+    "That he will stay in Umuofia",
+    "That he admires Okonkwo"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "He sees Okonkwo's life as a small, interesting detail.",
+    "ar": "يرى حياة أوكونكوو تفصيلًا صغيرًا مثيرًا."
+   }
+  },
+  {
+   "type": "grammar",
+   "q": {
+    "en": "Choose the correct modal passive.",
+    "ar": "اختر صيغة المجهول الصحيحة مع الفعل الناقص."
+   },
+   "options": [
+    "The rules must be respected.",
+    "The rules must respected.",
+    "The rules must be respect.",
+    "The rules must being respected."
+   ],
+   "answer": 0,
+   "explain": {
+    "en": "modal + be + past participle.",
+    "ar": "الفعل الناقص + be + التصريف الثالث."
+   }
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="ar" dir="rtl" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#0e0b0b">
+<meta name="description" content="البشرى للأدب — تعلّم الإنجليزية من خلال الأدب العالمي. Albushra Literature — Learn English Through Literature.">
+<title>البشرى للأدب | Albushra Literature</title>
+<link rel="icon" href="assets/favicon.png">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@400;500;600&family=Noto+Naskh+Arabic:wght@400;600&family=Playfair+Display:ital,wght@0,600;0,700;1,500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap">
+<link rel="stylesheet" href="css/app.css?v=1">
+<script>
+  // Apply saved theme/lang before first paint (no flash).
+  try {
+    const p = JSON.parse(localStorage.getItem("lit.prefs") || "{}");
+    const theme = p.theme || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+    document.documentElement.dataset.theme = theme;
+    if (p.lang === "en") { document.documentElement.lang = "en"; document.documentElement.dir = "ltr"; }
+  } catch (e) {}
+</script>
+<script type="module" src="js/app.js?v=1"></script>
+</head>
+<body>
+<a class="skip" href="#main">تخطَّ إلى المحتوى</a>
+<div class="shell">
+  <aside class="sidebar" aria-label="Albushra Literature">
+    <a class="brand" href="#/"><img src="assets/logo-full.webp" alt="Albushra Literature — Learn English Through Literature" width="240" height="160"></a>
+    <nav class="side-nav" id="side-nav"></nav>
+    <div class="side-foot"><span data-t="productOf"></span><br><a href="https://albushra.app" rel="noopener">albushra.app</a></div>
+  </aside>
+  <div class="workspace">
+    <header class="topbar">
+      <a class="mini-brand" href="#/"><img src="assets/mark.webp" alt="" width="54" height="31"><b data-t="appName"></b></a>
+      <form class="search" id="search" role="search"><input type="search" name="q" autocomplete="off" data-tp="searchPh"></form>
+      <div class="top-actions">
+        <button class="icon-btn" id="lang-btn" type="button"></button>
+        <button class="icon-btn" id="theme-btn" type="button"></button>
+        <a class="avatar" id="avatar" href="#/profile"></a>
+      </div>
+    </header>
+    <main id="main" tabindex="-1"></main>
+  </div>
+</div>
+<nav class="bottom-nav" id="bottom-nav"></nav>
+<div id="sheet-root"></div>
+<div id="toast" role="status" aria-live="polite"></div>
+</body>
+</html>

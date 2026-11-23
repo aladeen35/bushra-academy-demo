@@ -1,0 +1,175 @@
+{
+ "chapter": 6,
+ "summary": {
+  "en": "On the second day of the festival, the whole village gathers in the ilo, the village square, for the wrestling contest. Drums beat, and the crowd presses forward. Young boys wrestle first, and then the strongest men take their turn. While the matches go on, Ekwefi talks with Chielo, the priestess of the oracle Agbala, who is also her friend. Chielo asks about Ezinma, and we learn that Ekwefi has lost many children and fears losing her only daughter. The final match is long and exciting, and the winner is carried on the shoulders of his supporters. The chapter shows the joy of shared celebration and the importance of physical strength in the clan.",
+  "ar": "في اليوم الثاني من العيد تجتمع القرية كلها في الإيلو، وهي ساحة القرية، لمشاهدة مباريات المصارعة. تُقرع الطبول ويتزاحم الجمهور إلى الأمام. يتصارع الأولاد الصغار أولًا، ثم يأتي دور أقوى الرجال. وفي أثناء المباريات تتحدث إكويفي مع تشيلو، كاهنة وحي أغبالا، وهي صديقتها أيضًا. تسأل تشيلو عن إيزينما، فنعرف أن إكويفي فقدت أطفالًا كثيرين وتخشى أن تفقد ابنتها الوحيدة. وتكون المباراة الأخيرة طويلة ومثيرة، ويُحمل الفائز على أكتاف أنصاره. يُظهر الفصل فرحة الاحتفال المشترك وأهمية القوة البدنية في حياة العشيرة."
+ },
+ "objectives": [
+  {
+   "en": "Describe the wrestling contest and the role of the crowd.",
+   "ar": "أن تصف مباراة المصارعة ودور الجمهور."
+  },
+  {
+   "en": "Understand Ekwefi's fear for Ezinma and her friendship with Chielo.",
+   "ar": "أن تفهم خوف إكويفي على إيزينما وصداقتها مع تشيلو."
+  },
+  {
+   "en": "Use the past continuous for background actions.",
+   "ar": "أن تستخدم الماضي المستمر للأحداث الخلفية."
+  }
+ ],
+ "vocab": [
+  "ilo",
+  "spectator",
+  "drum",
+  "triumph",
+  "agile",
+  "priestess",
+  "grief",
+  "wrestle"
+ ],
+ "grammar": [
+  {
+   "id": "tfa-6-past-continuous",
+   "topic": "tenses",
+   "level": "B1",
+   "title": {
+    "en": "The past continuous for background",
+    "ar": "الماضي المستمر للخلفية"
+   },
+   "explain": {
+    "en": "Use was/were + -ing for an action in progress in the past, often as a background to a shorter action in the past simple.",
+    "ar": "نستخدم was/were + ing لحدث كان مستمرًا في الماضي، وغالبًا كخلفية لحدث أقصر في الماضي البسيط."
+   },
+   "example": {
+    "en": "The drums were beating loudly when the last pair of wrestlers stepped forward.",
+    "ar": "كانت الطبول تُقرع بقوة حين تقدّم آخر زوج من المصارعين."
+   },
+   "exercise": {
+    "q": {
+     "en": "Choose: The women ___ when the champion fell.",
+     "ar": "اختر: كانت النساء ___ حين سقط البطل."
+    },
+    "options": [
+     "were cheering",
+     "cheered were",
+     "are cheering"
+    ],
+    "answer": 0,
+    "why": {
+     "en": "Background action in progress = were + -ing.",
+     "ar": "الحدث الخلفي المستمر = were + ing."
+    }
+   }
+  }
+ ],
+ "culture": [
+  {
+   "term": "The ilo",
+   "en": "Every village had an open square used for wrestling, dances and important gatherings. It was the social heart of the community.",
+   "ar": "كان لكل قرية ساحة مفتوحة للمصارعة والرقص والتجمعات المهمة، وكانت قلب الحياة الاجتماعية."
+  },
+  {
+   "term": "Wrestling",
+   "en": "Wrestling was a popular sport and a test of strength and skill for young men. A good wrestler won fame for himself and his village.",
+   "ar": "كانت المصارعة رياضة محبوبة واختبارًا لقوة الشباب ومهارتهم، والمصارع الماهر يجلب الشهرة لنفسه ولقريته."
+  },
+  {
+   "term": "Priestesses",
+   "en": "The oracle Agbala spoke through a priestess. Outside her religious duties, Chielo lives an ordinary life as a widow, mother and friend.",
+   "ar": "كان وحي أغبالا يتكلم عبر كاهنة، وخارج مهامها الدينية تعيش تشيلو حياة عادية أرملةً وأمًّا وصديقة."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "Where does the wrestling take place?",
+    "ar": "أين تقام المصارعة؟"
+   },
+   "options": [
+    "In the forest",
+    "In the ilo, the village square",
+    "In Okonkwo's obi",
+    "At the river"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "The ilo is the village square used for public events.",
+    "ar": "الإيلو ساحة القرية المستخدمة للمناسبات العامة."
+   }
+  },
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "Who is Chielo?",
+    "ar": "من هي تشيلو؟"
+   },
+   "options": [
+    "Okonkwo's first wife",
+    "The priestess of Agbala and Ekwefi's friend",
+    "A wrestler",
+    "Ezinma's teacher"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "She serves the oracle and is a close friend of Ekwefi.",
+    "ar": "تخدم الوحي وهي صديقة مقرّبة لإكويفي."
+   }
+  },
+  {
+   "type": "vocab",
+   "q": {
+    "en": "A \"spectator\" is someone who…",
+    "ar": "الـ spectator هو من…"
+   },
+   "options": [
+    "takes part in a match",
+    "watches an event",
+    "judges a trial",
+    "sells food"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "Spectators watch; they do not compete.",
+    "ar": "المتفرج يشاهد ولا يشارك."
+   }
+  },
+  {
+   "type": "context",
+   "q": {
+    "en": "Why is Ekwefi so protective of Ezinma?",
+    "ar": "لماذا تحرص إكويفي على إيزينما كثيرًا؟"
+   },
+   "options": [
+    "Ezinma is a champion wrestler",
+    "She has lost many other children",
+    "Ezinma is a priestess",
+    "Okonkwo ordered it"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "After losing several children, she fears losing her only one.",
+    "ar": "بعد فقد عدة أطفال تخشى فقد ابنتها الوحيدة."
+   }
+  },
+  {
+   "type": "grammar",
+   "q": {
+    "en": "Choose the correct sentence.",
+    "ar": "اختر الجملة الصحيحة."
+   },
+   "options": [
+    "The crowd was shouting when he won.",
+    "The crowd were shout when he won.",
+    "The crowd shouting when he won.",
+    "The crowd is shouted when he won."
+   ],
+   "answer": 0,
+   "explain": {
+    "en": "Was + -ing for the background action.",
+    "ar": "was + ing للحدث الخلفي."
+   }
+  }
+ ]
+}

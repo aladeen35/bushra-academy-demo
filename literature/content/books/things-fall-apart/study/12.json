@@ -1,0 +1,173 @@
+{
+ "chapter": 12,
+ "summary": {
+  "en": "In the morning, Chielo brings Ezinma back safely and puts her to bed in her mother's hut. We learn that Okonkwo, though he looked calm, had gone to the shrine several times during the night because he was worried. The same day is the uri, the betrothal ceremony for Obierika's daughter. The women of the neighbourhood help to cook, and the whole compound is busy and cheerful. A cow escapes into a field and the women run to catch it, which brings a moment of comedy. In the evening, the groom's family arrives with many pots of drink. The two families greet each other, share food, sing and dance, and the young woman is presented to her new relatives.",
+  "ar": "في الصباح تعيد تشيلو إيزينما سالمة وتضعها في فراشها في كوخ أمها. ونعرف أن أوكونكوو، مع أنه بدا هادئًا، ذهب إلى المزار عدة مرات في الليل لأنه كان قلقًا. وفي اليوم نفسه يُقام الأوري، وهو حفل خطوبة ابنة أوبييريكا. تساعد نساء الحي في الطبخ، ويصبح المجمع كله مشغولًا مبتهجًا. تهرب بقرة إلى أحد الحقول فتركض النساء للإمساك بها، فتكون لحظة مضحكة. وفي المساء تصل أسرة العريس ومعها جرار كثيرة من الشراب. تتبادل الأسرتان التحية وتتقاسمان الطعام وتغنيان وترقصان، وتُقدَّم الفتاة إلى أقاربها الجدد. يعكس الفصل روح التعاون والفرح المشترك في حياة القرية."
+ },
+ "objectives": [
+  {
+   "en": "Describe the uri ceremony and the cooperation it involves.",
+   "ar": "أن تصف حفل الأوري والتعاون الذي يتطلبه."
+  },
+  {
+   "en": "Notice how Okonkwo hides his worry behind a calm face.",
+   "ar": "أن تلاحظ كيف يخفي أوكونكوو قلقه وراء وجه هادئ."
+  },
+  {
+   "en": "Use \"used to\" and \"would\" for past habits.",
+   "ar": "أن تستخدم used to و would للعادات الماضية."
+  }
+ ],
+ "vocab": [
+  "uri",
+  "betrothal",
+  "bride-price",
+  "dowry",
+  "feast",
+  "palm-wine",
+  "relief",
+  "hospitality",
+  "kinsman",
+  "ceremony",
+  "rite"
+ ],
+ "grammar": [
+  {
+   "id": "tfa-12-used-to",
+   "topic": "tenses",
+   "level": "B1",
+   "title": {
+    "en": "Used to and would for past habits",
+    "ar": "used to و would للعادات الماضية"
+   },
+   "explain": {
+    "en": "\"Used to + base verb\" describes past habits and states that are no longer true. \"Would + base verb\" also describes repeated past actions, but not states.",
+    "ar": "used to + المصدر تصف عادات وحالات ماضية لم تعد قائمة، و would + المصدر تصف أفعالًا متكررة في الماضي لكن لا تصف الحالات."
+   },
+   "example": {
+    "en": "In those days, neighbours would bring firewood and pots to help with a wedding.",
+    "ar": "في تلك الأيام كان الجيران يحضرون الحطب والقدور للمساعدة في العرس."
+   },
+   "exercise": {
+    "q": {
+     "en": "Choose: Families ___ celebrate engagements for a whole day.",
+     "ar": "اختر: كانت الأسر ___ تحتفل بالخطوبة يومًا كاملًا."
+    },
+    "options": [
+     "used to",
+     "use to",
+     "were used"
+    ],
+    "answer": 0,
+    "why": {
+     "en": "The correct form is \"used to + base verb\".",
+     "ar": "الصيغة الصحيحة used to + المصدر."
+    }
+   }
+  }
+ ],
+ "culture": [
+  {
+   "term": "The uri ceremony",
+   "en": "At the uri, the suitor's family brought drink and gifts, and the bride's family hosted a feast. Women of the extended family and neighbourhood cooked together, which shows the community's role in marriage.",
+   "ar": "في الأوري تحضر أسرة الخاطب الشراب والهدايا وتقيم أسرة العروس وليمة، وتطبخ نساء العائلة الممتدة والحي معًا، مما يبيّن دور المجتمع في الزواج."
+  },
+  {
+   "term": "Marriage as a link between families",
+   "en": "Like weddings in Sudan and the Gulf, an Igbo marriage joined two families, not only two people. Respect for in-laws was very important.",
+   "ar": "كما في أعراس السودان والخليج كان الزواج عند الإيبو يربط أسرتين لا شخصين فقط، وكان احترام الأصهار مهمًا جدًا."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "What did Okonkwo do during the night?",
+    "ar": "ماذا فعل أوكونكوو في الليل؟"
+   },
+   "options": [
+    "He slept",
+    "He went to the shrine several times",
+    "He went to the market",
+    "He visited Mbanta"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "He was worried and went to check several times.",
+    "ar": "كان قلقًا فذهب ليطمئن عدة مرات."
+   }
+  },
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "What is the uri?",
+    "ar": "ما هو الأوري؟"
+   },
+   "options": [
+    "A funeral",
+    "A betrothal ceremony",
+    "A wrestling match",
+    "A trial"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "It is the ceremony for Obierika's daughter's betrothal.",
+    "ar": "هو حفل خطوبة ابنة أوبييريكا."
+   }
+  },
+  {
+   "type": "vocab",
+   "q": {
+    "en": "\"Relief\" is the feeling you have when…",
+    "ar": "relief هو الشعور الذي ينتابك حين…"
+   },
+   "options": [
+    "a worry ends",
+    "you start a journey",
+    "you are hungry",
+    "you are angry"
+   ],
+   "answer": 0,
+   "explain": {
+    "en": "Ekwefi feels relief when Ezinma returns.",
+    "ar": "تشعر إكويفي بالارتياح حين تعود إيزينما."
+   }
+  },
+  {
+   "type": "context",
+   "q": {
+    "en": "Who helps to cook for the ceremony?",
+    "ar": "من يساعد في الطبخ للحفل؟"
+   },
+   "options": [
+    "Only the bride",
+    "Women of the extended family and neighbourhood",
+    "Foreign traders",
+    "The egwugwu"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "Cooking is shared by many women.",
+    "ar": "تتشارك نساء كثيرات في الطبخ."
+   }
+  },
+  {
+   "type": "grammar",
+   "q": {
+    "en": "Which sentence is correct?",
+    "ar": "أي جملة صحيحة؟"
+   },
+   "options": [
+    "She used to visiting her aunt.",
+    "She used to visit her aunt.",
+    "She use to visited her aunt.",
+    "She was used visit her aunt."
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "used to + base verb.",
+    "ar": "used to + المصدر."
+   }
+  }
+ ]
+}

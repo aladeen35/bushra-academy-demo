@@ -1,0 +1,125 @@
+{
+ "author": {
+  "name": "Chinua Achebe",
+  "born": 1930,
+  "died": 2013,
+  "bio": {
+   "en": "Chinua Achebe was born in 1930 in Ogidi, an Igbo town in southeastern Nigeria, into a family whose parents had become Christians. He grew up between the stories and customs of his Igbo community and the English education of mission schools. He studied at University College, Ibadan, and worked in broadcasting before Things Fall Apart appeared in 1958. The novel became one of the most widely read books by an African writer and has been translated into more than fifty languages. Achebe followed it with No Longer at Ease, Arrow of God, A Man of the People and Anthills of the Savannah, as well as essays, poems and children's books. His famous lecture criticising the image of Africa in Joseph Conrad's Heart of Darkness changed how many readers think about colonial literature. After a car accident in 1990 he used a wheelchair, and he taught for many years at universities in the United States. He received the Man Booker International Prize in 2007 and died in Boston in 2013. He is often called the father of modern African literature in English.",
+   "ar": "وُلد تشينوا أتشيبي عام 1930 في أوغيدي، وهي بلدة من بلدات الإيبو في جنوب شرق نيجيريا، لأبوين اعتنقا المسيحية. نشأ بين حكايات مجتمعه الإيبوي وعاداته من جهة، والتعليم الإنجليزي في مدارس الإرساليات من جهة أخرى. درس في الكلية الجامعية في إبادان، وعمل في الإذاعة قبل أن تصدر رواية «الأشياء تتداعى» عام 1958. وأصبحت الرواية من أكثر الكتب قراءة لكاتب أفريقي، وتُرجمت إلى أكثر من خمسين لغة. وكتب بعدها روايات أخرى منها «لم يعد مرتاحًا» و«سهم الله» و«رجل الشعب» و«كثبان النمل في السافانا»، إضافة إلى مقالات وقصائد وكتب للأطفال. وقد غيّرت محاضرته الشهيرة التي انتقد فيها صورة أفريقيا في رواية جوزيف كونراد «قلب الظلام» نظرة كثير من القراء إلى الأدب الاستعماري. وبعد حادث سيارة عام 1990 صار يستعمل كرسيًا متحركًا، ودرّس سنوات طويلة في جامعات الولايات المتحدة. نال جائزة مان بوكر الدولية عام 2007، وتوفي في بوسطن عام 2013. ويُلقّب كثيرًا بأبي الأدب الأفريقي الحديث المكتوب بالإنجليزية."
+  }
+ },
+ "context": {
+  "en": "The novel is set among the Igbo people of what is now southeastern Nigeria, in a group of nine villages called Umuofia, at the end of the nineteenth century. Igbo society at that time had no kings over large areas; villages were governed by assemblies of elders and titled men, by shared customs and by religious institutions such as oracles and the masked ancestral spirits. Christian missionaries began working along the Niger River from the 1850s, and in the decades around 1900 Britain extended its control over the region, which became part of the colony and protectorate of Nigeria in 1914. Colonial rule brought new courts, prisons, taxes, schools, trade and a new religion, and it was often enforced by violent punitive expeditions; the destruction of Abame in the novel echoes such events. Achebe wrote the book partly as a reply to European novels that showed Africans as people without history or culture. He presents Igbo life from the inside, with its wisdom, beauty and also its injustices, before showing how colonialism broke it apart. The title is a phrase from W. B. Yeats's poem \"The Second Coming\", which describes a world losing its centre.",
+  "ar": "تدور أحداث الرواية بين شعب الإيبو في ما يُعرف اليوم بجنوب شرق نيجيريا، في مجموعة من تسع قرى تُسمى أوموفيا، في أواخر القرن التاسع عشر. لم يكن لمجتمع الإيبو آنذاك ملوك يحكمون مناطق واسعة، بل كانت القرى تُدار عبر مجالس الشيوخ وأصحاب الألقاب، وعبر العادات المشتركة والمؤسسات الدينية مثل الوحي وأرواح الأسلاف المقنّعة. بدأ المبشّرون المسيحيون العمل على ضفاف نهر النيجر منذ خمسينيات القرن التاسع عشر، وفي العقود المحيطة بعام 1900 بسطت بريطانيا سيطرتها على المنطقة التي أصبحت جزءًا من مستعمرة نيجيريا ومحميتها عام 1914. وجلب الحكم الاستعماري محاكم وسجونًا وضرائب ومدارس وتجارة ودينًا جديدًا، وكثيرًا ما فُرض بحملات عقابية عنيفة، ويذكّر تدمير قرية أبامي في الرواية بمثل هذه الأحداث. كتب أتشيبي الرواية جزئيًا ردًّا على الروايات الأوروبية التي صوّرت الأفارقة شعوبًا بلا تاريخ ولا ثقافة، فعرض حياة الإيبو من الداخل بحكمتها وجمالها وظلمها أحيانًا، قبل أن يبيّن كيف مزّقها الاستعمار. والعنوان عبارة مأخوذة من قصيدة «المجيء الثاني» للشاعر و. ب. ييتس، التي تصف عالمًا يفقد مركزه."
+ },
+ "themes": [
+  {
+   "en": "Tradition and change: the novel shows a rich, ordered society and asks what happens when a new religion and government arrive and some people welcome them while others resist.",
+   "ar": "التقاليد والتغيير: تعرض الرواية مجتمعًا غنيًا منظمًا وتسأل ماذا يحدث حين يصل دين جديد وحكم جديد فيرحب بهما بعض الناس ويقاومهما آخرون."
+  },
+  {
+   "en": "Masculinity and the fear of weakness: Okonkwo's fear of being like his gentle father drives him to harsh and sometimes tragic actions.",
+   "ar": "الرجولة والخوف من الضعف: يدفع خوف أوكونكوو من أن يشبه أباه الرقيق إلى أفعال قاسية ومأساوية أحيانًا."
+  },
+  {
+   "en": "Colonialism and cultural collision: missionaries, courts and traders change the clan from within as well as from outside, and the ending shows how colonial writers reduced African lives.",
+   "ar": "الاستعمار وصدام الثقافات: يغيّر المبشّرون والمحاكم والتجار العشيرة من الداخل والخارج، وتُظهر النهاية كيف اختزل الكتّاب الاستعماريون حياة الأفارقة."
+  },
+  {
+   "en": "Fate and free will: the Igbo idea of chi raises the question of how much of a person's life is chosen and how much is destiny.",
+   "ar": "القدر والإرادة الحرة: تطرح فكرة التشي عند الإيبو سؤالًا عن مقدار ما يختاره الإنسان في حياته ومقدار ما هو مقدَّر له."
+  },
+  {
+   "en": "Fathers, sons and generations: the broken relationships between Unoka, Okonkwo and Nwoye mirror a wider break between old and new generations.",
+   "ar": "الآباء والأبناء والأجيال: تعكس العلاقات المكسورة بين أونوكا وأوكونكوو ونوويي قطيعة أوسع بين الجيل القديم والجديد."
+  },
+  {
+   "en": "Language, storytelling and community: proverbs, folktales, songs and public speech hold the clan together and show the depth of an oral culture.",
+   "ar": "اللغة والحكي والمجتمع: الأمثال والحكايات الشعبية والأغاني والخطابة العامة تجمع العشيرة وتُظهر عمق ثقافة شفهية."
+  }
+ ],
+ "characters": [
+  {
+   "name": "Okonkwo",
+   "en": "A famous wrestler and warrior who becomes a wealthy farmer and titled man. Proud and hard-working, he is ruled by a fear of weakness that leads him to violence and, finally, to tragedy.",
+   "ar": "مصارع ومحارب مشهور يصبح مزارعًا ثريًا صاحب ألقاب. فخور ومجتهد، لكن يحكمه خوف من الضعف يقوده إلى العنف ثم إلى المأساة في النهاية."
+  },
+  {
+   "name": "Unoka",
+   "en": "Okonkwo's father, a gentle musician who loves conversation and good company but dies poor and in debt. Okonkwo builds his life in reaction against him.",
+   "ar": "والد أوكونكوو، موسيقي لطيف يحب الحديث والصحبة الطيبة لكنه يموت فقيرًا مدينًا، ويبني أوكونكوو حياته ردًّا عليه."
+  },
+  {
+   "name": "Nwoye",
+   "en": "Okonkwo's eldest son, sensitive and thoughtful. Hurt by his father's harshness and by Ikemefuna's death, he joins the Christians and takes a new name.",
+   "ar": "الابن الأكبر لأوكونكوو، حساس متأمل. يجرحه قسوة أبيه وموت إيكيميفونا فينضم إلى المسيحيين ويتخذ اسمًا جديدًا."
+  },
+  {
+   "name": "Ikemefuna",
+   "en": "A boy from Mbaino given to Umuofia as compensation. He lives in Okonkwo's home for three years, becomes like a brother to Nwoye, and is killed on the oracle's decision.",
+   "ar": "صبي من مباينو قُدّم لأوموفيا تعويضًا. يعيش في بيت أوكونكوو ثلاث سنوات ويصبح كالأخ لنوويي، ثم يُقتل بقرار من الوحي."
+  },
+  {
+   "name": "Ekwefi",
+   "en": "Okonkwo's second wife, who once left another husband to marry him. She has lost many children and loves her only surviving child, Ezinma, with fierce courage.",
+   "ar": "الزوجة الثانية لأوكونكوو، تركت زوجًا آخر لتتزوجه. فقدت أطفالًا كثيرين وتحب ابنتها الوحيدة الباقية إيزينما بشجاعة كبيرة."
+  },
+  {
+   "name": "Ezinma",
+   "en": "The daughter of Okonkwo and Ekwefi, clever, bold and understanding. She is Okonkwo's favourite child, and he often wishes she were a boy.",
+   "ar": "ابنة أوكونكوو وإكويفي، ذكية جريئة متفهمة، وهي أحب أبنائه إليه، وكثيرًا ما يتمنى لو كانت صبيًا."
+  },
+  {
+   "name": "Obierika",
+   "en": "Okonkwo's closest friend, a thoughtful and loyal man who questions some customs of the clan while respecting them. He is the voice of reflection in the novel.",
+   "ar": "أقرب أصدقاء أوكونكوو، رجل متأمل ووفي يتساءل عن بعض أعراف العشيرة مع احترامه لها، وهو صوت التأمل في الرواية."
+  },
+  {
+   "name": "Uchendu",
+   "en": "Okonkwo's maternal uncle in Mbanta, an old and wise man who welcomes him into exile and teaches him patience and humility.",
+   "ar": "خال أوكونكوو في مبانتا، شيخ حكيم يستقبله في منفاه ويعلّمه الصبر والتواضع."
+  },
+  {
+   "name": "Chielo",
+   "en": "The priestess of the oracle Agbala and a friend of Ekwefi. In ordinary life she is a widow and mother; when the god possesses her, she is feared by all.",
+   "ar": "كاهنة وحي أغبالا وصديقة إكويفي. في حياتها العادية أرملة وأم، وحين تتكلم باسم الإله يهابها الجميع."
+  },
+  {
+   "name": "Mr. Brown",
+   "en": "The first white missionary in Umuofia. Patient and respectful, he restrains his zealous followers, learns about Igbo belief and builds a school and a hospital.",
+   "ar": "أول مبشّر أبيض في أوموفيا، صبور ومحترم، يكبح أتباعه المتحمسين ويتعلم عن معتقد الإيبو ويبني مدرسة ومستشفى."
+  },
+  {
+   "name": "Reverend James Smith",
+   "en": "Mr. Brown's successor, a strict and uncompromising missionary whose attitude encourages conflict between the church and the clan.",
+   "ar": "خليفة السيد براون، مبشّر صارم لا يقبل الحلول الوسط، ويشجع موقفه الصدام بين الكنيسة والعشيرة."
+  },
+  {
+   "name": "The District Commissioner",
+   "en": "The British official who governs the district and judges its people by colonial law. His final thoughts reveal how colonial power saw African lives.",
+   "ar": "الموظف البريطاني الذي يحكم المقاطعة ويقضي بين أهلها بقانون المستعمر، وتكشف أفكاره الأخيرة كيف نظرت السلطة الاستعمارية إلى حياة الأفارقة."
+  }
+ ],
+ "objectives": [
+  {
+   "en": "Read a landmark of African literature and understand why it matters in world literature.",
+   "ar": "أن تقرأ عملًا بارزًا في الأدب الأفريقي وتفهم أهميته في الأدب العالمي."
+  },
+  {
+   "en": "Learn about Igbo culture: family life, titles, religion, festivals, justice and community.",
+   "ar": "أن تتعرف على ثقافة الإيبو: الحياة الأسرية والألقاب والدين والأعياد والعدالة والمجتمع."
+  },
+  {
+   "en": "Understand the historical background of British colonialism and Christian missions in Nigeria.",
+   "ar": "أن تفهم الخلفية التاريخية للاستعمار البريطاني والإرساليات المسيحية في نيجيريا."
+  },
+  {
+   "en": "Follow the development of Okonkwo and other characters across the three parts of the novel.",
+   "ar": "أن تتابع تطور أوكونكوو والشخصيات الأخرى عبر أجزاء الرواية الثلاثة."
+  },
+  {
+   "en": "Build literary, cultural and historical vocabulary, and learn how proverbs and cultural expressions carry meaning in English.",
+   "ar": "أن تبني مفردات أدبية وثقافية وتاريخية، وتتعلم كيف تحمل الأمثال والتعابير الثقافية المعنى في الإنجليزية."
+  }
+ ]
+}

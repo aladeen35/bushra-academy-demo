@@ -1,0 +1,4244 @@
+[
+ {
+  "id": "renowned",
+  "word": "renowned",
+  "forms": [],
+  "ar": "مشهور، ذائع الصيت",
+  "ipa": "/rɪˈnaʊnd/",
+  "pos": "adjective",
+  "def": "Known and admired by many people.",
+  "arExplain": "يُقال لمن عرفه الناس وأعجبوا به لإنجازاته.",
+  "example": "The village was renowned for its skilled potters.",
+  "exampleAr": "كانت القرية مشهورة بصانعي الفخار المهرة.",
+  "exampleRef": null,
+  "synonyms": [
+   "famous",
+   "celebrated"
+  ],
+  "antonyms": [
+   "unknown",
+   "obscure"
+  ],
+  "level": "B2",
+  "category": "literary"
+ },
+ {
+  "id": "wrestle",
+  "word": "wrestle",
+  "forms": [
+   "wrestled",
+   "wrestling",
+   "wrestler",
+   "wrestlers"
+  ],
+  "ar": "يصارع؛ المصارعة",
+  "ipa": "/ˈres.əl/",
+  "pos": "verb",
+  "def": "To fight by holding and trying to throw another person to the ground, often as a sport.",
+  "arExplain": "رياضة يحاول فيها كل لاعب أن يُسقط خصمه أرضًا، وكانت مصدر فخر للشباب في القرى.",
+  "example": "The two young men wrestled in front of a cheering crowd.",
+  "exampleAr": "تصارع الشابان أمام جمهور يهتف.",
+  "exampleRef": null,
+  "synonyms": [
+   "grapple",
+   "struggle"
+  ],
+  "antonyms": [],
+  "level": "B1",
+  "category": "intermediate"
+ },
+ {
+  "id": "debt",
+  "word": "debt",
+  "forms": [
+   "debts",
+   "debtor"
+  ],
+  "ar": "دَيْن",
+  "ipa": "/det/",
+  "pos": "noun",
+  "def": "Money that you owe to someone.",
+  "arExplain": "مال اقترضته ويجب أن تردّه لصاحبه.",
+  "example": "He worked hard for two years to pay off his debt.",
+  "exampleAr": "عمل بجد سنتين ليسدّد دَينه.",
+  "exampleRef": null,
+  "synonyms": [
+   "obligation",
+   "liability"
+  ],
+  "antonyms": [
+   "credit",
+   "savings"
+  ],
+  "level": "B1",
+  "category": "intermediate"
+ },
+ {
+  "id": "improvident",
+  "word": "improvident",
+  "forms": [
+   "improvidence"
+  ],
+  "ar": "مُبذّر، لا يحسب حساب المستقبل",
+  "ipa": "/ɪmˈprɒv.ɪ.dənt/",
+  "pos": "adjective",
+  "def": "Not planning for the future; spending money carelessly.",
+  "arExplain": "يصف من ينفق كل ما لديه اليوم ولا يدّخر للغد.",
+  "example": "An improvident farmer eats his seed grain and has nothing to plant.",
+  "exampleAr": "المزارع المبذّر يأكل بذوره فلا يجد ما يزرعه.",
+  "exampleRef": null,
+  "synonyms": [
+   "wasteful",
+   "careless"
+  ],
+  "antonyms": [
+   "thrifty",
+   "prudent"
+  ],
+  "level": "C1",
+  "category": "literary"
+ },
+ {
+  "id": "prosperous",
+  "word": "prosperous",
+  "forms": [
+   "prosperity",
+   "prosper",
+   "prospered"
+  ],
+  "ar": "مزدهر، ميسور الحال",
+  "ipa": "/ˈprɒs.pər.əs/",
+  "pos": "adjective",
+  "def": "Rich and successful.",
+  "arExplain": "يصف شخصًا أو مكانًا ناجحًا وغنيًا.",
+  "example": "After many good harvests, the family became prosperous.",
+  "exampleAr": "بعد مواسم حصاد جيدة كثيرة صارت الأسرة ميسورة الحال.",
+  "exampleRef": null,
+  "synonyms": [
+   "wealthy",
+   "thriving"
+  ],
+  "antonyms": [
+   "poor",
+   "struggling"
+  ],
+  "level": "B2",
+  "category": "literary"
+ },
+ {
+  "id": "cowrie",
+  "word": "cowrie",
+  "forms": [
+   "cowries"
+  ],
+  "ar": "الودع (صدف كان يُستعمل نقودًا)",
+  "ipa": "/ˈkaʊ.ri/",
+  "pos": "noun",
+  "def": "A small shiny shell that was used as money in parts of Africa and Asia.",
+  "arExplain": "أصداف صغيرة لامعة استُخدمت عملةً في التجارة في غرب أفريقيا وغيرها قبل النقود الحديثة.",
+  "example": "In the old market, a basket of yams could be bought with cowries.",
+  "exampleAr": "في السوق القديم كان يمكن شراء سلة من اليام بالودع.",
+  "exampleRef": null,
+  "synonyms": [
+   "shell money"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "cultural"
+ },
+ {
+  "id": "title",
+  "word": "title",
+  "forms": [
+   "titles",
+   "titled"
+  ],
+  "ar": "لقب (رتبة اجتماعية)",
+  "ipa": "/ˈtaɪ.təl/",
+  "pos": "noun",
+  "def": "In Igbo society, an honoured rank that a man earns and pays for as he gains wealth and respect.",
+  "arExplain": "رتبة اجتماعية في مجتمع الإيبو يحصل عليها الرجل بعمله وماله، وتمنحه مكانة في مجالس القرية.",
+  "example": "He saved for years so that he could take his second title.",
+  "exampleAr": "ادّخر سنوات كي ينال لقبه الثاني.",
+  "exampleRef": null,
+  "synonyms": [
+   "rank",
+   "honour"
+  ],
+  "antonyms": [],
+  "level": "B1",
+  "category": "cultural"
+ },
+ {
+  "id": "proverb",
+  "word": "proverb",
+  "forms": [
+   "proverbs",
+   "proverbial"
+  ],
+  "ar": "مَثَل شعبي",
+  "ipa": "/ˈprɒv.ɜːb/",
+  "pos": "noun",
+  "def": "A short, well-known saying that gives advice or expresses a truth.",
+  "arExplain": "قول قصير متوارث يحمل حكمة، وكان الإيبو يزيّنون به كلامهم كما نفعل نحن بالأمثال.",
+  "example": "My grandmother answered every question with a proverb.",
+  "exampleAr": "كانت جدتي تجيب عن كل سؤال بمثل شعبي.",
+  "exampleRef": null,
+  "synonyms": [
+   "saying",
+   "adage"
+  ],
+  "antonyms": [],
+  "level": "B1",
+  "category": "literary"
+ },
+ {
+  "id": "shame",
+  "word": "shame",
+  "forms": [
+   "ashamed",
+   "shameful"
+  ],
+  "ar": "العار، الخجل",
+  "ipa": "/ʃeɪm/",
+  "pos": "noun",
+  "def": "A painful feeling that you or someone close to you has done something wrong or foolish.",
+  "arExplain": "شعور مؤلم بالحرج بسبب تصرف خاطئ منك أو من قريب لك.",
+  "example": "He felt shame every time people laughed at his family.",
+  "exampleAr": "كان يشعر بالخجل كلما ضحك الناس من أسرته.",
+  "exampleRef": null,
+  "synonyms": [
+   "disgrace",
+   "humiliation"
+  ],
+  "antonyms": [
+   "pride",
+   "honour"
+  ],
+  "level": "B1",
+  "category": "intermediate"
+ },
+ {
+  "id": "imperious",
+  "word": "imperious",
+  "forms": [
+   "imperiously"
+  ],
+  "ar": "متسلّط، آمِر",
+  "ipa": "/ɪmˈpɪə.ri.əs/",
+  "pos": "adjective",
+  "def": "Expecting to be obeyed; proud and commanding.",
+  "arExplain": "يصف من يتكلم ويتصرف كأنه يأمر الآخرين دائمًا.",
+  "example": "With an imperious wave of his hand, he sent the boys away.",
+  "exampleAr": "بإشارة متسلّطة من يده صرف الأولاد.",
+  "exampleRef": null,
+  "synonyms": [
+   "domineering",
+   "bossy"
+  ],
+  "antonyms": [
+   "humble",
+   "meek"
+  ],
+  "level": "C1",
+  "category": "literary"
+ },
+ {
+  "id": "clan",
+  "word": "clan",
+  "forms": [
+   "clans",
+   "clansmen",
+   "clansman"
+  ],
+  "ar": "العشيرة",
+  "ipa": "/klæn/",
+  "pos": "noun",
+  "def": "A large group of families who share the same ancestors.",
+  "arExplain": "مجموعة كبيرة من الأسر ترجع إلى أصل واحد وتعيش متعاونة.",
+  "example": "The whole clan gathered to welcome the travellers.",
+  "exampleAr": "اجتمعت العشيرة كلها لاستقبال المسافرين.",
+  "exampleRef": null,
+  "synonyms": [
+   "tribe",
+   "kin"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "cultural"
+ },
+ {
+  "id": "fierce",
+  "word": "fierce",
+  "forms": [
+   "fiercely"
+  ],
+  "ar": "شرس، عنيف",
+  "ipa": "/fɪəs/",
+  "pos": "adjective",
+  "def": "Strong, violent or full of energy.",
+  "arExplain": "يصف القوة والحدّة في القتال أو الطباع.",
+  "example": "He was a fierce fighter but a poor listener.",
+  "exampleAr": "كان مقاتلًا شرسًا لكنه مستمع ضعيف.",
+  "exampleRef": null,
+  "synonyms": [
+   "ferocious",
+   "intense"
+  ],
+  "antonyms": [
+   "gentle",
+   "mild"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "emissary",
+  "word": "emissary",
+  "forms": [
+   "emissaries"
+  ],
+  "ar": "مبعوث",
+  "ipa": "/ˈem.ɪ.sər.i/",
+  "pos": "noun",
+  "def": "A person sent to deliver an official message or to negotiate.",
+  "arExplain": "شخص يُرسل لينقل رسالة رسمية أو يتفاوض نيابة عن جماعته.",
+  "example": "The village sent an emissary to discuss peace.",
+  "exampleAr": "أرسلت القرية مبعوثًا لبحث السلام.",
+  "exampleRef": null,
+  "synonyms": [
+   "envoy",
+   "messenger"
+  ],
+  "antonyms": [],
+  "level": "C1",
+  "category": "political"
+ },
+ {
+  "id": "ultimatum",
+  "word": "ultimatum",
+  "forms": [
+   "ultimatums"
+  ],
+  "ar": "إنذار نهائي",
+  "ipa": "/ˌʌl.tɪˈmeɪ.təm/",
+  "pos": "noun",
+  "def": "A final demand, with a threat of action if it is refused.",
+  "arExplain": "طلب أخير يصحبه تهديد بعقوبة أو حرب إذا رُفض.",
+  "example": "The elders gave their neighbours an ultimatum: pay or fight.",
+  "exampleAr": "وجّه الشيوخ لجيرانهم إنذارًا نهائيًا: ادفعوا أو قاتلوا.",
+  "exampleRef": null,
+  "synonyms": [
+   "final demand",
+   "warning"
+  ],
+  "antonyms": [],
+  "level": "C1",
+  "category": "political"
+ },
+ {
+  "id": "compensation",
+  "word": "compensation",
+  "forms": [
+   "compensate"
+  ],
+  "ar": "تعويض",
+  "ipa": "/ˌkɒm.penˈseɪ.ʃən/",
+  "pos": "noun",
+  "def": "Something given to make up for a loss or injury.",
+  "arExplain": "ما يُدفع لجبر خسارة أو ضرر وقع على أحد.",
+  "example": "The family received land as compensation for their loss.",
+  "exampleAr": "حصلت الأسرة على أرض تعويضًا عن خسارتها.",
+  "exampleRef": null,
+  "synonyms": [
+   "reparation",
+   "payment"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "dread",
+  "word": "dread",
+  "forms": [
+   "dreaded",
+   "dreadful"
+  ],
+  "ar": "رهبة، خوف شديد",
+  "ipa": "/dred/",
+  "pos": "noun",
+  "def": "Great fear, especially of something that may happen.",
+  "arExplain": "خوف عميق من شيء متوقَّع.",
+  "example": "The sound of the war drum filled the children with dread.",
+  "exampleAr": "ملأ صوت طبل الحرب قلوب الأطفال رهبة.",
+  "exampleRef": null,
+  "synonyms": [
+   "terror",
+   "fear"
+  ],
+  "antonyms": [
+   "confidence",
+   "calm"
+  ],
+  "level": "B2",
+  "category": "literary"
+ },
+ {
+  "id": "compound",
+  "word": "compound",
+  "forms": [
+   "compounds"
+  ],
+  "ar": "المجمّع السكني (حوش الأسرة)",
+  "ipa": "/ˈkɒm.paʊnd/",
+  "pos": "noun",
+  "def": "An area enclosed by a wall that contains a family's houses and buildings.",
+  "arExplain": "أرض محاطة بسور تضم بيت رب الأسرة وأكواخ زوجاته ومخازنه، تشبه الحوش الكبير.",
+  "example": "Each wife had her own hut inside the compound.",
+  "exampleAr": "كان لكل زوجة كوخها داخل المجمّع.",
+  "exampleRef": null,
+  "synonyms": [
+   "homestead",
+   "enclosure"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "cultural"
+ },
+ {
+  "id": "barn",
+  "word": "barn",
+  "forms": [
+   "barns"
+  ],
+  "ar": "مخزن (للمحاصيل)",
+  "ipa": "/bɑːn/",
+  "pos": "noun",
+  "def": "A building on a farm for storing crops. For yam farmers, a frame where yams were tied and stored.",
+  "arExplain": "مبنى لتخزين المحصول؛ وعند مزارعي اليام هو هيكل تُربط فيه ثمار اليام.",
+  "example": "His barn was full of yams after a good season.",
+  "exampleAr": "امتلأ مخزنه باليام بعد موسم جيد.",
+  "exampleRef": null,
+  "synonyms": [
+   "storehouse",
+   "granary"
+  ],
+  "antonyms": [],
+  "level": "A2",
+  "category": "beginner"
+ },
+ {
+  "id": "polygamy",
+  "word": "polygamy",
+  "forms": [
+   "polygamous"
+  ],
+  "ar": "تعدّد الزوجات",
+  "ipa": "/pəˈlɪɡ.ə.mi/",
+  "pos": "noun",
+  "def": "The custom of having more than one wife at the same time.",
+  "arExplain": "عادة زواج الرجل بأكثر من امرأة، وكانت شائعة ومنظمة في مجتمعات كثيرة منها مجتمع الإيبو.",
+  "example": "In that society, polygamy was a sign of a man's wealth.",
+  "exampleAr": "في ذلك المجتمع كان تعدد الزوجات علامة على ثراء الرجل.",
+  "exampleRef": null,
+  "synonyms": [
+   "plural marriage"
+  ],
+  "antonyms": [
+   "monogamy"
+  ],
+  "level": "C1",
+  "category": "cultural"
+ },
+ {
+  "id": "inheritance",
+  "word": "inheritance",
+  "forms": [
+   "inherit",
+   "inherited"
+  ],
+  "ar": "ميراث",
+  "ipa": "/ɪnˈher.ɪ.təns/",
+  "pos": "noun",
+  "def": "Money or property that you receive from someone who has died.",
+  "arExplain": "ما يتركه المتوفى من مال أو أملاك لورثته.",
+  "example": "He received no inheritance, so he started with nothing.",
+  "exampleAr": "لم يرث شيئًا فبدأ من الصفر.",
+  "exampleRef": null,
+  "synonyms": [
+   "legacy",
+   "heritage"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "sharecropper",
+  "word": "sharecropper",
+  "forms": [
+   "sharecropping",
+   "sharecroppers"
+  ],
+  "ar": "مزارع بالمحاصصة",
+  "ipa": "/ˈʃeəˌkrɒp.ər/",
+  "pos": "noun",
+  "def": "A farmer who works on someone else's land or seed and gives part of the crop as payment.",
+  "arExplain": "مزارع يعمل بأرض غيره أو ببذوره ويعطيه جزءًا من المحصول مقابل ذلك.",
+  "example": "As a sharecropper, he kept only a third of what he grew.",
+  "exampleAr": "بصفته مزارعًا بالمحاصصة لم يحتفظ إلا بثلث ما زرعه.",
+  "exampleRef": null,
+  "synonyms": [
+   "tenant farmer"
+  ],
+  "antonyms": [
+   "landowner"
+  ],
+  "level": "C1",
+  "category": "historical"
+ },
+ {
+  "id": "yam",
+  "word": "yam",
+  "forms": [
+   "yams"
+  ],
+  "ar": "اليام (درنة غذائية)",
+  "ipa": "/jæm/",
+  "pos": "noun",
+  "def": "A large root vegetable that is a main food in West Africa.",
+  "arExplain": "درنة نشوية كبيرة تُعدّ الغذاء الرئيسي في غرب أفريقيا، وفي الرواية رمز للرجولة والثروة.",
+  "example": "Yam was the most important crop in the village.",
+  "exampleAr": "كان اليام أهم محصول في القرية.",
+  "exampleRef": null,
+  "synonyms": [
+   "tuber"
+  ],
+  "antonyms": [],
+  "level": "A2",
+  "category": "cultural"
+ },
+ {
+  "id": "seed-yam",
+  "word": "seed-yam",
+  "forms": [
+   "seed-yams",
+   "seed yams"
+  ],
+  "ar": "بذور اليام (درنات للزراعة)",
+  "ipa": "/ˈsiːd ˌjæm/",
+  "pos": "noun",
+  "def": "A yam or a piece of yam kept for planting, not for eating.",
+  "arExplain": "درنات يام تُحفظ للزراعة لا للأكل، والحصول عليها بداية طريق المزارع الشاب.",
+  "example": "The old man lent him four hundred seed-yams to start his farm.",
+  "exampleAr": "أقرضه الرجل العجوز أربعمئة درنة يام ليبدأ مزرعته.",
+  "exampleRef": null,
+  "synonyms": [
+   "planting stock"
+  ],
+  "antonyms": [],
+  "level": "B1",
+  "category": "cultural"
+ },
+ {
+  "id": "drought",
+  "word": "drought",
+  "forms": [
+   "droughts"
+  ],
+  "ar": "جفاف",
+  "ipa": "/draʊt/",
+  "pos": "noun",
+  "def": "A long period without rain.",
+  "arExplain": "مدة طويلة يقل فيها المطر فتتضرر الزروع.",
+  "example": "The drought destroyed half of the young plants.",
+  "exampleAr": "أهلك الجفاف نصف النباتات الصغيرة.",
+  "exampleRef": null,
+  "synonyms": [
+   "dry spell"
+  ],
+  "antonyms": [
+   "flood",
+   "downpour"
+  ],
+  "level": "B1",
+  "category": "intermediate"
+ },
+ {
+  "id": "resilient",
+  "word": "resilient",
+  "forms": [
+   "resilience"
+  ],
+  "ar": "صامد، قادر على التعافي",
+  "ipa": "/rɪˈzɪl.i.ənt/",
+  "pos": "adjective",
+  "def": "Able to recover quickly after difficulties.",
+  "arExplain": "يصف من ينهض بعد المصاعب ولا ينكسر.",
+  "example": "A resilient farmer plants again after a bad year.",
+  "exampleAr": "المزارع الصامد يزرع من جديد بعد سنة سيئة.",
+  "exampleRef": null,
+  "synonyms": [
+   "tough",
+   "strong"
+  ],
+  "antonyms": [
+   "fragile",
+   "weak"
+  ],
+  "level": "B2",
+  "category": "literary"
+ },
+ {
+  "id": "priestess",
+  "word": "priestess",
+  "forms": [
+   "priestesses"
+  ],
+  "ar": "كاهنة",
+  "ipa": "/ˌpriːˈstes/",
+  "pos": "noun",
+  "def": "A woman who performs religious duties and speaks for a god.",
+  "arExplain": "امرأة تتولى شؤون العبادة التقليدية وتتحدث باسم الإله في معتقد القوم.",
+  "example": "The priestess spoke in a loud, strange voice.",
+  "exampleAr": "تكلمت الكاهنة بصوت عالٍ غريب.",
+  "exampleRef": null,
+  "synonyms": [
+   "seer"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "cultural"
+ },
+ {
+  "id": "shrine",
+  "word": "shrine",
+  "forms": [
+   "shrines"
+  ],
+  "ar": "مزار، معبد صغير",
+  "ipa": "/ʃraɪn/",
+  "pos": "noun",
+  "def": "A holy place where people go to pray or make offerings.",
+  "arExplain": "مكان مقدس في المعتقد التقليدي يقصده الناس للدعاء أو تقديم القرابين.",
+  "example": "People walked for hours to reach the shrine in the hills.",
+  "exampleAr": "مشى الناس ساعات ليصلوا إلى المزار في التلال.",
+  "exampleRef": null,
+  "synonyms": [
+   "sanctuary",
+   "temple"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "cultural"
+ },
+ {
+  "id": "humble",
+  "word": "humble",
+  "forms": [
+   "humbly",
+   "humility"
+  ],
+  "ar": "متواضع؛ يُذِلّ",
+  "ipa": "/ˈhʌm.bəl/",
+  "pos": "adjective",
+  "def": "Not proud; having a low opinion of your own importance.",
+  "arExplain": "يصف من لا يتكبر ويعرف قدره.",
+  "example": "Even after his success, he remained humble.",
+  "exampleAr": "حتى بعد نجاحه ظل متواضعًا.",
+  "exampleRef": null,
+  "synonyms": [
+   "modest",
+   "meek"
+  ],
+  "antonyms": [
+   "arrogant",
+   "proud"
+  ],
+  "level": "B1",
+  "category": "intermediate"
+ },
+ {
+  "id": "sacrilege",
+  "word": "sacrilege",
+  "forms": [
+   "sacrilegious"
+  ],
+  "ar": "تدنيس المقدسات",
+  "ipa": "/ˈsæk.rə.lɪdʒ/",
+  "pos": "noun",
+  "def": "Treating something holy without respect.",
+  "arExplain": "الاعتداء على ما يعدّه الناس مقدسًا أو الاستهانة به.",
+  "example": "For the villagers, breaking the sacred peace was sacrilege.",
+  "exampleAr": "عدّ القرويون كسر السلام المقدس تدنيسًا للمقدسات.",
+  "exampleRef": null,
+  "synonyms": [
+   "desecration",
+   "profanity"
+  ],
+  "antonyms": [
+   "reverence"
+  ],
+  "level": "C1",
+  "category": "literary"
+ },
+ {
+  "id": "penalty",
+  "word": "penalty",
+  "forms": [
+   "penalties"
+  ],
+  "ar": "عقوبة، غرامة",
+  "ipa": "/ˈpen.əl.ti/",
+  "pos": "noun",
+  "def": "A punishment for breaking a rule, often a payment.",
+  "arExplain": "عقوبة تُفرض على من يخالف قاعدة، وقد تكون غرامة مالية أو عينية.",
+  "example": "The penalty was a goat, a hen and some cloth.",
+  "exampleAr": "كانت العقوبة عنزة ودجاجة وقطعة قماش.",
+  "exampleRef": null,
+  "synonyms": [
+   "fine",
+   "punishment"
+  ],
+  "antonyms": [
+   "reward"
+  ],
+  "level": "B1",
+  "category": "intermediate"
+ },
+ {
+  "id": "reprimand",
+  "word": "reprimand",
+  "forms": [
+   "reprimanded"
+  ],
+  "ar": "توبيخ؛ يوبّخ",
+  "ipa": "/ˈrep.rɪ.mɑːnd/",
+  "pos": "verb",
+  "def": "To tell someone officially that they have done wrong.",
+  "arExplain": "أن تلوم شخصًا رسميًا على خطئه.",
+  "example": "The teacher reprimanded the boy for being late.",
+  "exampleAr": "وبّخ المعلّم الولد لتأخره.",
+  "exampleRef": null,
+  "synonyms": [
+   "scold",
+   "rebuke"
+  ],
+  "antonyms": [
+   "praise"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "homesick",
+  "word": "homesick",
+  "forms": [
+   "homesickness"
+  ],
+  "ar": "مشتاق إلى الوطن",
+  "ipa": "/ˈhəʊm.sɪk/",
+  "pos": "adjective",
+  "def": "Sad because you are away from home and family.",
+  "arExplain": "حزين بسبب البعد عن البيت والأهل.",
+  "example": "In his first weeks at school, he was very homesick.",
+  "exampleAr": "في أسابيعه الأولى في المدرسة كان مشتاقًا جدًا إلى بيته.",
+  "exampleRef": null,
+  "synonyms": [
+   "nostalgic",
+   "lonely"
+  ],
+  "antonyms": [
+   "content"
+  ],
+  "level": "B1",
+  "category": "beginner"
+ },
+ {
+  "id": "temper",
+  "word": "temper",
+  "forms": [
+   "tempers",
+   "bad-tempered"
+  ],
+  "ar": "المزاج، سرعة الغضب",
+  "ipa": "/ˈtem.pər/",
+  "pos": "noun",
+  "def": "A tendency to become angry quickly.",
+  "arExplain": "الميل إلى الغضب السريع.",
+  "example": "He had a quick temper and often regretted his words.",
+  "exampleAr": "كان سريع الغضب وكثيرًا ما ندم على كلامه.",
+  "exampleRef": null,
+  "synonyms": [
+   "anger",
+   "irritability"
+  ],
+  "antonyms": [
+   "patience",
+   "calm"
+  ],
+  "level": "B1",
+  "category": "intermediate"
+ },
+ {
+  "id": "prestige",
+  "word": "prestige",
+  "forms": [
+   "prestigious"
+  ],
+  "ar": "هيبة، مكانة",
+  "ipa": "/presˈtiːʒ/",
+  "pos": "noun",
+  "def": "Respect and admiration that comes from success or high position.",
+  "arExplain": "الاحترام الذي يناله المرء بسبب نجاحه أو منزلته.",
+  "example": "Taking a title brought great prestige to his family.",
+  "exampleAr": "جلب نيل اللقب هيبة كبيرة لأسرته.",
+  "exampleRef": null,
+  "synonyms": [
+   "status",
+   "standing"
+  ],
+  "antonyms": [
+   "disgrace"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "harmony",
+  "word": "harmony",
+  "forms": [
+   "harmonious"
+  ],
+  "ar": "وئام، انسجام",
+  "ipa": "/ˈhɑː.mə.ni/",
+  "pos": "noun",
+  "def": "A peaceful state in which people agree and live well together.",
+  "arExplain": "حالة سلام وتوافق بين الناس.",
+  "example": "The festival was a time of harmony between neighbours.",
+  "exampleAr": "كان المهرجان وقت وئام بين الجيران.",
+  "exampleRef": null,
+  "synonyms": [
+   "peace",
+   "accord"
+  ],
+  "antonyms": [
+   "conflict",
+   "discord"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "feast",
+  "word": "feast",
+  "forms": [
+   "feasts",
+   "feasting"
+  ],
+  "ar": "وليمة، عيد",
+  "ipa": "/fiːst/",
+  "pos": "noun",
+  "def": "A large meal for many people to celebrate something.",
+  "arExplain": "طعام كثير يُقدَّم لجمع من الناس احتفالًا بمناسبة.",
+  "example": "The family prepared a feast for all their relatives.",
+  "exampleAr": "أعدّت الأسرة وليمة لكل أقاربها.",
+  "exampleRef": null,
+  "synonyms": [
+   "banquet",
+   "celebration"
+  ],
+  "antonyms": [
+   "fast"
+  ],
+  "level": "B1",
+  "category": "beginner"
+ },
+ {
+  "id": "ancestral",
+  "word": "ancestral",
+  "forms": [
+   "ancestor",
+   "ancestors"
+  ],
+  "ar": "متعلق بالأسلاف",
+  "ipa": "/ænˈses.trəl/",
+  "pos": "adjective",
+  "def": "Belonging to or coming from people in your family who lived long ago.",
+  "arExplain": "ما يخص الأجداد الأوائل أو يُورث عنهم.",
+  "example": "They returned to their ancestral village for the ceremony.",
+  "exampleAr": "عادوا إلى قرية أجدادهم من أجل الاحتفال.",
+  "exampleRef": null,
+  "synonyms": [
+   "inherited",
+   "hereditary"
+  ],
+  "antonyms": [
+   "modern"
+  ],
+  "level": "B2",
+  "category": "cultural"
+ },
+ {
+  "id": "kola-nut",
+  "word": "kola nut",
+  "forms": [
+   "kola",
+   "kola nuts"
+  ],
+  "ar": "جوزة الكولا",
+  "ipa": "/ˈkəʊ.lə nʌt/",
+  "pos": "noun",
+  "def": "A bitter nut that is broken and shared to welcome guests in many West African cultures.",
+  "arExplain": "ثمرة مُرّة تُكسر وتُقسم بين الضيوف في غرب أفريقيا، وهي رمز للترحيب والضيافة مثل تقديم القهوة عندنا.",
+  "example": "The host broke the kola nut and said a short prayer.",
+  "exampleAr": "كسر المضيف جوزة الكولا وقال دعاءً قصيرًا.",
+  "exampleRef": null,
+  "synonyms": [],
+  "antonyms": [],
+  "level": "B2",
+  "category": "cultural"
+ },
+ {
+  "id": "hospitality",
+  "word": "hospitality",
+  "forms": [
+   "hospitable"
+  ],
+  "ar": "الضيافة، كرم الاستقبال",
+  "ipa": "/ˌhɒs.pɪˈtæl.ə.ti/",
+  "pos": "noun",
+  "def": "Friendly and generous treatment of guests.",
+  "arExplain": "حسن استقبال الضيوف وإكرامهم.",
+  "example": "The village was known for its warm hospitality.",
+  "exampleAr": "عُرفت القرية بكرم ضيافتها.",
+  "exampleRef": null,
+  "synonyms": [
+   "generosity",
+   "welcome"
+  ],
+  "antonyms": [
+   "hostility"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "abundance",
+  "word": "abundance",
+  "forms": [
+   "abundant"
+  ],
+  "ar": "وفرة",
+  "ipa": "/əˈbʌn.dəns/",
+  "pos": "noun",
+  "def": "A very large quantity of something.",
+  "arExplain": "كمية كبيرة من الشيء تزيد عن الحاجة.",
+  "example": "There was an abundance of food at the festival.",
+  "exampleAr": "كان في المهرجان طعام وفير.",
+  "exampleRef": null,
+  "synonyms": [
+   "plenty",
+   "wealth"
+  ],
+  "antonyms": [
+   "scarcity",
+   "shortage"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "harvest",
+  "word": "harvest",
+  "forms": [
+   "harvests",
+   "harvested"
+  ],
+  "ar": "الحصاد",
+  "ipa": "/ˈhɑː.vɪst/",
+  "pos": "noun",
+  "def": "The time when crops are gathered, or the crops themselves.",
+  "arExplain": "وقت جمع المحصول، أو المحصول نفسه.",
+  "example": "Everyone helped with the harvest before the rains.",
+  "exampleAr": "ساعد الجميع في الحصاد قبل المطر.",
+  "exampleRef": null,
+  "synonyms": [
+   "crop",
+   "yield"
+  ],
+  "antonyms": [
+   "planting"
+  ],
+  "level": "A2",
+  "category": "cultural"
+ },
+ {
+  "id": "ritual",
+  "word": "ritual",
+  "forms": [
+   "rituals"
+  ],
+  "ar": "طقس، شعيرة",
+  "ipa": "/ˈrɪtʃ.u.əl/",
+  "pos": "noun",
+  "def": "A set of actions always done in the same way, often as part of a ceremony.",
+  "arExplain": "مجموعة أفعال تؤدى بطريقة ثابتة في مناسبة أو احتفال.",
+  "example": "Washing the pots was the first ritual of the festival.",
+  "exampleAr": "كان غسل القدور أول طقوس المهرجان.",
+  "exampleRef": null,
+  "synonyms": [
+   "rite",
+   "ceremony"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "cultural"
+ },
+ {
+  "id": "spectator",
+  "word": "spectator",
+  "forms": [
+   "spectators"
+  ],
+  "ar": "متفرّج",
+  "ipa": "/spekˈteɪ.tər/",
+  "pos": "noun",
+  "def": "A person who watches an event, especially a sports event.",
+  "arExplain": "من يشاهد حدثًا أو مباراة.",
+  "example": "The spectators shouted the names of their favourite wrestlers.",
+  "exampleAr": "هتف المتفرجون بأسماء مصارعيهم المفضلين.",
+  "exampleRef": null,
+  "synonyms": [
+   "onlooker",
+   "viewer"
+  ],
+  "antonyms": [
+   "participant"
+  ],
+  "level": "B1",
+  "category": "intermediate"
+ },
+ {
+  "id": "drum",
+  "word": "drum",
+  "forms": [
+   "drums",
+   "drummer",
+   "drummers"
+  ],
+  "ar": "طبل",
+  "ipa": "/drʌm/",
+  "pos": "noun",
+  "def": "A musical instrument that you hit with your hands or sticks.",
+  "arExplain": "آلة إيقاع، وكانت الطبول في القرية تنقل الأخبار وتصاحب الاحتفالات.",
+  "example": "The drums beat faster as the match began.",
+  "exampleAr": "تسارع قرع الطبول مع بدء المباراة.",
+  "exampleRef": null,
+  "synonyms": [
+   "tom-tom"
+  ],
+  "antonyms": [],
+  "level": "A2",
+  "category": "beginner"
+ },
+ {
+  "id": "triumph",
+  "word": "triumph",
+  "forms": [
+   "triumphant"
+  ],
+  "ar": "انتصار",
+  "ipa": "/ˈtraɪ.əmf/",
+  "pos": "noun",
+  "def": "A great victory or success, and the joy it brings.",
+  "arExplain": "نصر كبير والفرحة المصاحبة له.",
+  "example": "The young wrestler raised his arms in triumph.",
+  "exampleAr": "رفع المصارع الشاب ذراعيه منتصرًا.",
+  "exampleRef": null,
+  "synonyms": [
+   "victory",
+   "success"
+  ],
+  "antonyms": [
+   "defeat",
+   "failure"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "grief",
+  "word": "grief",
+  "forms": [
+   "grieve",
+   "grieving"
+  ],
+  "ar": "حزن شديد، أسى",
+  "ipa": "/ɡriːf/",
+  "pos": "noun",
+  "def": "Very great sadness, especially when someone dies.",
+  "arExplain": "حزن عميق، خاصة عند فقد عزيز.",
+  "example": "The mother's grief was deep after each loss.",
+  "exampleAr": "كان حزن الأم عميقًا بعد كل فقد.",
+  "exampleRef": null,
+  "synonyms": [
+   "sorrow",
+   "mourning"
+  ],
+  "antonyms": [
+   "joy"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "agile",
+  "word": "agile",
+  "forms": [
+   "agility"
+  ],
+  "ar": "رشيق، خفيف الحركة",
+  "ipa": "/ˈædʒ.aɪl/",
+  "pos": "adjective",
+  "def": "Able to move quickly and easily.",
+  "arExplain": "يصف من يتحرك بسرعة وخفة.",
+  "example": "The smaller wrestler was more agile than his opponent.",
+  "exampleAr": "كان المصارع الأصغر أخف حركة من خصمه.",
+  "exampleRef": null,
+  "synonyms": [
+   "nimble",
+   "quick"
+  ],
+  "antonyms": [
+   "clumsy"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "locust",
+  "word": "locust",
+  "forms": [
+   "locusts"
+  ],
+  "ar": "جراد",
+  "ipa": "/ˈləʊ.kəst/",
+  "pos": "noun",
+  "def": "A large insect that flies in huge groups and eats crops.",
+  "arExplain": "حشرة تطير في أسراب ضخمة؛ وكان بعض الناس يجمعونها ويأكلونها.",
+  "example": "The children ran outside to see the cloud of locusts.",
+  "exampleAr": "ركض الأطفال إلى الخارج ليروا سرب الجراد.",
+  "exampleRef": null,
+  "synonyms": [
+   "grasshopper"
+  ],
+  "antonyms": [],
+  "level": "B1",
+  "category": "beginner"
+ },
+ {
+  "id": "oracle",
+  "word": "oracle",
+  "forms": [
+   "oracles"
+  ],
+  "ar": "العرّافة، مصدر الوحي (في المعتقد التقليدي)",
+  "ipa": "/ˈɒr.ə.kəl/",
+  "pos": "noun",
+  "def": "A place or priest through which people believed a god gave answers and commands.",
+  "arExplain": "في المعتقد التقليدي: مكان أو كاهن يعتقد الناس أن الإله يجيب من خلاله ويأمر.",
+  "example": "The villagers believed that the oracle's word could not be questioned.",
+  "exampleAr": "اعتقد القرويون أن قول العرّافة لا يُناقش.",
+  "exampleRef": null,
+  "synonyms": [
+   "prophet",
+   "seer"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "cultural"
+ },
+ {
+  "id": "decree",
+  "word": "decree",
+  "forms": [
+   "decreed",
+   "decrees"
+  ],
+  "ar": "أمر، مرسوم",
+  "ipa": "/dɪˈkriː/",
+  "pos": "noun",
+  "def": "An official order that must be obeyed.",
+  "arExplain": "أمر رسمي واجب التنفيذ.",
+  "example": "The king issued a decree that closed all markets.",
+  "exampleAr": "أصدر الملك مرسومًا بإغلاق كل الأسواق.",
+  "exampleRef": null,
+  "synonyms": [
+   "order",
+   "ruling"
+  ],
+  "antonyms": [],
+  "level": "C1",
+  "category": "political"
+ },
+ {
+  "id": "sacrifice",
+  "word": "sacrifice",
+  "forms": [
+   "sacrificed",
+   "sacrifices"
+  ],
+  "ar": "تضحية؛ قُربان",
+  "ipa": "/ˈsæk.rɪ.faɪs/",
+  "pos": "noun",
+  "def": "Giving up something valuable, or killing an animal as an offering to a god.",
+  "arExplain": "التخلي عن شيء ثمين، أو قربان يُقدَّم في المعتقد التقليدي.",
+  "example": "Parents often make sacrifices for their children.",
+  "exampleAr": "كثيرًا ما يضحي الآباء من أجل أبنائهم.",
+  "exampleRef": null,
+  "synonyms": [
+   "offering",
+   "surrender"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "masculinity",
+  "word": "masculinity",
+  "forms": [
+   "masculine",
+   "manliness",
+   "manly"
+  ],
+  "ar": "الرجولة (بمفهومها الاجتماعي)",
+  "ipa": "/ˌmæs.kjəˈlɪn.ə.ti/",
+  "pos": "noun",
+  "def": "Qualities that a society thinks are typical of men.",
+  "arExplain": "الصفات التي يعدّها المجتمع رجولية، وهي فكرة محورية في الرواية.",
+  "example": "The novel asks what true masculinity really means.",
+  "exampleAr": "تسأل الرواية عن معنى الرجولة الحقيقية.",
+  "exampleRef": null,
+  "synonyms": [
+   "manliness",
+   "manhood"
+  ],
+  "antonyms": [
+   "femininity"
+  ],
+  "level": "C1",
+  "category": "literary"
+ },
+ {
+  "id": "betray",
+  "word": "betray",
+  "forms": [
+   "betrayed",
+   "betrayal"
+  ],
+  "ar": "يخون",
+  "ipa": "/bɪˈtreɪ/",
+  "pos": "verb",
+  "def": "To hurt someone who trusts you.",
+  "arExplain": "أن تؤذي من وثق بك أو تتخلى عنه.",
+  "example": "He felt that his best friend had betrayed him.",
+  "exampleAr": "شعر أن صديقه المقرّب قد خانه.",
+  "exampleRef": null,
+  "synonyms": [
+   "deceive",
+   "abandon"
+  ],
+  "antonyms": [
+   "protect",
+   "support"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "folktale",
+  "word": "folktale",
+  "forms": [
+   "folktales",
+   "folk tale"
+  ],
+  "ar": "حكاية شعبية",
+  "ipa": "/ˈfəʊk.teɪl/",
+  "pos": "noun",
+  "def": "A traditional story passed down by people telling it aloud.",
+  "arExplain": "قصة متوارثة يرويها الكبار للصغار شفهيًا.",
+  "example": "Every evening, the mother told her children a folktale.",
+  "exampleAr": "كل مساء كانت الأم تحكي لأطفالها حكاية شعبية.",
+  "exampleRef": null,
+  "synonyms": [
+   "legend",
+   "fable"
+  ],
+  "antonyms": [],
+  "level": "B1",
+  "category": "cultural"
+ },
+ {
+  "id": "weakness",
+  "word": "weakness",
+  "forms": [
+   "weak",
+   "weaknesses"
+  ],
+  "ar": "ضعف",
+  "ipa": "/ˈwiːk.nəs/",
+  "pos": "noun",
+  "def": "The state of not being strong.",
+  "arExplain": "قلة القوة جسدية كانت أو نفسية.",
+  "example": "He was afraid that others would see his weakness.",
+  "exampleAr": "كان يخشى أن يرى الآخرون ضعفه.",
+  "exampleRef": null,
+  "synonyms": [
+   "frailty"
+  ],
+  "antonyms": [
+   "strength"
+  ],
+  "level": "B1",
+  "category": "beginner"
+ },
+ {
+  "id": "kinsman",
+  "word": "kinsman",
+  "forms": [
+   "kinsmen",
+   "kinswoman"
+  ],
+  "ar": "قريب (من العشيرة)",
+  "ipa": "/ˈkɪnz.mən/",
+  "pos": "noun",
+  "def": "A man who belongs to the same family or clan.",
+  "arExplain": "رجل من الأهل أو العشيرة.",
+  "example": "His kinsmen came from far villages to help him.",
+  "exampleAr": "جاء أقاربه من قرى بعيدة ليساعدوه.",
+  "exampleRef": null,
+  "synonyms": [
+   "relative",
+   "clansman"
+  ],
+  "antonyms": [
+   "stranger"
+  ],
+  "level": "B2",
+  "category": "cultural"
+ },
+ {
+  "id": "remorse",
+  "word": "remorse",
+  "forms": [
+   "remorseful"
+  ],
+  "ar": "ندم، تأنيب الضمير",
+  "ipa": "/rɪˈmɔːs/",
+  "pos": "noun",
+  "def": "A strong feeling of being sorry for something wrong you did.",
+  "arExplain": "شعور قوي بالندم على خطأ ارتكبته.",
+  "example": "He could not sleep because of his remorse.",
+  "exampleAr": "لم يستطع النوم بسبب ندمه.",
+  "exampleRef": null,
+  "synonyms": [
+   "regret",
+   "guilt"
+  ],
+  "antonyms": [
+   "satisfaction"
+  ],
+  "level": "C1",
+  "category": "literary"
+ },
+ {
+  "id": "guilt",
+  "word": "guilt",
+  "forms": [
+   "guilty"
+  ],
+  "ar": "الشعور بالذنب",
+  "ipa": "/ɡɪlt/",
+  "pos": "noun",
+  "def": "The feeling that you have done something wrong.",
+  "arExplain": "إحساس بأنك ارتكبت خطأ.",
+  "example": "She was full of guilt after shouting at her brother.",
+  "exampleAr": "امتلأت بالشعور بالذنب بعد أن صرخت في أخيها.",
+  "exampleRef": null,
+  "synonyms": [
+   "shame",
+   "remorse"
+  ],
+  "antonyms": [
+   "innocence"
+  ],
+  "level": "B1",
+  "category": "intermediate"
+ },
+ {
+  "id": "bride-price",
+  "word": "bride price",
+  "forms": [
+   "bride-price",
+   "bride wealth"
+  ],
+  "ar": "المهر (يدفعه أهل الزوج)",
+  "ipa": "/ˈbraɪd praɪs/",
+  "pos": "noun",
+  "def": "Money or goods that a man's family gives to the family of the woman he marries.",
+  "arExplain": "ما تدفعه أسرة العريس لأسرة العروس، يشبه المهر في ثقافتنا.",
+  "example": "The two families talked for hours to agree on the bride price.",
+  "exampleAr": "تحدثت الأسرتان ساعات للاتفاق على المهر.",
+  "exampleRef": null,
+  "synonyms": [
+   "dowry"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "cultural"
+ },
+ {
+  "id": "dowry",
+  "word": "dowry",
+  "forms": [
+   "dowries"
+  ],
+  "ar": "المهر",
+  "ipa": "/ˈdaʊ.ri/",
+  "pos": "noun",
+  "def": "Money or property given at the time of a marriage.",
+  "arExplain": "مال أو متاع يُقدّم عند الزواج؛ وفي سياق الرواية يقصد به ما يقدمه أهل العريس.",
+  "example": "In many cultures, the dowry is discussed by the elders.",
+  "exampleAr": "في ثقافات كثيرة يتفاوض الكبار على المهر.",
+  "exampleRef": null,
+  "synonyms": [
+   "bride price",
+   "marriage gift"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "cultural"
+ },
+ {
+  "id": "negotiate",
+  "word": "negotiate",
+  "forms": [
+   "negotiated",
+   "negotiation"
+  ],
+  "ar": "يتفاوض",
+  "ipa": "/nəˈɡəʊ.ʃi.eɪt/",
+  "pos": "verb",
+  "def": "To discuss something in order to reach an agreement.",
+  "arExplain": "أن يتحاور الطرفان للوصول إلى اتفاق.",
+  "example": "The elders negotiated calmly for most of the evening.",
+  "exampleAr": "تفاوض الشيوخ بهدوء معظم المساء.",
+  "exampleRef": null,
+  "synonyms": [
+   "bargain",
+   "discuss"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "custom",
+  "word": "custom",
+  "forms": [
+   "customs",
+   "customary"
+  ],
+  "ar": "عادة، عُرف",
+  "ipa": "/ˈkʌs.təm/",
+  "pos": "noun",
+  "def": "A traditional way of behaving in a society.",
+  "arExplain": "طريقة متوارثة في السلوك يتبعها المجتمع.",
+  "example": "It is a custom to greet the elders first.",
+  "exampleAr": "من العادة أن يُحيّا الكبار أولًا.",
+  "exampleRef": null,
+  "synonyms": [
+   "tradition",
+   "practice"
+  ],
+  "antonyms": [],
+  "level": "B1",
+  "category": "cultural"
+ },
+ {
+  "id": "palm-wine",
+  "word": "palm-wine",
+  "forms": [
+   "palm wine"
+  ],
+  "ar": "نبيذ النخيل (شراب تقليدي)",
+  "ipa": "/ˈpɑːm waɪn/",
+  "pos": "noun",
+  "def": "A traditional drink made from the sap of palm trees, shared at social gatherings in West Africa.",
+  "arExplain": "شراب تقليدي من عصارة النخيل كان جزءًا من الضيافة والمناسبات في غرب أفريقيا؛ نذكره هنا لأنه من ثقافة الرواية.",
+  "example": "In the story, guests are welcomed with palm-wine and kola nut.",
+  "exampleAr": "في القصة يُستقبل الضيوف بنبيذ النخيل وجوز الكولا.",
+  "exampleRef": null,
+  "synonyms": [],
+  "antonyms": [],
+  "level": "B2",
+  "category": "cultural"
+ },
+ {
+  "id": "ogbanje",
+  "word": "ogbanje",
+  "forms": [],
+  "ar": "أوغبانجي (طفل يُعتقد أنه يموت ويعود)",
+  "ipa": "/ɒɡˈbɑːn.dʒeɪ/",
+  "pos": "noun (Igbo)",
+  "def": "In Igbo belief, a child who is thought to die and be born again many times to the same mother.",
+  "arExplain": "في معتقد الإيبو: طفل يُظن أنه يموت ثم يولد من جديد للأم نفسها مرارًا، وهو تفسير قديم لوفاة الأطفال المتكررة.",
+  "example": "The worried parents feared that their daughter was an ogbanje.",
+  "exampleAr": "خشي الوالدان القلقان أن تكون ابنتهما أوغبانجي.",
+  "exampleRef": null,
+  "synonyms": [],
+  "antonyms": [],
+  "level": "C1",
+  "category": "cultural"
+ },
+ {
+  "id": "iyi-uwa",
+  "word": "iyi-uwa",
+  "forms": [],
+  "ar": "إيي-أوا (حجر الرابطة الروحية)",
+  "ipa": "/ˈiː.ji ˈuː.wɑː/",
+  "pos": "noun (Igbo)",
+  "def": "In Igbo belief, a hidden object (often a stone) that links an ogbanje child to the spirit world.",
+  "arExplain": "في معتقد الإيبو: شيء مخبوء (غالبًا حجر) يُعتقد أنه يربط طفل الأوغبانجي بعالم الأرواح، فإذا وُجد اطمأن الأهل.",
+  "example": "The family felt safe once the iyi-uwa was found.",
+  "exampleAr": "شعرت الأسرة بالأمان بعد العثور على الإيي-أوا.",
+  "exampleRef": null,
+  "synonyms": [],
+  "antonyms": [],
+  "level": "C1",
+  "category": "cultural"
+ },
+ {
+  "id": "medicine-man",
+  "word": "medicine man",
+  "forms": [
+   "medicine-man",
+   "medicine men"
+  ],
+  "ar": "المعالج الشعبي",
+  "ipa": "/ˈmed.ɪ.sən mæn/",
+  "pos": "noun",
+  "def": "A traditional healer who uses herbs and rituals.",
+  "arExplain": "معالج تقليدي يستخدم الأعشاب والطقوس.",
+  "example": "The medicine man asked the girl many questions.",
+  "exampleAr": "سأل المعالج الشعبي الفتاة أسئلة كثيرة.",
+  "exampleRef": null,
+  "synonyms": [
+   "healer",
+   "herbalist"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "cultural"
+ },
+ {
+  "id": "herb",
+  "word": "herb",
+  "forms": [
+   "herbs",
+   "herbal"
+  ],
+  "ar": "عُشب (طبي)",
+  "ipa": "/hɜːb/",
+  "pos": "noun",
+  "def": "A plant whose leaves or roots are used in medicine or cooking.",
+  "arExplain": "نبات تُستخدم أوراقه أو جذوره في الطب أو الطبخ.",
+  "example": "He boiled the herbs in a large pot.",
+  "exampleAr": "غلى الأعشاب في قدر كبير.",
+  "exampleRef": null,
+  "synonyms": [
+   "plant"
+  ],
+  "antonyms": [],
+  "level": "A2",
+  "category": "beginner"
+ },
+ {
+  "id": "fever",
+  "word": "fever",
+  "forms": [
+   "feverish"
+  ],
+  "ar": "حُمّى",
+  "ipa": "/ˈfiː.vər/",
+  "pos": "noun",
+  "def": "A high body temperature caused by illness.",
+  "arExplain": "ارتفاع حرارة الجسم بسبب المرض.",
+  "example": "The child had a fever all night.",
+  "exampleAr": "أصابت الطفلَ الحمى طوال الليل.",
+  "exampleRef": null,
+  "synonyms": [
+   "temperature"
+  ],
+  "antonyms": [],
+  "level": "A2",
+  "category": "beginner"
+ },
+ {
+  "id": "anxious",
+  "word": "anxious",
+  "forms": [
+   "anxiety",
+   "anxiously"
+  ],
+  "ar": "قلق",
+  "ipa": "/ˈæŋk.ʃəs/",
+  "pos": "adjective",
+  "def": "Worried and nervous.",
+  "arExplain": "يصف من يشعر بالقلق والتوتر.",
+  "example": "She waited anxiously by the door all night.",
+  "exampleAr": "انتظرت بقلق عند الباب طوال الليل.",
+  "exampleRef": null,
+  "synonyms": [
+   "worried",
+   "uneasy"
+  ],
+  "antonyms": [
+   "calm",
+   "relaxed"
+  ],
+  "level": "B1",
+  "category": "intermediate"
+ },
+ {
+  "id": "devoted",
+  "word": "devoted",
+  "forms": [
+   "devotion",
+   "devote"
+  ],
+  "ar": "مخلص، متفانٍ",
+  "ipa": "/dɪˈvəʊ.tɪd/",
+  "pos": "adjective",
+  "def": "Loving and loyal; giving a lot of time and care.",
+  "arExplain": "يصف من يحب ويخلص ويبذل وقته ورعايته.",
+  "example": "She was a devoted mother who never left her child alone.",
+  "exampleAr": "كانت أمًّا متفانية لا تترك طفلتها وحدها.",
+  "exampleRef": null,
+  "synonyms": [
+   "loyal",
+   "dedicated"
+  ],
+  "antonyms": [
+   "indifferent"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "egwugwu",
+  "word": "egwugwu",
+  "forms": [],
+  "ar": "الإغووغوو (أرواح الأسلاف المقنّعة)",
+  "ipa": "/eɪˈɡwuː.ɡwuː/",
+  "pos": "noun (Igbo)",
+  "def": "Masked figures representing the ancestral spirits of the clan, who also act as judges.",
+  "arExplain": "شخصيات مقنّعة تمثّل أرواح أسلاف العشيرة، وتقوم بدور القضاة في النزاعات. يؤديها رجال من القرية لكن الناس يعاملونها باحترام وتقديس.",
+  "example": "The egwugwu came out of their house to judge the case.",
+  "exampleAr": "خرج الإغووغوو من دارهم ليقضوا في القضية.",
+  "exampleRef": null,
+  "synonyms": [],
+  "antonyms": [],
+  "level": "C1",
+  "category": "cultural"
+ },
+ {
+  "id": "masquerade",
+  "word": "masquerade",
+  "forms": [
+   "masquerades"
+  ],
+  "ar": "التنكّر الطقسي (المقنّعون)",
+  "ipa": "/ˌmæs.kəˈreɪd/",
+  "pos": "noun",
+  "def": "In West African cultures, a ceremony with masked dancers who represent spirits.",
+  "arExplain": "في ثقافات غرب أفريقيا: احتفال يظهر فيه راقصون مقنّعون يمثّلون الأرواح.",
+  "example": "The children hid behind their mothers when the masquerade appeared.",
+  "exampleAr": "اختبأ الأطفال خلف أمهاتهم حين ظهر المقنّعون.",
+  "exampleRef": null,
+  "synonyms": [
+   "mask ceremony"
+  ],
+  "antonyms": [],
+  "level": "C1",
+  "category": "cultural"
+ },
+ {
+  "id": "mask",
+  "word": "mask",
+  "forms": [
+   "masks",
+   "masked"
+  ],
+  "ar": "قناع",
+  "ipa": "/mɑːsk/",
+  "pos": "noun",
+  "def": "A cover worn over the face to hide it or to represent a spirit or character.",
+  "arExplain": "غطاء للوجه يُلبس لإخفائه أو لتمثيل روح أو شخصية.",
+  "example": "The carved mask was painted in red and white.",
+  "exampleAr": "كان القناع المنحوت ملوّنًا بالأحمر والأبيض.",
+  "exampleRef": null,
+  "synonyms": [
+   "disguise"
+  ],
+  "antonyms": [],
+  "level": "A2",
+  "category": "beginner"
+ },
+ {
+  "id": "dispute",
+  "word": "dispute",
+  "forms": [
+   "disputes",
+   "disputed"
+  ],
+  "ar": "نزاع، خلاف",
+  "ipa": "/dɪˈspjuːt/",
+  "pos": "noun",
+  "def": "A serious disagreement.",
+  "arExplain": "خلاف جدي بين طرفين.",
+  "example": "The dispute over the farmland lasted many years.",
+  "exampleAr": "استمر النزاع على الأرض الزراعية سنوات طويلة.",
+  "exampleRef": null,
+  "synonyms": [
+   "quarrel",
+   "conflict"
+  ],
+  "antonyms": [
+   "agreement"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "verdict",
+  "word": "verdict",
+  "forms": [
+   "verdicts"
+  ],
+  "ar": "حُكم (قضائي)",
+  "ipa": "/ˈvɜː.dɪkt/",
+  "pos": "noun",
+  "def": "The decision made at the end of a trial.",
+  "arExplain": "القرار الذي يصدر في نهاية المحاكمة.",
+  "example": "Everyone waited quietly for the verdict.",
+  "exampleAr": "انتظر الجميع الحكم بصمت.",
+  "exampleRef": null,
+  "synonyms": [
+   "judgement",
+   "ruling"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "justice",
+  "word": "justice",
+  "forms": [
+   "just",
+   "unjust"
+  ],
+  "ar": "العدل",
+  "ipa": "/ˈdʒʌs.tɪs/",
+  "pos": "noun",
+  "def": "Fair treatment and the system of making fair decisions.",
+  "arExplain": "المعاملة المنصفة، ونظام الحكم بالإنصاف.",
+  "example": "The villagers believed their elders gave fair justice.",
+  "exampleAr": "اعتقد القرويون أن شيوخهم يحكمون بالعدل.",
+  "exampleRef": null,
+  "synonyms": [
+   "fairness"
+  ],
+  "antonyms": [
+   "injustice"
+  ],
+  "level": "B1",
+  "category": "intermediate"
+ },
+ {
+  "id": "elder",
+  "word": "elder",
+  "forms": [
+   "elders"
+  ],
+  "ar": "شيخ، كبير القوم",
+  "ipa": "/ˈel.dər/",
+  "pos": "noun",
+  "def": "An older, respected person in a community who helps make decisions.",
+  "arExplain": "شخص كبير السن محترم في المجتمع يشارك في اتخاذ القرارات.",
+  "example": "The elders met under the big tree.",
+  "exampleAr": "اجتمع الشيوخ تحت الشجرة الكبيرة.",
+  "exampleRef": null,
+  "synonyms": [
+   "senior",
+   "chief"
+  ],
+  "antonyms": [
+   "youth"
+  ],
+  "level": "B1",
+  "category": "cultural"
+ },
+ {
+  "id": "reconcile",
+  "word": "reconcile",
+  "forms": [
+   "reconciled",
+   "reconciliation"
+  ],
+  "ar": "يُصالح، يوفّق",
+  "ipa": "/ˈrek.ən.saɪl/",
+  "pos": "verb",
+  "def": "To make people friendly again after an argument; to make two different ideas fit together.",
+  "arExplain": "أن تُعيد الوئام بين متخاصمين، أو توفق بين فكرتين مختلفتين.",
+  "example": "The elders tried to reconcile the husband and his wife's family.",
+  "exampleAr": "حاول الشيوخ أن يصالحوا الزوج وأهل زوجته.",
+  "exampleRef": null,
+  "synonyms": [
+   "make peace",
+   "settle"
+  ],
+  "antonyms": [
+   "divide",
+   "alienate"
+  ],
+  "level": "C1",
+  "category": "literary"
+ },
+ {
+  "id": "ndichie",
+  "word": "ndichie",
+  "forms": [],
+  "ar": "النديتشي (مجلس الشيوخ)",
+  "ipa": "/ənˈdiː.tʃi.eɪ/",
+  "pos": "noun (Igbo)",
+  "def": "The elders of the clan; the respected senior men who advise and decide.",
+  "arExplain": "شيوخ العشيرة أصحاب الرأي والمكانة الذين يُستشارون في الأمور الكبرى.",
+  "example": "The ndichie met to decide what the clan should do.",
+  "exampleAr": "اجتمع النديتشي ليقرروا ما ينبغي أن تفعله العشيرة.",
+  "exampleRef": null,
+  "synonyms": [
+   "elders",
+   "council"
+  ],
+  "antonyms": [],
+  "level": "C1",
+  "category": "cultural"
+ },
+ {
+  "id": "assembly",
+  "word": "assembly",
+  "forms": [
+   "assemblies",
+   "assemble"
+  ],
+  "ar": "اجتماع، جمعية",
+  "ipa": "/əˈsem.bli/",
+  "pos": "noun",
+  "def": "A large group of people who meet to discuss or decide something.",
+  "arExplain": "تجمع كبير للناس للتشاور أو اتخاذ القرار.",
+  "example": "The assembly met in the marketplace at dawn.",
+  "exampleAr": "انعقد الاجتماع في ساحة السوق عند الفجر.",
+  "exampleRef": null,
+  "synonyms": [
+   "gathering",
+   "meeting"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "political"
+ },
+ {
+  "id": "cunning",
+  "word": "cunning",
+  "forms": [],
+  "ar": "ماكر، داهية",
+  "ipa": "/ˈkʌn.ɪŋ/",
+  "pos": "adjective",
+  "def": "Clever at getting what you want, often by tricking others.",
+  "arExplain": "يصف من يبلغ مراده بالحيلة والذكاء، وغالبًا بخداع الآخرين.",
+  "example": "In the story, the cunning tortoise tricks the birds.",
+  "exampleAr": "في الحكاية تخدع السلحفاة الماكرة الطيور.",
+  "exampleRef": null,
+  "synonyms": [
+   "sly",
+   "crafty"
+  ],
+  "antonyms": [
+   "naive",
+   "honest"
+  ],
+  "level": "B2",
+  "category": "literary"
+ },
+ {
+  "id": "agbala",
+  "word": "Agbala",
+  "forms": [],
+  "ar": "أغبالا (الوحي في التلال والكهوف)",
+  "ipa": "/æɡˈbɑː.lɑː/",
+  "pos": "noun (Igbo)",
+  "def": "The name of the oracle of the Hills and the Caves in the novel; the word is also used as an insult for a man with no title.",
+  "arExplain": "اسم الوحي الذي يسكن التلال والكهوف في الرواية، وتتحدث باسمه الكاهنة. وتُستعمل الكلمة أيضًا للانتقاص من رجل بلا لقب.",
+  "example": "People came to Agbala to ask about their future.",
+  "exampleAr": "كان الناس يقصدون أغبالا ليسألوا عن مستقبلهم.",
+  "exampleRef": null,
+  "synonyms": [],
+  "antonyms": [],
+  "level": "C1",
+  "category": "cultural"
+ },
+ {
+  "id": "pursue",
+  "word": "pursue",
+  "forms": [
+   "pursued",
+   "pursuit"
+  ],
+  "ar": "يلاحق، يتبع",
+  "ipa": "/pəˈsjuː/",
+  "pos": "verb",
+  "def": "To follow someone in order to catch them or to see where they go.",
+  "arExplain": "أن تتبع شخصًا لتلحق به أو تعرف وجهته.",
+  "example": "The mother pursued them through the dark forest.",
+  "exampleAr": "لاحقتهم الأم عبر الغابة المظلمة.",
+  "exampleRef": null,
+  "synonyms": [
+   "follow",
+   "chase"
+  ],
+  "antonyms": [
+   "abandon",
+   "flee"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "courage",
+  "word": "courage",
+  "forms": [
+   "courageous"
+  ],
+  "ar": "الشجاعة",
+  "ipa": "/ˈkʌr.ɪdʒ/",
+  "pos": "noun",
+  "def": "The ability to face danger or difficulty without fear.",
+  "arExplain": "القدرة على مواجهة الخطر دون خوف.",
+  "example": "It took great courage to walk alone in the night.",
+  "exampleAr": "تطلّب المشي وحيدًا في الليل شجاعة كبيرة.",
+  "exampleRef": null,
+  "synonyms": [
+   "bravery"
+  ],
+  "antonyms": [
+   "cowardice"
+  ],
+  "level": "B1",
+  "category": "intermediate"
+ },
+ {
+  "id": "uri",
+  "word": "uri",
+  "forms": [],
+  "ar": "الأوري (حفل الخطوبة)",
+  "ipa": "/ˈuː.ri/",
+  "pos": "noun (Igbo)",
+  "def": "An Igbo betrothal ceremony at which the suitor's family brings gifts and drinks to the bride's family.",
+  "arExplain": "حفل خطوبة عند الإيبو يُقدّم فيه أهل الخاطب الهدايا والضيافة لأهل العروس، ويحضره الأقارب والجيران.",
+  "example": "Women from the whole neighbourhood helped cook for the uri.",
+  "exampleAr": "ساعدت نساء الحي كله في الطبخ لحفل الأوري.",
+  "exampleRef": null,
+  "synonyms": [
+   "betrothal"
+  ],
+  "antonyms": [],
+  "level": "C1",
+  "category": "cultural"
+ },
+ {
+  "id": "betrothal",
+  "word": "betrothal",
+  "forms": [
+   "betrothed"
+  ],
+  "ar": "الخطوبة",
+  "ipa": "/bɪˈtrəʊ.ðəl/",
+  "pos": "noun",
+  "def": "A formal agreement to marry.",
+  "arExplain": "اتفاق رسمي على الزواج.",
+  "example": "The betrothal was celebrated with music and food.",
+  "exampleAr": "احتُفل بالخطوبة بالموسيقى والطعام.",
+  "exampleRef": null,
+  "synonyms": [
+   "engagement"
+  ],
+  "antonyms": [],
+  "level": "C1",
+  "category": "literary"
+ },
+ {
+  "id": "relief",
+  "word": "relief",
+  "forms": [
+   "relieved"
+  ],
+  "ar": "ارتياح",
+  "ipa": "/rɪˈliːf/",
+  "pos": "noun",
+  "def": "A happy feeling when something worrying has ended.",
+  "arExplain": "شعور بالراحة بعد زوال القلق.",
+  "example": "To her great relief, her daughter came home safe.",
+  "exampleAr": "لارتياحها الكبير عادت ابنتها سالمة.",
+  "exampleRef": null,
+  "synonyms": [
+   "comfort",
+   "ease"
+  ],
+  "antonyms": [
+   "anxiety"
+  ],
+  "level": "B1",
+  "category": "intermediate"
+ },
+ {
+  "id": "rite",
+  "word": "rite",
+  "forms": [
+   "rites"
+  ],
+  "ar": "شعيرة، طقس",
+  "ipa": "/raɪt/",
+  "pos": "noun",
+  "def": "A traditional ceremony, especially a religious one.",
+  "arExplain": "احتفال تقليدي له معنى ديني أو اجتماعي.",
+  "example": "Marriage rites differed from one village to another.",
+  "exampleAr": "اختلفت طقوس الزواج من قرية إلى أخرى.",
+  "exampleRef": null,
+  "synonyms": [
+   "ceremony",
+   "ritual"
+  ],
+  "antonyms": [],
+  "level": "C1",
+  "category": "cultural"
+ },
+ {
+  "id": "ceremony",
+  "word": "ceremony",
+  "forms": [
+   "ceremonies",
+   "ceremonial"
+  ],
+  "ar": "مراسم، حفل",
+  "ipa": "/ˈser.ɪ.mə.ni/",
+  "pos": "noun",
+  "def": "A formal public event to mark an important occasion.",
+  "arExplain": "حفل رسمي لمناسبة مهمة.",
+  "example": "The ceremony began when the eldest guest arrived.",
+  "exampleAr": "بدأت المراسم حين وصل أكبر الضيوف سنًا.",
+  "exampleRef": null,
+  "synonyms": [
+   "celebration",
+   "rite"
+  ],
+  "antonyms": [],
+  "level": "B1",
+  "category": "intermediate"
+ },
+ {
+  "id": "funeral",
+  "word": "funeral",
+  "forms": [
+   "funerals"
+  ],
+  "ar": "جنازة",
+  "ipa": "/ˈfjuː.nər.əl/",
+  "pos": "noun",
+  "def": "The ceremony held after a person dies.",
+  "arExplain": "المراسم التي تقام بعد وفاة شخص.",
+  "example": "Hundreds of people came to the funeral of the old warrior.",
+  "exampleAr": "جاء المئات إلى جنازة المحارب العجوز.",
+  "exampleRef": null,
+  "synonyms": [
+   "burial"
+  ],
+  "antonyms": [],
+  "level": "B1",
+  "category": "beginner"
+ },
+ {
+  "id": "exile",
+  "word": "exile",
+  "forms": [
+   "exiled"
+  ],
+  "ar": "منفى؛ ينفي",
+  "ipa": "/ˈek.saɪl/",
+  "pos": "noun",
+  "def": "The state of being sent away from your home country or town, usually as a punishment.",
+  "arExplain": "إبعاد الشخص عن بلده أو قريته، غالبًا عقوبةً.",
+  "example": "He spent seven long years in exile.",
+  "exampleAr": "قضى سبع سنوات طويلة في المنفى.",
+  "exampleRef": null,
+  "synonyms": [
+   "banishment"
+  ],
+  "antonyms": [
+   "return",
+   "homecoming"
+  ],
+  "level": "B2",
+  "category": "literary"
+ },
+ {
+  "id": "inadvertent",
+  "word": "inadvertent",
+  "forms": [
+   "inadvertently"
+  ],
+  "ar": "غير متعمَّد",
+  "ipa": "/ˌɪn.ədˈvɜː.tənt/",
+  "pos": "adjective",
+  "def": "Not done on purpose; accidental.",
+  "arExplain": "يصف فعلًا وقع خطأً دون قصد.",
+  "example": "The inadvertent mistake still had serious results.",
+  "exampleAr": "ظل للخطأ غير المتعمد عواقب خطيرة.",
+  "exampleRef": null,
+  "synonyms": [
+   "accidental",
+   "unintentional"
+  ],
+  "antonyms": [
+   "deliberate",
+   "intentional"
+  ],
+  "level": "C1",
+  "category": "literary"
+ },
+ {
+  "id": "banish",
+  "word": "banish",
+  "forms": [
+   "banished",
+   "banishment"
+  ],
+  "ar": "ينفي، يُبعد",
+  "ipa": "/ˈbæn.ɪʃ/",
+  "pos": "verb",
+  "def": "To send someone away from a place as a punishment.",
+  "arExplain": "أن تُبعد شخصًا عن مكانه عقوبةً.",
+  "example": "The council banished him from the town.",
+  "exampleAr": "نفاه المجلس من البلدة.",
+  "exampleRef": null,
+  "synonyms": [
+   "exile",
+   "expel"
+  ],
+  "antonyms": [
+   "welcome"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "cleanse",
+  "word": "cleanse",
+  "forms": [
+   "cleansed",
+   "cleansing"
+  ],
+  "ar": "يطهّر",
+  "ipa": "/klenz/",
+  "pos": "verb",
+  "def": "To make something clean, or free from sin or evil.",
+  "arExplain": "أن تزيل الوسخ أو تُطهّر من الذنب أو الدنس.",
+  "example": "They believed the ritual would cleanse the land.",
+  "exampleAr": "اعتقدوا أن الطقس سيطهّر الأرض.",
+  "exampleRef": null,
+  "synonyms": [
+   "purify",
+   "wash"
+  ],
+  "antonyms": [
+   "pollute",
+   "defile"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "mourn",
+  "word": "mourn",
+  "forms": [
+   "mourned",
+   "mourning",
+   "mourners"
+  ],
+  "ar": "يحزن على ميت، يرثي",
+  "ipa": "/mɔːn/",
+  "pos": "verb",
+  "def": "To feel and show great sadness because someone has died.",
+  "arExplain": "أن تحزن وتظهر الحزن لوفاة شخص.",
+  "example": "The village mourned the loss of a great man.",
+  "exampleAr": "حزنت القرية لفقد رجل عظيم.",
+  "exampleRef": null,
+  "synonyms": [
+   "grieve",
+   "lament"
+  ],
+  "antonyms": [
+   "celebrate"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "fate",
+  "word": "fate",
+  "forms": [
+   "fated",
+   "fateful"
+  ],
+  "ar": "القدر، المصير",
+  "ipa": "/feɪt/",
+  "pos": "noun",
+  "def": "A power believed to control what happens; what happens to someone in the end.",
+  "arExplain": "ما يؤول إليه أمر الإنسان، أو القوة التي يُظن أنها تتحكم في الأحداث.",
+  "example": "He believed that no man could escape his fate.",
+  "exampleAr": "كان يعتقد أن أحدًا لا يفلت من مصيره.",
+  "exampleRef": null,
+  "synonyms": [
+   "destiny",
+   "fortune"
+  ],
+  "antonyms": [
+   "choice"
+  ],
+  "level": "B2",
+  "category": "literary"
+ },
+ {
+  "id": "warrior",
+  "word": "warrior",
+  "forms": [
+   "warriors"
+  ],
+  "ar": "محارب",
+  "ipa": "/ˈwɒr.i.ər/",
+  "pos": "noun",
+  "def": "A brave, experienced fighter.",
+  "arExplain": "مقاتل شجاع ذو خبرة.",
+  "example": "The old warrior told stories of past battles.",
+  "exampleAr": "روى المحارب العجوز قصص المعارك القديمة.",
+  "exampleRef": null,
+  "synonyms": [
+   "fighter",
+   "soldier"
+  ],
+  "antonyms": [
+   "coward"
+  ],
+  "level": "B1",
+  "category": "intermediate"
+ },
+ {
+  "id": "refuge",
+  "word": "refuge",
+  "forms": [
+   "refugee"
+  ],
+  "ar": "ملجأ، ملاذ",
+  "ipa": "/ˈref.juːdʒ/",
+  "pos": "noun",
+  "def": "A place that gives protection from danger or trouble.",
+  "arExplain": "مكان يحمي من الخطر أو المتاعب.",
+  "example": "His mother's village became his refuge.",
+  "exampleAr": "صارت قرية أمه ملاذه.",
+  "exampleRef": null,
+  "synonyms": [
+   "shelter",
+   "sanctuary"
+  ],
+  "antonyms": [
+   "danger"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "despair",
+  "word": "despair",
+  "forms": [
+   "despairing"
+  ],
+  "ar": "يأس",
+  "ipa": "/dɪˈspeər/",
+  "pos": "noun",
+  "def": "The feeling of having lost all hope.",
+  "arExplain": "فقدان الأمل كليًا.",
+  "example": "In his despair, he stopped talking to everyone.",
+  "exampleAr": "في يأسه توقف عن الكلام مع الجميع.",
+  "exampleRef": null,
+  "synonyms": [
+   "hopelessness"
+  ],
+  "antonyms": [
+   "hope",
+   "optimism"
+  ],
+  "level": "B2",
+  "category": "literary"
+ },
+ {
+  "id": "consolation",
+  "word": "consolation",
+  "forms": [
+   "console",
+   "consoled"
+  ],
+  "ar": "سُلوان، عزاء",
+  "ipa": "/ˌkɒn.səˈleɪ.ʃən/",
+  "pos": "noun",
+  "def": "Something that makes a sad person feel better.",
+  "arExplain": "ما يخفف الحزن عن المحزون.",
+  "example": "His uncle's words were a consolation in hard times.",
+  "exampleAr": "كانت كلمات خاله عزاءً في الأوقات الصعبة.",
+  "exampleRef": null,
+  "synonyms": [
+   "comfort",
+   "solace"
+  ],
+  "antonyms": [
+   "distress"
+  ],
+  "level": "C1",
+  "category": "literary"
+ },
+ {
+  "id": "ambition",
+  "word": "ambition",
+  "forms": [
+   "ambitious",
+   "ambitions"
+  ],
+  "ar": "طموح",
+  "ipa": "/æmˈbɪʃ.ən/",
+  "pos": "noun",
+  "def": "A strong wish to succeed or achieve something.",
+  "arExplain": "رغبة قوية في النجاح وبلوغ الأهداف.",
+  "example": "His ambition was to become one of the lords of the clan.",
+  "exampleAr": "كان طموحه أن يصبح من سادة العشيرة.",
+  "exampleRef": null,
+  "synonyms": [
+   "aspiration",
+   "drive"
+  ],
+  "antonyms": [
+   "apathy"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "motherland",
+  "word": "motherland",
+  "forms": [],
+  "ar": "موطن الأم",
+  "ipa": "/ˈmʌð.ə.lænd/",
+  "pos": "noun",
+  "def": "The land where someone's mother (or family) comes from; a person's native country.",
+  "arExplain": "الأرض التي ينتمي إليها أهل الأم، أو الوطن الأصلي.",
+  "example": "He went back to his motherland when he needed help.",
+  "exampleAr": "عاد إلى موطن أمه حين احتاج إلى العون.",
+  "exampleRef": null,
+  "synonyms": [
+   "homeland"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "cultural"
+ },
+ {
+  "id": "lineage",
+  "word": "lineage",
+  "forms": [],
+  "ar": "النَّسَب، السلالة",
+  "ipa": "/ˈlɪn.i.ɪdʒ/",
+  "pos": "noun",
+  "def": "The line of people from whom a person is descended.",
+  "arExplain": "سلسلة الآباء والأجداد الذين ينحدر منهم الإنسان.",
+  "example": "They were proud of their lineage on their mother's side.",
+  "exampleAr": "كانوا فخورين بنسبهم من جهة الأم.",
+  "exampleRef": null,
+  "synonyms": [
+   "ancestry",
+   "descent"
+  ],
+  "antonyms": [],
+  "level": "C1",
+  "category": "cultural"
+ },
+ {
+  "id": "nneka",
+  "word": "Nneka",
+  "forms": [],
+  "ar": "نِنيكا (الأم هي الأسمى)",
+  "ipa": "/ənˈneɪ.kɑː/",
+  "pos": "noun (Igbo)",
+  "def": "An Igbo name meaning \"mother is supreme\"; it expresses the protective role of the mother's family.",
+  "arExplain": "اسم عند الإيبو معناه «الأم هي الأسمى»، ويعبّر عن الحماية التي يجدها الإنسان عند أهل أمه.",
+  "example": "The old man explained why people give the name Nneka to their daughters.",
+  "exampleAr": "شرح الرجل العجوز لماذا يسمي الناس بناتهم نِنيكا.",
+  "exampleRef": null,
+  "synonyms": [],
+  "antonyms": [],
+  "level": "C1",
+  "category": "cultural"
+ },
+ {
+  "id": "isa-ifi",
+  "word": "isa-ifi",
+  "forms": [],
+  "ar": "إيسا-إيفي (حفل التأكد من إخلاص العروس)",
+  "ipa": "/ˈiː.sɑː ˈiː.fi/",
+  "pos": "noun (Igbo)",
+  "def": "An Igbo marriage ceremony in which the bride is asked to confirm that she has been faithful to her husband-to-be.",
+  "arExplain": "حفل زواج عند الإيبو تُسأل فيه العروس أمام الأهل لتؤكد إخلاصها لخاطبها قبل إتمام الزواج.",
+  "example": "The isa-ifi ceremony took place in front of the family.",
+  "exampleAr": "أقيم حفل الإيسا-إيفي أمام الأسرة.",
+  "exampleRef": null,
+  "synonyms": [],
+  "antonyms": [],
+  "level": "C1",
+  "category": "cultural"
+ },
+ {
+  "id": "massacre",
+  "word": "massacre",
+  "forms": [
+   "massacred"
+  ],
+  "ar": "مجزرة",
+  "ipa": "/ˈmæs.ə.kər/",
+  "pos": "noun",
+  "def": "The killing of many people who cannot defend themselves.",
+  "arExplain": "قتل عدد كبير من الناس العُزّل.",
+  "example": "The story of the massacre spread from village to village.",
+  "exampleAr": "انتشرت قصة المجزرة من قرية إلى قرية.",
+  "exampleRef": null,
+  "synonyms": [
+   "slaughter",
+   "killing"
+  ],
+  "antonyms": [],
+  "level": "C1",
+  "category": "historical"
+ },
+ {
+  "id": "rumor",
+  "word": "rumor",
+  "forms": [
+   "rumors",
+   "rumour",
+   "rumours"
+  ],
+  "ar": "إشاعة",
+  "ipa": "/ˈruː.mər/",
+  "pos": "noun",
+  "def": "Information that is passed from person to person but may not be true.",
+  "arExplain": "خبر يتناقله الناس وقد لا يكون صحيحًا.",
+  "example": "There were rumors of strange visitors in the next village.",
+  "exampleAr": "انتشرت إشاعات عن زوار غرباء في القرية المجاورة.",
+  "exampleRef": null,
+  "synonyms": [
+   "gossip",
+   "hearsay"
+  ],
+  "antonyms": [
+   "fact"
+  ],
+  "level": "B1",
+  "category": "intermediate"
+ },
+ {
+  "id": "omen",
+  "word": "omen",
+  "forms": [
+   "omens",
+   "ominous"
+  ],
+  "ar": "نذير، فأل",
+  "ipa": "/ˈəʊ.mən/",
+  "pos": "noun",
+  "def": "A sign of what will happen in the future, especially something bad.",
+  "arExplain": "علامة يُظن أنها تدل على ما سيحدث، غالبًا شرًّا.",
+  "example": "The dark clouds seemed like a bad omen.",
+  "exampleAr": "بدت الغيوم الداكنة كنذير سوء.",
+  "exampleRef": null,
+  "synonyms": [
+   "sign",
+   "warning"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "literary"
+ },
+ {
+  "id": "colonial",
+  "word": "colonial",
+  "forms": [
+   "colonialism",
+   "colony",
+   "colonizer",
+   "colonizers"
+  ],
+  "ar": "استعماري",
+  "ipa": "/kəˈləʊ.ni.əl/",
+  "pos": "adjective",
+  "def": "Relating to a country that controls another country or region.",
+  "arExplain": "ما يتعلق بسيطرة دولة على بلد آخر وإدارته.",
+  "example": "Many African borders were drawn by colonial powers.",
+  "exampleAr": "رسمت القوى الاستعمارية كثيرًا من حدود أفريقيا.",
+  "exampleRef": null,
+  "synonyms": [
+   "imperial"
+  ],
+  "antonyms": [
+   "independent"
+  ],
+  "level": "B2",
+  "category": "historical"
+ },
+ {
+  "id": "vengeance",
+  "word": "vengeance",
+  "forms": [
+   "avenge"
+  ],
+  "ar": "انتقام",
+  "ipa": "/ˈven.dʒəns/",
+  "pos": "noun",
+  "def": "Punishing someone because they hurt you or your people.",
+  "arExplain": "ردّ الأذى بأذى مثله.",
+  "example": "The young men wanted vengeance, but the elders urged patience.",
+  "exampleAr": "أراد الشبان الانتقام لكن الشيوخ حثّوا على الصبر.",
+  "exampleRef": null,
+  "synonyms": [
+   "revenge",
+   "retaliation"
+  ],
+  "antonyms": [
+   "forgiveness"
+  ],
+  "level": "C1",
+  "category": "literary"
+ },
+ {
+  "id": "foolhardy",
+  "word": "foolhardy",
+  "forms": [],
+  "ar": "متهوّر",
+  "ipa": "/ˈfuːlˌhɑː.di/",
+  "pos": "adjective",
+  "def": "Brave in a careless and silly way.",
+  "arExplain": "يصف الإقدام الطائش بلا تفكير في العواقب.",
+  "example": "It was foolhardy to attack without knowing the enemy.",
+  "exampleAr": "كان من التهور الهجوم دون معرفة العدو.",
+  "exampleRef": null,
+  "synonyms": [
+   "reckless",
+   "rash"
+  ],
+  "antonyms": [
+   "careful",
+   "wise"
+  ],
+  "level": "C1",
+  "category": "literary"
+ },
+ {
+  "id": "loyal",
+  "word": "loyal",
+  "forms": [
+   "loyalty"
+  ],
+  "ar": "وفيّ، مخلص",
+  "ipa": "/ˈlɔɪ.əl/",
+  "pos": "adjective",
+  "def": "Always supporting a person, group or idea.",
+  "arExplain": "يصف من يثبت على مساندة صديق أو جماعة.",
+  "example": "A loyal friend visits you even when you are far away.",
+  "exampleAr": "الصديق الوفي يزورك حتى وأنت بعيد.",
+  "exampleRef": null,
+  "synonyms": [
+   "faithful",
+   "devoted"
+  ],
+  "antonyms": [
+   "disloyal",
+   "treacherous"
+  ],
+  "level": "B1",
+  "category": "intermediate"
+ },
+ {
+  "id": "missionary",
+  "word": "missionary",
+  "forms": [
+   "missionaries",
+   "mission"
+  ],
+  "ar": "مبشّر، منصِّر",
+  "ipa": "/ˈmɪʃ.ən.ər.i/",
+  "pos": "noun",
+  "def": "A person sent to another country to spread a religion.",
+  "arExplain": "شخص يُرسل إلى بلد آخر لنشر دينه.",
+  "example": "The missionary built a small church near the market.",
+  "exampleAr": "بنى المبشّر كنيسة صغيرة قرب السوق.",
+  "exampleRef": null,
+  "synonyms": [
+   "evangelist",
+   "preacher"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "historical"
+ },
+ {
+  "id": "convert",
+  "word": "convert",
+  "forms": [
+   "converts",
+   "converted",
+   "conversion"
+  ],
+  "ar": "يعتنق / متحوّل إلى دين جديد",
+  "ipa": "/ˈkɒn.vɜːt/",
+  "pos": "noun",
+  "def": "A person who has changed to a new religion or belief.",
+  "arExplain": "شخص ترك دينه أو معتقده إلى دين جديد.",
+  "example": "The first converts were people who felt left out by the clan.",
+  "exampleAr": "كان أوائل المتحولين أناسًا شعروا بالإقصاء من العشيرة.",
+  "exampleRef": null,
+  "synonyms": [
+   "believer",
+   "follower"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "historical"
+ },
+ {
+  "id": "interpreter",
+  "word": "interpreter",
+  "forms": [
+   "interpreters",
+   "interpret"
+  ],
+  "ar": "مترجم شفهي",
+  "ipa": "/ɪnˈtɜː.prɪ.tər/",
+  "pos": "noun",
+  "def": "A person who translates spoken words from one language to another.",
+  "arExplain": "من ينقل الكلام شفهيًا من لغة إلى أخرى.",
+  "example": "The interpreter spoke a different dialect, so people laughed at some words.",
+  "exampleAr": "تكلم المترجم بلهجة مختلفة فضحك الناس من بعض كلماته.",
+  "exampleRef": null,
+  "synonyms": [
+   "translator"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "hymn",
+  "word": "hymn",
+  "forms": [
+   "hymns"
+  ],
+  "ar": "ترنيمة",
+  "ipa": "/hɪm/",
+  "pos": "noun",
+  "def": "A religious song, especially a Christian one.",
+  "arExplain": "أنشودة دينية، خاصة في الكنيسة.",
+  "example": "The quiet music of the hymn touched the young man.",
+  "exampleAr": "أثّرت موسيقى الترنيمة الهادئة في الشاب.",
+  "exampleRef": null,
+  "synonyms": [
+   "chant",
+   "song"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "historical"
+ },
+ {
+  "id": "dialect",
+  "word": "dialect",
+  "forms": [
+   "dialects"
+  ],
+  "ar": "لهجة",
+  "ipa": "/ˈdaɪ.ə.lekt/",
+  "pos": "noun",
+  "def": "A form of a language spoken in one area.",
+  "arExplain": "شكل من أشكال اللغة يتكلمه أهل منطقة معينة.",
+  "example": "Sudanese Arabic and Gulf Arabic are different dialects.",
+  "exampleAr": "العربية السودانية والخليجية لهجتان مختلفتان.",
+  "exampleRef": null,
+  "synonyms": [
+   "accent",
+   "vernacular"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "preach",
+  "word": "preach",
+  "forms": [
+   "preached",
+   "preaching",
+   "preacher"
+  ],
+  "ar": "يعظ، يبشّر",
+  "ipa": "/priːtʃ/",
+  "pos": "verb",
+  "def": "To speak publicly about religion to a group of people.",
+  "arExplain": "أن يتكلم علنًا عن الدين أمام جمع من الناس.",
+  "example": "He preached in the marketplace every week.",
+  "exampleAr": "كان يعظ في ساحة السوق كل أسبوع.",
+  "exampleRef": null,
+  "synonyms": [
+   "sermonize"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "faith",
+  "word": "faith",
+  "forms": [
+   "faithful"
+  ],
+  "ar": "إيمان، عقيدة",
+  "ipa": "/feɪθ/",
+  "pos": "noun",
+  "def": "Strong belief in God or in a religion.",
+  "arExplain": "الاعتقاد الراسخ بالله أو بدين.",
+  "example": "Each community holds its own faith dear.",
+  "exampleAr": "كل جماعة تعتز بعقيدتها.",
+  "exampleRef": null,
+  "synonyms": [
+   "belief",
+   "religion"
+  ],
+  "antonyms": [
+   "doubt"
+  ],
+  "level": "B1",
+  "category": "intermediate"
+ },
+ {
+  "id": "persuade",
+  "word": "persuade",
+  "forms": [
+   "persuaded",
+   "persuasion",
+   "persuasive"
+  ],
+  "ar": "يُقنع",
+  "ipa": "/pəˈsweɪd/",
+  "pos": "verb",
+  "def": "To make someone agree or do something by giving good reasons.",
+  "arExplain": "أن تجعل شخصًا يوافق بالحجة والكلام.",
+  "example": "The newcomers tried to persuade the young people to join them.",
+  "exampleAr": "حاول القادمون الجدد إقناع الشباب بالانضمام إليهم.",
+  "exampleRef": null,
+  "synonyms": [
+   "convince"
+  ],
+  "antonyms": [
+   "discourage"
+  ],
+  "level": "B1",
+  "category": "intermediate"
+ },
+ {
+  "id": "doubt",
+  "word": "doubt",
+  "forms": [
+   "doubts",
+   "doubtful"
+  ],
+  "ar": "شكّ",
+  "ipa": "/daʊt/",
+  "pos": "noun",
+  "def": "A feeling of not being sure.",
+  "arExplain": "عدم اليقين.",
+  "example": "He had doubts about the old ways for a long time.",
+  "exampleAr": "ظلت لديه شكوك في الطرق القديمة زمنًا طويلًا.",
+  "exampleRef": null,
+  "synonyms": [
+   "uncertainty"
+  ],
+  "antonyms": [
+   "certainty",
+   "faith"
+  ],
+  "level": "B1",
+  "category": "beginner"
+ },
+ {
+  "id": "evil-forest",
+  "word": "Evil Forest",
+  "forms": [
+   "evil forest"
+  ],
+  "ar": "الغابة الملعونة",
+  "ipa": "/ˈiː.vəl ˈfɒr.ɪst/",
+  "pos": "noun",
+  "def": "In the novel, a forest where the clan left things and people it considered unclean; it was feared.",
+  "arExplain": "غابة في الرواية تُرمى فيها الأشياء ويُترك فيها من يُعدّ نجسًا، وكان الناس يخافونها.",
+  "example": "Everyone expected that nobody could live long in the Evil Forest.",
+  "exampleAr": "توقّع الجميع ألا يعيش أحد طويلًا في الغابة الملعونة.",
+  "exampleRef": null,
+  "synonyms": [],
+  "antonyms": [],
+  "level": "B2",
+  "category": "cultural"
+ },
+ {
+  "id": "church",
+  "word": "church",
+  "forms": [
+   "churches"
+  ],
+  "ar": "كنيسة",
+  "ipa": "/tʃɜːtʃ/",
+  "pos": "noun",
+  "def": "A building for Christian worship, or a Christian group.",
+  "arExplain": "مكان عبادة النصارى، أو جماعتهم.",
+  "example": "A small church was built at the edge of the village.",
+  "exampleAr": "بُنيت كنيسة صغيرة على طرف القرية.",
+  "exampleRef": null,
+  "synonyms": [
+   "chapel"
+  ],
+  "antonyms": [],
+  "level": "A2",
+  "category": "beginner"
+ },
+ {
+  "id": "defy",
+  "word": "defy",
+  "forms": [
+   "defied",
+   "defiant"
+  ],
+  "ar": "يتحدّى",
+  "ipa": "/dɪˈfaɪ/",
+  "pos": "verb",
+  "def": "To refuse to obey someone or something.",
+  "arExplain": "أن ترفض الطاعة علنًا.",
+  "example": "The boy defied his father and left home.",
+  "exampleAr": "تحدّى الصبي أباه وغادر البيت.",
+  "exampleRef": null,
+  "synonyms": [
+   "resist",
+   "disobey"
+  ],
+  "antonyms": [
+   "obey"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "disown",
+  "word": "disown",
+  "forms": [
+   "disowned"
+  ],
+  "ar": "يتبرّأ من",
+  "ipa": "/dɪˈsəʊn/",
+  "pos": "verb",
+  "def": "To say that you no longer want any connection with someone, especially a family member.",
+  "arExplain": "أن تعلن قطع صلتك بشخص، خاصة من أهلك.",
+  "example": "He threatened to disown any child who left the family.",
+  "exampleAr": "هدد بالتبرؤ من أي ولد يترك الأسرة.",
+  "exampleRef": null,
+  "synonyms": [
+   "reject",
+   "renounce"
+  ],
+  "antonyms": [
+   "accept",
+   "embrace"
+  ],
+  "level": "C1",
+  "category": "literary"
+ },
+ {
+  "id": "wrath",
+  "word": "wrath",
+  "forms": [
+   "wrathful"
+  ],
+  "ar": "غضب شديد",
+  "ipa": "/rɒθ/",
+  "pos": "noun",
+  "def": "Extreme anger.",
+  "arExplain": "غضب عنيف.",
+  "example": "The father's wrath frightened the whole family.",
+  "exampleAr": "أخاف غضب الأب الشديد الأسرة كلها.",
+  "exampleRef": null,
+  "synonyms": [
+   "fury",
+   "rage"
+  ],
+  "antonyms": [
+   "calm"
+  ],
+  "level": "C1",
+  "category": "literary"
+ },
+ {
+  "id": "generation",
+  "word": "generation",
+  "forms": [
+   "generations"
+  ],
+  "ar": "جيل",
+  "ipa": "/ˌdʒen.əˈreɪ.ʃən/",
+  "pos": "noun",
+  "def": "All the people born and living at about the same time.",
+  "arExplain": "مجموعة الناس الذين وُلدوا وعاشوا في زمن متقارب.",
+  "example": "The older generation worried about the young.",
+  "exampleAr": "قلق الجيل الأكبر على الشباب.",
+  "exampleRef": null,
+  "synonyms": [
+   "age group"
+  ],
+  "antonyms": [],
+  "level": "B1",
+  "category": "intermediate"
+ },
+ {
+  "id": "stubborn",
+  "word": "stubborn",
+  "forms": [
+   "stubbornly",
+   "stubbornness"
+  ],
+  "ar": "عنيد",
+  "ipa": "/ˈstʌb.ən/",
+  "pos": "adjective",
+  "def": "Refusing to change your opinion or behaviour.",
+  "arExplain": "يصف من يرفض تغيير رأيه أو سلوكه.",
+  "example": "He was too stubborn to admit that he was wrong.",
+  "exampleAr": "كان أعند من أن يعترف بخطئه.",
+  "exampleRef": null,
+  "synonyms": [
+   "obstinate",
+   "headstrong"
+  ],
+  "antonyms": [
+   "flexible"
+  ],
+  "level": "B1",
+  "category": "intermediate"
+ },
+ {
+  "id": "osu",
+  "word": "osu",
+  "forms": [],
+  "ar": "الأوسو (فئة منبوذة)",
+  "ipa": "/ˈəʊ.suː/",
+  "pos": "noun (Igbo)",
+  "def": "In traditional Igbo society, a person dedicated to a god and treated as an outcast; osu could not marry freeborn people.",
+  "arExplain": "في مجتمع الإيبو التقليدي: شخص يُعدّ مُكرَّسًا لإله فيُعامل كمنبوذ، ولا يتزوج من الأحرار. وقد انتقد كثير من الإيبو أنفسهم هذا التمييز.",
+  "example": "The osu were among the first people to join the new church.",
+  "exampleAr": "كان الأوسو من أوائل من انضموا إلى الكنيسة الجديدة.",
+  "exampleRef": null,
+  "synonyms": [
+   "outcast"
+  ],
+  "antonyms": [
+   "freeborn"
+  ],
+  "level": "C1",
+  "category": "cultural"
+ },
+ {
+  "id": "outcast",
+  "word": "outcast",
+  "forms": [
+   "outcasts"
+  ],
+  "ar": "منبوذ",
+  "ipa": "/ˈaʊt.kɑːst/",
+  "pos": "noun",
+  "def": "A person who is not accepted by society.",
+  "arExplain": "شخص لا يقبله المجتمع ويُقصى عنه.",
+  "example": "The church welcomed those whom the clan treated as outcasts.",
+  "exampleAr": "رحّبت الكنيسة بمن عاملتهم العشيرة كمنبوذين.",
+  "exampleRef": null,
+  "synonyms": [
+   "pariah",
+   "exile"
+  ],
+  "antonyms": [
+   "insider"
+  ],
+  "level": "B2",
+  "category": "literary"
+ },
+ {
+  "id": "sacred",
+  "word": "sacred",
+  "forms": [],
+  "ar": "مقدّس",
+  "ipa": "/ˈseɪ.krɪd/",
+  "pos": "adjective",
+  "def": "Holy; connected with a god and deserving respect.",
+  "arExplain": "يصف ما له حرمة دينية ويستحق التوقير.",
+  "example": "The python was sacred to the people of the village.",
+  "exampleAr": "كان الثعبان مقدّسًا عند أهل القرية.",
+  "exampleRef": null,
+  "synonyms": [
+   "holy",
+   "divine"
+  ],
+  "antonyms": [
+   "profane",
+   "secular"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "ostracize",
+  "word": "ostracize",
+  "forms": [
+   "ostracized",
+   "ostracism",
+   "ostracise"
+  ],
+  "ar": "ينبذ، يقاطع",
+  "ipa": "/ˈɒs.trə.saɪz/",
+  "pos": "verb",
+  "def": "To refuse to accept someone as part of a group.",
+  "arExplain": "أن تُقصي شخصًا عن الجماعة وتقاطعه.",
+  "example": "The village decided to ostracize the newcomers.",
+  "exampleAr": "قررت القرية مقاطعة القادمين الجدد.",
+  "exampleRef": null,
+  "synonyms": [
+   "exclude",
+   "shun"
+  ],
+  "antonyms": [
+   "include",
+   "welcome"
+  ],
+  "level": "C1",
+  "category": "literary"
+ },
+ {
+  "id": "zealous",
+  "word": "zealous",
+  "forms": [
+   "zeal",
+   "zealot",
+   "zealously"
+  ],
+  "ar": "متحمّس بإفراط، متشدّد",
+  "ipa": "/ˈzel.əs/",
+  "pos": "adjective",
+  "def": "Showing great, sometimes too much, energy and belief in a cause.",
+  "arExplain": "يصف من يندفع بحماسة شديدة قد تتجاوز الحدّ لفكرة أو دين.",
+  "example": "A zealous follower can cause trouble for a peaceful leader.",
+  "exampleAr": "قد يسبب الأتباع المتشددون المتاعب لقائد مسالم.",
+  "exampleRef": null,
+  "synonyms": [
+   "fervent",
+   "fanatical"
+  ],
+  "antonyms": [
+   "indifferent",
+   "moderate"
+  ],
+  "level": "C1",
+  "category": "literary"
+ },
+ {
+  "id": "tolerate",
+  "word": "tolerate",
+  "forms": [
+   "tolerant",
+   "tolerance",
+   "tolerated"
+  ],
+  "ar": "يتسامح، يحتمل",
+  "ipa": "/ˈtɒl.ər.eɪt/",
+  "pos": "verb",
+  "def": "To allow something you do not like or agree with.",
+  "arExplain": "أن تقبل وجود ما لا توافق عليه.",
+  "example": "The elders tolerated the church as long as it stayed quiet.",
+  "exampleAr": "تسامح الشيوخ مع الكنيسة ما دامت هادئة.",
+  "exampleRef": null,
+  "synonyms": [
+   "accept",
+   "put up with"
+  ],
+  "antonyms": [
+   "forbid",
+   "reject"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "conflict",
+  "word": "conflict",
+  "forms": [
+   "conflicts"
+  ],
+  "ar": "صراع",
+  "ipa": "/ˈkɒn.flɪkt/",
+  "pos": "noun",
+  "def": "A serious disagreement or fight between groups.",
+  "arExplain": "نزاع جدي أو قتال بين جماعات.",
+  "example": "The conflict between the old faith and the new grew stronger.",
+  "exampleAr": "اشتد الصراع بين العقيدة القديمة والجديدة.",
+  "exampleRef": null,
+  "synonyms": [
+   "clash",
+   "struggle"
+  ],
+  "antonyms": [
+   "peace",
+   "harmony"
+  ],
+  "level": "B1",
+  "category": "intermediate"
+ },
+ {
+  "id": "taboo",
+  "word": "taboo",
+  "forms": [
+   "taboos"
+  ],
+  "ar": "محرَّم (عُرفًا)",
+  "ipa": "/təˈbuː/",
+  "pos": "noun",
+  "def": "Something that a society forbids because of religion or custom.",
+  "arExplain": "ما يمنعه المجتمع لأسباب دينية أو عرفية.",
+  "example": "Killing the sacred snake was a serious taboo.",
+  "exampleAr": "كان قتل الثعبان المقدس من أشد المحرمات.",
+  "exampleRef": null,
+  "synonyms": [
+   "prohibition"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "cultural"
+ },
+ {
+  "id": "nso-ani",
+  "word": "nso-ani",
+  "forms": [],
+  "ar": "نسو-آني (جريمة في حق الأرض)",
+  "ipa": "/ənˈsəʊ ˈɑː.ni/",
+  "pos": "noun (Igbo)",
+  "def": "An Igbo term for an abomination: an act so wrong that it offends Ani, the earth goddess.",
+  "arExplain": "كلمة عند الإيبو تعني الفعل المشين الذي يُغضب آني إلهة الأرض في معتقدهم، أي أفظع المحرمات.",
+  "example": "The elders called the act nso-ani and refused to discuss it further.",
+  "exampleAr": "وصف الشيوخ الفعل بأنه نسو-آني ورفضوا مناقشته أكثر.",
+  "exampleRef": null,
+  "synonyms": [
+   "abomination"
+  ],
+  "antonyms": [],
+  "level": "C1",
+  "category": "cultural"
+ },
+ {
+  "id": "gratitude",
+  "word": "gratitude",
+  "forms": [
+   "grateful"
+  ],
+  "ar": "الامتنان",
+  "ipa": "/ˈɡræt.ɪ.tʃuːd/",
+  "pos": "noun",
+  "def": "The feeling of being thankful.",
+  "arExplain": "الشعور بالشكر والعرفان.",
+  "example": "He showed his gratitude by giving a great feast.",
+  "exampleAr": "أظهر امتنانه بإقامة وليمة كبيرة.",
+  "exampleRef": null,
+  "synonyms": [
+   "thankfulness"
+  ],
+  "antonyms": [
+   "ingratitude"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "umunna",
+  "word": "umunna",
+  "forms": [],
+  "ar": "الأومونّا (الأقارب من جهة الأب)",
+  "ipa": "/uːˈmuː.nːɑː/",
+  "pos": "noun (Igbo)",
+  "def": "An Igbo word for a man's extended family through his father's line; his kinsmen.",
+  "arExplain": "كلمة عند الإيبو تعني عصبة الرجل وأقاربه من جهة الأب.",
+  "example": "He called his umunna together to share the news.",
+  "exampleAr": "جمع أقاربه من جهة الأب ليخبرهم بالخبر.",
+  "exampleRef": null,
+  "synonyms": [
+   "kinsmen",
+   "kindred"
+  ],
+  "antonyms": [],
+  "level": "C1",
+  "category": "cultural"
+ },
+ {
+  "id": "apprehensive",
+  "word": "apprehensive",
+  "forms": [
+   "apprehension"
+  ],
+  "ar": "متوجّس",
+  "ipa": "/ˌæp.rɪˈhen.sɪv/",
+  "pos": "adjective",
+  "def": "Worried that something bad will happen.",
+  "arExplain": "يصف من يخشى وقوع مكروه.",
+  "example": "The old men were apprehensive about the future of their sons.",
+  "exampleAr": "كان الشيوخ متوجسين من مستقبل أبنائهم.",
+  "exampleRef": null,
+  "synonyms": [
+   "uneasy",
+   "nervous"
+  ],
+  "antonyms": [
+   "confident"
+  ],
+  "level": "C1",
+  "category": "literary"
+ },
+ {
+  "id": "district-commissioner",
+  "word": "District Commissioner",
+  "forms": [
+   "district commissioner",
+   "commissioner"
+  ],
+  "ar": "مفوّض المقاطعة",
+  "ipa": "/ˈdɪs.trɪkt kəˈmɪʃ.ən.ər/",
+  "pos": "noun",
+  "def": "A British colonial official who governed and judged in a district.",
+  "arExplain": "موظف بريطاني في العهد الاستعماري كان يحكم المقاطعة ويقضي بين أهلها وفق قانون المستعمر.",
+  "example": "The District Commissioner judged cases using laws the people did not know.",
+  "exampleAr": "كان مفوض المقاطعة يحكم في القضايا بقوانين لا يعرفها الناس.",
+  "exampleRef": null,
+  "synonyms": [
+   "colonial officer",
+   "administrator"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "historical"
+ },
+ {
+  "id": "court-messenger",
+  "word": "court messenger",
+  "forms": [
+   "court messengers",
+   "court-messengers"
+  ],
+  "ar": "رسول المحكمة",
+  "ipa": "/kɔːt ˈmes.ɪn.dʒər/",
+  "pos": "noun",
+  "def": "In colonial Nigeria, a local man employed by the colonial court to carry orders and arrest people.",
+  "arExplain": "في نيجيريا المستعمَرة: رجل محلي يعمل لدى محكمة المستعمر لنقل الأوامر والقبض على الناس، وكان مكروهًا لقسوته.",
+  "example": "The court messengers were feared and disliked in the villages.",
+  "exampleAr": "كان رسل المحكمة مرهوبين مكروهين في القرى.",
+  "exampleRef": null,
+  "synonyms": [
+   "bailiff"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "historical"
+ },
+ {
+  "id": "kotma",
+  "word": "kotma",
+  "forms": [],
+  "ar": "الكوتما (رسل المحكمة)",
+  "ipa": "/ˈkɒt.mɑː/",
+  "pos": "noun (Igbo)",
+  "def": "The villagers' name for the court messengers, from the English words \"court messenger\".",
+  "arExplain": "الاسم الذي أطلقه القرويون على رسل المحكمة، مأخوذ من النطق المحلي لعبارة court messenger.",
+  "example": "The children ran away whenever the kotma came.",
+  "exampleAr": "كان الأطفال يهربون كلما جاء الكوتما.",
+  "exampleRef": null,
+  "synonyms": [
+   "court messenger"
+  ],
+  "antonyms": [],
+  "level": "C1",
+  "category": "historical"
+ },
+ {
+  "id": "imprison",
+  "word": "imprison",
+  "forms": [
+   "imprisoned",
+   "imprisonment",
+   "prison"
+  ],
+  "ar": "يسجن",
+  "ipa": "/ɪmˈprɪz.ən/",
+  "pos": "verb",
+  "def": "To put someone in prison.",
+  "arExplain": "أن تضع شخصًا في السجن.",
+  "example": "Men were imprisoned for breaking laws they had never heard of.",
+  "exampleAr": "سُجن رجال لمخالفتهم قوانين لم يسمعوا بها قط.",
+  "exampleRef": null,
+  "synonyms": [
+   "jail",
+   "detain"
+  ],
+  "antonyms": [
+   "free",
+   "release"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "execute",
+  "word": "execute",
+  "forms": [
+   "executed",
+   "execution"
+  ],
+  "ar": "يُعدم",
+  "ipa": "/ˈek.sɪ.kjuːt/",
+  "pos": "verb",
+  "def": "To kill someone as a legal punishment.",
+  "arExplain": "أن تُنفذ حكم الإعدام في شخص.",
+  "example": "The colonial court executed a man after a land dispute.",
+  "exampleAr": "أعدمت المحكمة الاستعمارية رجلًا بعد نزاع على أرض.",
+  "exampleRef": null,
+  "synonyms": [
+   "put to death"
+  ],
+  "antonyms": [
+   "pardon",
+   "spare"
+  ],
+  "level": "C1",
+  "category": "historical"
+ },
+ {
+  "id": "administer",
+  "word": "administer",
+  "forms": [
+   "administered",
+   "administration"
+  ],
+  "ar": "يدير، يحكم",
+  "ipa": "/ədˈmɪn.ɪ.stər/",
+  "pos": "verb",
+  "def": "To manage or govern a place or organization.",
+  "arExplain": "أن تتولى إدارة مكان أو مؤسسة.",
+  "example": "A few foreign officers administered a very large region.",
+  "exampleAr": "أدار عدد قليل من الضباط الأجانب منطقة واسعة جدًا.",
+  "exampleRef": null,
+  "synonyms": [
+   "govern",
+   "manage"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "political"
+ },
+ {
+  "id": "unity",
+  "word": "unity",
+  "forms": [
+   "united",
+   "unite"
+  ],
+  "ar": "الوحدة، التماسك",
+  "ipa": "/ˈjuː.nə.ti/",
+  "pos": "noun",
+  "def": "The state of being joined together as one group.",
+  "arExplain": "حال الاجتماع والتماسك كجماعة واحدة.",
+  "example": "Without unity, the clan could not resist the newcomers.",
+  "exampleAr": "دون الوحدة لم تستطع العشيرة مقاومة القادمين الجدد.",
+  "exampleRef": null,
+  "synonyms": [
+   "solidarity",
+   "togetherness"
+  ],
+  "antonyms": [
+   "division",
+   "disunity"
+  ],
+  "level": "B2",
+  "category": "political"
+ },
+ {
+  "id": "authority",
+  "word": "authority",
+  "forms": [
+   "authorities"
+  ],
+  "ar": "سلطة",
+  "ipa": "/ɔːˈθɒr.ə.ti/",
+  "pos": "noun",
+  "def": "The power to give orders and make decisions.",
+  "arExplain": "القدرة الرسمية على إصدار الأوامر واتخاذ القرارات.",
+  "example": "The new government took authority away from the elders.",
+  "exampleAr": "انتزعت الحكومة الجديدة السلطة من الشيوخ.",
+  "exampleRef": null,
+  "synonyms": [
+   "power",
+   "control"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "political"
+ },
+ {
+  "id": "dialogue",
+  "word": "dialogue",
+  "forms": [
+   "dialogues"
+  ],
+  "ar": "حوار",
+  "ipa": "/ˈdaɪ.ə.lɒɡ/",
+  "pos": "noun",
+  "def": "A conversation, especially one in which people try to understand each other.",
+  "arExplain": "حديث يسعى فيه الطرفان إلى فهم بعضهما.",
+  "example": "Their long dialogue showed respect on both sides.",
+  "exampleAr": "أظهر حوارهما الطويل احترامًا من الجانبين.",
+  "exampleRef": null,
+  "synonyms": [
+   "conversation",
+   "discussion"
+  ],
+  "antonyms": [
+   "silence"
+  ],
+  "level": "B1",
+  "category": "intermediate"
+ },
+ {
+  "id": "chukwu",
+  "word": "Chukwu",
+  "forms": [],
+  "ar": "تشوكوو (الإله الأعلى عند الإيبو)",
+  "ipa": "/ˈtʃuːk.wuː/",
+  "pos": "noun (Igbo)",
+  "def": "The supreme god in traditional Igbo belief; smaller gods were seen as his messengers.",
+  "arExplain": "الإله الأعلى في المعتقد التقليدي للإيبو، وكانوا يرون الآلهة الصغرى رسلًا أو وسطاء إليه.",
+  "example": "The elder explained that Chukwu was above all other spirits.",
+  "exampleAr": "شرح الشيخ أن تشوكوو فوق كل الأرواح الأخرى.",
+  "exampleRef": null,
+  "synonyms": [],
+  "antonyms": [],
+  "level": "C1",
+  "category": "cultural"
+ },
+ {
+  "id": "literacy",
+  "word": "literacy",
+  "forms": [
+   "literate",
+   "illiterate"
+  ],
+  "ar": "معرفة القراءة والكتابة",
+  "ipa": "/ˈlɪt.ər.ə.si/",
+  "pos": "noun",
+  "def": "The ability to read and write.",
+  "arExplain": "القدرة على القراءة والكتابة.",
+  "example": "The new school promised literacy and better jobs.",
+  "exampleAr": "وعدت المدرسة الجديدة بتعليم القراءة والكتابة ووظائف أفضل.",
+  "exampleRef": null,
+  "synonyms": [
+   "education"
+  ],
+  "antonyms": [
+   "illiteracy"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "restrain",
+  "word": "restrain",
+  "forms": [
+   "restrained",
+   "restraint"
+  ],
+  "ar": "يكبح، يمنع",
+  "ipa": "/rɪˈstreɪn/",
+  "pos": "verb",
+  "def": "To stop someone from doing something, often by control or advice.",
+  "arExplain": "أن تمنع شخصًا من فعل شيء أو تكبحه.",
+  "example": "The wise leader restrained his angry followers.",
+  "exampleAr": "كبح القائد الحكيم أتباعه الغاضبين.",
+  "exampleRef": null,
+  "synonyms": [
+   "hold back",
+   "control"
+  ],
+  "antonyms": [
+   "encourage",
+   "provoke"
+  ],
+  "level": "C1",
+  "category": "intermediate"
+ },
+ {
+  "id": "compromise",
+  "word": "compromise",
+  "forms": [
+   "compromises"
+  ],
+  "ar": "حل وسط",
+  "ipa": "/ˈkɒm.prə.maɪz/",
+  "pos": "noun",
+  "def": "An agreement in which each side gives up part of what it wants.",
+  "arExplain": "اتفاق يتنازل فيه كل طرف عن جزء مما يريد.",
+  "example": "A compromise allowed both groups to live side by side.",
+  "exampleAr": "سمح حل وسط للجماعتين بالعيش جنبًا إلى جنب.",
+  "exampleRef": null,
+  "synonyms": [
+   "agreement",
+   "middle ground"
+  ],
+  "antonyms": [
+   "conflict"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "trading-store",
+  "word": "trading store",
+  "forms": [
+   "trading-store",
+   "trading post"
+  ],
+  "ar": "متجر تجاري (في العهد الاستعماري)",
+  "ipa": "/ˈtreɪ.dɪŋ stɔːr/",
+  "pos": "noun",
+  "def": "A shop set up by colonial traders to buy local products such as palm oil.",
+  "arExplain": "متجر أقامه التجار الأجانب في العهد الاستعماري لشراء منتجات محلية مثل زيت النخيل.",
+  "example": "The trading store brought money into the village for the first time.",
+  "exampleAr": "جلب المتجر التجاري المال إلى القرية لأول مرة.",
+  "exampleRef": null,
+  "synonyms": [
+   "shop",
+   "market"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "historical"
+ },
+ {
+  "id": "uncompromising",
+  "word": "uncompromising",
+  "forms": [],
+  "ar": "متصلّب، لا يقبل التنازل",
+  "ipa": "/ʌnˈkɒm.prə.maɪ.zɪŋ/",
+  "pos": "adjective",
+  "def": "Refusing to change your ideas or to accept anything less than what you believe.",
+  "arExplain": "يصف من يرفض التنازل أو التفاوض.",
+  "example": "The new leader was uncompromising and saw only black and white.",
+  "exampleAr": "كان القائد الجديد متصلبًا لا يرى إلا الأبيض والأسود.",
+  "exampleRef": null,
+  "synonyms": [
+   "rigid",
+   "inflexible"
+  ],
+  "antonyms": [
+   "flexible",
+   "tolerant"
+  ],
+  "level": "C1",
+  "category": "literary"
+ },
+ {
+  "id": "unmask",
+  "word": "unmask",
+  "forms": [
+   "unmasked"
+  ],
+  "ar": "يكشف القناع",
+  "ipa": "/ʌnˈmɑːsk/",
+  "pos": "verb",
+  "def": "To remove a mask from someone; to reveal a hidden truth.",
+  "arExplain": "أن تنزع القناع عن شخص، أو تكشف حقيقة مخفية.",
+  "example": "To unmask an ancestral spirit was one of the worst crimes.",
+  "exampleAr": "كان كشف قناع روح الأسلاف من أفظع الجرائم.",
+  "exampleRef": null,
+  "synonyms": [
+   "expose",
+   "reveal"
+  ],
+  "antonyms": [
+   "conceal"
+  ],
+  "level": "C1",
+  "category": "literary"
+ },
+ {
+  "id": "desecrate",
+  "word": "desecrate",
+  "forms": [
+   "desecrated",
+   "desecration"
+  ],
+  "ar": "يدنّس",
+  "ipa": "/ˈdes.ɪ.kreɪt/",
+  "pos": "verb",
+  "def": "To damage or insult something holy.",
+  "arExplain": "أن تنتهك حرمة شيء مقدس.",
+  "example": "The villagers felt that their beliefs had been desecrated.",
+  "exampleAr": "شعر القرويون أن معتقداتهم قد دُنّست.",
+  "exampleRef": null,
+  "synonyms": [
+   "defile",
+   "violate"
+  ],
+  "antonyms": [
+   "honour",
+   "respect"
+  ],
+  "level": "C1",
+  "category": "literary"
+ },
+ {
+  "id": "retaliate",
+  "word": "retaliate",
+  "forms": [
+   "retaliated",
+   "retaliation"
+  ],
+  "ar": "يردّ بالمثل، ينتقم",
+  "ipa": "/rɪˈtæl.i.eɪt/",
+  "pos": "verb",
+  "def": "To do something harmful to someone because they harmed you.",
+  "arExplain": "أن تردّ الإساءة بمثلها.",
+  "example": "The clan retaliated by destroying the building.",
+  "exampleAr": "ردت العشيرة بهدم المبنى.",
+  "exampleRef": null,
+  "synonyms": [
+   "strike back",
+   "avenge"
+  ],
+  "antonyms": [
+   "forgive"
+  ],
+  "level": "C1",
+  "category": "intermediate"
+ },
+ {
+  "id": "confront",
+  "word": "confront",
+  "forms": [
+   "confronted",
+   "confrontation"
+  ],
+  "ar": "يواجه",
+  "ipa": "/kənˈfrʌnt/",
+  "pos": "verb",
+  "def": "To face someone or something in a challenging way.",
+  "arExplain": "أن تقف في وجه شخص أو مشكلة بتحدٍّ.",
+  "example": "The masked spirits confronted the missionary at his church.",
+  "exampleAr": "واجهت الأرواح المقنّعة المبشّر عند كنيسته.",
+  "exampleRef": null,
+  "synonyms": [
+   "face",
+   "challenge"
+  ],
+  "antonyms": [
+   "avoid"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "humiliate",
+  "word": "humiliate",
+  "forms": [
+   "humiliated",
+   "humiliation",
+   "humiliating"
+  ],
+  "ar": "يُذلّ، يُهين",
+  "ipa": "/hjuːˈmɪl.i.eɪt/",
+  "pos": "verb",
+  "def": "To make someone feel ashamed and lose respect.",
+  "arExplain": "أن تجعل شخصًا يشعر بالمهانة أمام الناس.",
+  "example": "The guards humiliated the proud men in front of everyone.",
+  "exampleAr": "أذلّ الحراس الرجال الأعزاء أمام الجميع.",
+  "exampleRef": null,
+  "synonyms": [
+   "shame",
+   "degrade"
+  ],
+  "antonyms": [
+   "honour",
+   "respect"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "handcuff",
+  "word": "handcuff",
+  "forms": [
+   "handcuffed",
+   "handcuffs"
+  ],
+  "ar": "يقيّد بالأصفاد",
+  "ipa": "/ˈhænd.kʌf/",
+  "pos": "verb",
+  "def": "To put metal rings on someone's wrists to stop them from escaping.",
+  "arExplain": "أن تضع حلقات معدنية على معصمي شخص لمنعه من الهرب.",
+  "example": "The leaders were handcuffed as soon as they sat down.",
+  "exampleAr": "قُيّد الزعماء بالأصفاد بمجرد جلوسهم.",
+  "exampleRef": null,
+  "synonyms": [
+   "shackle",
+   "cuff"
+  ],
+  "antonyms": [
+   "free"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "deceive",
+  "word": "deceive",
+  "forms": [
+   "deceived",
+   "deception",
+   "deceit"
+  ],
+  "ar": "يخدع",
+  "ipa": "/dɪˈsiːv/",
+  "pos": "verb",
+  "def": "To make someone believe something that is not true.",
+  "arExplain": "أن تجعل شخصًا يصدّق ما ليس صحيحًا.",
+  "example": "They were deceived by a friendly invitation.",
+  "exampleAr": "خُدعوا بدعوة ودّية.",
+  "exampleRef": null,
+  "synonyms": [
+   "trick",
+   "mislead"
+  ],
+  "antonyms": [
+   "be honest"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "ransom",
+  "word": "ransom",
+  "forms": [
+   "ransoms"
+  ],
+  "ar": "فِدية",
+  "ipa": "/ˈræn.səm/",
+  "pos": "noun",
+  "def": "Money demanded for the release of a prisoner.",
+  "arExplain": "مال يُطلب مقابل إطلاق سراح سجين.",
+  "example": "The village collected the ransom in a single day.",
+  "exampleAr": "جمعت القرية الفدية في يوم واحد.",
+  "exampleRef": null,
+  "synonyms": [
+   "payment"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "treacherous",
+  "word": "treacherous",
+  "forms": [
+   "treachery"
+  ],
+  "ar": "غادر، خائن",
+  "ipa": "/ˈtretʃ.ər.əs/",
+  "pos": "adjective",
+  "def": "Likely to betray people who trust you.",
+  "arExplain": "يصف من يغدر بمن وثق به.",
+  "example": "A treacherous trick turned a meeting into an arrest.",
+  "exampleAr": "حوّلت حيلة غادرة الاجتماع إلى اعتقال.",
+  "exampleRef": null,
+  "synonyms": [
+   "disloyal",
+   "deceitful"
+  ],
+  "antonyms": [
+   "loyal",
+   "trustworthy"
+  ],
+  "level": "C1",
+  "category": "literary"
+ },
+ {
+  "id": "indignation",
+  "word": "indignation",
+  "forms": [
+   "indignant"
+  ],
+  "ar": "سخط، استياء",
+  "ipa": "/ˌɪn.dɪɡˈneɪ.ʃən/",
+  "pos": "noun",
+  "def": "Anger at something that seems unfair.",
+  "arExplain": "غضب بسبب ظلم أو أمر غير عادل.",
+  "example": "He could hardly speak because of his indignation.",
+  "exampleAr": "لم يكد يتكلم من شدة سخطه.",
+  "exampleRef": null,
+  "synonyms": [
+   "outrage",
+   "resentment"
+  ],
+  "antonyms": [
+   "contentment"
+  ],
+  "level": "C1",
+  "category": "literary"
+ },
+ {
+  "id": "defiance",
+  "word": "defiance",
+  "forms": [
+   "defiant",
+   "defiantly"
+  ],
+  "ar": "تحدٍّ، عصيان",
+  "ipa": "/dɪˈfaɪ.əns/",
+  "pos": "noun",
+  "def": "Open refusal to obey.",
+  "arExplain": "رفض الطاعة علنًا.",
+  "example": "In defiance of the order, the people met in the marketplace.",
+  "exampleAr": "اجتمع الناس في ساحة السوق تحديًا للأمر.",
+  "exampleRef": null,
+  "synonyms": [
+   "resistance",
+   "rebellion"
+  ],
+  "antonyms": [
+   "obedience"
+  ],
+  "level": "C1",
+  "category": "intermediate"
+ },
+ {
+  "id": "rebellion",
+  "word": "rebellion",
+  "forms": [
+   "rebel",
+   "rebels",
+   "rebellious"
+  ],
+  "ar": "تمرّد، ثورة",
+  "ipa": "/rɪˈbel.i.ən/",
+  "pos": "noun",
+  "def": "An organized attempt to fight against the people in power.",
+  "arExplain": "محاولة منظمة لمقاومة أصحاب السلطة.",
+  "example": "He hoped his people would choose rebellion.",
+  "exampleAr": "تمنى أن يختار قومه التمرد.",
+  "exampleRef": null,
+  "synonyms": [
+   "revolt",
+   "uprising"
+  ],
+  "antonyms": [
+   "submission"
+  ],
+  "level": "B2",
+  "category": "political"
+ },
+ {
+  "id": "machete",
+  "word": "machete",
+  "forms": [
+   "machetes"
+  ],
+  "ar": "ساطور، منجل كبير",
+  "ipa": "/məˈʃet.i/",
+  "pos": "noun",
+  "def": "A large, wide knife used for cutting plants and as a weapon.",
+  "arExplain": "سكين كبيرة عريضة تُستعمل في قطع النباتات وقد تُستخدم سلاحًا.",
+  "example": "Farmers cleared the bush with machetes.",
+  "exampleAr": "نظّف المزارعون الأحراش بالسواطير.",
+  "exampleRef": null,
+  "synonyms": [
+   "cutlass"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "isolation",
+  "word": "isolation",
+  "forms": [
+   "isolated",
+   "isolate"
+  ],
+  "ar": "عزلة",
+  "ipa": "/ˌaɪ.səˈleɪ.ʃən/",
+  "pos": "noun",
+  "def": "The state of being alone or separated from others.",
+  "arExplain": "حال الانفراد والابتعاد عن الآخرين.",
+  "example": "His isolation from his own people was complete.",
+  "exampleAr": "كانت عزلته عن قومه تامة.",
+  "exampleRef": null,
+  "synonyms": [
+   "loneliness",
+   "separation"
+  ],
+  "antonyms": [
+   "company",
+   "connection"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "pride",
+  "word": "pride",
+  "forms": [
+   "proud",
+   "proudly"
+  ],
+  "ar": "الكبرياء، الفخر",
+  "ipa": "/praɪd/",
+  "pos": "noun",
+  "def": "A feeling of respect for yourself; too much of it can lead to arrogance.",
+  "arExplain": "احترام الذات، وقد يتحول إذا زاد إلى غرور.",
+  "example": "His pride would not let him accept defeat.",
+  "exampleAr": "لم يسمح له كبرياؤه بقبول الهزيمة.",
+  "exampleRef": null,
+  "synonyms": [
+   "self-respect",
+   "arrogance"
+  ],
+  "antonyms": [
+   "humility",
+   "shame"
+  ],
+  "level": "B1",
+  "category": "intermediate"
+ },
+ {
+  "id": "abomination",
+  "word": "abomination",
+  "forms": [
+   "abominable"
+  ],
+  "ar": "رِجس، فعل شنيع",
+  "ipa": "/əˌbɒm.ɪˈneɪ.ʃən/",
+  "pos": "noun",
+  "def": "Something that is considered extremely wrong or disgusting.",
+  "arExplain": "فعل يُعدّ شنيعًا ومنكرًا إلى أقصى حد.",
+  "example": "In their belief, such an act was an abomination against the earth.",
+  "exampleAr": "في معتقدهم كان مثل هذا الفعل رجسًا في حق الأرض.",
+  "exampleRef": null,
+  "synonyms": [
+   "outrage",
+   "atrocity"
+  ],
+  "antonyms": [
+   "blessing"
+  ],
+  "level": "C1",
+  "category": "literary"
+ },
+ {
+  "id": "suicide",
+  "word": "suicide",
+  "forms": [],
+  "ar": "الانتحار",
+  "ipa": "/ˈsuː.ɪ.saɪd/",
+  "pos": "noun",
+  "def": "The act of killing yourself.",
+  "arExplain": "أن يقتل الإنسان نفسه، وهو محرّم في ثقافات وأديان كثيرة.",
+  "example": "In many cultures and faiths, suicide is strongly forbidden.",
+  "exampleAr": "في ثقافات وأديان كثيرة يُحرَّم الانتحار تحريمًا شديدًا.",
+  "exampleRef": null,
+  "synonyms": [],
+  "antonyms": [],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "pacification",
+  "word": "pacification",
+  "forms": [
+   "pacify",
+   "pacified"
+  ],
+  "ar": "«التهدئة» (إخضاع بالقوة)",
+  "ipa": "/ˌpæs.ɪ.fɪˈkeɪ.ʃən/",
+  "pos": "noun",
+  "def": "A colonial term for bringing a people under control, often by force, while calling it \"peace\".",
+  "arExplain": "مصطلح استعماري يعني إخضاع الشعوب بالقوة غالبًا مع تسميته «سلامًا»، وهو تعبير يخفي العنف.",
+  "example": "Historians now question the word \"pacification\" in colonial reports.",
+  "exampleAr": "يشكك المؤرخون اليوم في كلمة «التهدئة» الواردة في تقارير الاستعمار.",
+  "exampleRef": null,
+  "synonyms": [
+   "subjugation",
+   "conquest"
+  ],
+  "antonyms": [
+   "liberation"
+  ],
+  "level": "C1",
+  "category": "historical"
+ },
+ {
+  "id": "tragic",
+  "word": "tragic",
+  "forms": [
+   "tragedy",
+   "tragically"
+  ],
+  "ar": "مأساوي",
+  "ipa": "/ˈtrædʒ.ɪk/",
+  "pos": "adjective",
+  "def": "Very sad, often involving death or great suffering.",
+  "arExplain": "يصف ما يحمل حزنًا عميقًا أو معاناة كبيرة.",
+  "example": "The story has a tragic ending.",
+  "exampleAr": "للقصة نهاية مأساوية.",
+  "exampleRef": null,
+  "synonyms": [
+   "sorrowful",
+   "heartbreaking"
+  ],
+  "antonyms": [
+   "comic",
+   "happy"
+  ],
+  "level": "B2",
+  "category": "literary"
+ },
+ {
+  "id": "irony",
+  "word": "irony",
+  "forms": [
+   "ironic",
+   "ironically"
+  ],
+  "ar": "مفارقة",
+  "ipa": "/ˈaɪ.rə.ni/",
+  "pos": "noun",
+  "def": "A situation that is the opposite of what you expect, often in a sad or funny way.",
+  "arExplain": "موقف يأتي عكس المتوقع، وقد يكون مضحكًا أو مؤلمًا.",
+  "example": "The irony is that the man who feared weakness ended alone.",
+  "exampleAr": "المفارقة أن الرجل الذي خاف الضعف انتهى وحيدًا.",
+  "exampleRef": null,
+  "synonyms": [
+   "paradox",
+   "contradiction"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "literary"
+ },
+ {
+  "id": "perspective",
+  "word": "perspective",
+  "forms": [
+   "perspectives"
+  ],
+  "ar": "منظور، وجهة نظر",
+  "ipa": "/pəˈspek.tɪv/",
+  "pos": "noun",
+  "def": "A particular way of seeing or thinking about something.",
+  "arExplain": "الزاوية التي يُنظر منها إلى الأمر.",
+  "example": "The last pages show the story from an outsider's perspective.",
+  "exampleAr": "تعرض الصفحات الأخيرة القصة من منظور شخص غريب.",
+  "exampleRef": null,
+  "synonyms": [
+   "point of view",
+   "viewpoint"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "literary"
+ },
+ {
+  "id": "chi",
+  "word": "chi",
+  "forms": [],
+  "ar": "التشي (الروح الحارسة)",
+  "ipa": "/tʃiː/",
+  "pos": "noun (Igbo)",
+  "def": "In Igbo belief, a person's personal spirit or guardian, linked to their destiny.",
+  "arExplain": "في معتقد الإيبو: روح شخصية حارسة لكل إنسان ترتبط بقدره ونصيبه في الحياة.",
+  "example": "People said his chi was good because he succeeded young.",
+  "exampleAr": "قال الناس إن التشي الخاص به طيّب لأنه نجح في سن صغيرة.",
+  "exampleRef": null,
+  "synonyms": [
+   "personal god",
+   "destiny"
+  ],
+  "antonyms": [],
+  "level": "C1",
+  "category": "cultural"
+ },
+ {
+  "id": "obi",
+  "word": "obi",
+  "forms": [],
+  "ar": "الأوبي (كوخ رب الأسرة)",
+  "ipa": "/ˈəʊ.bi/",
+  "pos": "noun (Igbo)",
+  "def": "The hut of the head of the family, where he receives guests.",
+  "arExplain": "كوخ رب الأسرة في المجمع السكني، يستقبل فيه الضيوف، ويشبه المجلس أو الديوان.",
+  "example": "Guests were welcomed in his obi.",
+  "exampleAr": "استُقبل الضيوف في الأوبي الخاص به.",
+  "exampleRef": null,
+  "synonyms": [
+   "reception hut"
+  ],
+  "antonyms": [],
+  "level": "C1",
+  "category": "cultural"
+ },
+ {
+  "id": "ogene",
+  "word": "ogene",
+  "forms": [],
+  "ar": "الأوجيني (جرس معدني)",
+  "ipa": "/əʊˈɡeɪ.neɪ/",
+  "pos": "noun (Igbo)",
+  "def": "A metal gong beaten by the town crier to call people together or announce news.",
+  "arExplain": "جرس معدني يقرعه المنادي لجمع الناس أو إعلان خبر مهم.",
+  "example": "The sound of the ogene told everyone to gather.",
+  "exampleAr": "أخبر صوت الأوجيني الجميع أن يجتمعوا.",
+  "exampleRef": null,
+  "synonyms": [
+   "gong"
+  ],
+  "antonyms": [],
+  "level": "C1",
+  "category": "cultural"
+ },
+ {
+  "id": "week-of-peace",
+  "word": "Week of Peace",
+  "forms": [
+   "week of peace"
+  ],
+  "ar": "أسبوع السلام",
+  "ipa": "/wiːk əv piːs/",
+  "pos": "noun",
+  "def": "In the novel, a sacred week before planting when no one may speak harshly or hurt another person, to honour the earth goddess.",
+  "arExplain": "أسبوع مقدس في الرواية قبل الزراعة يُمنع فيه الأذى والقول الجارح إكرامًا لإلهة الأرض في معتقدهم، لضمان بركة المحصول.",
+  "example": "During the Week of Peace, neighbours visited one another and shared food.",
+  "exampleAr": "في أسبوع السلام تزاور الجيران وتقاسموا الطعام.",
+  "exampleRef": null,
+  "synonyms": [],
+  "antonyms": [],
+  "level": "B2",
+  "category": "cultural"
+ },
+ {
+  "id": "ani",
+  "word": "Ani",
+  "forms": [],
+  "ar": "آني (إلهة الأرض)",
+  "ipa": "/ˈɑː.ni/",
+  "pos": "noun (Igbo)",
+  "def": "The earth goddess in traditional Igbo belief, linked to fertility, morality and the harvest.",
+  "arExplain": "إلهة الأرض في المعتقد التقليدي للإيبو، وترتبط بالخصوبة والأخلاق والمحصول.",
+  "example": "The priest of Ani warned the man that the harvest could suffer.",
+  "exampleAr": "حذّر كاهن آني الرجل من أن المحصول قد يتضرر.",
+  "exampleRef": null,
+  "synonyms": [
+   "earth goddess"
+  ],
+  "antonyms": [],
+  "level": "C1",
+  "category": "cultural"
+ },
+ {
+  "id": "new-yam-festival",
+  "word": "Feast of the New Yam",
+  "forms": [
+   "new yam festival",
+   "new yam"
+  ],
+  "ar": "عيد اليام الجديد",
+  "ipa": "/fiːst əv ðə njuː jæm/",
+  "pos": "noun",
+  "def": "A harvest festival that thanks the earth goddess before the new yams are eaten.",
+  "arExplain": "عيد حصاد يُشكر فيه على المحصول قبل أكل اليام الجديد، ويجتمع فيه الأهل والأصهار.",
+  "example": "The Feast of the New Yam was a time of joy and visiting.",
+  "exampleAr": "كان عيد اليام الجديد وقت فرح وتزاور.",
+  "exampleRef": null,
+  "synonyms": [
+   "harvest festival"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "cultural"
+ },
+ {
+  "id": "ilo",
+  "word": "ilo",
+  "forms": [],
+  "ar": "الإيلو (ساحة القرية)",
+  "ipa": "/ˈiː.ləʊ/",
+  "pos": "noun (Igbo)",
+  "def": "The village playground or public square where wrestling, dances and ceremonies take place.",
+  "arExplain": "ساحة القرية العامة التي تُقام فيها المصارعة والرقصات والاحتفالات.",
+  "example": "The whole village gathered in the ilo for the match.",
+  "exampleAr": "اجتمعت القرية كلها في الإيلو لمشاهدة المباراة.",
+  "exampleRef": null,
+  "synonyms": [
+   "village square"
+  ],
+  "antonyms": [],
+  "level": "C1",
+  "category": "cultural"
+ }
+]
