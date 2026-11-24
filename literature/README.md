@@ -22,6 +22,9 @@ js/views/*.js                             home, library, book, reader, study, qu
 content/                                  books, chapters, translations, study packs, vocabulary — see content/SCHEMA.md
 tools/import-gutenberg.mjs                node tools/import-gutenberg.mjs <slug> <pg.txt>
 tools/build-index.mjs                     regenerate content/books/*/index.json after adding static files
+tools/ar-merge.mjs                        assemble + validate a chapter translation from per-section work files
+tools/drop-captions.mjs                   find/remove illustration captions left in plain-text editions (ids kept stable)
+content/TRANSLATION-GUIDE.md              rules and name glossaries for Arabic translators
 firestore.rules                           security rules for the lit_* collections
 docs/OWNER-STEPS-AR.md                    console steps for the owner (Arabic)
 ```
