@@ -110,7 +110,7 @@
     },
     {
       "type": "grammar",
-      "q": { "en": "“They used to wander round the high wall.” What does 'used to wander' mean?", "ar": "“They used to wander round the high wall.” ماذا تعني used to wander؟" },
+      "q": { "en": "“They used to wander round the high wall …” What does 'used to wander' mean?", "ar": "“They used to wander round the high wall …” ماذا تعني used to wander؟" },
       "options": ["They wandered there often, as a habit, in the past", "They are used to wandering now", "They will wander tomorrow", "They wandered only once"],
       "answer": 0,
       "explain": { "en": "'Used to' + verb describes a repeated past habit.", "ar": "used to + الفعل يصف عادة متكرّرة في الماضي." },

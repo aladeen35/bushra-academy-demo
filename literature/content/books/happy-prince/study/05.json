@@ -1,0 +1,139 @@
+{
+  "chapter": 5,
+  "summary": {
+    "en": "The King's son is marrying a pale Russian Princess, and the celebrations end with a display of fireworks at midnight. While they wait in the King's garden, the fireworks talk: a little Squib who thinks the garden is the world, a sentimental Catherine Wheel who says 'Romance is dead', a sensible Roman Candle, a Bengal Light and a Cracker. Then a tall, proud Rocket coughs to get attention and talks only about himself: his famous parents, his sensitive nature, and how lucky the Prince is to be married on the day the Rocket goes up. He even weeps over an imaginary misfortune that might happen to the Prince's future son. His tears make his gunpowder wet, so at midnight, when all the other fireworks fly up beautifully, he cannot go off. The next day a workman calls him a 'bad rocket' and throws him into a ditch, where he hears 'grand rocket', and lectures a Frog, a Dragon-fly and a Duck about his own importance. At last two boys use him as firewood to boil a kettle. He finally explodes in daylight, sure he is causing a great sensation, but the boys are asleep and nobody sees or hears him. Only a Goose, hit by his falling stick, is surprised.",
+    "ar": "يتزوّج ابن الملك أميرة روسية شاحبة، وتنتهي الاحتفالات بعرض للألعاب النارية عند منتصف الليل. وبينما تنتظر الألعاب النارية في حديقة الملك تتبادل الحديث: مفرقعة صغيرة تظن أن الحديقة هي العالم، وعجلة كاترين عاطفية تقول «الرومانسية ماتت»، وشمعة رومانية عاقلة، وضوء بنغالي، وطرّاق. ثم يسعل صاروخ طويل متكبّر ليلفت الانتباه، ولا يتحدّث إلا عن نفسه: عن أبويه المشهورين، وطبيعته الحسّاسة، وحظّ الأمير الذي يتزوّج في يوم إطلاق الصاروخ. بل يبكي على مصيبة متخيَّلة قد تصيب ابن الأمير في المستقبل. فتبلّل دموعه باروده، وحين تنطلق الألعاب الأخرى في منتصف الليل انطلاقًا جميلًا لا يستطيع هو أن ينطلق. وفي اليوم التالي يسمّيه عامل «صاروخًا فاشلًا» ويرميه في خندق، فيسمعها «صاروخًا فاضلًا»، ويحاضر ضفدعًا ويعسوبًا وبطّة عن أهميته. وأخيرًا يستعمله صبيّان حطبًا ليغليا الماء في إبريق. فينفجر في وضح النهار، واثقًا أنه يُحدث ضجّة كبيرة، لكن الصبيّين نائمان ولا يراه أحد ولا يسمعه. ولا يتفاجأ إلا إوزّة سقطت عصاه على ظهرها."
+  },
+  "objectives": [
+    { "en": "Describe the Rocket's vanity and explain how Wilde makes fun of it.", "ar": "وصف غرور الصاروخ وشرح كيف يسخر منه وايلد." },
+    { "en": "Learn words for pride and social behaviour, such as remarkable, supercilious, haughty, vulgar, sensation and dignity.", "ar": "تعلّم مفردات الكبرياء والسلوك الاجتماعي، مثل remarkable وsupercilious وhaughty وvulgar وsensation وdignity." },
+    { "en": "Use modal verbs of possibility (may, might) and the passive voice (was tied, be let off).", "ar": "استخدام أفعال الاحتمال (may وmight) والمبني للمجهول (was tied وbe let off)." },
+    { "en": "Recognise Wilde's wordplay and irony (bad/grand, old/gold, 'affected').", "ar": "التعرّف على تلاعب وايلد بالألفاظ وسخريته (bad/grand وold/gold و«affected»)." }
+  ],
+  "vocab": [
+    "remarkable", "firework", "supercilious", "sensitive", "inferiority", "imagination", "humbug", "affected", "damp",
+    "deputation", "dignity", "ditch", "haughty", "genius", "sensation", "explode", "vulgar", "cry-over-spilt-milk"
+  ],
+  "grammar": [
+    {
+      "id": "hp-5-may-might",
+      "topic": "sentence",
+      "level": "B1",
+      "title": { "en": "'May' and 'might' for possibility", "ar": "«may» و«might» للتعبير عن الاحتمال" },
+      "explain": {
+        "en": "'May' and 'might' + base verb say that something is possible but not certain. The Rocket builds a long chain of 'perhaps … may' sentences, each one less likely than the last, and then weeps over the result. Later he defends himself: 'I said that they might.' The grammar shows that the whole misfortune exists only in his imagination.",
+        "ar": "تقول «may» و«might» + الفعل المجرّد إن شيئًا ممكن لكنه غير مؤكّد. ويبني الصاروخ سلسلة طويلة من جمل «perhaps … may»، كل واحدة أبعد احتمالًا من سابقتها، ثم يبكي على النتيجة. وبعدها يدافع عن نفسه: I said that they might. فالقواعد هنا تكشف أن المصيبة كلها لا توجد إلا في خياله."
+      },
+      "example": {
+        "en": "and perhaps the little boy may fall into the deep river and be drowned.",
+        "ar": "ولعلّ الصبي الصغير يسقط في النهر العميق فيغرق.",
+        "ref": "p41"
+      },
+      "exercise": {
+        "q": { "en": "Which sentence talks about something that is only possible?", "ar": "أيّ جملة تتحدّث عن شيء محتمل فقط؟" },
+        "options": ["They have lost their only son.", "They might lose their only son.", "They lost their only son."],
+        "answer": 1,
+        "why": { "en": "'Might' + verb = possible, not real. The Roman Candle points out that 'no misfortune has happened to them at all'.", "ar": "might + الفعل = محتمل لا واقع. وتذكّر الشمعة الرومانية بأنه «لم تصبهما أي مصيبة على الإطلاق»." }
+      }
+    },
+    {
+      "id": "hp-5-passive",
+      "topic": "passive",
+      "level": "B1",
+      "title": { "en": "The passive voice: things done to the Rocket", "ar": "المبني للمجهول: أفعال تقع على الصاروخ" },
+      "explain": {
+        "en": "The passive is be + past participle (was tied, be let off, was considered). We use it when the action is more important than who does it, or the doer is unknown. It is fitting here: the Rocket thinks he is the centre of the world, but in fact things are always done to him. He is tied, (not) let off, thrown and burned by others.",
+        "ar": "المبني للمجهول هو be + التصريف الثالث (was tied وbe let off وwas considered)، ونستعمله حين يكون الفعل أهمّ من فاعله أو يكون الفاعل مجهولًا. وهو مناسب هنا: فالصاروخ يظن نفسه مركز العالم، لكن الأفعال في الحقيقة تقع عليه دائمًا؛ فغيره يربطه ويطلقه (أو لا يطلقه) ويرميه ويحرقه."
+      },
+      "example": {
+        "en": "It came from a tall, supercilious-looking Rocket, who was tied to the end of a long stick.",
+        "ar": "كانت صادرة عن صاروخ طويل متعالي المظهر، مربوط بطرف عصا طويلة.",
+        "ref": "p19"
+      },
+      "exercise": {
+        "q": { "en": "Complete: “I thought … that we were to ___ off in the Prince’s honour.”", "ar": "أكمل: “I thought … that we were to ___ off in the Prince’s honour.”" },
+        "options": ["let", "be let", "letting"],
+        "answer": 1,
+        "why": { "en": "The fireworks do not light themselves; someone lets them off. So we need the passive: 'to be let off' (paragraph 25).", "ar": "الألعاب النارية لا تُشعل نفسها، بل يُطلقها أحد. فنحتاج إلى المبني للمجهول: to be let off (الفقرة ٢٥)." }
+      }
+    }
+  ],
+  "culture": [
+    {
+      "term": "Names of fireworks",
+      "en": "Each character is a real kind of firework. A Catherine wheel spins on a pin (it is named after St Catherine, who in Christian legend was tied to a wheel). A Roman candle shoots out balls of fire one after another. A Bengal light burns with a bright coloured flame, a squib is a small firework that hisses and jumps, and a cracker bangs. Wilde gives each one a personality that matches how it behaves.",
+      "ar": "كل شخصية نوع حقيقي من الألعاب النارية. فعجلة كاترين تدور حول مسمار (وسُمّيت باسم القدّيسة كاترين التي تقول الأسطورة المسيحية إنها رُبطت إلى عجلة). والشمعة الرومانية تقذف كرات من النار واحدة بعد أخرى. والضوء البنغالي يشتعل بلهب ملوّن ساطع، والمفرقعة الصغيرة تفحّ وتقفز، والطرّاق يفرقع. ويعطي وايلد كل واحدة منها شخصية تناسب طريقة عملها."
+    },
+    {
+      "term": "Class and 'society' in Victorian Britain",
+      "en": "Victorian Britain was very conscious of social class. The Rocket uses snobbish words of the time: 'the lower orders' (working people), 'middle-class', 'provincial' (from outside the capital) and 'suburban'. Wilde, who moved in fashionable London society himself, laughs at people who look down on others while being useless themselves.",
+      "ar": "كان المجتمع البريطاني في العصر الفيكتوري شديد الاهتمام بالطبقات الاجتماعية. ويستعمل الصاروخ كلمات المتكبّرين في ذلك العصر: «الطبقات الدنيا» (العمّال)، و«الطبقة الوسطى»، و«ريفي» (من خارج العاصمة)، و«ضاحية». ووايلد، الذي كان يعيش هو نفسه في مجتمع لندن الراقي، يسخر ممّن يحتقرون الآخرين وهم أنفسهم بلا فائدة."
+    }
+  ],
+  "quiz": [
+    {
+      "type": "vocab",
+      "q": { "en": "“a tall, supercilious-looking Rocket” What does 'supercilious' mean?", "ar": "“a tall, supercilious-looking Rocket” ما معنى supercilious؟" },
+      "options": ["Very fast", "Behaving as if better than others", "Frightened", "Brightly coloured"],
+      "answer": 1,
+      "explain": { "en": "Supercilious = proud and looking down on others. It fits the Rocket, who 'always looked over the shoulder of the person to whom he was talking'.", "ar": "supercilious تعني متكبّرًا ينظر إلى الآخرين باستعلاء، وهي تناسب الصاروخ الذي «كان دائمًا ينظر من فوق كتف الشخص الذي يحدّثه»." },
+      "ref": "p19"
+    },
+    {
+      "type": "vocab",
+      "q": { "en": "“I hate people who cry over spilt milk.” What does this idiom mean?", "ar": "“I hate people who cry over spilt milk.” ما معنى هذا التعبير؟" },
+      "options": ["To be sad about something that is finished and cannot be changed", "To drink too much milk", "To cry easily at weddings", "To work in a dairy"],
+      "answer": 0,
+      "explain": { "en": "The idiom means it is useless to be sad about the past. Arabic has the same saying: لا تبكِ على اللبن المسكوب. The Rocket, of course, cries over things that have not even happened.", "ar": "يعني التعبير أنه لا فائدة من الحزن على ما مضى، وفي العربية المثل نفسه: «لا تبكِ على اللبن المسكوب». أما الصاروخ فيبكي على أشياء لم تحدث أصلًا." },
+      "ref": "p43"
+    },
+    {
+      "type": "comprehension",
+      "q": { "en": "Why can the Rocket not go off at midnight?", "ar": "لماذا لم يستطع الصاروخ أن ينطلق عند منتصف الليل؟" },
+      "options": ["The King forgot him", "His gunpowder was wet with his own tears", "He was too heavy", "The Pyrotechnist dropped him"],
+      "answer": 1,
+      "explain": { "en": "'He was so damp with crying that he could not go off at all.' The others had warned him to 'keep yourself dry'.", "ar": "«كان مبتلًّا من البكاء حتى إنه لم يستطع أن ينطلق أبدًا». وقد نصحه الآخرون بأن «يحافظ على نفسه جافًّا»." },
+      "ref": "p57"
+    },
+    {
+      "type": "comprehension",
+      "q": { "en": "Who notices the Rocket when he finally explodes?", "ar": "من الذي لاحظ الصاروخ حين انفجر أخيرًا؟" },
+      "options": ["The whole Court", "The Prince and Princess", "Nobody, except a Goose hit by his falling stick", "The two boys, who cheered"],
+      "answer": 2,
+      "explain": { "en": "'Nobody saw him' and 'nobody heard him'; the boys were asleep. Only the Goose feels his stick and thinks it is 'going to rain sticks'.", "ar": "«لم يره أحد» و«لم يسمعه أحد»، فالصبيّان نائمان. ولم تشعر به إلا الإوزّة حين سقطت عليها عصاه فظنّت أن السماء «ستمطر عصيًّا»." },
+      "ref": "p104"
+    },
+    {
+      "type": "grammar",
+      "q": { "en": "“I never said that they had,” replied the Rocket; “I said that they ___.”", "ar": "“I never said that they had,” replied the Rocket; “I said that they ___.”" },
+      "options": ["might", "must", "did", "have"],
+      "answer": 0,
+      "explain": { "en": "'Might' expresses possibility: the Prince and Princess could possibly lose a son, but it has not happened.", "ar": "might تعبّر عن الاحتمال: قد يفقد الأمير والأميرة ابنًا، لكن ذلك لم يحدث." },
+      "ref": "p43"
+    },
+    {
+      "type": "grammar",
+      "q": { "en": "“As he received no salary at all this was not of much use to him, but it ___ a great honour.” Choose the passive form.", "ar": "“…but it ___ a great honour.” اختر صيغة المبني للمجهول." },
+      "options": ["considered", "was considered", "is considering", "had consider"],
+      "answer": 1,
+      "explain": { "en": "People considered it an honour; the passive is 'it was considered a great honour' (paragraph 5).", "ar": "الناس عدّوه شرفًا، والمبني للمجهول: it was considered a great honour (الفقرة ٥)." },
+      "ref": "p5"
+    },
+    {
+      "type": "translation",
+      "q": { "en": "Choose the best Arabic translation: “Genius like mine is sure to be appreciated some day”", "ar": "اختر أفضل ترجمة عربية: “Genius like mine is sure to be appreciated some day”" },
+      "options": ["عبقرية كعبقريتي لا بدّ أن تُقدَّر يومًا ما.", "لست متأكّدًا من عبقريتي.", "قدّرني الناس اليوم لعبقريتي.", "العبقري لا يحتاج إلى تقدير."],
+      "answer": 0,
+      "explain": { "en": "'Is sure to' = 'will certainly'; 'be appreciated' is passive (تُقدَّر). The sentence shows the Rocket's endless self-belief.", "ar": "is sure to تعني «لا بدّ أن»، وbe appreciated مبني للمجهول (تُقدَّر). وتكشف الجملة ثقة الصاروخ بنفسه التي لا حدّ لها." },
+      "ref": "p76"
+    },
+    {
+      "type": "context",
+      "q": { "en": "A workman says “what a bad rocket!”, but the Rocket hears “GRAND Rocket”. What does this show about him?", "ar": "يقول عامل «يا له من صاروخ فاشل!»، لكن الصاروخ يسمعها «صاروخ فاضل». ماذا يكشف هذا عنه؟" },
+      "options": ["He has bad hearing because of the noise", "His vanity makes him turn every insult into praise", "He does not understand English", "He is very modest"],
+      "answer": 1,
+      "explain": { "en": "He does the same with 'OLD Stick' / 'GOLD Stick'. Wilde's wordplay shows that a vain person hears only what flatters him.", "ar": "ويفعل الشيء نفسه مع «عصا بالية / عصا غالية». ويُظهر تلاعب وايلد بالألفاظ أن المغرور لا يسمع إلا ما يُطريه." },
+      "ref": "p60"
+    }
+  ]
+}

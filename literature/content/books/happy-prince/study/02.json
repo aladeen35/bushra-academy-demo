@@ -121,7 +121,7 @@
     },
     {
       "type": "translation",
-      "q": { "en": "Choose the best Arabic translation: “Death is a great price to pay for a red rose.”", "ar": "اختر أفضل ترجمة عربية: “Death is a great price to pay for a red rose.”" },
+      "q": { "en": "Choose the best Arabic translation: “Death is a great price to pay for a red rose”", "ar": "اختر أفضل ترجمة عربية: “Death is a great price to pay for a red rose”" },
       "options": ["الوردة الحمراء أغلى من الموت.", "الموت ثمن باهظ لوردة حمراء.", "دفعت ثمنًا كبيرًا لوردة حمراء.", "لا أحد يموت من أجل وردة."],
       "answer": 1,
       "explain": { "en": "'A great price to pay for' = a very high cost for something. The Nightingale knows the cost, but still chooses to pay it.", "ar": "a great price to pay for تعني ثمنًا باهظًا مقابل شيء. فالعندليب تعرف الثمن، ومع ذلك تختار أن تدفعه." },

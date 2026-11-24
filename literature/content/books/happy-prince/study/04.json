@@ -5,21 +5,52 @@
     "ar": "عند بركة، يقول فأر ماء عجوز لبطّة أمّ ولعصفور كتّان أخضر إنه لا شيء أنبل من الصداقة الوفيّة، لكن حين يسأله العصفور عمّا يفعله هو لصديقه الوفي في المقابل لا يفهم السؤال. فيحكي العصفور قصة. هانز الصغير رجل أمين طيّب له حديقة أزهار جميلة. و«أعزّ أصدقائه» هيو ميلر الطحّان الغني، الذي يأخذ منه الأزهار والفاكهة ولا يعطيه شيئًا أبدًا، بينما يُلقي خطبًا جميلة عن إيثار الصداقة. وفي الشتاء، حين يكون هانز جائعًا يرتجف من البرد، يبتعد الطحّان قائلًا إن من في ضيق ينبغي أن يُترك وشأنه. وفي الربيع يعد الطحّان هانز بعربة يده القديمة المكسورة، ثم يستغلّ هذا الوعد ليجعل هانز يعمل له: يأخذ لوحه وأزهاره، ويجعله يحمل الدقيق إلى السوق، ويصلح سقف مخزنه، ويسوق خرافه، فلا يجد هانز وقتًا لحديقته. وفي ليلة عاصفة يرسل الطحّان هانز ليحضر الطبيب، ويرفض أن يعيره فانوسه، فيضلّ هانز طريقه في الأرض البور ويغرق. وفي الجنازة يكون الطحّان كبير المعزّين، ويشكو أنه لا يدري ماذا يفعل بعربة اليد. ويغضب فأر الماء حين يعرف أن للقصة عبرة، ويعود إلى جحره."
   },
   "objectives": [
-    { "en": "Compare what the Miller says about friendship with what he does, and recognise Wilde's irony.", "ar": "المقارنة بين ما يقوله الطحّان عن الصداقة وما يفعله، والتعرّف على سخرية وايلد." },
-    { "en": "Learn words about friendship, work and loss, such as devoted, generous, errand, trudge, funeral and moral.", "ar": "تعلّم مفردات الصداقة والعمل والفقد، مثل devoted وgenerous وerrand وtrudge وfuneral وmoral." },
-    { "en": "Use reported speech (said that he would …) and the second conditional (if Hans came …, he might …).", "ar": "استخدام الكلام المنقول (said that he would …) والشرط الثاني (if Hans came …, he might …)." },
-    { "en": "Understand the frame story: a story told inside another story, and why it ends with a 'moral'.", "ar": "فهم القصة الإطارية: قصة تُروى داخل قصة أخرى، ولماذا تنتهي بـ«عبرة»." }
+    {
+      "en": "Compare what the Miller says about friendship with what he does, and recognise Wilde's irony.",
+      "ar": "المقارنة بين ما يقوله الطحّان عن الصداقة وما يفعله، والتعرّف على سخرية وايلد."
+    },
+    {
+      "en": "Learn words about friendship, work and loss, such as devoted, generous, errand, trudge, funeral and moral.",
+      "ar": "تعلّم مفردات الصداقة والعمل والفقد، مثل devoted وgenerous وerrand وtrudge وfuneral وmoral."
+    },
+    {
+      "en": "Use reported speech (said that he would …) and the second conditional (if Hans came …, he might …).",
+      "ar": "استخدام الكلام المنقول (said that he would …) والشرط الثاني (if Hans came …, he might …)."
+    },
+    {
+      "en": "Understand the frame story: a story told inside another story, and why it ends with a 'moral'.",
+      "ar": "فهم القصة الإطارية: قصة تُروى داخل قصة أخرى، ولماذا تنتهي بـ«عبرة»."
+    }
   ],
   "vocab": [
-    "devoted", "miller", "wheelbarrow", "plank", "generous", "envy", "temptation", "credit", "idle",
-    "flatter", "errand", "trudge", "drown", "funeral", "mourner", "moral", "bachelor", "sympathy"
+    "devoted",
+    "miller",
+    "wheelbarrow",
+    "plank",
+    "generous",
+    "envy",
+    "temptation",
+    "credit",
+    "idle",
+    "flatter",
+    "errand",
+    "trudge",
+    "drown",
+    "funeral",
+    "mourner",
+    "moral",
+    "bachelor",
+    "sympathy"
   ],
   "grammar": [
     {
       "id": "hp-4-reported-speech",
       "topic": "reported",
       "level": "B1",
-      "title": { "en": "Reported speech: 'will' becomes 'would'", "ar": "الكلام المنقول: will تصبح would" },
+      "title": {
+        "en": "Reported speech: 'will' becomes 'would'",
+        "ar": "الكلام المنقول: will تصبح would"
+      },
       "explain": {
         "en": "When we report what someone said in the past, the verb usually moves one step back: 'I will go' becomes 'he said (that) he would go'; 'I am glad' becomes 'he said he was glad'. Pronouns change too (I → he). 'That' after 'said' is optional.",
         "ar": "حين ننقل كلام شخص قاله في الماضي يرجع الفعل عادةً خطوة إلى الوراء: «I will go» تصبح he said (that) he would go، و«I am glad» تصبح he said he was glad. وتتغيّر الضمائر أيضًا (I ← he). وكلمة that بعد said اختيارية."
@@ -30,17 +61,30 @@
         "ref": "p30"
       },
       "exercise": {
-        "q": { "en": "The Miller says: “I will give you my wheelbarrow.” Report it: 'The Miller said that he ___ Hans his wheelbarrow.'", "ar": "يقول الطحّان: “I will give you my wheelbarrow.” انقله: 'The Miller said that he ___ Hans his wheelbarrow.'" },
-        "options": ["will give", "would give", "gives"],
+        "q": {
+          "en": "The Miller says: “I will give you my wheelbarrow.” Report it: 'The Miller said that he ___ Hans his wheelbarrow.'",
+          "ar": "يقول الطحّان: “I will give you my wheelbarrow.” انقله: 'The Miller said that he ___ Hans his wheelbarrow.'"
+        },
+        "options": [
+          "will give",
+          "would give",
+          "gives"
+        ],
         "answer": 1,
-        "why": { "en": "In reported speech after 'said', 'will' moves back to 'would'.", "ar": "في الكلام المنقول بعد said تتحوّل will إلى would." }
+        "why": {
+          "en": "In reported speech after 'said', 'will' moves back to 'would'.",
+          "ar": "في الكلام المنقول بعد said تتحوّل will إلى would."
+        }
       }
     },
     {
       "id": "hp-4-second-conditional",
       "topic": "conditional",
       "level": "B1",
-      "title": { "en": "The second conditional: imagined situations", "ar": "الشرط الثاني: المواقف المتخيَّلة" },
+      "title": {
+        "en": "The second conditional: imagined situations",
+        "ar": "الشرط الثاني: المواقف المتخيَّلة"
+      },
       "explain": {
         "en": "The second conditional imagines a situation that is not real now: If + past simple, would/might + base verb. The Miller imagines Hans visiting (he is not), and invents bad results to excuse his own selfishness. 'Might' shows a possible result, 'would' a more certain one.",
         "ar": "الشرط الثاني يتخيّل موقفًا غير واقع الآن: If + الماضي البسيط، ثم would أو might + الفعل المجرّد. فالطحّان يتخيّل زيارة هانز (وهي لم تحدث)، ويخترع لها نتائج سيئة ليبرّر أنانيته. وmight تدلّ على نتيجة محتملة، وwould على نتيجة أكثر تأكيدًا."
@@ -51,10 +95,20 @@
         "ref": "p24"
       },
       "exercise": {
-        "q": { "en": "Complete: 'If he ___ a really true friend he prefers it' is first conditional. Make it second conditional: 'If he ___ a true friend, he would prefer it.'", "ar": "حوّل إلى الشرط الثاني: 'If he ___ a true friend, he would prefer it.'" },
-        "options": ["is", "were", "will be"],
+        "q": {
+          "en": "Make it a second conditional (an imagined situation): 'If he ___ a true friend, he would prefer it.'",
+          "ar": "حوّل إلى الشرط الثاني: 'If he ___ a true friend, he would prefer it.'"
+        },
+        "options": [
+          "is",
+          "were",
+          "will be"
+        ],
         "answer": 1,
-        "why": { "en": "The second conditional uses the past form in the if-clause; with 'be', formal English uses 'were' for all persons.", "ar": "يستعمل الشرط الثاني صيغة الماضي في جملة if، ومع الفعل be تستعمل الإنجليزية الرسمية were مع جميع الضمائر." }
+        "why": {
+          "en": "The second conditional uses the past form in the if-clause; with 'be', formal English uses 'were' for all persons.",
+          "ar": "يستعمل الشرط الثاني صيغة الماضي في جملة if، ومع الفعل be تستعمل الإنجليزية الرسمية were مع جميع الضمائر."
+        }
       }
     }
   ],
@@ -73,66 +127,154 @@
   "quiz": [
     {
       "type": "vocab",
-      "q": { "en": "“sending him off on long errands” What is an errand?", "ar": "“sending him off on long errands” ما معنى errand؟" },
-      "options": ["A short trip to do a job for someone", "A kind of flower", "A long holiday", "A heavy sack"],
+      "q": {
+        "en": "“sending him off on long errands” What is an errand?",
+        "ar": "“sending him off on long errands” ما معنى errand؟"
+      },
+      "options": [
+        "A short trip to do a job for someone",
+        "A kind of flower",
+        "A long holiday",
+        "A heavy sack"
+      ],
       "answer": 0,
-      "explain": { "en": "An errand is a trip to carry or fetch something for someone. The Miller keeps Hans busy with them.", "ar": "الـ errand مشوار لحمل شيء أو إحضاره لغيرك. وكان الطحّان يشغل هانز بها باستمرار." },
+      "explain": {
+        "en": "An errand is a trip to carry or fetch something for someone. The Miller keeps Hans busy with them.",
+        "ar": "الـ errand مشوار لحمل شيء أو إحضاره لغيرك. وكان الطحّان يشغل هانز بها باستمرار."
+      },
       "ref": "p79"
     },
     {
       "type": "vocab",
-      "q": { "en": "“the Miller was the chief mourner.” What is a mourner?", "ar": "“the Miller was the chief mourner.” ما معنى mourner؟" },
-      "options": ["A person who leads the music", "A person who goes to a funeral because they are sad", "A judge", "A worker at the mill"],
+      "q": {
+        "en": "“the Miller was the chief mourner.” What is a mourner?",
+        "ar": "“the Miller was the chief mourner.” ما معنى mourner؟"
+      },
+      "options": [
+        "A person who leads the music",
+        "A person who goes to a funeral because they are sad",
+        "A judge",
+        "A worker at the mill"
+      ],
       "answer": 1,
-      "explain": { "en": "A mourner grieves for a dead person. It is ironic that the Miller, who caused Hans's death, takes 'the best place'.", "ar": "الـ mourner من يحزن على الميت. ومن السخرية أن الطحّان، الذي تسبّب في موت هانز، يأخذ «أفضل مكان»." },
+      "explain": {
+        "en": "A mourner grieves for a dead person. It is ironic that the Miller, who caused Hans's death, takes 'the best place'.",
+        "ar": "الـ mourner من يحزن على الميت. ومن السخرية أن الطحّان، الذي تسبّب في موت هانز، يأخذ «أفضل مكان»."
+      },
       "ref": "p95"
     },
     {
       "type": "comprehension",
-      "q": { "en": "Why does the Miller not visit Hans in winter?", "ar": "لماذا لا يزور الطحّان هانز في الشتاء؟" },
-      "options": ["He is ill", "He says people in trouble should be left alone, and Hans has nothing to give him then", "The road is closed", "Hans asked him not to come"],
+      "q": {
+        "en": "Why does the Miller not visit Hans in winter?",
+        "ar": "لماذا لا يزور الطحّان هانز في الشتاء؟"
+      },
+      "options": [
+        "He is ill",
+        "He says people in trouble should be left alone, and Hans has nothing to give him then",
+        "The road is closed",
+        "Hans asked him not to come"
+      ],
       "answer": 1,
-      "explain": { "en": "He says 'when people are in trouble they should be left alone', and plans to visit in spring to get primroses. His 'idea about friendship' is really selfishness.", "ar": "يقول: «الناس حين يكونون في ضيق ينبغي أن يُتركوا وشأنهم»، ويخطّط للزيارة في الربيع ليأخذ زهور الربيع. ففكرته عن الصداقة أنانية في الحقيقة." },
+      "explain": {
+        "en": "He says 'when people are in trouble they should be left alone', and plans to visit in spring to get primroses. His 'idea about friendship' is really selfishness.",
+        "ar": "يقول: «الناس حين يكونون في ضيق ينبغي أن يُتركوا وشأنهم»، ويخطّط للزيارة في الربيع ليأخذ زهور الربيع. ففكرته عن الصداقة أنانية في الحقيقة."
+      },
       "ref": "p21"
     },
     {
       "type": "comprehension",
-      "q": { "en": "How does Hans die?", "ar": "كيف يموت هانز؟" },
-      "options": ["He falls off the barn roof", "He loses his way on the moor in the storm and drowns", "Robbers attack him", "He freezes in his cottage"],
+      "q": {
+        "en": "How does Hans die?",
+        "ar": "كيف يموت هانز؟"
+      },
+      "options": [
+        "He falls off the barn roof",
+        "He loses his way on the moor in the storm and drowns",
+        "Robbers attack him",
+        "He freezes in his cottage"
+      ],
       "answer": 1,
-      "explain": { "en": "Without a lantern, he cannot keep up with the Doctor's horse, wanders onto the moor and is drowned in a deep pool.", "ar": "لم يكن معه فانوس، فلم يستطع اللحاق بحصان الطبيب، فتاه في الأرض البور وغرق في بركة عميقة." },
+      "explain": {
+        "en": "Without a lantern, he cannot keep up with the Doctor's horse, wanders onto the moor and is drowned in a deep pool.",
+        "ar": "لم يكن معه فانوس، فلم يستطع اللحاق بحصان الطبيب، فتاه في الأرض البور وغرق في بركة عميقة."
+      },
       "ref": "p94"
     },
     {
       "type": "grammar",
-      "q": { "en": "“If poor Hans is in trouble I will give him half my porridge.” Which conditional is this?", "ar": "“If poor Hans is in trouble I will give him half my porridge.” أيّ نوع من الشرط هذا؟" },
-      "options": ["First conditional (a real possibility)", "Second conditional (imagined)", "Third conditional (past regret)", "Not a conditional"],
+      "q": {
+        "en": "“If poor Hans is in trouble I will give him half my porridge …” Which conditional is this?",
+        "ar": "“If poor Hans is in trouble I will give him half my porridge …” أيّ نوع من الشرط هذا؟"
+      },
+      "options": [
+        "First conditional (a real possibility)",
+        "Second conditional (imagined)",
+        "Third conditional (past regret)",
+        "Not a conditional"
+      ],
       "answer": 0,
-      "explain": { "en": "If + present simple, will + verb = first conditional. The kind little boy sees Hans's trouble as real, unlike his father.", "ar": "If + المضارع البسيط، ثم will + الفعل = الشرط الأول. فالصبي الطيّب يرى ضيق هانز أمرًا واقعًا، بخلاف أبيه." },
+      "explain": {
+        "en": "If + present simple, will + verb = first conditional. The kind little boy sees Hans's trouble as real, unlike his father.",
+        "ar": "If + المضارع البسيط، ثم will + الفعل = الشرط الأول. فالصبي الطيّب يرى ضيق هانز أمرًا واقعًا، بخلاف أبيه."
+      },
       "ref": "p23"
     },
     {
       "type": "grammar",
-      "q": { "en": "Hans says: “I am going to buy them all back.” In reported speech: 'Hans said that he ___ going to buy them all back.'", "ar": "يقول هانز: “I am going to buy them all back.” في الكلام المنقول: 'Hans said that he ___ going to buy them all back.'" },
-      "options": ["is", "was", "will", "had"],
+      "q": {
+        "en": "Hans says: “But I am going to buy them all back again now.” In reported speech: 'Hans said that he ___ going to buy them all back.'",
+        "ar": "يقول هانز: “But I am going to buy them all back again now.” في الكلام المنقول: 'Hans said that he ___ going to buy them all back.'"
+      },
+      "options": [
+        "is",
+        "was",
+        "will",
+        "had"
+      ],
       "answer": 1,
-      "explain": { "en": "After 'said', the present 'am' moves back to the past 'was'.", "ar": "بعد said يرجع المضارع am إلى الماضي was." },
+      "explain": {
+        "en": "After 'said', the present 'am' moves back to the past 'was'.",
+        "ar": "بعد said يرجع المضارع am إلى الماضي was."
+      },
       "ref": "p42"
     },
     {
       "type": "translation",
-      "q": { "en": "Choose the best Arabic translation: “One always suffers for being generous.”", "ar": "اختر أفضل ترجمة عربية: “One always suffers for being generous.”" },
-      "options": ["الكريم لا يعاني أبدًا.", "المرء يعاني دائمًا بسبب كرمه.", "عانى رجل واحد من كرمه.", "يجب أن نكون كرماء دائمًا."],
+      "q": {
+        "en": "Choose the best Arabic translation: “One always suffers for being generous.”",
+        "ar": "اختر أفضل ترجمة عربية: “One always suffers for being generous.”"
+      },
+      "options": [
+        "الكريم لا يعاني أبدًا.",
+        "المرء يعاني دائمًا بسبب كرمه.",
+        "عانى رجل واحد من كرمه.",
+        "يجب أن نكون كرماء دائمًا."
+      ],
       "answer": 1,
-      "explain": { "en": "'One' means people in general, and 'for being' gives the reason. These are the Miller's last words, a perfect example of his self-pity.", "ar": "one تعني المرء أو الناس عمومًا، وfor being تذكر السبب. وهذه آخر كلمات الطحّان، وهي مثال كامل على شفقته على نفسه." },
+      "explain": {
+        "en": "'One' means people in general, and 'for being' gives the reason. These are the Miller's last words, a perfect example of his self-pity.",
+        "ar": "one تعني المرء أو الناس عمومًا، وfor being تذكر السبب. وهذه آخر كلمات الطحّان، وهي مثال كامل على شفقته على نفسه."
+      },
       "ref": "p98"
     },
     {
       "type": "context",
-      "q": { "en": "The Water-rat says, “I like the Miller immensely … there is a great sympathy between us.” Why is this funny?", "ar": "يقول فأر الماء: «أنا معجب بالطحّان إعجابًا هائلًا... بيننا تعاطف كبير». لماذا يُضحك هذا؟" },
-      "options": ["Because the Water-rat has never met a miller", "Because the Water-rat is selfish in the same way as the Miller, and does not notice it", "Because the Miller is a hero", "Because rats are afraid of millers"],
+      "q": {
+        "en": "The Water-rat says, “I like the Miller immensely … there is a great sympathy between us.” Why is this funny?",
+        "ar": "يقول فأر الماء: «أنا معجب بالطحّان إعجابًا هائلًا... بيننا تعاطف كبير». لماذا يُضحك هذا؟"
+      },
+      "options": [
+        "Because the Water-rat has never met a miller",
+        "Because the Water-rat is selfish in the same way as the Miller, and does not notice it",
+        "Because the Miller is a hero",
+        "Because rats are afraid of millers"
+      ],
       "answer": 1,
-      "explain": { "en": "The Water-rat expects his friend to be devoted to him but gives nothing back, just like the Miller. Wilde lets the reader see what the Water-rat cannot.", "ar": "فأر الماء يتوقّع من صديقه الوفاء ولا يعطي شيئًا، تمامًا كالطحّان. ويجعل وايلد القارئ يرى ما لا يراه فأر الماء." },
+      "explain": {
+        "en": "The Water-rat expects his friend to be devoted to him but gives nothing back, just like the Miller. Wilde lets the reader see what the Water-rat cannot.",
+        "ar": "فأر الماء يتوقّع من صديقه الوفاء ولا يعطي شيئًا، تمامًا كالطحّان. ويجعل وايلد القارئ يرى ما لا يراه فأر الماء."
+      },
       "ref": "p29"
     }
   ]

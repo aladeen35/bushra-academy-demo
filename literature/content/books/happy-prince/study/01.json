@@ -110,7 +110,7 @@
     },
     {
       "type": "grammar",
-      "q": { "en": "“He had met her early in the spring.” Why does Wilde use 'had met'?", "ar": "“He had met her early in the spring.” لماذا استخدم وايلد had met؟" },
+      "q": { "en": "“He had met her early in the spring …” Why does Wilde use 'had met'?", "ar": "“He had met her early in the spring …” لماذا استخدم وايلد had met؟" },
       "options": ["Because it happened before the night the story starts", "Because it will happen in the future", "Because it is a habit", "Because it is a polite request"],
       "answer": 0,
       "explain": { "en": "The past perfect shows an earlier past: he met the Reed in spring, long before the winter night of the story.", "ar": "الماضي التام يدلّ على الماضي الأسبق: فقد التقى القصبة في الربيع، قبل ليلة الشتاء التي تبدأ فيها القصة بزمن طويل." },
