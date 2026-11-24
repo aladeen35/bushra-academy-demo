@@ -1,0 +1,144 @@
+{
+  "chapter": 1,
+  "summary": {
+    "en": "High above a city stands the golden statue of the Happy Prince, with sapphire eyes and a ruby on his sword. One cold night a little Swallow, late in flying to Egypt, sleeps at the statue's feet and finds that the Prince is weeping. When he was alive the Prince lived behind a high palace wall and never saw sorrow; now, from his column, he sees all the misery of his city. He asks the Swallow to stay 'one night longer' again and again: to take the ruby to a poor seamstress with a sick son, one sapphire eye to a hungry young writer, and the other to a little match-girl. Now blind, the Prince sends the Swallow to give away his gold leaf, piece by piece, to the poor. The Swallow loves him too much to leave, and dies of cold at his feet; the Prince's lead heart breaks. The Mayor and Town Councillors think the grey statue is shabby, melt it down and quarrel about whose statue should replace it. But God asks an angel for the two most precious things in the city, and the angel brings the broken heart and the dead bird, who will live for ever in Paradise.",
+    "ar": "عاليًا فوق مدينة يقف تمثال الأمير السعيد الذهبي، بعينين من الياقوت الأزرق وياقوتة حمراء على سيفه. وفي ليلة باردة ينام سنونو صغير، تأخّر عن الرحيل إلى مصر، عند قدمي التمثال، فيكتشف أن الأمير يبكي. فحين كان الأمير حيًّا عاش خلف سور قصر عالٍ ولم يرَ الحزن قطّ؛ أما الآن فهو يرى من فوق عموده كل بؤس مدينته. فيطلب من السنونو مرّة بعد مرّة أن يبقى «ليلة أخرى»: ليحمل الياقوتة إلى خيّاطة فقيرة لها ابن مريض، وإحدى عينيه إلى كاتب شابّ جائع، والأخرى إلى بائعة كبريت صغيرة. وبعد أن صار الأمير أعمى يرسل السنونو ليوزّع أوراق الذهب التي تكسوه، ورقةً ورقة، على الفقراء. ويحبّه السنونو حبًّا يمنعه من الرحيل، فيموت من البرد عند قدميه، وينكسر قلب الأمير الرصاصي. ويرى العمدة وأعضاء المجلس أن التمثال الرمادي صار رثًّا، فيصهرونه ويتشاجرون على من يُصنع تمثاله بدلًا منه. لكن الله يطلب من ملَك أن يأتيه بأثمن شيئين في المدينة، فيأتيه بالقلب المكسور والطائر الميت، ليعيشا إلى الأبد في الجنّة."
+  },
+  "objectives": [
+    { "en": "Follow the story of the Prince and the Swallow and explain how each gift changes someone's life.", "ar": "تتبّع قصة الأمير والسنونو، وشرح كيف غيّرت كل هدية حياة أحد الناس." },
+    { "en": "Learn words for jewels, poverty and winter, such as sapphire, ruby, seamstress, garret, misery and frost.", "ar": "تعلّم مفردات الجواهر والفقر والشتاء، مثل sapphire وruby وseamstress وgarret وmisery وfrost." },
+    { "en": "Use 'so … that' to show a result, and the past perfect to show which past event happened first.", "ar": "استخدام «so … that» للتعبير عن النتيجة، والماضي التام لبيان أيّ حدث ماضٍ وقع أولًا." },
+    { "en": "Discuss the themes of compassion and sacrifice, and Wilde's irony about the Mayor and the Councillors.", "ar": "مناقشة موضوعَي الرحمة والتضحية، وسخرية وايلد من العمدة وأعضاء المجلس." }
+  ],
+  "vocab": [
+    "statue", "gilded", "sapphire", "ruby", "reed", "pity", "weep", "seamstress", "messenger",
+    "pluck", "garret", "withered", "misery", "beggar", "shabby", "frost", "furnace", "precious"
+  ],
+  "grammar": [
+    {
+      "id": "hp-1-so-that",
+      "topic": "complex",
+      "level": "A2",
+      "title": { "en": "'So + adjective + that' to show a result", "ar": "«so + صفة + that» للتعبير عن النتيجة" },
+      "explain": {
+        "en": "We use 'so + adjective/adverb + that + clause' to say that something is very strong and has a result. The first part gives the cause (his face was so beautiful), the 'that' clause gives the result (the Swallow was filled with pity). Wilde uses this pattern many times in the story.",
+        "ar": "نستخدم «so + صفة أو ظرف + that + جملة» لنقول إن شيئًا بلغ درجة كبيرة فأدّى إلى نتيجة. الجزء الأول يذكر السبب (his face was so beautiful)، وجملة that تذكر النتيجة (the Swallow was filled with pity). ويقابله في العربية: «... جدًّا حتى ...». ويستعمل وايلد هذا النمط مرارًا في القصة."
+      },
+      "example": {
+        "en": "His face was so beautiful in the moonlight that the little Swallow was filled with pity.",
+        "ar": "وكان وجهه جميلًا جدًّا في ضوء القمر حتى امتلأ قلب السنونو الصغير شفقة.",
+        "ref": "p21"
+      },
+      "exercise": {
+        "q": { "en": "Complete: 'The Happy Prince looked ___ sad that the little Swallow was sorry.'", "ar": "أكمل: 'The Happy Prince looked ___ sad that the little Swallow was sorry.'" },
+        "options": ["such", "so", "very"],
+        "answer": 1,
+        "why": { "en": "Before an adjective alone (sad) followed by a 'that' clause we use 'so'. 'Such' needs a noun (such a sad face). This is the sentence in paragraph 31.", "ar": "قبل الصفة وحدها (sad) وبعدها جملة that نستخدم so. أما such فتحتاج إلى اسم (such a sad face). وهي جملة الفقرة ٣١." }
+      }
+    },
+    {
+      "id": "hp-1-past-perfect",
+      "topic": "tenses",
+      "level": "B1",
+      "title": { "en": "The past perfect: the earlier past", "ar": "الماضي التام: الماضي الأسبق" },
+      "explain": {
+        "en": "The story happens in the past simple ('One night there flew over the city a little Swallow'). When Wilde goes further back in time, to explain what happened before that night, he uses the past perfect: had + past participle (had gone, had stayed, had met). It tells the reader: this happened earlier.",
+        "ar": "تُروى القصة بالماضي البسيط. وحين يعود وايلد إلى زمن أسبق ليشرح ما حدث قبل تلك الليلة يستخدم الماضي التام: had + التصريف الثالث (had gone, had stayed, had met). وهو يقول للقارئ: هذا حدث قبل ذلك. ويقابله في العربية غالبًا «كان قد + فعل»."
+      },
+      "example": {
+        "en": "His friends had gone away to Egypt six weeks before, but he had stayed behind, for he was in love with the most beautiful Reed.",
+        "ar": "كان أصدقاؤه قد رحلوا إلى مصر قبل ستة أسابيع، لكنه تخلّف عنهم، لأنه كان واقعًا في حبّ أجمل قصبة.",
+        "ref": "p8"
+      },
+      "exercise": {
+        "q": { "en": "Choose the correct form: 'After they ___ he felt lonely.'", "ar": "اختر الصيغة الصحيحة: 'After they ___ he felt lonely.'" },
+        "options": ["have gone", "had gone", "were going"],
+        "answer": 1,
+        "why": { "en": "The other swallows left first; then he felt lonely. The earlier action takes the past perfect: 'After they had gone he felt lonely' (paragraph 11).", "ar": "رحلت طيور السنونو الأخرى أولًا ثم شعر هو بالوحدة. فالحدث الأسبق يأخذ الماضي التام: After they had gone (الفقرة ١١)." }
+      }
+    }
+  ],
+  "culture": [
+    {
+      "term": "Swallows and Egypt",
+      "en": "Swallows are migrating birds. They spend the summer in Europe and fly south to Africa before winter, many of them over Egypt and the Nile. So the Swallow's friends 'had gone away to Egypt', and a swallow in a northern city in winter is so strange that a professor writes to the newspaper about it. The Swallow's pictures of Egypt (the Nile, the Pyramids, the Sphinx, Memnon, Baalbec) show how Victorian readers dreamed of the East.",
+      "ar": "السنونو من الطيور المهاجرة؛ يقضي الصيف في أوروبا ثم يطير جنوبًا إلى أفريقيا قبل الشتاء، ويمرّ كثير منه بمصر ونهر النيل. ولهذا «رحل أصدقاؤه إلى مصر»، ولهذا أيضًا كان وجود سنونو في مدينة شمالية في الشتاء أمرًا غريبًا جدًّا حتى كتب عنه أستاذ إلى الصحيفة. وتُظهر صور مصر التي يرسمها السنونو (النيل والأهرامات وأبو الهول وتمثال ممنون وبعلبك) كيف كان القرّاء الفيكتوريون يحلمون بالشرق."
+    },
+    {
+      "term": "Poverty in Victorian cities",
+      "en": "In the 1880s British cities were rich, but many people lived in great poverty. Seamstresses sewed fine dresses for very little money, poor writers lived in cold garrets, and children sold matches in the street. Wilde shows the contrast between the rich 'making merry in their beautiful houses' and the beggars at their gates, and he criticizes the officials who care only about appearances.",
+      "ar": "في ثمانينيات القرن التاسع عشر كانت المدن البريطانية غنية، لكن كثيرًا من الناس عاشوا في فقر شديد. فكانت الخيّاطات يخطن الثياب الفاخرة بأجر زهيد، ويسكن الكتّاب الفقراء في عُلّيات باردة، ويبيع الأطفال أعواد الكبريت في الشوارع. ويُظهر وايلد التناقض بين الأغنياء الذين «يمرحون في بيوتهم الجميلة» والمتسوّلين عند أبوابهم، وينتقد المسؤولين الذين لا يهمّهم إلا المظاهر."
+    },
+    {
+      "term": "The ending: God and the angel",
+      "en": "The story ends with God asking one of His angels to bring 'the two most precious things in the city'. The angel does not bring gold or jewels, but a broken heart and a dead bird. The message, shared by many faiths, is that true value lies in mercy and good deeds done for others, not in outward beauty or wealth.",
+      "ar": "تنتهي القصة بأن يطلب الله من أحد ملائكته أن يأتيه بـ«أثمن شيئين في المدينة». فلا يأتي الملَك بالذهب ولا بالجواهر، بل بقلب مكسور وطائر ميت. والرسالة، وهي مشتركة بين أديان كثيرة، أن القيمة الحقيقية في الرحمة والعمل الصالح للآخرين، لا في جمال المظهر أو الثروة."
+    }
+  ],
+  "quiz": [
+    {
+      "type": "vocab",
+      "q": { "en": "“for she is a seamstress.” What is a seamstress?", "ar": "“for she is a seamstress.” ما معنى seamstress؟" },
+      "options": ["A woman who sells flowers", "A woman whose job is sewing", "A woman who sings in church", "A woman who works in a palace"],
+      "answer": 1,
+      "explain": { "en": "A seamstress sews clothes. That is why her hands are 'all pricked by the needle'.", "ar": "الخيّاطة تخيط الثياب، ولهذا كانت يداها «قد وخزتهما الإبرة كثيرًا»." },
+      "ref": "p27"
+    },
+    {
+      "type": "vocab",
+      "q": { "en": "“Dear me! how shabby the Happy Prince looks!” What does 'shabby' mean?", "ar": "“Dear me! how shabby the Happy Prince looks!” ما معنى shabby؟" },
+      "options": ["Very tall", "Shiny and new", "Old and in poor condition", "Kind and gentle"],
+      "answer": 2,
+      "explain": { "en": "Without his gold, eyes and ruby the statue looks old and worn. The Mayor sees only the outside, not the good it has done.", "ar": "بلا ذهبه وعينيه وياقوتته صار التمثال قديمًا باليًا. والعمدة لا يرى إلا المظهر، لا الخير الذي صنعه." },
+      "ref": "p75"
+    },
+    {
+      "type": "comprehension",
+      "q": { "en": "Why did the Prince never see sorrow when he was alive?", "ar": "لماذا لم يرَ الأمير الحزن قطّ حين كان حيًّا؟" },
+      "options": ["He was always travelling", "He was blind", "He lived behind a high wall where sorrow was not allowed to enter", "His mother kept him in bed"],
+      "answer": 2,
+      "explain": { "en": "He lived in the Palace of Sans-Souci, with 'a very lofty wall' round the garden, and he never asked what lay beyond it.", "ar": "عاش في قصر «سان سوسي»، وحول حديقته «سور عالٍ جدًّا»، ولم يسأل قطّ عمّا وراءه." },
+      "ref": "p25"
+    },
+    {
+      "type": "comprehension",
+      "q": { "en": "What did the Swallow take to the young man in the garret?", "ar": "ماذا حمل السنونو إلى الشابّ في العُلّية؟" },
+      "options": ["The ruby from the sword", "One of the Prince's sapphire eyes", "A leaf of gold", "A bunch of violets"],
+      "answer": 1,
+      "explain": { "en": "The ruby was already gone, so the Prince gave one of his eyes, 'made of rare sapphires'.", "ar": "كانت الياقوتة قد ذهبت، فأعطى الأمير إحدى عينيه، وهما «من الياقوت الأزرق النادر»." },
+      "ref": "p46"
+    },
+    {
+      "type": "grammar",
+      "q": { "en": "“He had met her early in the spring.” Why does Wilde use 'had met'?", "ar": "“He had met her early in the spring.” لماذا استخدم وايلد had met؟" },
+      "options": ["Because it happened before the night the story starts", "Because it will happen in the future", "Because it is a habit", "Because it is a polite request"],
+      "answer": 0,
+      "explain": { "en": "The past perfect shows an earlier past: he met the Reed in spring, long before the winter night of the story.", "ar": "الماضي التام يدلّ على الماضي الأسبق: فقد التقى القصبة في الربيع، قبل ليلة الشتاء التي تبدأ فيها القصة بزمن طويل." },
+      "ref": "p8"
+    },
+    {
+      "type": "grammar",
+      "q": { "en": "Complete: “The streets looked as if they were made of silver, they were ___ bright and glistening.”", "ar": "أكمل: “The streets looked as if they were made of silver, they were ___ bright and glistening.”" },
+      "options": ["such", "so", "too", "enough"],
+      "answer": 1,
+      "explain": { "en": "'So + adjective' gives the reason for the comparison with silver. 'Such' would need a noun.", "ar": "«so + صفة» تذكر سبب تشبيه الشوارع بالفضة. أما such فتحتاج إلى اسم بعدها." },
+      "ref": "p68"
+    },
+    {
+      "type": "translation",
+      "q": { "en": "Choose the best Arabic translation: “There is no Mystery so great as Misery.”", "ar": "اختر أفضل ترجمة عربية: “There is no Mystery so great as Misery.”" },
+      "options": ["لا يوجد بؤس في هذا اللغز.", "ليس هناك لغز أعظم من البؤس.", "البؤس ليس لغزًا عظيمًا.", "اللغز العظيم يسبّب البؤس."],
+      "answer": 1,
+      "explain": { "en": "'No … so great as …' means nothing is greater than it. The Prince means that human suffering is the deepest mystery of all.", "ar": "تركيب no … so great as … يعني «لا شيء أعظم من …». فالأمير يقصد أن معاناة البشر هي أعمق الألغاز كلها." },
+      "ref": "p63"
+    },
+    {
+      "type": "context",
+      "q": { "en": "The Town Councillors repeat everything the Mayor says (“How shabby indeed!”, “Little better than a beggar”). What is Wilde showing?", "ar": "يكرّر أعضاء مجلس المدينة كل ما يقوله العمدة. ماذا يريد وايلد أن يُظهر؟" },
+      "options": ["That they are wise and careful", "That they have no opinions of their own and only want to please him", "That they are very poor", "That they love the Happy Prince"],
+      "answer": 1,
+      "explain": { "en": "Wilde says they 'always agreed with the Mayor'. He is mocking officials who flatter people in power and care about appearances, not about the poor.", "ar": "يقول وايلد إنهم «كانوا يوافقون العمدة دائمًا». فهو يسخر من المسؤولين الذين يتملّقون أصحاب السلطة ويهتمّون بالمظاهر لا بالفقراء." },
+      "ref": "p76"
+    }
+  ]
+}
