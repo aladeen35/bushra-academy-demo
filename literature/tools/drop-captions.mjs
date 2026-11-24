@@ -22,7 +22,8 @@ for (const f of readdirSync(dir).filter((x) => /^\d+\.json$/.test(x)).sort()) {
   const drop = new Set();
   all.forEach((p, i) => {
     const t = p.en.trim();
-    if (t.includes("\n") || t.length > 140 || /[.!?”"’)]$/.test(t)) return;
+    // Captions lack the closing quote that the real dialogue line has, so "…?" without quotes still counts.
+    if (t.includes("\n") || t.length > 140 || /[.”"’)]$/.test(t) || (/[!?]$/.test(t) && /[“”"]/.test(t))) return;
     const k = norm(t);
     if (!/[a-z]/.test(k) || k.split(" ").length < 3) return;
     const near = all.slice(Math.max(0, i - 25), i + 26).filter((q) => q !== p);
