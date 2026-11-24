@@ -1,0 +1,139 @@
+{
+  "chapter": 2,
+  "summary": {
+    "en": "A young Student weeps in his garden: the Professor's daughter has promised to dance with him at the Prince's ball if he brings her red roses, but there is no red rose in his garden. A Nightingale hears him and believes she has found a true lover, the kind of person she has always sung about. She flies from rose-tree to rose-tree, but the first has white roses, the second yellow, and the third, under the Student's window, has been damaged by winter. It tells her the only way: she must build a red rose out of music by moonlight and colour it with her own heart's blood, singing all night with her breast against a thorn. She decides that Love is better than Life. The Student hears her song but cannot understand it, and thinks she is 'all style, without any sincerity'. That night the Nightingale sings until the thorn reaches her heart; the rose turns crimson and she dies. In the morning the Student picks the rose, but the girl refuses it because the Chamberlain's nephew has sent her real jewels. Angry, the Student throws the rose into the gutter, decides that Love is silly and unpractical, and goes back to his dusty books.",
+    "ar": "يبكي طالب شابّ في حديقته: فقد وعدته ابنة الأستاذ بأن ترقص معه في حفل الأمير إن أحضر لها ورودًا حمراء، وليس في حديقته وردة حمراء واحدة. فتسمعه العندليب وتظن أنها وجدت عاشقًا صادقًا، من النوع الذي طالما غنّت عنه. فتطير من شجرة ورد إلى أخرى، لكن ورود الأولى بيضاء، والثانية صفراء، أما الثالثة، تحت نافذة الطالب، فقد أتلفها الشتاء. وتخبرها بالسبيل الوحيد: أن تصنع وردة حمراء من الموسيقى في ضوء القمر وتصبغها بدم قلبها، فتغنّي طوال الليل وصدرها على شوكة. فتقرّر أن الحب خير من الحياة. ويسمع الطالب غناءها لكنه لا يفهمه، ويظن أنها «كلها أسلوب، بلا أي صدق». وفي تلك الليلة تغنّي العندليب حتى تبلغ الشوكة قلبها، فتصير الوردة قرمزية وتموت. وفي الصباح يقطف الطالب الوردة، لكن الفتاة ترفضها لأن ابن أخي كبير الأمناء أرسل إليها جواهر حقيقية. فيغضب الطالب ويرمي الوردة في المجرى، ويقرّر أن الحب سخيف غير عملي، ويعود إلى كتبه المغبرّة."
+  },
+  "objectives": [
+    { "en": "Understand the Nightingale's sacrifice and why the Student and the girl cannot see its value.", "ar": "فهم تضحية العندليب، ولماذا لم يستطع الطالب ولا الفتاة إدراك قيمتها." },
+    { "en": "Learn words about love, flowers and pain, such as thorn, petal, crimson, pang, wretched and sacrifice.", "ar": "تعلّم مفردات الحب والأزهار والألم، مثل thorn وpetal وcrimson وpang وwretched وsacrifice." },
+    { "en": "Use the first conditional (If + present, will + verb) and comparisons with 'as … as' and '-er than'.", "ar": "استخدام الشرط الأول (If + المضارع، will + الفعل) والمقارنة بـ «as … as» و«-er than»." },
+    { "en": "Discuss the contrast between true love and selfish, practical 'common sense'.", "ar": "مناقشة التناقض بين الحب الصادق و«العقل العملي» الأناني." }
+  ],
+  "vocab": [
+    "nightingale", "thorn", "wretched", "ball", "petal", "crimson", "sacrifice", "ungrateful", "gutter",
+    "soar", "grove", "pang", "philosophy", "practical", "ebb", "frown", "sincerity", "lover"
+  ],
+  "grammar": [
+    {
+      "id": "hp-2-first-conditional",
+      "topic": "conditional",
+      "level": "A2",
+      "title": { "en": "The first conditional: real possibilities", "ar": "الشرط الأول: الاحتمالات الواقعية" },
+      "explain": {
+        "en": "The first conditional talks about a real possible situation in the future and its result: If + present simple, will + base verb. Notice that we do NOT use 'will' after 'if': 'If I bring' (not 'If I will bring'). The Student repeats this pattern because he is dreaming of the ball.",
+        "ar": "يتحدّث الشرط الأول عن موقف ممكن حقًّا في المستقبل ونتيجته: If + المضارع البسيط، ثم will + الفعل المجرّد. لاحظ أننا لا نستخدم will بعد if: نقول If I bring لا If I will bring. ويكرّر الطالب هذا النمط لأنه يحلم بالحفل."
+      },
+      "example": {
+        "en": "If I bring her a red rose she will dance with me till dawn.",
+        "ar": "إن أحضرت لها وردة حمراء فسترقص معي حتى الفجر.",
+        "ref": "p5"
+      },
+      "exercise": {
+        "q": { "en": "Choose the correct form: 'If you ___ a red rose, you must build it out of music by moonlight.'", "ar": "اختر الصيغة الصحيحة: 'If you ___ a red rose, you must build it out of music by moonlight.'" },
+        "options": ["will want", "want", "wanted"],
+        "answer": 1,
+        "why": { "en": "After 'if' in a real condition we use the present simple: 'If you want a red rose' (paragraph 30).", "ar": "بعد if في الشرط الواقعي نستخدم المضارع البسيط: If you want a red rose (الفقرة ٣٠)." }
+      }
+    },
+    {
+      "id": "hp-2-comparisons",
+      "topic": "descriptive",
+      "level": "A2",
+      "title": { "en": "Comparing with 'as … as' and '-er than'", "ar": "المقارنة بـ «as … as» و«-er than»" },
+      "explain": {
+        "en": "Each rose-tree describes its roses with two comparisons. 'As + adjective + as' means equal (as white as the foam). 'Adjective-er + than' means more (whiter than the snow). Short adjectives add -er (white → whiter, red → redder, yellow → yellower). Wilde builds a rhythm by repeating the same pattern three times.",
+        "ar": "تصف كل شجرة ورد ورودها بمقارنتين. «as + صفة + as» تعني المساواة (as white as the foam)، و«صفة + er + than» تعني التفضيل (whiter than the snow). والصفات القصيرة تأخذ -er: white ← whiter و red ← redder و yellow ← yellower. ويصنع وايلد إيقاعًا بتكرار النمط نفسه ثلاث مرّات."
+      },
+      "example": {
+        "en": "as white as the foam of the sea, and whiter than the snow upon the mountain.",
+        "ar": "بيضاء كزبد البحر، وأشدّ بياضًا من الثلج على الجبل.",
+        "ref": "p18"
+      },
+      "exercise": {
+        "q": { "en": "Complete: 'My roses are red, as red as the feet of the dove, and ___ than the great fans of coral.'", "ar": "أكمل: 'My roses are red, as red as the feet of the dove, and ___ than the great fans of coral.'" },
+        "options": ["more red", "reder", "redder"],
+        "answer": 2,
+        "why": { "en": "'Red' is short and ends in one vowel + one consonant, so we double the 'd': redder (paragraph 26).", "ar": "red صفة قصيرة تنتهي بحرف علّة واحد ثم حرف ساكن، فنضاعف الحرف الأخير: redder (الفقرة ٢٦)." }
+      }
+    }
+  ],
+  "culture": [
+    {
+      "term": "The nightingale and the rose",
+      "en": "The love of the nightingale (bulbul) for the rose is a famous image in Persian and Arabic poetry, for example in the poems of Hafez and in many Arabic songs: the bird sings all night to the rose it loves. Wilde knew this Eastern tradition and changed it into a story of sacrifice, where the bird gives its life to make the rose red.",
+      "ar": "حبّ البلبل (العندليب) للوردة صورة مشهورة في الشعر الفارسي والعربي، كما في أشعار حافظ الشيرازي وفي أغانٍ عربية كثيرة: يغنّي الطائر الليل كله للوردة التي يحبّها. وقد عرف وايلد هذا التراث الشرقي فحوّله إلى قصة تضحية، يبذل فيها الطائر حياته ليجعل الوردة حمراء."
+    },
+    {
+      "term": "Balls and courtship",
+      "en": "In 19th-century Europe a ball was a formal dancing party, and an important place for young men and women to meet. Dancing with someone was a public sign of interest, and gifts such as flowers or jewels were part of courtship. The girl chooses jewels over a rose because they show wealth and social position, which Wilde presents as a cold, selfish choice.",
+      "ar": "كان الحفل الراقص في أوروبا القرن التاسع عشر حفلًا رسميًّا، ومكانًا مهمًّا يلتقي فيه الشبّان والفتيات من الطبقات الغنية. وكان الرقص مع شخص علامة علنية على الاهتمام، وكانت الهدايا كالزهور والجواهر جزءًا من التودّد. وتختار الفتاة الجواهر بدل الوردة لأنها تدلّ على الثروة والمكانة الاجتماعية، وهو اختيار يصوّره وايلد باردًا أنانيًّا."
+    }
+  ],
+  "quiz": [
+    {
+      "type": "vocab",
+      "q": { "en": "“a fierce pang of pain shot through her.” What is a 'pang'?", "ar": "“a fierce pang of pain shot through her.” ما معنى pang؟" },
+      "options": ["A long sleep", "A sudden sharp feeling of pain", "A loud song", "A small wound on a leaf"],
+      "answer": 1,
+      "explain": { "en": "A pang is a sudden, sharp pain. The thorn has just touched the Nightingale's heart.", "ar": "pang ألم مفاجئ حادّ، فقد لمست الشوكة قلب العندليب للتو." },
+      "ref": "p47"
+    },
+    {
+      "type": "vocab",
+      "q": { "en": "“Well, upon my word, you are very ungrateful,” says the Student. What does 'ungrateful' mean?", "ar": "يقول الطالب: “you are very ungrateful”. ما معنى ungrateful؟" },
+      "options": ["Not thankful for a kindness", "Very beautiful", "Too tired", "Easy to please"],
+      "answer": 0,
+      "explain": { "en": "Ungrateful = not showing thanks. The irony is that the Student himself never thanks the Nightingale, who died for the rose.", "ar": "ungrateful تعني ناكرًا للجميل. والمفارقة أن الطالب نفسه لم يشكر العندليب التي ماتت من أجل الوردة." },
+      "ref": "p59"
+    },
+    {
+      "type": "comprehension",
+      "q": { "en": "Why can the third rose-tree not give a red rose?", "ar": "لماذا لا تستطيع شجرة الورد الثالثة أن تعطي وردة حمراء؟" },
+      "options": ["Its roses are white", "The Student has already picked them", "Winter, frost and storm have damaged it", "It does not like the Nightingale"],
+      "answer": 2,
+      "explain": { "en": "It says: 'the winter has chilled my veins, and the frost has nipped my buds, and the storm has broken my branches'.", "ar": "تقول: «الشتاء جمّد عروقي، والصقيع لسع براعمي، والعاصفة كسرت أغصاني»." },
+      "ref": "p26"
+    },
+    {
+      "type": "comprehension",
+      "q": { "en": "Why does the Professor's daughter refuse the rose?", "ar": "لماذا ترفض ابنة الأستاذ الوردة؟" },
+      "options": ["She is allergic to flowers", "It will not go with her dress, and she has received real jewels", "She prefers white roses", "The Student arrived too late"],
+      "answer": 1,
+      "explain": { "en": "She says the rose 'will not go with my dress' and that 'jewels cost far more than flowers'.", "ar": "تقول إن الوردة «لا تناسب ثوبي» وإن «الجواهر أغلى بكثير من الزهور»." },
+      "ref": "p58"
+    },
+    {
+      "type": "grammar",
+      "q": { "en": "Complete the Student's words: “If I bring her a red rose, I ___ hold her in my arms.”", "ar": "أكمل كلام الطالب: “If I bring her a red rose, I ___ hold her in my arms.”" },
+      "options": ["shall", "would have", "had", "am"],
+      "answer": 0,
+      "explain": { "en": "The result of a first conditional uses will/shall + verb. Older British English often used 'shall' with 'I'.", "ar": "نتيجة الشرط الأول تكون will أو shall + الفعل. وكانت الإنجليزية البريطانية القديمة تستعمل shall كثيرًا مع I." },
+      "ref": "p5"
+    },
+    {
+      "type": "grammar",
+      "q": { "en": "Which phrase from the story shows EQUALITY?", "ar": "أيّ عبارة من القصة تدلّ على المساواة؟" },
+      "options": ["yellower than the daffodil", "as yellow as the hair of the mermaiden", "redder than the great fans of coral", "whiter than the snow"],
+      "answer": 1,
+      "explain": { "en": "'As … as' shows that two things are equal. The '-er than' phrases show that one thing is more.", "ar": "«as … as» تدلّ على تساوي الشيئين، أما عبارات «-er than» فتدلّ على التفضيل." },
+      "ref": "p22"
+    },
+    {
+      "type": "translation",
+      "q": { "en": "Choose the best Arabic translation: “Death is a great price to pay for a red rose.”", "ar": "اختر أفضل ترجمة عربية: “Death is a great price to pay for a red rose.”" },
+      "options": ["الوردة الحمراء أغلى من الموت.", "الموت ثمن باهظ لوردة حمراء.", "دفعت ثمنًا كبيرًا لوردة حمراء.", "لا أحد يموت من أجل وردة."],
+      "answer": 1,
+      "explain": { "en": "'A great price to pay for' = a very high cost for something. The Nightingale knows the cost, but still chooses to pay it.", "ar": "a great price to pay for تعني ثمنًا باهظًا مقابل شيء. فالعندليب تعرف الثمن، ومع ذلك تختار أن تدفعه." },
+      "ref": "p31"
+    },
+    {
+      "type": "context",
+      "q": { "en": "At the end the Student says Love is 'not half as useful as Logic' and returns to Metaphysics. What is Wilde suggesting?", "ar": "في النهاية يقول الطالب إن الحب «لا ينفع نصف ما ينفع المنطق» ويعود إلى الميتافيزيقا. ماذا يقصد وايلد؟" },
+      "options": ["That studying is always better than love", "That the Student never understood love, so the Nightingale's sacrifice was wasted on him", "That the Nightingale was foolish to sing", "That roses are useless flowers"],
+      "answer": 1,
+      "explain": { "en": "The Student 'only knew the things that are written down in books'. Wilde's bitter irony is that the one true lover in the story is the bird.", "ar": "كان الطالب «لا يعرف إلا الأشياء المكتوبة في الكتب». وسخرية وايلد المرّة أن العاشق الصادق الوحيد في القصة هو الطائر." },
+      "ref": "p61"
+    }
+  ]
+}
