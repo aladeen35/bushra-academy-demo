@@ -48,7 +48,8 @@ export function parseNovel(raw, opts = {}) {
   let cur = null, para = [], paraLine = 0, part = "", newPart = false, partOffset = 0;
   const flush = () => {
     if (cur && para.length) {
-      const text = para.join(" ").replace(/[ \t]*\n[ \t]*/g, "\n").replace(/[ \t]+/g, " ").replace(/--/g, "—").trim();
+      // "[301]"-style editorial page/note markers are not part of the author's text.
+      const text = para.join(" ").replace(/\s?\[\d{1,4}[a-z]?\]/g, "").replace(/[ \t]*\n[ \t]*/g, "\n").replace(/[ \t]+/g, " ").replace(/--/g, "—").trim();
       if (text) cur.paras.push({ text, line: paraLine });
     }
     para = [];
@@ -75,6 +76,8 @@ export function parseNovel(raw, opts = {}) {
       continue;
     }
     if (!cur) continue;
+    // An editor's notes section after the last chapter ends the text.
+    if (/^(FOOTNOTES|NOTES|ENDNOTES):?$/.test(t)) { flush(); break; }
     if (!t) { flush(); continue; }
     if (/^\[(Illustration|Picture)/.test(t)) { flush(); while (i < body.length && !body[i].includes("]")) i++; continue; }
     if (!para.length) paraLine = i + offset;
