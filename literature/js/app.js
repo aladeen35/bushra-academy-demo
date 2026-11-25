@@ -5,6 +5,10 @@ import * as fb from "./fb.js";
 import * as store from "./store.js";
 import { invalidate } from "./data.js";
 
+// Bump with index.html so view modules are re-fetched after a release.
+const V = 3;
+const view = (name) => import(`./views/${name}.js?v=${V}`);
+
 const NAV = [
   { id: "home", href: "#/", icon: "home", key: "nav_home", bn: "nav_home" },
   { id: "library", href: "#/library", icon: "library", key: "nav_library", bn: "bn_library" },
@@ -16,21 +20,21 @@ const NAV = [
   { id: "profile", href: "#/profile", icon: "profile", key: "nav_profile", bn: "nav_profile" },
 ];
 const ROUTES = [
-  [/^\/?$/, "home", () => import("./views/home.js")],
-  [/^\/library$/, "library", () => import("./views/library.js")],
-  [/^\/book\/([\w-]+)$/, "library", () => import("./views/book.js")],
-  [/^\/read\/([\w-]+)\/(\d+)(?:\/(s\d+))?(?:\/(p\d+))?$/, "library", () => import("./views/reader.js")],
-  [/^\/study\/([\w-]+)\/(\d+)$/, "library", () => import("./views/study.js")],
-  [/^\/quiz\/([\w-]+)\/(\d+|final)$/, "learning", () => import("./views/quiz.js")],
-  [/^\/shorts(?:\/([\w-]+))?$/, "shorts", () => import("./views/shorts.js")],
-  [/^\/learning$/, "learning", () => import("./views/learning.js")],
-  [/^\/vocab(?:\/(\w+))?(?:\?(.*))?$/, "vocab", () => import("./views/vocab.js")],
-  [/^\/grammar(?:\/([\w-]+))?$/, "grammar", () => import("./views/grammar.js")],
-  [/^\/tutor$/, "tutor", () => import("./views/tutor.js")],
-  [/^\/placement$/, "profile", () => import("./views/placement.js")],
-  [/^\/profile$/, "profile", () => import("./views/profile.js")],
-  [/^\/search\/(.*)$/, "library", () => import("./views/search.js")],
-  [/^\/admin(?:\/([\w-]+))?(?:\/([\w-]+))?(?:\/(\d+))?$/, "admin", () => import("./views/admin.js")],
+  [/^\/?$/, "home", () => view("home")],
+  [/^\/library$/, "library", () => view("library")],
+  [/^\/book\/([\w-]+)$/, "library", () => view("book")],
+  [/^\/read\/([\w-]+)\/(\d+)(?:\/(s\d+))?(?:\/(p\d+))?$/, "library", () => view("reader")],
+  [/^\/study\/([\w-]+)\/(\d+)$/, "library", () => view("study")],
+  [/^\/quiz\/([\w-]+)\/(\d+|final)$/, "learning", () => view("quiz")],
+  [/^\/shorts(?:\/([\w-]+))?$/, "shorts", () => view("shorts")],
+  [/^\/learning$/, "learning", () => view("learning")],
+  [/^\/vocab(?:\/(\w+))?(?:\?(.*))?$/, "vocab", () => view("vocab")],
+  [/^\/grammar(?:\/([\w-]+))?$/, "grammar", () => view("grammar")],
+  [/^\/tutor$/, "tutor", () => view("tutor")],
+  [/^\/placement$/, "profile", () => view("placement")],
+  [/^\/profile$/, "profile", () => view("profile")],
+  [/^\/search\/(.*)$/, "library", () => view("search")],
+  [/^\/admin(?:\/([\w-]+))?(?:\/([\w-]+))?(?:\/(\d+))?$/, "admin", () => view("admin")],
 ];
 
 let cleanup = null;
@@ -130,4 +134,4 @@ setInterval(() => {
 }, 15000);
 
 addEventListener("offline", () => toast(t("offline")));
-if ("serviceWorker" in navigator && location.protocol === "https:") navigator.serviceWorker.register("sw.js").catch(() => {});
+if ("serviceWorker" in navigator && location.protocol === "https:") navigator.serviceWorker.register("sw.js", { updateViaCache: "none" }).catch(() => {});
