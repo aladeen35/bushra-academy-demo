@@ -28,7 +28,7 @@ for (const slug of books) {
     const o = await fetch(`https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=${e.id}&format=json`).then((r) => (r.ok ? r.json() : null)).catch(() => null);
     if (!o) { console.error(slug, e.id, "unavailable (private or removed) — skipped"); continue; }
     // Episode number from titles like "جين آير 3: …"; the playlist intro has none.
-    const ep = +(e.title.match(/\s(\d{1,3})\s*[:：]/)?.[1] || 0);
+    const ep = +(e.title.match(/الحلقة\s*(\d{1,3})/)?.[1] || e.title.match(/\s(\d{1,3})\s*[:：]/)?.[1] || 0);
     // oEmbed reports 16:9 even for Shorts; youtube.com/shorts/<id> answers 200 only for real Shorts.
     const sh = await fetch(`https://www.youtube.com/shorts/${e.id}`, { redirect: "manual" }).then((r) => r.status === 200).catch(() => false);
     videos.push({ ...e, ep, vertical: sh });
@@ -36,5 +36,14 @@ for (const slug of books) {
   videos.sort((a, b) => a.ep - b.ep || a.published.localeCompare(b.published));
   out.books[slug] = { playlist: book.youtubePlaylist, videos };
   console.log(`${slug}: ${videos.length} videos`);
+}
+// Channel logo, saved locally for the Shorts feed (assets/channel-avatar.jpg).
+if (out.channel?.url) {
+  const html = await fetch(out.channel.url).then((r) => r.text()).catch(() => "");
+  const img = html.match(/<meta property="og:image" content="([^"]+)"/)?.[1];
+  if (img) {
+    const buf = await fetch(img.replace(/=s\d+-/, "=s240-")).then((r) => (r.ok ? r.arrayBuffer() : null)).catch(() => null);
+    if (buf) { writeFileSync(join(ROOT, "../assets/channel-avatar.jpg"), Buffer.from(buf)); out.channel.avatar = "assets/channel-avatar.jpg"; }
+  }
 }
 writeFileSync(join(ROOT, "videos.json"), JSON.stringify(out, null, 1) + "\n");

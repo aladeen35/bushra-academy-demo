@@ -45,7 +45,7 @@ export function parseNovel(raw, opts = {}) {
   }
 
   const chapters = [];
-  let cur = null, para = [], paraLine = 0, part = "";
+  let cur = null, para = [], paraLine = 0, part = "", newPart = false, partOffset = 0;
   const flush = () => {
     if (cur && para.length) {
       const text = para.join(" ").replace(/[ \t]*\n[ \t]*/g, "\n").replace(/[ \t]+/g, " ").replace(/--/g, "—").trim();
@@ -56,14 +56,19 @@ export function parseNovel(raw, opts = {}) {
   for (let i = 0; i < body.length; i++) {
     const rawLine = body[i];
     const t = rawLine.trim();
-    const pm = /^PART ([A-Z]+)--(.+)$/.exec(t);
-    if (pm) { flush(); part = pm[2].trim(); continue; }
+    // Part headings: "PART ONE--The Old Buccaneer" or "PART I. A VOYAGE TO LILLIPUT."
+    const pm = /^PART ([A-Z]+)--(.+)$/.exec(t) || /^PART ([IVX]+)\.\s+(.+?)\.?$/.exec(t);
+    if (pm) { flush(); part = titleCase(pm[2].trim()); newPart = true; continue; }
     const h = headingAt(i);
     // A table of contents produces empty chapters; when chapter 1 appears again, start over.
     if (h && h.n === 1 && chapters.length && (chapters.every((c) => !c.paras.length) || (chapters.length === 1 && cur.n === 1))) { chapters.length = 0; cur = null; }
+    // Books whose chapter numbers restart in every part keep one continuous sequence.
+    if (h && newPart && cur && h.n === 1 && cur.n >= 1) { partOffset = cur.n; h.restart = true; }
+    if (h && !h.loose) h.n += partOffset;
     if (h && (!cur || h.n === cur.n + 1 || (h.loose && h.n !== cur.n))) {
+      newPart = false;
       flush();
-      if (cur && h.n !== cur.n + 1) { corrections.push(`source line ${i + offset}: heading numeral ${h.n} corrected to ${cur.n + 1}`); h.n = cur.n + 1; }
+      if (cur && h.n !== cur.n + 1 && !h.restart) { corrections.push(`source line ${i + offset}: heading numeral ${h.n} corrected to ${cur.n + 1}`); h.n = cur.n + 1; }
       cur = { n: h.n, title: h.title.replace(/--/g, "—"), part, paras: [] };
       chapters.push(cur);
       i += h.skip - 1;

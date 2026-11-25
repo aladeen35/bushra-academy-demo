@@ -1,0 +1,57 @@
+{
+ "slug": "gullivers-travels",
+ "title": "Gulliver's Travels",
+ "titleAr": "رحلات غليفر",
+ "author": "Jonathan Swift",
+ "authorAr": "جوناثان سويفت",
+ "year": 1726,
+ "genre": {
+  "en": "Satire · Adventure · Fantasy",
+  "ar": "أدب ساخر · مغامرات · خيال"
+ },
+ "tags": [
+  "british",
+  "satire",
+  "adventure",
+  "classic"
+ ],
+ "level": "B2",
+ "studyHours": 40,
+ "accent": "#2f6b4f",
+ "rights": {
+  "status": "public-domain-verified",
+  "authorDied": 1745,
+  "firstPublished": 1726,
+  "jurisdiction": {
+   "en": "Worldwide (author died more than 70 years ago; also expired under the life+50 terms of Sudan and Saudi Arabia)",
+   "ar": "عالميًا (توفي المؤلف قبل أكثر من ٧٠ عامًا؛ وانتهت أيضًا مدة الخمسين عامًا المعمول بها في السودان والسعودية)"
+  },
+  "sourceEdition": "Project Gutenberg eBook #829 (Gulliver's Travels into Several Remote Nations of the World)",
+  "sourceUrl": "https://www.gutenberg.org/ebooks/829",
+  "translationRights": {
+   "en": "Arabic translations are original works produced for Albushra Literature (AI-drafted, editor-reviewed). No third-party translation is used.",
+   "ar": "الترجمات العربية أعمال أصلية أُعدّت لمنصة البشرى للأدب (مسودة بالذكاء الاصطناعي يراجعها المحرر). لا تُستخدم أي ترجمة منشورة لطرف آخر."
+  },
+  "audioRights": {
+   "en": "Device text-to-speech only; no third-party recordings are distributed.",
+   "ar": "نطق آلي من جهاز المستخدم فقط؛ لا تُوزَّع تسجيلات لطرف آخر."
+  },
+  "distributionRights": {
+   "en": "Full English text may be published and distributed. Project Gutenberg headers and trademark have been removed, as its licence requires.",
+   "ar": "يجوز نشر النص الإنجليزي كاملًا وتوزيعه. حُذفت ترويسة مشروع غوتنبرغ وعلامته التجارية وفق شروط ترخيصه."
+  },
+  "licenseDocs": [],
+  "conditions": {
+   "en": "None for the original text. Original illustrations are not reproduced.",
+   "ar": "لا قيود على النص الأصلي. لا تُعاد الرسوم الأصلية."
+  },
+  "verifiedBy": "",
+  "verifiedAt": "2026-11-25"
+ },
+ "language": "en",
+ "cover": "assets/covers/gullivers-travels.svg",
+ "published": true,
+ "text": "full",
+ "stage": "translation",
+ "youtubePlaylist": "PLQSU_mg16jig"
+}

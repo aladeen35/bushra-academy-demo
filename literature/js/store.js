@@ -5,7 +5,7 @@ import { today, debounce, uid } from "./util.js";
 
 const KEY = "lit.state.v1";
 const PREFS = "lit.prefs";
-const blank = () => ({ v: 1, books: {}, words: {}, bookmarks: {}, notes: {}, quiz: {}, grammar: {}, days: {}, level: null, last: null, updated: 0 });
+const blank = () => ({ v: 1, books: {}, words: {}, bookmarks: {}, notes: {}, quiz: {}, grammar: {}, likes: {}, days: {}, level: null, last: null, updated: 0 });
 
 let S = blank();
 try { S = { ...blank(), ...JSON.parse(localStorage.getItem(KEY) || "{}") }; } catch (e) {}
@@ -36,7 +36,7 @@ export function setPref(k, v) { P[k] = v; try { localStorage.setItem(PREFS, JSON
 function merge(a, b) {
   const out = blank();
   const newer = (x, y) => (!x ? y : !y ? x : (y.t || 0) > (x.t || 0) ? y : x);
-  for (const k of ["words", "bookmarks", "notes", "quiz", "grammar"]) {
+  for (const k of ["words", "bookmarks", "notes", "quiz", "grammar", "likes"]) {
     out[k] = { ...a[k] };
     for (const [id, v] of Object.entries(b[k] || {})) out[k][id] = newer(out[k][id], v);
   }
@@ -183,6 +183,16 @@ export function grammarDone(id, ok) { S.grammar[id] = { ok, t: Date.now() }; act
 export const grammarCount = () => Object.values(S.grammar).filter((g) => g.ok).length;
 export function setLevel(level, detail) { S.level = { level, detail, t: Date.now() }; save(); }
 export const level = () => S.level?.level || null;
+
+// ---------- video likes (Shorts) ----------
+export const isLiked = (id) => !!S.likes?.[id] && !S.likes[id].deleted;
+export function toggleLike(id) {
+  S.likes ||= {};
+  S.likes[id] = isLiked(id) ? { deleted: true, t: Date.now() } : { t: Date.now() };
+  action();
+  save();
+  return isLiked(id);
+}
 
 export function exportData() { return JSON.stringify({ state: S, prefs: P }, null, 1); }
 export function reset() { S = blank(); save(); }

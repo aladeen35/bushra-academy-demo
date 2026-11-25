@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" role="img" aria-label="Gulliver's Travels — original cover art">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f3e3bf"/><stop offset=".6" stop-color="#d8b77a"/><stop offset="1" stop-color="#8a6a3a"/></linearGradient></defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<g fill="none" stroke="#6b4f2a" stroke-opacity=".35" stroke-width="1.5"><circle cx="470" cy="150" r="70"/><path d="M470 70v160M390 150h160"/><path d="M470 95l12 55-12 55-12-55z" fill="#6b4f2a" fill-opacity=".4"/></g>
+<path d="M0 600 C150 570 450 590 600 560 V900 H0Z" fill="#3e6b4f"/>
+<g fill="#2b1d12"><ellipse cx="300" cy="560" rx="210" ry="38"/><circle cx="110" cy="548" r="34"/><path d="M140 530 h300 l40 28 -40 26 h-300z"/><path d="M470 520 l40 -20 v80 l-40 -20z"/></g>
+<g stroke="#f6efe3" stroke-width="1.6" opacity=".8">
+<path d="M150 520 L120 470 M190 515 L170 455 M230 512 L230 450 M270 512 L290 452 M310 512 L345 455 M350 515 L400 470 M390 518 L450 480"/></g>
+<g fill="#b3121b"><circle cx="120" cy="468" r="4"/><circle cx="170" cy="452" r="4"/><circle cx="230" cy="446" r="4"/><circle cx="292" cy="449" r="4"/><circle cx="347" cy="452" r="4"/><circle cx="402" cy="467" r="4"/><circle cx="452" cy="478" r="4"/></g>
+<g fill="#2b1d12"><rect x="200" y="600" width="4" height="12"/><rect x="215" y="602" width="4" height="10"/><rect x="380" y="598" width="4" height="12"/><rect x="395" y="600" width="4" height="10"/></g>
+<text x="300" y="770" text-anchor="middle" font-family="Playfair Display, Georgia, serif" font-size="58" font-weight="700" fill="#f6efe3" letter-spacing="3">GULLIVER'S</text>
+<text x="300" y="840" text-anchor="middle" font-family="Playfair Display, Georgia, serif" font-size="58" font-weight="700" fill="#f6efe3" letter-spacing="3">TRAVELS</text>
+<text x="300" y="70" text-anchor="middle" font-family="Georgia, serif" font-size="24" font-style="italic" fill="#4a3517">Jonathan Swift</text>
+</svg>
