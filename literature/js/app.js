@@ -5,9 +5,14 @@ import * as fb from "./fb.js";
 import * as store from "./store.js";
 import { invalidate } from "./data.js";
 
+// Bump with index.html so view modules are re-fetched after a release.
+const V = 3;
+const view = (name) => import(`./views/${name}.js?v=${V}`);
+
 const NAV = [
   { id: "home", href: "#/", icon: "home", key: "nav_home", bn: "nav_home" },
   { id: "library", href: "#/library", icon: "library", key: "nav_library", bn: "bn_library" },
+  { id: "shorts", href: "#/shorts", icon: "shorts", key: "nav_shorts", bn: "nav_shorts", center: true },
   { id: "learning", href: "#/learning", icon: "learning", key: "nav_learning", bn: "bn_learning" },
   { id: "vocab", href: "#/vocab", icon: "vocab", key: "nav_vocab", bn: "bn_vocab" },
   { id: "grammar", href: "#/grammar", icon: "grammar", key: "nav_grammar" },
@@ -15,20 +20,21 @@ const NAV = [
   { id: "profile", href: "#/profile", icon: "profile", key: "nav_profile", bn: "nav_profile" },
 ];
 const ROUTES = [
-  [/^\/?$/, "home", () => import("./views/home.js")],
-  [/^\/library$/, "library", () => import("./views/library.js")],
-  [/^\/book\/([\w-]+)$/, "library", () => import("./views/book.js")],
-  [/^\/read\/([\w-]+)\/(\d+)(?:\/(s\d+))?(?:\/(p\d+))?$/, "library", () => import("./views/reader.js")],
-  [/^\/study\/([\w-]+)\/(\d+)$/, "library", () => import("./views/study.js")],
-  [/^\/quiz\/([\w-]+)\/(\d+|final)$/, "learning", () => import("./views/quiz.js")],
-  [/^\/learning$/, "learning", () => import("./views/learning.js")],
-  [/^\/vocab(?:\/(\w+))?(?:\?(.*))?$/, "vocab", () => import("./views/vocab.js")],
-  [/^\/grammar(?:\/([\w-]+))?$/, "grammar", () => import("./views/grammar.js")],
-  [/^\/tutor$/, "tutor", () => import("./views/tutor.js")],
-  [/^\/placement$/, "profile", () => import("./views/placement.js")],
-  [/^\/profile$/, "profile", () => import("./views/profile.js")],
-  [/^\/search\/(.*)$/, "library", () => import("./views/search.js")],
-  [/^\/admin(?:\/([\w-]+))?(?:\/([\w-]+))?(?:\/(\d+))?$/, "admin", () => import("./views/admin.js")],
+  [/^\/?$/, "home", () => view("home")],
+  [/^\/library$/, "library", () => view("library")],
+  [/^\/book\/([\w-]+)$/, "library", () => view("book")],
+  [/^\/read\/([\w-]+)\/(\d+)(?:\/(s\d+))?(?:\/(p\d+))?$/, "library", () => view("reader")],
+  [/^\/study\/([\w-]+)\/(\d+)$/, "library", () => view("study")],
+  [/^\/quiz\/([\w-]+)\/(\d+|final)$/, "learning", () => view("quiz")],
+  [/^\/shorts(?:\/([\w-]+))?$/, "shorts", () => view("shorts")],
+  [/^\/learning$/, "learning", () => view("learning")],
+  [/^\/vocab(?:\/(\w+))?(?:\?(.*))?$/, "vocab", () => view("vocab")],
+  [/^\/grammar(?:\/([\w-]+))?$/, "grammar", () => view("grammar")],
+  [/^\/tutor$/, "tutor", () => view("tutor")],
+  [/^\/placement$/, "profile", () => view("placement")],
+  [/^\/profile$/, "profile", () => view("profile")],
+  [/^\/search\/(.*)$/, "library", () => view("search")],
+  [/^\/admin(?:\/([\w-]+))?(?:\/([\w-]+))?(?:\/(\d+))?$/, "admin", () => view("admin")],
 ];
 
 let cleanup = null;
@@ -38,7 +44,8 @@ function renderChrome(active) {
   const showAdmin = fb.isEditor();
   const items = showAdmin ? [...NAV, { id: "admin", href: "#/admin", icon: "admin", key: "nav_admin" }] : NAV;
   $("#side-nav").innerHTML = items.map((n) => `<a href="${n.href}" ${n.id === active ? 'aria-current="page"' : ""}>${ICON[n.icon]}<span>${t(n.key)}</span></a>`).join("");
-  $("#bottom-nav").innerHTML = NAV.filter((n) => n.bn).map((n) => `<a href="${n.href}" ${n.id === active ? 'aria-current="page"' : ""}>${ICON[n.icon]}<span>${t(n.bn)}</span></a>`).join("");
+  const BN = ["home", "library", "shorts", "vocab", "learning"].map((id) => NAV.find((n) => n.id === id));
+  $("#bottom-nav").innerHTML = BN.map((n) => `<a href="${n.href}" class="${n.center ? "center" : ""}" ${n.id === active ? 'aria-current="page"' : ""}>${n.center ? `<i>${ICON[n.icon]}</i>` : ICON[n.icon]}<span>${t(n.bn)}</span></a>`).join("");
   $("#lang-btn").textContent = t("switchLang");
   $("#lang-btn").setAttribute("aria-label", t("language"));
   const theme = document.documentElement.dataset.theme;
@@ -127,4 +134,4 @@ setInterval(() => {
 }, 15000);
 
 addEventListener("offline", () => toast(t("offline")));
-if ("serviceWorker" in navigator && location.protocol === "https:") navigator.serviceWorker.register("sw.js").catch(() => {});
+if ("serviceWorker" in navigator && location.protocol === "https:") navigator.serviceWorker.register("sw.js", { updateViaCache: "none" }).catch(() => {});

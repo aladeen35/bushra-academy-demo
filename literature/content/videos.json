@@ -1,0 +1,234 @@
+{
+ "updated": "2026-11-25T10:11:51.244Z",
+ "channel": {
+  "name": "أسْمَر - Asmr",
+  "url": "https://www.youtube.com/channel/UCaFVLbMDsxj2kH5wAHNNtqA"
+ },
+ "books": {
+  "things-fall-apart": {
+   "playlist": "PLCoitg0-ebYE",
+   "videos": [
+    {
+     "id": "BxT92thESHk",
+     "title": "نتعلم الإنجليزية من الأدب، خطوة بخطوة.",
+     "published": "2026-11-24T08:43:25+00:00",
+     "ep": 0,
+     "vertical": true
+    },
+    {
+     "id": "w0KJRn-_MCA",
+     "title": "نواصل الرحلة مع أوكونكو.",
+     "published": "2026-11-24T08:45:27+00:00",
+     "ep": 0,
+     "vertical": true
+    },
+    {
+     "id": "HvSlPkQXZ50",
+     "title": "وصل الضيف الذي سيغيّر بيت أوكونكو.",
+     "published": "2026-11-24T08:46:11+00:00",
+     "ep": 0,
+     "vertical": true
+    },
+    {
+     "id": "s5pW2kLuk4Q",
+     "title": "حياة جديدة في بيت أوكونكو.",
+     "published": "2026-11-24T08:46:45+00:00",
+     "ep": 0,
+     "vertical": true
+    },
+    {
+     "id": "aOrqqWTRrjM",
+     "title": "من لا شيء يبدأ أوكونكو ثروته.",
+     "published": "2026-11-24T08:47:22+00:00",
+     "ep": 0,
+     "vertical": true
+    }
+   ]
+  },
+  "jane-eyre": {
+   "playlist": "PLVM_qs4J1Y9g",
+   "videos": [
+    {
+     "id": "fcP3hHIe_Ak",
+     "title": "جين آير 1: الستارة والغرفة الحمراء | Jane Eyre: The Red Room",
+     "published": "2026-11-25T08:20:07+00:00",
+     "ep": 1,
+     "vertical": true
+    },
+    {
+     "id": "B_Pi0Md9E_0",
+     "title": "جين آير 2: مدرسة لوود: بداية بلا ثقة | Jane Eyre: Lowood School",
+     "published": "2026-11-25T08:25:39+00:00",
+     "ep": 2,
+     "vertical": false
+    },
+    {
+     "id": "ikE4FSnpftE",
+     "title": "جين آير 3: اللوح المكسور ولطف هيلين | Jane Eyre: A Quiet Kindness",
+     "published": "2026-11-25T08:30:33+00:00",
+     "ep": 3,
+     "vertical": false
+    },
+    {
+     "id": "CjVIgqEiFSM",
+     "title": "جين آير 4: ثماني سنوات وطريق جليدي | Jane Eyre: Thornfield",
+     "published": "2026-11-25T08:40:57+00:00",
+     "ep": 4,
+     "vertical": false
+    },
+    {
+     "id": "AH47hx6-GTw",
+     "title": "جين آير 5: حوارات ونار في الليل | Jane Eyre: Fire in the Night",
+     "published": "2026-11-25T08:44:47+00:00",
+     "ep": 5,
+     "vertical": false
+    },
+    {
+     "id": "GaAkCgfGKuc",
+     "title": "جين آير 6: أسئلة بعد الحريق | Jane Eyre: After the Fire",
+     "published": "2026-11-25T08:49:28+00:00",
+     "ep": 6,
+     "vertical": false
+    },
+    {
+     "id": "UFPIse4P08s",
+     "title": "جين آير 7: زيّ يتساقط ورسالة مخفية | Jane Eyre: The Hidden Letter",
+     "published": "2026-11-25T08:51:59+00:00",
+     "ep": 7,
+     "vertical": false
+    },
+    {
+     "id": "HiG_jQLhIy0",
+     "title": "جين آير 8: العودة والعرض وشجرة الكستناء | Jane Eyre: The Proposal",
+     "published": "2026-11-25T08:54:47+00:00",
+     "ep": 8,
+     "vertical": false
+    },
+    {
+     "id": "5DJov9waBck",
+     "title": "جين آير 9: حجاب ممزق وحقيقة مدمرة | Jane Eyre: The Torn Veil",
+     "published": "2026-11-25T08:58:11+00:00",
+     "ep": 9,
+     "vertical": false
+    },
+    {
+     "id": "hUkqrupnzo0",
+     "title": "جين آير 10: عند مفترق الطرق | Jane Eyre: Whitcross",
+     "published": "2026-11-25T09:00:04+00:00",
+     "ep": 10,
+     "vertical": false
+    },
+    {
+     "id": "6WyN2j7UKkc",
+     "title": "جين آير 11: مدرسة القرية والميراث | Jane Eyre: The Inheritance",
+     "published": "2026-11-25T09:03:29+00:00",
+     "ep": 11,
+     "vertical": false
+    },
+    {
+     "id": "0pScCmc-gwc",
+     "title": "جين آير 12: واجب بلا حب | Jane Eyre: Duty Without Love",
+     "published": "2026-11-25T09:07:42+00:00",
+     "ep": 12,
+     "vertical": false
+    },
+    {
+     "id": "QcRzaC8e_cY",
+     "title": "جين آير 13: فيرندين: اللقاء الأخير | Jane Eyre: Ferndean",
+     "published": "2026-11-25T09:12:13+00:00",
+     "ep": 13,
+     "vertical": false
+    }
+   ]
+  },
+  "treasure-island": {
+   "playlist": "PLbreGkE6Ox-Y",
+   "videos": [
+    {
+     "id": "MI5aXXbQzQc",
+     "title": "جزيرة الكنز 1: سرّ البحّار | Treasure Island: The Sailor's Secret",
+     "published": "2026-11-24T04:49:32+00:00",
+     "ep": 1,
+     "vertical": false
+    },
+    {
+     "id": "s2Hi_6uHcbo",
+     "title": "جزيرة الكنز 2: الصندوق والخريطة | Treasure Island: Chest and Map",
+     "published": "2026-11-24T04:49:56+00:00",
+     "ep": 2,
+     "vertical": false
+    },
+    {
+     "id": "SzVROA6d3EQ",
+     "title": "جزيرة الكنز 3: ابتسامة سيلفر | Treasure Island: Silver's Smile",
+     "published": "2026-11-24T04:49:49+00:00",
+     "ep": 3,
+     "vertical": false
+    },
+    {
+     "id": "jEvtb1Hi5gw",
+     "title": "جزيرة الكنز 4: سرّ برميل التفاح | Treasure Island: The Apple Barrel",
+     "published": "2026-11-24T04:49:45+00:00",
+     "ep": 4,
+     "vertical": false
+    },
+    {
+     "id": "UTssACpvIGs",
+     "title": "جزيرة الكنز 5: رجل الجزيرة | Treasure Island: The Island's Stranger",
+     "published": "2026-11-24T04:49:50+00:00",
+     "ep": 5,
+     "vertical": false
+    },
+    {
+     "id": "UGf8zqzb3DI",
+     "title": "جزيرة الكنز 6: العلم فوق الحصن | Treasure Island: The Flag at the Fort",
+     "published": "2026-11-24T04:49:50+00:00",
+     "ep": 6,
+     "vertical": false
+    },
+    {
+     "id": "esRz8e2r9U4",
+     "title": "جزيرة الكنز 7: عرض سيلفر والهجوم | Treasure Island: Terms and Battle",
+     "published": "2026-11-24T04:54:50+00:00",
+     "ep": 7,
+     "vertical": false
+    },
+    {
+     "id": "TBhrQRViKZU",
+     "title": "جزيرة الكنز 8: جيم في القارب الصغير | Treasure Island: Jim's Small Boat",
+     "published": "2026-11-24T04:55:40+00:00",
+     "ep": 8,
+     "vertical": false
+    },
+    {
+     "id": "fezDl58JJgg",
+     "title": "جزيرة الكنز 9: جيم وهاندز | Treasure Island: Jim and Hands",
+     "published": "2026-11-24T04:57:11+00:00",
+     "ep": 9,
+     "vertical": false
+    },
+    {
+     "id": "F4bNQuhj1tI",
+     "title": "جزيرة الكنز 10: وعد وسط القراصنة | Treasure Island: A Promise Among Pirates",
+     "published": "2026-11-24T05:13:13+00:00",
+     "ep": 10,
+     "vertical": false
+    },
+    {
+     "id": "dhEFSHZeZYI",
+     "title": "جزيرة الكنز 11: الحفرة الفارغة | Treasure Island: The Empty Pit",
+     "published": "2026-11-24T05:18:55+00:00",
+     "ep": 11,
+     "vertical": false
+    },
+    {
+     "id": "VP8UaDdUGbc",
+     "title": "جزيرة الكنز 12: العودة وثمن الرحلة | Treasure Island: Home at Last",
+     "published": "2026-11-24T05:24:27+00:00",
+     "ep": 12,
+     "vertical": false
+    }
+   ]
+  }
+ }
+}
