@@ -1,10 +1,26 @@
 // Reels-style feed of the channel's book videos (YouTube Shorts and regular videos).
-// Videos play in YouTube's official embedded player and only when the viewer taps play,
-// so plays are genuine and count as YouTube views under YouTube's own rules (no autoplay, no hidden players).
+// Videos play in YouTube's official embedded player and only when the viewer presses YouTube's play button,
+// so plays are genuine and count as YouTube views under YouTube's own rules (no autoplay on load, no hidden players).
 import { t, lang } from "../i18n.js";
 import { $, $$, esc, num, ICON } from "../util.js";
 import { catalog, videos } from "../data.js";
 import { bookTitle } from "./parts.js";
+
+// Loads YouTube's IFrame Player API once.
+let apiPromise = null;
+function youtubeApi() {
+  if (window.YT?.Player) return Promise.resolve(window.YT);
+  apiPromise ||= new Promise((resolve, reject) => {
+    const prev = window.onYouTubeIframeAPIReady;
+    window.onYouTubeIframeAPIReady = () => { prev?.(); resolve(window.YT); };
+    const tag = document.createElement("script");
+    tag.src = "https://www.youtube.com/iframe_api";
+    tag.onerror = () => { apiPromise = null; reject(new Error("youtube-api")); };
+    document.head.append(tag);
+    setTimeout(() => reject(new Error("youtube-api-timeout")), 15000);
+  });
+  return apiPromise;
+}
 
 export async function render(main, [only]) {
   const [{ books }, data] = await Promise.all([catalog(), videos()]);
@@ -41,31 +57,47 @@ export async function render(main, [only]) {
     </div>`;
 
   const reels = $("#reels", main);
+  const players = new Map(); // media element -> YT.Player
   const stop = (media) => {
-    if (!media.querySelector("iframe")) return;
-    media.querySelector("iframe").remove();
+    if (!players.has(media)) return;
+    const pl = players.get(media);
+    try { pl?.destroy(); } catch (e) {}
+    players.delete(media);
+    media.querySelector(".reel-frame")?.remove();
+    media.querySelector(".reel-fallback")?.remove();
     media.querySelector("img").hidden = false;
     media.querySelector(".reel-play").hidden = false;
   };
-  reels.addEventListener("click", (e) => {
-    const btn = e.target.closest(".reel-play");
-    if (!btn) return;
-    const media = btn.closest(".reel-media");
-    $$(".reel-media", reels).forEach((m) => m !== media && stop(m));
-    const f = document.createElement("iframe");
-    // Official embed; autoplay only after the viewer's own tap.
-    f.src = `https://www.youtube.com/embed/${media.dataset.id}?autoplay=1&playsinline=1&rel=0&hl=${lang()}`;
-    f.title = btn.getAttribute("aria-label");
-    f.allow = "autoplay; encrypted-media; picture-in-picture; fullscreen";
-    f.allowFullscreen = true;
-    f.referrerPolicy = "strict-origin-when-cross-origin";
-    media.querySelector("img").hidden = true;
-    btn.hidden = true;
-    media.append(f);
-  });
-  // Leaving a reel stops its player, like a reels feed.
-  const io = new IntersectionObserver((entries) => entries.forEach((en) => { if (!en.isIntersecting) stop(en.target); }), { threshold: 0.4 });
+  const fallback = (media) => {
+    if (media.querySelector(".reel-fallback")) return;
+    media.insertAdjacentHTML("beforeend", `<a class="reel-fallback btn" href="https://www.youtube.com/watch?v=${esc(media.dataset.id)}" target="_blank" rel="noopener">${ICON.play} ${t("watchOnYT")}</a>`);
+  };
+  // The player for the reel on screen is prepared in advance (no autoplay). The viewer starts it with
+  // YouTube's own play button: one tap, and a genuine user-started play that YouTube counts as a view.
+  const mount = async (media) => {
+    if (players.has(media)) return;
+    players.set(media, null);
+    const holder = document.createElement("div");
+    holder.className = "reel-frame";
+    media.append(holder);
+    let YT;
+    try { YT = await youtubeApi(); } catch (err) { fallback(media); return; }
+    if (!players.has(media)) { holder.remove(); return; }
+    const pl = new YT.Player(holder, {
+      videoId: media.dataset.id, width: "100%", height: "100%",
+      playerVars: { playsinline: 1, rel: 0, hl: lang(), origin: location.origin },
+      events: {
+        onReady: () => { media.querySelector("img").hidden = true; media.querySelector(".reel-play").hidden = true; },
+        onError: () => fallback(media),
+      },
+    });
+    players.set(media, pl);
+  };
+  // Tapping the thumbnail before the player is ready just prepares it.
+  reels.addEventListener("click", (e) => { const btn = e.target.closest(".reel-play"); if (btn) mount(btn.closest(".reel-media")); });
+  // Only the reel on screen holds a player; leaving it removes the player, like a reels feed.
+  const io = new IntersectionObserver((entries) => entries.forEach((en) => (en.isIntersecting ? mount(en.target) : stop(en.target))), { threshold: 0.6 });
   $$(".reel-media", reels).forEach((m) => io.observe(m));
   document.body.classList.add("reels-mode");
-  return () => { io.disconnect(); document.body.classList.remove("reels-mode"); };
+  return () => { io.disconnect(); [...players.keys()].forEach(stop); document.body.classList.remove("reels-mode"); };
 }

@@ -39,7 +39,7 @@ export async function render(main) {
         <div class="field"><label for="pr">${t("voiceRate")}</label><select class="input" id="pr">${audio.RATES.map((r) => `<option value="${r}" ${r === p.rate ? "selected" : ""}>${r}×</option>`).join("")}</select></div>
       </div>
       ${audio.supported && !audio.hasVoices() ? `<p class="notice small">${t("noVoices")}</p>` : ""}
-      <div class="row"><button class="btn ghost small" id="exp">${t("exportData")}</button><button class="btn ghost small" id="rst">${t("resetData")}</button></div>
+      <div class="row"><a class="btn ghost small" href="privacy.html">${t("privacy")}</a><button class="btn ghost small" id="exp">${t("exportData")}</button><button class="btn ghost small" id="rst">${t("resetData")}</button></div>
     </section>`;
 
   const err = (e) => toast(t("authErr") + (e.code || e.message || e));

@@ -5,6 +5,8 @@ import * as store from "../store.js";
 import * as fb from "../fb.js";
 import { openWord } from "../lookup.js";
 import { say } from "../audio.js";
+import { adSlot, fillAds } from "../ads.js";
+import { ADSENSE } from "../ads-config.js";
 import { bookCard, bookTitle, bookAuthor, chapterCount, chapterLabel, progressRing } from "./parts.js";
 
 export async function render(main) {
@@ -63,6 +65,7 @@ export async function render(main) {
         <div class="section-head"><h2 class="display h2">${t("library")}</h2><a class="link" href="#/library">${t("exploreAll")} →</a></div>
         <div class="shelf">${books.map((b) => bookCard(full.find((f) => f?.slug === b.slug) || b)).join("")}</div>
       </section>
+      ${adSlot(ADSENSE.homeSlot)}
       ${recent.length ? `<section class="section"><div class="section-head"><h2 class="display h2">${t("recent")}</h2></div>
         <ul class="chapters">${recent.map((b) => { const l = store.state().books[b.slug].last; const fb_ = full.find((f) => f?.slug === b.slug); const c = fb_?.chapters?.find((x) => x.n === l.n) || { n: l.n };
           return `<li><a href="${b.text === "none" ? `#/study/${b.slug}/${l.n}` : `#/read/${b.slug}/${l.n}/${l.s || "s1"}`}"><span class="num">${num(l.n)}</span><span><b>${esc(bookTitle(b))}</b><br><span class="small muted">${chapterLabel(c)}</span></span><span>${ICON.arrow}</span></a></li>`; }).join("")}</ul></section>` : ""}
@@ -103,6 +106,7 @@ export async function render(main) {
       </section>
     </aside>
   </div>`;
+  fillAds(main);
   main.querySelector("#wod-say")?.addEventListener("click", () => say(wod.word));
   main.querySelector("#wod-more")?.addEventListener("click", () => openWord(wod.word, { sentence: wod.word }));
 }
