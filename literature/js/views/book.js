@@ -1,13 +1,14 @@
 import { t, L, lang, RIGHTS } from "../i18n.js";
-import { esc, num, pct } from "../util.js";
-import { book, textAllowed } from "../data.js";
+import { esc, num, pct, ICON } from "../util.js";
+import { book, textAllowed, videos } from "../data.js";
 import * as store from "../store.js";
 import { bookTitle, bookAuthor, chapterCount, chapterLabel, rightsChip } from "./parts.js";
 
 let tab = "contents";
 
 export async function render(main, [slug]) {
-  const b = await book(slug);
+  const [b, vids] = await Promise.all([book(slug), videos()]);
+  const nVideos = vids?.books?.[slug]?.videos?.length || 0;
   if (!b) { main.innerHTML = `<div class="empty">${t("notFound")}</div>`; return; }
   const a = b.about || {};
   const n = chapterCount(b);
@@ -73,6 +74,7 @@ export async function render(main, [slug]) {
         ${!canRead ? `<p class="notice red small" style="margin-top:12px">${t("tfaNotice")}</p>` : ""}
         <div class="row" style="margin-top:14px">
           <a class="btn" href="${startHref}">${last ? t("continue") : canRead ? t("startReading") : t("studyChapter")}</a>
+          ${nVideos ? `<a class="btn ghost" href="#/shorts/${slug}">${ICON.shorts} ${t("bookShorts")} (${num(nVideos)})</a>` : ""}
           ${studyN.size ? `<a class="btn ghost" href="#/quiz/${slug}/final">${t("bookAssessment")}</a>` : ""}
         </div>
       </div>

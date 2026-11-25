@@ -173,6 +173,9 @@ export async function onlineLookup(word) {
   });
 }
 
+// Channel videos per book (tools/fetch-videos.mjs).
+export const videos = () => json("videos.json");
+
 // Placement test bank.
 export const placementBank = () => json("placement.json");
 

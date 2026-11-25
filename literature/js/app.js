@@ -8,6 +8,7 @@ import { invalidate } from "./data.js";
 const NAV = [
   { id: "home", href: "#/", icon: "home", key: "nav_home", bn: "nav_home" },
   { id: "library", href: "#/library", icon: "library", key: "nav_library", bn: "bn_library" },
+  { id: "shorts", href: "#/shorts", icon: "shorts", key: "nav_shorts", bn: "nav_shorts", center: true },
   { id: "learning", href: "#/learning", icon: "learning", key: "nav_learning", bn: "bn_learning" },
   { id: "vocab", href: "#/vocab", icon: "vocab", key: "nav_vocab", bn: "bn_vocab" },
   { id: "grammar", href: "#/grammar", icon: "grammar", key: "nav_grammar" },
@@ -21,6 +22,7 @@ const ROUTES = [
   [/^\/read\/([\w-]+)\/(\d+)(?:\/(s\d+))?(?:\/(p\d+))?$/, "library", () => import("./views/reader.js")],
   [/^\/study\/([\w-]+)\/(\d+)$/, "library", () => import("./views/study.js")],
   [/^\/quiz\/([\w-]+)\/(\d+|final)$/, "learning", () => import("./views/quiz.js")],
+  [/^\/shorts(?:\/([\w-]+))?$/, "shorts", () => import("./views/shorts.js")],
   [/^\/learning$/, "learning", () => import("./views/learning.js")],
   [/^\/vocab(?:\/(\w+))?(?:\?(.*))?$/, "vocab", () => import("./views/vocab.js")],
   [/^\/grammar(?:\/([\w-]+))?$/, "grammar", () => import("./views/grammar.js")],
@@ -38,7 +40,8 @@ function renderChrome(active) {
   const showAdmin = fb.isEditor();
   const items = showAdmin ? [...NAV, { id: "admin", href: "#/admin", icon: "admin", key: "nav_admin" }] : NAV;
   $("#side-nav").innerHTML = items.map((n) => `<a href="${n.href}" ${n.id === active ? 'aria-current="page"' : ""}>${ICON[n.icon]}<span>${t(n.key)}</span></a>`).join("");
-  $("#bottom-nav").innerHTML = NAV.filter((n) => n.bn).map((n) => `<a href="${n.href}" ${n.id === active ? 'aria-current="page"' : ""}>${ICON[n.icon]}<span>${t(n.bn)}</span></a>`).join("");
+  const BN = ["home", "library", "shorts", "vocab", "learning"].map((id) => NAV.find((n) => n.id === id));
+  $("#bottom-nav").innerHTML = BN.map((n) => `<a href="${n.href}" class="${n.center ? "center" : ""}" ${n.id === active ? 'aria-current="page"' : ""}>${n.center ? `<i>${ICON[n.icon]}</i>` : ICON[n.icon]}<span>${t(n.bn)}</span></a>`).join("");
   $("#lang-btn").textContent = t("switchLang");
   $("#lang-btn").setAttribute("aria-label", t("language"));
   const theme = document.documentElement.dataset.theme;
