@@ -5,7 +5,13 @@ const roman = (s) => [...s].reduce((acc, ch, i, a) => (ROMAN[ch] < (ROMAN[a[i + 
 const WORDS = (t) => t.split(/\s+/).filter(Boolean).length;
 export const SECTION_WORDS = 650;
 
-export function parseNovel(raw) {
+const titleCase = (t) => (t === t.toUpperCase() ? t.toLowerCase().replace(/(^|[\s-])([a-z])/g, (m, a, b) => a + b.toUpperCase()).replace(/\b(Of|The|And|A|An|At|In|On|To|By|For)\b/g, (w, _, i) => (i ? w.toLowerCase() : w)).replace(/^./, (c) => c.toUpperCase()).replace(/\bDr\b/g, "Dr") : t);
+
+// opts.titles: optional list of chapter titles for books whose headings carry no numbers
+// (e.g. "STORY OF THE DOOR"); a line equal to a title (ignoring case and a final period) starts that chapter.
+export function parseNovel(raw, opts = {}) {
+  const titles = (opts.titles || []).map((x) => x.trim()).filter(Boolean);
+  const tkey = (x) => x.toLowerCase().replace(/[.\s]+$/g, "").replace(/\s+/g, " ").replace(/[’']/g, "'");
   const lines = raw.replace(/\r/g, "").split("\n");
   let start = lines.findIndex((l) => l.startsWith("*** START OF"));
   let end = lines.findIndex((l) => l.startsWith("*** END OF"));
@@ -18,7 +24,12 @@ export function parseNovel(raw) {
   function headingAt(i) {
     const l = body[i].trim();
     let m;
-    if ((m = /^CHAPTER ([IVXLC]+|\d+)\.?(?:\s*[—-]\s*(.+))?$/i.exec(l))) {
+    if (titles.length) {
+      const k = titles.findIndex((x) => tkey(x) === tkey(l));
+      return k >= 0 ? { n: k + 1, title: titleCase(titles[k]), skip: 1, loose: true } : null;
+    }
+    if ((m = /^CHAPTER ([IVXLC]+|\d+)\.?(?:\s*[—-]\s*(.+)|\s+(\S.*))?$/i.exec(l))) {
+      m[2] = m[2] || m[3];
       const n = /\d/.test(m[1]) ? +m[1] : roman(m[1].toUpperCase());
       if (m[2]) return { n, title: m[2].trim(), skip: 1 };
       let j = i + 1; while (j < body.length && !body[j].trim()) j++;
@@ -48,6 +59,8 @@ export function parseNovel(raw) {
     const pm = /^PART ([A-Z]+)--(.+)$/.exec(t);
     if (pm) { flush(); part = pm[2].trim(); continue; }
     const h = headingAt(i);
+    // A table of contents produces empty chapters; when chapter 1 appears again, start over.
+    if (h && h.n === 1 && chapters.length && (chapters.every((c) => !c.paras.length) || (chapters.length === 1 && cur.n === 1))) { chapters.length = 0; cur = null; }
     if (h && (!cur || h.n === cur.n + 1 || (h.loose && h.n !== cur.n))) {
       flush();
       if (cur && h.n !== cur.n + 1) { corrections.push(`source line ${i + offset}: heading numeral ${h.n} corrected to ${cur.n + 1}`); h.n = cur.n + 1; }
@@ -58,13 +71,14 @@ export function parseNovel(raw) {
     }
     if (!cur) continue;
     if (!t) { flush(); continue; }
-    if (/^\[Illustration/.test(t)) { flush(); while (i < body.length && !body[i].includes("]")) i++; continue; }
+    if (/^\[(Illustration|Picture)/.test(t)) { flush(); while (i < body.length && !body[i].includes("]")) i++; continue; }
     if (!para.length) paraLine = i + offset;
     para.push(/^ {6,}/.test(rawLine) && para.length ? "\n" + t : t);
   }
   flush();
   const last = chapters.at(-1);
-  while (last && /^(THE END|FINIS)\.?$/i.test(last.paras.at(-1)?.text || "")) last.paras.pop();
+  // Trailing end matter: "THE END", scene-break stars, printer colophons.
+  while (last && /^(THE END|FINIS)\.?$|^[* ]+$|^Printed by /i.test(last.paras.at(-1)?.text || "")) last.paras.pop();
 
   return {
     corrections,

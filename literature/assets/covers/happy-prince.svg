@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" role="img" aria-label="The Happy Prince — original cover art">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0f1d3a"/><stop offset=".7" stop-color="#2b3f6b"/><stop offset="1" stop-color="#4b5d86"/></linearGradient>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f3d27a"/><stop offset=".5" stop-color="#c9a24b"/><stop offset="1" stop-color="#8a6a22"/></linearGradient></defs>
+<rect width="600" height="900" fill="url(#bg)"/>
+<g fill="#fff" opacity=".7"><circle cx="80" cy="90" r="2"/><circle cx="520" cy="140" r="2.5"/><circle cx="450" cy="60" r="1.5"/><circle cx="160" cy="200" r="1.5"/><circle cx="540" cy="300" r="2"/><circle cx="60" cy="330" r="1.5"/></g>
+<g fill="#0a1428"><rect x="40" y="520" width="70" height="140"/><rect x="120" y="480" width="60" height="180"/><path d="M180 660V500l30-30 30 30v160z"/><rect x="420" y="490" width="70" height="170"/><rect x="495" y="530" width="70" height="130"/><path d="M380 660V520l20-40 20 40v140z"/></g>
+<rect x="268" y="420" width="64" height="240" fill="#3b4566"/><rect x="250" y="410" width="100" height="16" fill="#4b5576"/><rect x="250" y="655" width="100" height="16" fill="#4b5576"/>
+<g fill="url(#gold)"><circle cx="300" cy="250" r="34"/><path d="M262 300 q38 -20 76 0 l10 110 h-96z"/><path d="M270 222 l10-24 10 18 10-22 10 22 10-18 10 24z"/><rect x="336" y="300" width="6" height="96" transform="rotate(14 339 348)"/></g>
+<circle cx="290" cy="248" r="4" fill="#4fa3ff"/><circle cx="310" cy="248" r="4" fill="#4fa3ff"/><circle cx="345" cy="315" r="5" fill="#c8102e"/>
+<path d="M380 230 q16 -12 34 -4 q-14 4 -18 12 q10 -2 20 4 q-18 4 -36 -12z" fill="#e9eef7"/>
+<path d="M0 660 H600 V900 H0Z" fill="#0a1428"/>
+<text x="300" y="770" text-anchor="middle" font-family="Playfair Display, Georgia, serif" font-size="52" font-weight="700" fill="#f6efe3" letter-spacing="3">THE HAPPY</text>
+<text x="300" y="826" text-anchor="middle" font-family="Playfair Display, Georgia, serif" font-size="52" font-weight="700" fill="#f6efe3" letter-spacing="3">PRINCE</text>
+<text x="300" y="862" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-style="italic" fill="#d8c59b">and Other Tales</text>
+<text x="300" y="60" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-style="italic" fill="#d8c59b">Oscar Wilde</text>
+</svg>

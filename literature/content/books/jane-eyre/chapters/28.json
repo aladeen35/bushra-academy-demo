@@ -2,7 +2,7 @@
  "n": 28,
  "title": "",
  "part": "",
- "words": 6851,
+ "words": 6828,
  "sections": [
   {
    "id": "s1",
@@ -42,11 +42,6 @@
   {
    "id": "s2",
    "paragraphs": [
-    {
-     "id": "p7",
-     "en": "I said my evening prayers",
-     "src": 14928
-    },
     {
      "id": "p8",
      "en": "Beside the crag the heath was very deep: when I lay down my feet were buried in it; rising high on each side, it left only a narrow space for the night-air to invade. I folded my shawl double, and spread it over me for a coverlet; a low, mossy swell was my pillow. Thus lodged, I was not, at least at the commencement of the night, cold.",
@@ -281,11 +276,6 @@
      "id": "p51",
      "en": "I could not hope to get a lodging under a roof, and sought it in the wood I have before alluded to. But my night was wretched, my rest broken: the ground was damp, the air cold: besides, intruders passed near me more than once, and I had again and again to change my quarters: no sense of safety or tranquillity befriended me. Towards morning it rained; the whole of the following day was wet. Do not ask me, reader, to give a minute account of that day; as before, I sought work; as before, I was repulsed; as before, I starved; but once did food pass my lips. At the door of a cottage I saw a little girl about to throw a mess of cold porridge into a pig trough. “Will you give me that?” I asked.",
      "src": 15176
-    },
-    {
-     "id": "p52",
-     "en": "“Will you give me that?” I asked",
-     "src": 15189
     },
     {
      "id": "p53",
@@ -631,11 +621,6 @@
      "id": "p117",
      "en": "“Hush, Hannah! I have a word to say to the woman. You have done your duty in excluding, now let me do mine in admitting her. I was near, and listened to both you and her. I think this is a peculiar case—I must at least examine into it. Young woman, rise, and pass before me into the house.”",
      "src": 15506
-    },
-    {
-     "id": "p118",
-     "en": "Hush, Hannah; I have a word to say to the woman",
-     "src": 15513
     },
     {
      "id": "p119",

@@ -1,0 +1,1312 @@
+[
+ {
+  "id": "countenance",
+  "word": "countenance",
+  "forms": [],
+  "ar": "الوجه؛ ملامح الوجه",
+  "ipa": "/ˈkaʊn.tən.əns/",
+  "pos": "noun",
+  "def": "A person's face or the expression on it (formal, literary).",
+  "arExplain": "كلمة أدبية رسمية تعني الوجه وما يظهر عليه من تعبير. وتأتي في الوصف الرسمي للشخصيات.",
+  "example": "Mr. Utterson the lawyer was a man of a rugged countenance that was never lighted by a smile",
+  "exampleAr": "كان السيد أترسون المحامي رجلًا خشن الملامح، لم تُضئ وجهَه ابتسامةٌ قطّ",
+  "exampleRef": "1:p1",
+  "synonyms": [
+   "face",
+   "features",
+   "visage"
+  ],
+  "antonyms": [],
+  "level": "C1",
+  "category": "literary"
+ },
+ {
+  "id": "austere",
+  "word": "austere",
+  "forms": [],
+  "ar": "صارم؛ متقشّف",
+  "ipa": "/ɒˈstɪə/",
+  "pos": "adjective",
+  "def": "Strict and serious, without comfort or pleasure; living very simply.",
+  "arExplain": "يصف شخصًا جادًّا صارمًا يحرم نفسه من المتع والرفاهية، أو مكانًا بسيطًا خاليًا من الزينة.",
+  "example": "He was austere with himself",
+  "exampleAr": "كان صارمًا مع نفسه",
+  "exampleRef": "1:p1",
+  "synonyms": [
+   "strict",
+   "severe",
+   "stern"
+  ],
+  "antonyms": [
+   "indulgent",
+   "lenient"
+  ],
+  "level": "C1",
+  "category": "advanced"
+ },
+ {
+  "id": "reprove",
+  "word": "reprove",
+  "forms": [],
+  "ar": "يلوم؛ يوبّخ",
+  "ipa": "/rɪˈpruːv/",
+  "pos": "verb",
+  "def": "To tell someone formally that they have done something wrong.",
+  "arExplain": "أن تنتقد شخصًا وتلومه على خطأ ارتكبه، بأسلوب رسمي وهادئ غالبًا.",
+  "example": "in any extremity inclined to help rather than to reprove",
+  "exampleAr": "وكان في أي محنة يميل إلى المساعدة لا إلى اللوم",
+  "exampleRef": "1:p1",
+  "synonyms": [
+   "rebuke",
+   "scold",
+   "criticize"
+  ],
+  "antonyms": [
+   "praise",
+   "approve"
+  ],
+  "level": "C2",
+  "category": "advanced"
+ },
+ {
+  "id": "demeanour",
+  "word": "demeanour",
+  "forms": [
+   "demeanor"
+  ],
+  "ar": "السلوك؛ طريقة التصرّف",
+  "ipa": "/dɪˈmiː.nə/",
+  "pos": "noun",
+  "def": "The way a person looks and behaves towards others.",
+  "arExplain": "الطريقة التي يظهر بها الشخص ويتعامل مع الناس: هدوؤه أو برودته أو لطفه. (تُكتب demeanor في الإنجليزية الأمريكية.)",
+  "example": "he never marked a shade of change in his demeanour",
+  "exampleAr": "لم يُبدِ لمثل هؤلاء أدنى تغيّر في معاملته",
+  "exampleRef": "1:p1",
+  "synonyms": [
+   "manner",
+   "bearing",
+   "behaviour"
+  ],
+  "antonyms": [],
+  "level": "C1",
+  "category": "advanced"
+ },
+ {
+  "id": "reputable",
+  "word": "reputable",
+  "forms": [],
+  "ar": "محترم؛ حسن السمعة",
+  "ipa": "/ˈrep.jʊ.tə.bəl/",
+  "pos": "adjective",
+  "def": "Having a good reputation; respected and trusted by people.",
+  "arExplain": "يصف شخصًا أو جهة يثق بها الناس ويحترمونها لسمعتها الحسنة. وهي كلمة مهمة في رواية تدور حول السمعة.",
+  "example": "it was frequently his fortune to be the last reputable acquaintance and the last good influence in the lives of downgoing men",
+  "exampleAr": "كثيرًا ما كان من حظّه أن يكون آخرَ معارف محترمين، وآخرَ تأثير طيّب، في حياة رجالٍ ينحدرون نحو الهاوية",
+  "exampleRef": "1:p1",
+  "synonyms": [
+   "respectable",
+   "respected",
+   "trustworthy"
+  ],
+  "antonyms": [
+   "disreputable",
+   "shady"
+  ],
+  "level": "C1",
+  "category": "advanced"
+ },
+ {
+  "id": "kinsman",
+  "word": "kinsman",
+  "forms": [],
+  "ar": "قريب (من الأهل)",
+  "ipa": "/ˈkɪnz.mən/",
+  "pos": "noun",
+  "def": "A male relative (old-fashioned, literary).",
+  "arExplain": "رجل تربطك به قرابة دم أو نسب. كلمة قديمة أدبية.",
+  "example": "Mr. Richard Enfield, his distant kinsman, the well-known man about town",
+  "exampleAr": "السيد ريتشارد إنفيلد، قريبه البعيد، الرجل المعروف في مجتمع المدينة",
+  "exampleRef": "1:p2",
+  "synonyms": [
+   "relative",
+   "relation"
+  ],
+  "antonyms": [
+   "stranger"
+  ],
+  "level": "C2",
+  "category": "literary"
+ },
+ {
+  "id": "thoroughfare",
+  "word": "thoroughfare",
+  "forms": [],
+  "ar": "طريق عام؛ شارع رئيسي",
+  "ipa": "/ˈθʌr.ə.feə/",
+  "pos": "noun",
+  "def": "A public road or street, especially a busy one that people pass through.",
+  "arExplain": "طريق مفتوح لمرور الناس والعربات، وغالبًا ما يكون مزدحمًا.",
+  "example": "the shop fronts stood along that thoroughfare with an air of invitation, like rows of smiling saleswomen",
+  "exampleAr": "اصطفّت واجهات المتاجر على طول ذلك الطريق بمظهر يدعو المارّة، كصفوفٍ من البائعات المبتسمات",
+  "exampleRef": "1:p3",
+  "synonyms": [
+   "street",
+   "road",
+   "avenue"
+  ],
+  "antonyms": [
+   "dead end",
+   "alley"
+  ],
+  "level": "C1",
+  "category": "advanced"
+ },
+ {
+  "id": "sinister",
+  "word": "sinister",
+  "forms": [],
+  "ar": "مشؤوم؛ يوحي بالشرّ",
+  "ipa": "/ˈsɪn.ɪ.stə/",
+  "pos": "adjective",
+  "def": "Seeming evil or dangerous; making you feel that something bad will happen.",
+  "arExplain": "يصف شيئًا يبعث في النفس شعورًا بالخطر أو الشرّ. من أهم مفردات الأدب القوطي.",
+  "example": "a certain sinister block of building thrust forward its gable on the street",
+  "exampleAr": "كانت كتلة بناء مشؤومة تدفع جملونها نحو الشارع",
+  "exampleRef": "1:p4",
+  "synonyms": [
+   "menacing",
+   "ominous",
+   "threatening"
+  ],
+  "antonyms": [
+   "harmless",
+   "innocent"
+  ],
+  "level": "B2",
+  "category": "literary"
+ },
+ {
+  "id": "sordid",
+  "word": "sordid",
+  "forms": [],
+  "ar": "دنيء؛ قذر",
+  "ipa": "/ˈsɔː.dɪd/",
+  "pos": "adjective",
+  "def": "Dirty and unpleasant; or morally low and dishonest.",
+  "arExplain": "يصف مكانًا قذرًا كئيبًا، أو سلوكًا دنيئًا غير أخلاقي.",
+  "example": "bore in every feature, the marks of prolonged and sordid negligence",
+  "exampleAr": "وكانت تحمل في كل ملمح من ملامحها آثار إهمال طويل دنيء",
+  "exampleRef": "1:p4",
+  "synonyms": [
+   "squalid",
+   "filthy",
+   "shameful"
+  ],
+  "antonyms": [
+   "clean",
+   "noble"
+  ],
+  "level": "C1",
+  "category": "advanced"
+ },
+ {
+  "id": "negligence",
+  "word": "negligence",
+  "forms": [],
+  "ar": "إهمال",
+  "ipa": "/ˈneɡ.lɪ.dʒəns/",
+  "pos": "noun",
+  "def": "Failure to give enough care or attention to something.",
+  "arExplain": "التقصير في العناية بشيء أو في أداء الواجب. وفي القانون تعني الإهمال الذي يسبّب ضررًا.",
+  "example": "the marks of prolonged and sordid negligence",
+  "exampleAr": "آثار إهمال طويل دنيء",
+  "exampleRef": "1:p4",
+  "synonyms": [
+   "neglect",
+   "carelessness"
+  ],
+  "antonyms": [
+   "care",
+   "attention"
+  ],
+  "level": "C1",
+  "category": "advanced"
+ },
+ {
+  "id": "loathing",
+  "word": "loathing",
+  "forms": [
+   "loathe"
+  ],
+  "ar": "مقت؛ كره شديد",
+  "ipa": "/ˈləʊ.ðɪŋ/",
+  "pos": "noun",
+  "def": "A very strong feeling of hatred or disgust.",
+  "arExplain": "شعور قوي جدًا بالكره والاشمئزاز. وهو الشعور الذي يثيره هايد في كل من يراه.",
+  "example": "I had taken a loathing to my gentleman at first sight.",
+  "exampleAr": "فقد كرهتُ صاحبنا كرهًا شديدًا من النظرة الأولى.",
+  "exampleRef": "1:p8",
+  "synonyms": [
+   "hatred",
+   "disgust",
+   "abhorrence"
+  ],
+  "antonyms": [
+   "love",
+   "liking"
+  ],
+  "level": "C1",
+  "category": "advanced"
+ },
+ {
+  "id": "sneer",
+  "word": "sneer",
+  "forms": [
+   "sneering",
+   "sneers"
+  ],
+  "ar": "يسخر بازدراء",
+  "ipa": "/snɪə/",
+  "pos": "verb",
+  "def": "To smile or speak in an unkind way that shows you think someone is stupid or worthless.",
+  "arExplain": "أن تبتسم أو تتكلم بطريقة ساخرة متعالية تُظهر احتقارك للآخرين.",
+  "example": "with a kind of black sneering coolness",
+  "exampleAr": "ببرود أسود ساخر",
+  "exampleRef": "1:p8",
+  "synonyms": [
+   "mock",
+   "scoff",
+   "jeer"
+  ],
+  "antonyms": [
+   "respect",
+   "admire"
+  ],
+  "level": "C1",
+  "category": "advanced"
+ },
+ {
+  "id": "forgery",
+  "word": "forgery",
+  "forms": [],
+  "ar": "تزوير؛ وثيقة مزوّرة",
+  "ipa": "/ˈfɔː.dʒər.i/",
+  "pos": "noun",
+  "def": "A document, signature or cheque that has been copied illegally to look real.",
+  "arExplain": "توقيع أو وثيقة أو شيك صُنع بطريقة غير قانونية ليبدو حقيقيًا.",
+  "example": "said I had every reason to believe it was a forgery",
+  "exampleAr": "وقلت إن لديّ كل الأسباب للاعتقاد بأنه مزوّر",
+  "exampleRef": "1:p8",
+  "synonyms": [
+   "fake",
+   "counterfeit"
+  ],
+  "antonyms": [
+   "original"
+  ],
+  "level": "C1",
+  "category": "advanced"
+ },
+ {
+  "id": "genuine",
+  "word": "genuine",
+  "forms": [],
+  "ar": "حقيقي؛ أصلي",
+  "ipa": "/ˈdʒen.ju.ɪn/",
+  "pos": "adjective",
+  "def": "Real and exactly what it seems to be; not false or copied. Also: sincere.",
+  "arExplain": "شيء حقيقي غير مزيّف، أو شعور صادق غير مصطنع.",
+  "example": "The cheque was genuine.",
+  "exampleAr": "كان الشيك صحيحًا.",
+  "exampleRef": "1:p8",
+  "synonyms": [
+   "authentic",
+   "real",
+   "sincere"
+  ],
+  "antonyms": [
+   "fake",
+   "false"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "apocryphal",
+  "word": "apocryphal",
+  "forms": [],
+  "ar": "مشكوك في صحّته؛ مختلَق",
+  "ipa": "/əˈpɒk.rɪ.fəl/",
+  "pos": "adjective",
+  "def": "Probably not true, although many people repeat or believe it.",
+  "arExplain": "يصف قصة أو أمرًا يبدو غير صحيح أو مختلقًا، وإن تناقله الناس.",
+  "example": "the whole business looked apocryphal",
+  "exampleAr": "الأمر كله يبدو مختلَقًا",
+  "exampleRef": "1:p8",
+  "synonyms": [
+   "doubtful",
+   "dubious",
+   "fictitious"
+  ],
+  "antonyms": [
+   "authentic",
+   "true"
+  ],
+  "level": "C2",
+  "category": "advanced"
+ },
+ {
+  "id": "blackmail",
+  "word": "blackmail",
+  "forms": [],
+  "ar": "ابتزاز",
+  "ipa": "/ˈblæk.meɪl/",
+  "pos": "noun",
+  "def": "Demanding money from someone by threatening to tell their secrets.",
+  "arExplain": "طلب المال من شخص بتهديده بكشف أسراره أو فضائحه. وهو أول تفسير يخطر لإنفيلد.",
+  "example": "Blackmail, I suppose; an honest man paying through the nose for some of the capers of his youth.",
+  "exampleAr": "ابتزاز، على ما أظن؛ رجل شريف يدفع ثمنًا باهظًا لبعض نزوات شبابه.",
+  "exampleRef": "1:p10",
+  "synonyms": [
+   "extortion"
+  ],
+  "antonyms": [],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "deformity",
+  "word": "deformity",
+  "forms": [
+   "deformed"
+  ],
+  "ar": "تشوّه",
+  "ipa": "/dɪˈfɔː.mə.ti/",
+  "pos": "noun",
+  "def": "A part of the body that has not grown in the normal shape.",
+  "arExplain": "عيب في شكل الجسم أو أحد أعضائه. والمثير أن الناس يشعرون بتشوّه هايد دون أن يحدّدوا موضعه.",
+  "example": "he gives a strong feeling of deformity, although I couldn’t specify the point",
+  "exampleAr": "فهو يعطي إحساسًا قويًا بالتشوّه، وإن كنت لا أستطيع تحديد موضعه",
+  "exampleRef": "1:p22",
+  "synonyms": [
+   "malformation",
+   "disfigurement"
+  ],
+  "antonyms": [],
+  "level": "C1",
+  "category": "advanced"
+ },
+ {
+  "id": "detestable",
+  "word": "detestable",
+  "forms": [
+   "detest"
+  ],
+  "ar": "بغيض؛ مقيت",
+  "ipa": "/dɪˈtes.tə.bəl/",
+  "pos": "adjective",
+  "def": "Deserving to be hated; extremely unpleasant.",
+  "arExplain": "شيء يستحق الكره الشديد لشدّة قبحه أو سوئه.",
+  "example": "something displeasing, something down-right detestable",
+  "exampleAr": "شيء منفّر، شيء بغيض تمامًا",
+  "exampleRef": "1:p22",
+  "synonyms": [
+   "hateful",
+   "loathsome",
+   "abominable"
+  ],
+  "antonyms": [
+   "lovable",
+   "pleasant"
+  ],
+  "level": "C1",
+  "category": "advanced"
+ },
+ {
+  "id": "sullen",
+  "word": "sullen",
+  "forms": [
+   "sullenness"
+  ],
+  "ar": "عابس؛ متجهّم",
+  "ipa": "/ˈsʌl.ən/",
+  "pos": "adjective",
+  "def": "Bad-tempered and silent, showing you are unhappy or offended.",
+  "arExplain": "يصف شخصًا متجهّمًا صامتًا لأنه منزعج أو مستاء. والاسم منه sullenness أي العبوس.",
+  "example": "returned the other with a touch of sullenness",
+  "exampleAr": "أجاب الآخر بشيء من العبوس",
+  "exampleRef": "1:p26",
+  "synonyms": [
+   "sulky",
+   "moody",
+   "resentful"
+  ],
+  "antonyms": [
+   "cheerful"
+  ],
+  "level": "C1",
+  "category": "advanced"
+ },
+ {
+  "id": "holograph",
+  "word": "holograph",
+  "forms": [],
+  "ar": "مكتوب بخطّ صاحبه",
+  "ipa": "/ˈhɒl.ə.ɡrɑːf/",
+  "pos": "adjective",
+  "def": "(of a legal document) written entirely in the handwriting of the person who signs it.",
+  "arExplain": "وثيقة قانونية، كالوصية، كتبها صاحبها كلها بخط يده دون مساعدة محامٍ.",
+  "example": "The will was holograph",
+  "exampleAr": "كانت الوصية مكتوبة بخطّ صاحبها",
+  "exampleRef": "2:p1",
+  "synonyms": [
+   "handwritten"
+  ],
+  "antonyms": [
+   "typed"
+  ],
+  "level": "C2",
+  "category": "cultural"
+ },
+ {
+  "id": "benefactor",
+  "word": "benefactor",
+  "forms": [],
+  "ar": "وليّ النعمة؛ المحسن",
+  "ipa": "/ˈben.ɪ.fæk.tə/",
+  "pos": "noun",
+  "def": "A person who gives money or help to another person or to an organization.",
+  "arExplain": "شخص يقدّم المال أو العون لغيره. والغريب أن جيكل يصف هايد في وصيته بأنه «وليّ نعمته».",
+  "example": "his “friend and benefactor Edward Hyde,”",
+  "exampleAr": "«صديقه ووليّ نعمته إدوارد هايد»",
+  "exampleRef": "2:p1",
+  "synonyms": [
+   "patron",
+   "supporter"
+  ],
+  "antonyms": [
+   "beneficiary"
+  ],
+  "level": "C1",
+  "category": "advanced"
+ },
+ {
+  "id": "indignation",
+  "word": "indignation",
+  "forms": [],
+  "ar": "سخط؛ استياء",
+  "ipa": "/ˌɪn.dɪɡˈneɪ.ʃən/",
+  "pos": "noun",
+  "def": "Anger caused by something that seems unfair or wrong.",
+  "arExplain": "غضب يشعر به الإنسان أمام شيء يراه ظالمًا أو غير لائق.",
+  "example": "it was his ignorance of Mr. Hyde that had swelled his indignation",
+  "exampleAr": "كان جهله بالسيد هايد هو ما أجّج سخطه",
+  "exampleRef": "2:p1",
+  "synonyms": [
+   "outrage",
+   "resentment"
+  ],
+  "antonyms": [
+   "contentment"
+  ],
+  "level": "C1",
+  "category": "advanced"
+ },
+ {
+  "id": "fiend",
+  "word": "fiend",
+  "forms": [
+   "fiends"
+  ],
+  "ar": "شيطان؛ شرير",
+  "ipa": "/fiːnd/",
+  "pos": "noun",
+  "def": "An evil spirit or devil; a very cruel or wicked person.",
+  "arExplain": "روح شريرة أو شيطان، وتُطلق على الإنسان القاسي الشرير. كلمة قوطية شائعة.",
+  "example": "there leaped up the sudden, definite presentment of a fiend",
+  "exampleAr": "قفزت فجأة صورةٌ واضحة محدّدة لشيطان",
+  "exampleRef": "2:p1",
+  "synonyms": [
+   "devil",
+   "demon",
+   "monster"
+  ],
+  "antonyms": [
+   "angel",
+   "saint"
+  ],
+  "level": "C1",
+  "category": "literary"
+ },
+ {
+  "id": "obnoxious",
+  "word": "obnoxious",
+  "forms": [],
+  "ar": "بغيض؛ كريه",
+  "ipa": "/əbˈnɒk.ʃəs/",
+  "pos": "adjective",
+  "def": "Extremely unpleasant or offensive.",
+  "arExplain": "شيء أو شخص مزعج كريه يثير النفور.",
+  "example": "as he replaced the obnoxious paper in the safe",
+  "exampleAr": "وهو يعيد الورقة البغيضة إلى الخزنة",
+  "exampleRef": "2:p2",
+  "synonyms": [
+   "offensive",
+   "odious",
+   "repugnant"
+  ],
+  "antonyms": [
+   "pleasant",
+   "agreeable"
+  ],
+  "level": "C1",
+  "category": "advanced"
+ },
+ {
+  "id": "disgrace",
+  "word": "disgrace",
+  "forms": [
+   "disgraceful"
+  ],
+  "ar": "عار؛ فضيحة",
+  "ipa": "/dɪsˈɡreɪs/",
+  "pos": "noun",
+  "def": "The loss of other people's respect because of something bad you have done.",
+  "arExplain": "فقدان احترام الناس بسبب فعل مشين. وهو أكثر ما يخشاه الرجل الفيكتوري المحترم.",
+  "example": "and now I begin to fear it is disgrace",
+  "exampleAr": "والآن بدأت أخشى أن يكون عارًا",
+  "exampleRef": "2:p2",
+  "synonyms": [
+   "shame",
+   "dishonour",
+   "scandal"
+  ],
+  "antonyms": [
+   "honour",
+   "respect"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "usher",
+  "word": "usher",
+  "forms": [
+   "ushered"
+  ],
+  "ar": "يقود (الضيف) إلى مكانه",
+  "ipa": "/ˈʌʃ.ə/",
+  "pos": "verb",
+  "def": "To show someone politely where to go, especially into a room.",
+  "arExplain": "أن تصحب الضيف بأدب وتدلّه على المكان الذي يدخله أو يجلس فيه، كما يفعل الخدم.",
+  "example": "but ushered direct from the door to the dining-room where Dr. Lanyon sat alone over his wine",
+  "exampleAr": "بل اقتيد من الباب مباشرة إلى غرفة الطعام حيث كان الدكتور لانيون جالسًا وحده أمام نبيذه",
+  "exampleRef": "2:p4",
+  "synonyms": [
+   "escort",
+   "lead",
+   "show in"
+  ],
+  "antonyms": [],
+  "level": "C1",
+  "category": "advanced"
+ },
+ {
+  "id": "boisterous",
+  "word": "boisterous",
+  "forms": [],
+  "ar": "صاخب؛ مفعم بالحيوية",
+  "ipa": "/ˈbɔɪ.stər.əs/",
+  "pos": "adjective",
+  "def": "Noisy, lively and full of energy.",
+  "arExplain": "يصف شخصًا عالي الصوت كثير الحركة والحيوية.",
+  "example": "with a shock of hair prematurely white, and a boisterous and decided manner",
+  "exampleAr": "ذا شعر كثيف ابيضّ قبل أوانه، وطبعٍ صاخب حازم",
+  "exampleRef": "2:p4",
+  "synonyms": [
+   "loud",
+   "rowdy",
+   "exuberant"
+  ],
+  "antonyms": [
+   "quiet",
+   "restrained"
+  ],
+  "level": "C1",
+  "category": "advanced"
+ },
+ {
+  "id": "estrange",
+  "word": "estrange",
+  "forms": [
+   "estranged"
+  ],
+  "ar": "يُفرّق؛ يُبعد (بين الأصدقاء)",
+  "ipa": "/ɪˈstreɪndʒ/",
+  "pos": "verb",
+  "def": "To make people who were close become unfriendly or separated.",
+  "arExplain": "أن يُحدث شيءٌ جفوة بين صديقين أو قريبين حتى يتباعدا. وتشيع صيغة estranged بمعنى «منفصل، على خلاف».",
+  "example": "would have estranged Damon and Pythias.",
+  "exampleAr": "كان كفيلًا بأن يفرّق بين دامون وفيثياس.",
+  "exampleRef": "2:p9",
+  "synonyms": [
+   "alienate",
+   "separate",
+   "divide"
+  ],
+  "antonyms": [
+   "reconcile",
+   "unite"
+  ],
+  "level": "C2",
+  "category": "advanced"
+ },
+ {
+  "id": "composure",
+  "word": "composure",
+  "forms": [],
+  "ar": "رباطة الجأش؛ الهدوء",
+  "ipa": "/kəmˈpəʊ.ʒə/",
+  "pos": "noun",
+  "def": "The state of being calm and in control of your feelings.",
+  "arExplain": "القدرة على البقاء هادئًا متمالكًا لنفسك، خاصة بعد غضب أو صدمة.",
+  "example": "He gave his friend a few seconds to recover his composure",
+  "exampleAr": "وأمهل صديقه بضع ثوانٍ ليستعيد رباطة جأشه",
+  "exampleRef": "2:p10",
+  "synonyms": [
+   "calmness",
+   "self-control",
+   "poise"
+  ],
+  "antonyms": [
+   "agitation",
+   "panic"
+  ],
+  "level": "C1",
+  "category": "advanced"
+ },
+ {
+  "id": "besiege",
+  "word": "besiege",
+  "forms": [
+   "besieged"
+  ],
+  "ar": "يحاصر",
+  "ipa": "/bɪˈsiːdʒ/",
+  "pos": "verb",
+  "def": "To surround a place with an army; figuratively, to trouble someone with many questions or worries.",
+  "arExplain": "معناها الأصلي محاصرة مدينة بجيش، وتُستعمل مجازًا لمن تحاصره الأسئلة أو الهموم.",
+  "example": "toiling in mere darkness and besieged by questions",
+  "exampleAr": "الكادح في ظلام محض، المحاصَر بالأسئلة",
+  "exampleRef": "2:p12",
+  "synonyms": [
+   "surround",
+   "beset",
+   "overwhelm"
+  ],
+  "antonyms": [],
+  "level": "C1",
+  "category": "literary"
+ },
+ {
+  "id": "inordinate",
+  "word": "inordinate",
+  "forms": [],
+  "ar": "مفرط؛ زائد عن الحدّ",
+  "ipa": "/ɪˈnɔː.dɪ.nət/",
+  "pos": "adjective",
+  "def": "Much more than is usual or reasonable.",
+  "arExplain": "يصف شيئًا تجاوز الحدّ المعقول أو المعتاد.",
+  "example": "a singularly strong, almost an inordinate, curiosity to behold the features of the real Mr. Hyde",
+  "exampleAr": "فضولٌ قويّ على نحو فريد، يكاد يكون مفرطًا، إلى رؤية ملامح السيد هايد الحقيقي",
+  "exampleRef": "2:p13",
+  "synonyms": [
+   "excessive",
+   "extreme",
+   "undue"
+  ],
+  "antonyms": [
+   "moderate",
+   "reasonable"
+  ],
+  "level": "C2",
+  "category": "advanced"
+ },
+ {
+  "id": "labyrinth",
+  "word": "labyrinth",
+  "forms": [
+   "labyrinths"
+  ],
+  "ar": "متاهة",
+  "ipa": "/ˈlæb.ə.rɪnθ/",
+  "pos": "noun",
+  "def": "A complicated network of paths or streets in which it is easy to get lost.",
+  "arExplain": "شبكة معقّدة من الطرق أو الممرات يسهل أن يضيع فيها الإنسان. وتصوّر لندن ليلًا في الرواية متاهةً مخيفة.",
+  "example": "through wider labyrinths of lamplighted city",
+  "exampleAr": "عبر متاهات أوسع من المدينة المضاءة بالمصابيح",
+  "exampleRef": "2:p13",
+  "synonyms": [
+   "maze",
+   "network"
+  ],
+  "antonyms": [],
+  "level": "C1",
+  "category": "literary"
+ },
+ {
+  "id": "disquietude",
+  "word": "disquietude",
+  "forms": [
+   "disquiet"
+  ],
+  "ar": "قلق؛ اضطراب النفس",
+  "ipa": "/dɪsˈkwaɪ.ə.tjuːd/",
+  "pos": "noun",
+  "def": "A feeling of worry and unease (formal, literary).",
+  "arExplain": "شعور بالقلق وعدم الطمأنينة. كلمة أدبية رسمية.",
+  "example": "The lawyer stood awhile when Mr. Hyde had left him, the picture of disquietude.",
+  "exampleAr": "وقف المحامي بعض الوقت بعد أن تركه السيد هايد، صورةً للقلق.",
+  "exampleRef": "2:p37",
+  "synonyms": [
+   "anxiety",
+   "unease",
+   "worry"
+  ],
+  "antonyms": [
+   "calm",
+   "peace"
+  ],
+  "level": "C2",
+  "category": "literary"
+ },
+ {
+  "id": "troglodytic",
+  "word": "troglodytic",
+  "forms": [
+   "troglodyte"
+  ],
+  "ar": "كإنسان الكهوف؛ بدائي",
+  "ipa": "/ˌtrɒɡ.ləˈdɪt.ɪk/",
+  "pos": "adjective",
+  "def": "Like a troglodyte, a primitive cave-dweller; brutish and less than fully civilized.",
+  "arExplain": "مشتقة من troglodyte أي ساكن الكهوف البدائي. يستعملها أترسون ليصف هايد بأنه يكاد لا يكون إنسانًا متحضّرًا.",
+  "example": "Something troglodytic, shall we say?",
+  "exampleAr": "شيء من إنسان الكهوف، أنقول ذلك؟",
+  "exampleRef": "2:p37",
+  "synonyms": [
+   "primitive",
+   "brutish",
+   "ape-like"
+  ],
+  "antonyms": [
+   "civilized",
+   "refined"
+  ],
+  "level": "C2",
+  "category": "literary"
+ },
+ {
+  "id": "malformation",
+  "word": "malformation",
+  "forms": [],
+  "ar": "عيب خَلقي؛ تشوّه",
+  "ipa": "/ˌmæl.fɔːˈmeɪ.ʃən/",
+  "pos": "noun",
+  "def": "A part of the body that is not the correct shape.",
+  "arExplain": "عيب في تكوين جزء من الجسم. ولاحظ أن هايد «يعطي انطباعًا بالتشوّه» دون عيب ظاهر.",
+  "example": "he gave an impression of deformity without any nameable malformation",
+  "exampleAr": "يعطي انطباعًا بالتشوّه دون أي عيب خَلقي يمكن تسميته",
+  "exampleRef": "2:p37",
+  "synonyms": [
+   "deformity",
+   "defect"
+  ],
+  "antonyms": [],
+  "level": "C2",
+  "category": "advanced"
+ },
+ {
+  "id": "iniquity",
+  "word": "iniquity",
+  "forms": [
+   "iniquities"
+  ],
+  "ar": "إثم؛ ظلم",
+  "ipa": "/ɪˈnɪk.wə.ti/",
+  "pos": "noun",
+  "def": "Great wickedness or an immoral act (formal, often religious).",
+  "arExplain": "الشرّ والذنب العظيم. كلمة رسمية ذات طابع ديني.",
+  "example": "lest by chance some Jack-in-the-Box of an old iniquity should leap to light there",
+  "exampleAr": "خشية أن يقفز إلى النور هناك، على سبيل المصادفة، إثمٌ قديم كدمية العلبة القافزة",
+  "exampleRef": "2:p50",
+  "synonyms": [
+   "sin",
+   "wickedness",
+   "evil"
+  ],
+  "antonyms": [
+   "virtue",
+   "righteousness"
+  ],
+  "level": "C2",
+  "category": "literary"
+ },
+ {
+  "id": "apprehension",
+  "word": "apprehension",
+  "forms": [],
+  "ar": "توجّس؛ قلق",
+  "ipa": "/ˌæp.rɪˈhen.ʃən/",
+  "pos": "noun",
+  "def": "Worry or fear that something bad will happen.",
+  "arExplain": "خوف أو قلق مما قد يحدث في المستقبل.",
+  "example": "few men could read the rolls of their life with less apprehension",
+  "exampleAr": "وقلّة من الرجال يستطيعون أن يقرؤوا سجلات حياتهم بقلق أقل منه",
+  "exampleRef": "2:p50",
+  "synonyms": [
+   "anxiety",
+   "dread",
+   "unease"
+  ],
+  "antonyms": [
+   "confidence",
+   "calm"
+  ],
+  "level": "C1",
+  "category": "advanced"
+ },
+ {
+  "id": "statute-of-limitations",
+  "word": "statute of limitations",
+  "forms": [],
+  "ar": "قانون التقادم",
+  "ipa": "/ˈstætʃ.uːt əv ˌlɪm.ɪˈteɪ.ʃənz/",
+  "pos": "noun phrase",
+  "def": "A law that sets a time limit after which a person can no longer be tried for a crime.",
+  "arExplain": "قانون يحدّد مدة، إذا مرّت على الجريمة لا تجوز بعدها المحاكمة. يقول أترسون إن الذنب لا يسقط بالتقادم في شريعة الله.",
+  "example": "in the law of God, there is no statute of limitations",
+  "exampleAr": "في شريعة الله لا يسقط الذنب بالتقادم",
+  "exampleRef": "2:p50",
+  "synonyms": [
+   "time limit"
+  ],
+  "antonyms": [],
+  "level": "C1",
+  "category": "cultural"
+ },
+ {
+  "id": "crony",
+  "word": "crony",
+  "forms": [
+   "cronies"
+  ],
+  "ar": "رفيق قديم؛ صاحب",
+  "ipa": "/ˈkrəʊ.ni/",
+  "pos": "noun",
+  "def": "A close friend or companion, often an old one (informal).",
+  "arExplain": "صديق مقرّب يقضي معك الوقت كثيرًا، وغالبًا ما يكون من زمن طويل.",
+  "example": "some five or six old cronies, all intelligent, reputable men and all judges of good wine",
+  "exampleAr": "لخمسة أو ستة من رفاقه القدامى، كلهم أذكياء ذوو سمعة حسنة، وكلهم خبراء بالنبيذ الجيد",
+  "exampleRef": "3:p1",
+  "synonyms": [
+   "companion",
+   "pal",
+   "friend"
+  ],
+  "antonyms": [
+   "stranger",
+   "rival"
+  ],
+  "level": "C2",
+  "category": "intermediate"
+ },
+ {
+  "id": "contrive",
+  "word": "contrive",
+  "forms": [
+   "contrived"
+  ],
+  "ar": "يدبّر؛ يحتال",
+  "ipa": "/kənˈtraɪv/",
+  "pos": "verb",
+  "def": "To manage to make something happen, often by clever planning.",
+  "arExplain": "أن تدبّر أمرًا بذكاء وتخطيط حتى يحدث كما تريد.",
+  "example": "Mr. Utterson so contrived that he remained behind after the others had departed",
+  "exampleAr": "ودبّر السيد أترسون الأمر بحيث بقي بعد أن انصرف الآخرون",
+  "exampleRef": "3:p1",
+  "synonyms": [
+   "arrange",
+   "manage",
+   "engineer"
+  ],
+  "antonyms": [],
+  "level": "C1",
+  "category": "advanced"
+ },
+ {
+  "id": "befall",
+  "word": "befall",
+  "forms": [
+   "befallen",
+   "befell"
+  ],
+  "ar": "يحدث (لـ)؛ يصيب",
+  "ipa": "/bɪˈfɔːl/",
+  "pos": "verb",
+  "def": "To happen to someone (formal, usually something bad).",
+  "arExplain": "أن يقع أمرٌ ما لشخص، وغالبًا ما يكون مكروهًا. فعل رسمي أدبي: befall – befell – befallen.",
+  "example": "a thing that had befallen many scores of times",
+  "exampleAr": "بل أمرًا حدث عشرات المرات",
+  "exampleRef": "3:p1",
+  "synonyms": [
+   "happen",
+   "occur"
+  ],
+  "antonyms": [],
+  "level": "C2",
+  "category": "literary"
+ },
+ {
+  "id": "unobtrusive",
+  "word": "unobtrusive",
+  "forms": [],
+  "ar": "متحفّظ؛ غير لافت",
+  "ipa": "/ˌʌn.əbˈtruː.sɪv/",
+  "pos": "adjective",
+  "def": "Not attracting attention; quiet and modest.",
+  "arExplain": "يصف شيئًا أو شخصًا هادئًا لا يفرض حضوره ولا يلفت الانتباه.",
+  "example": "they liked to sit a while in his unobtrusive company",
+  "exampleAr": "كانوا يحبّون أن يجلسوا قليلًا في صحبته المتحفّظة",
+  "exampleRef": "3:p1",
+  "synonyms": [
+   "discreet",
+   "quiet",
+   "modest"
+  ],
+  "antonyms": [
+   "obtrusive",
+   "conspicuous"
+  ],
+  "level": "C1",
+  "category": "advanced"
+ },
+ {
+  "id": "cherish",
+  "word": "cherish",
+  "forms": [
+   "cherished"
+  ],
+  "ar": "يعتزّ بـ؛ يكنّ",
+  "ipa": "/ˈtʃer.ɪʃ/",
+  "pos": "verb",
+  "def": "To love, protect and care for someone or something; to keep a feeling in your heart.",
+  "arExplain": "أن تحب شيئًا وتحرص عليه، أو تحتفظ بشعور في قلبك تجاه شخص.",
+  "example": "he cherished for Mr. Utterson a sincere and warm affection",
+  "exampleAr": "أنه يكنّ للسيد أترسون مودّة صادقة دافئة",
+  "exampleRef": "3:p1",
+  "synonyms": [
+   "treasure",
+   "value",
+   "hold dear"
+  ],
+  "antonyms": [
+   "neglect",
+   "despise"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "distasteful",
+  "word": "distasteful",
+  "forms": [],
+  "ar": "كريه؛ غير مستساغ",
+  "ipa": "/dɪsˈteɪst.fəl/",
+  "pos": "adjective",
+  "def": "Unpleasant or offensive, so that you do not want to deal with it.",
+  "arExplain": "يصف موضوعًا أو أمرًا مزعجًا لا ترغب في الحديث عنه أو التعامل معه.",
+  "example": "A close observer might have gathered that the topic was distasteful",
+  "exampleAr": "كان المراقب الدقيق سيدرك أن الموضوع كريه إليه",
+  "exampleRef": "3:p3",
+  "synonyms": [
+   "unpleasant",
+   "disagreeable",
+   "objectionable"
+  ],
+  "antonyms": [
+   "pleasant",
+   "agreeable"
+  ],
+  "level": "C1",
+  "category": "advanced"
+ },
+ {
+  "id": "pedant",
+  "word": "pedant",
+  "forms": [
+   "pedantically",
+   "pedantic"
+  ],
+  "ar": "متحذلق",
+  "ipa": "/ˈped.ənt/",
+  "pos": "noun",
+  "def": "A person who cares too much about small details or rules, especially in learning.",
+  "arExplain": "شخص يهتم أكثر من اللازم بالتفاصيل الصغيرة والقواعد الدقيقة. والظرف pedantically يعني «بدقّة متحذلقة».",
+  "example": "that hide-bound pedant, Lanyon",
+  "exampleAr": "ذلك المتحذلق المتزمّت لانيون",
+  "exampleRef": "3:p3",
+  "synonyms": [
+   "nitpicker",
+   "purist"
+  ],
+  "antonyms": [],
+  "level": "C2",
+  "category": "advanced"
+ },
+ {
+  "id": "heresy",
+  "word": "heresy",
+  "forms": [
+   "heresies",
+   "heretic"
+  ],
+  "ar": "هرطقة؛ بدعة",
+  "ipa": "/ˈher.ə.si/",
+  "pos": "noun",
+  "def": "A belief or opinion that strongly disagrees with what is officially or generally accepted.",
+  "arExplain": "رأي يخالف بشدّة ما تقبله الجماعة أو المؤسسة الدينية أو العلمية. يستعملها جيكل ساخرًا لوصف أفكاره العلمية.",
+  "example": "at what he called my scientific heresies",
+  "exampleAr": "فيما سمّاه هرطقاتي العلمية",
+  "exampleRef": "3:p3",
+  "synonyms": [
+   "dissent",
+   "unorthodoxy"
+  ],
+  "antonyms": [
+   "orthodoxy"
+  ],
+  "level": "C1",
+  "category": "advanced"
+ },
+ {
+  "id": "blatant",
+  "word": "blatant",
+  "forms": [],
+  "ar": "صفيق؛ فجّ",
+  "ipa": "/ˈbleɪ.tənt/",
+  "pos": "adjective",
+  "def": "Very obvious and done openly, without shame; (old use) loud and offensive.",
+  "arExplain": "يصف شيئًا واضحًا فاضحًا لا يُخفى، أو شخصًا صاخبًا وقحًا في آرائه.",
+  "example": "an ignorant, blatant pedant",
+  "exampleAr": "متحذلق جاهل صفيق",
+  "exampleRef": "3:p3",
+  "synonyms": [
+   "flagrant",
+   "shameless",
+   "brazen"
+  ],
+  "antonyms": [
+   "subtle",
+   "discreet"
+  ],
+  "level": "C1",
+  "category": "advanced"
+ },
+ {
+  "id": "ruthless",
+  "word": "ruthless",
+  "forms": [
+   "ruthlessly"
+  ],
+  "ar": "قاسٍ؛ بلا رحمة",
+  "ipa": "/ˈruːθ.ləs/",
+  "pos": "adjective",
+  "def": "Not caring if other people are hurt in order to get what you want.",
+  "arExplain": "يصف من لا يرحم ولا يتردّد في سبيل هدفه. والظرف ruthlessly: بلا رحمة.",
+  "example": "ruthlessly disregarding the fresh topic",
+  "exampleAr": "متجاهلًا الموضوع الجديد بلا رحمة",
+  "exampleRef": "3:p4",
+  "synonyms": [
+   "merciless",
+   "relentless"
+  ],
+  "antonyms": [
+   "merciful",
+   "gentle"
+  ],
+  "level": "B2",
+  "category": "intermediate"
+ },
+ {
+  "id": "abominable",
+  "word": "abominable",
+  "forms": [],
+  "ar": "شنيع؛ بغيض جدًا",
+  "ipa": "/əˈbɒm.ɪ.nə.bəl/",
+  "pos": "adjective",
+  "def": "Very bad, unpleasant or morally wrong.",
+  "arExplain": "يصف أمرًا فظيعًا مقيتًا أخلاقيًا.",
+  "example": "What I heard was abominable",
+  "exampleAr": "ما سمعته كان شنيعًا",
+  "exampleRef": "3:p8",
+  "synonyms": [
+   "terrible",
+   "atrocious",
+   "detestable"
+  ],
+  "antonyms": [
+   "admirable",
+   "delightful"
+  ],
+  "level": "C1",
+  "category": "advanced"
+ },
+ {
+  "id": "incoherency",
+  "word": "incoherency",
+  "forms": [
+   "incoherent",
+   "incoherence"
+  ],
+  "ar": "تفكّك؛ اضطراب (في الكلام)",
+  "ipa": "/ˌɪn.kəʊˈhɪə.rən.si/",
+  "pos": "noun",
+  "def": "The state of speaking or acting in a confused, unclear way.",
+  "arExplain": "حالة يكون فيها الكلام أو التصرف مضطربًا غير مترابط، بسبب الانفعال أو الخوف.",
+  "example": "with a certain incoherency of manner",
+  "exampleAr": "وفي طريقته شيء من التفكّك",
+  "exampleRef": "3:p9",
+  "synonyms": [
+   "confusion",
+   "incoherence"
+  ],
+  "antonyms": [
+   "coherence",
+   "clarity"
+  ],
+  "level": "C2",
+  "category": "advanced"
+ },
+ {
+  "id": "make-a-clean-breast-of",
+  "word": "make a clean breast of",
+  "forms": [
+   "make a clean breast"
+  ],
+  "ar": "يعترف بكل شيء؛ يصارح",
+  "ipa": "/meɪk ə ˌkliːn ˈbrest əv/",
+  "pos": "idiom",
+  "def": "To tell the whole truth about something you have kept secret.",
+  "arExplain": "أن تعترف بالحقيقة كاملة عن أمر كنت تُخفيه، فتريح صدرك.",
+  "example": "Make a clean breast of this in confidence",
+  "exampleAr": "صارحني بهذا الأمر كله في سرّية",
+  "exampleRef": "3:p10",
+  "synonyms": [
+   "confess",
+   "come clean",
+   "own up"
+  ],
+  "antonyms": [
+   "conceal",
+   "hide"
+  ],
+  "level": "C2",
+  "category": "idiom"
+ },
+ {
+  "id": "be-rid-of",
+  "word": "be rid of",
+  "forms": [
+   "get rid of"
+  ],
+  "ar": "يتخلّص من",
+  "ipa": "/bi ˈrɪd əv/",
+  "pos": "phrasal verb",
+  "def": "To be free of someone or something unwanted.",
+  "arExplain": "أن تتحرّر من شخص أو شيء لا تريده. والأشيع اليوم get rid of.",
+  "example": "the moment I choose, I can be rid of Mr. Hyde",
+  "exampleAr": "في اللحظة التي أختارها أستطيع أن أتخلّص من السيد هايد",
+  "exampleRef": "3:p11",
+  "synonyms": [
+   "be free of",
+   "get rid of"
+  ],
+  "antonyms": [
+   "keep"
+  ],
+  "level": "B2",
+  "category": "phrasal"
+ },
+ {
+  "id": "bear-with",
+  "word": "bear with",
+  "forms": [],
+  "ar": "يصبر على؛ يتحمّل",
+  "ipa": "/ˈbeə wɪð/",
+  "pos": "phrasal verb",
+  "def": "To be patient with someone who is difficult or slow.",
+  "arExplain": "أن تتحلّى بالصبر مع شخص صعب الطباع أو مع موقف مزعج.",
+  "example": "you will bear with him and get his rights for him",
+  "exampleAr": "بأن تصبر عليه وتحصّل له حقوقه",
+  "exampleRef": "3:p14",
+  "synonyms": [
+   "tolerate",
+   "put up with"
+  ],
+  "antonyms": [
+   "lose patience with"
+  ],
+  "level": "B2",
+  "category": "phrasal"
+ },
+ {
+  "id": "plead",
+  "word": "plead",
+  "forms": [
+   "pleaded",
+   "pleading"
+  ],
+  "ar": "يتوسّل؛ يرجو",
+  "ipa": "/pliːd/",
+  "pos": "verb",
+  "def": "To ask for something in an urgent, emotional way.",
+  "arExplain": "أن تطلب شيئًا بإلحاح وعاطفة. وفي المحكمة: أن يُعلن المتّهم أنه مذنب أو بريء.",
+  "example": "pleaded Jekyll, laying his hand upon the other’s arm",
+  "exampleAr": "توسّل جيكل وهو يضع يده على ذراع الآخر",
+  "exampleRef": "3:p16",
+  "synonyms": [
+   "beg",
+   "implore",
+   "appeal"
+  ],
+  "antonyms": [
+   "demand"
+  ],
+  "level": "C1",
+  "category": "intermediate"
+ },
+ {
+  "id": "irrepressible",
+  "word": "irrepressible",
+  "forms": [],
+  "ar": "لا يمكن كبته",
+  "ipa": "/ˌɪr.ɪˈpres.ə.bəl/",
+  "pos": "adjective",
+  "def": "Impossible to control or hold back.",
+  "arExplain": "يصف شعورًا أو تصرفًا قويًا لا يستطيع الإنسان أن يمنعه أو يخفيه.",
+  "example": "Utterson heaved an irrepressible sigh.",
+  "exampleAr": "أطلق أترسون تنهيدة لم يستطع كبتها.",
+  "exampleRef": "3:p17",
+  "synonyms": [
+   "uncontrollable",
+   "unstoppable"
+  ],
+  "antonyms": [
+   "controllable",
+   "restrained"
+  ],
+  "level": "C1",
+  "category": "advanced"
+ }
+]

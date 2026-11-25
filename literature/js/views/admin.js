@@ -152,6 +152,7 @@ async function chapters(el, slug) {
     ${b.text !== "none" ? `<section class="panel section"><h3>${t("importText")}</h3><p class="small muted">${t("importHint")}</p>
       <form id="imp"><div class="row"><label><input type="radio" name="mode" value="whole" checked> ${t("importWhole")}</label><label><input type="radio" name="mode" value="one"> ${t("importOne")}</label>
         <input class="input" name="n" type="number" min="1" placeholder="${t("chapter")} #" style="width:120px"><input class="input en" name="title" placeholder="${t("titleEn")}" style="flex:1"></div>
+        <textarea class="input en" name="titles" rows="2" style="margin-top:10px" placeholder="${lang() === "ar" ? "عناوين الفصول إن لم تكن مرقّمة (عنوان في كل سطر) — اختياري" : "Chapter titles if headings are unnumbered (one per line) — optional"}"></textarea>
         <input type="file" accept=".txt,text/plain" name="file" style="margin:10px 0">
         <textarea class="input en" name="text" rows="8" placeholder="…"></textarea>
         <div id="imp-prev" class="small muted" style="margin:8px 0"></div>
@@ -164,7 +165,7 @@ async function chapters(el, slug) {
     const text = form.text.value;
     if (!text.trim()) return;
     let chs, corrections = [];
-    if (form.mode.value === "whole") ({ chapters: chs, corrections } = parseNovel(text));
+    if (form.mode.value === "whole") ({ chapters: chs, corrections } = parseNovel(text, { titles: form.titles.value.split("\n") }));
     else chs = [parseChapterText(text, +form.n.value || idx.length + 1, form.title.value.trim())];
     if (!chs.length) return toast(t("noResults"));
     $("#imp-prev", el).textContent = `${chs.length} ${t("chapters")} · ${chs.reduce((a, c) => a + c.words, 0)} ${t("words")}${corrections.length ? " · " + corrections.join("; ") : ""}`;

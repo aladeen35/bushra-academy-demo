@@ -1,0 +1,360 @@
+{
+ "chapter": 3,
+ "summary": {
+  "en": "The wet birds and animals gather on the bank and wonder how to get dry. The Mouse, who seems to have authority, makes everyone sit in a ring and reads them 'the driest thing' he knows: a dull history lesson about William the Conqueror. It does not work, so the Dodo suggests a Caucus-race. Everyone runs round a rough circle, starting and stopping when they like, and after half an hour, when they are dry, the Dodo declares that everybody has won and all must have prizes. Alice hands out comfits from her pocket, and the Dodo solemnly presents her with her own thimble. The Mouse begins its 'long and sad tale', but Alice is thinking about its long tail, and she keeps misunderstanding its words until it walks away offended. When Alice then talks happily about how well her cat Dinah catches birds, all the creatures find excuses to leave, and she is left alone and lonely.",
+  "ar": "تجتمع الطيور والحيوانات المبتلّة على الضفة وتتساءل كيف تجفّ. فيُجلس الفأرُ، الذي يبدو صاحب سلطة، الجميعَ في حلقة، ويقرأ عليهم «أجفّ شيء» يعرفه: درسًا مملًّا في التاريخ عن وليام الفاتح. ولمّا لم ينفع ذلك يقترح الدودو «سباق الكوكس». فيركض الجميع في دائرة تقريبية، يبدؤون ويتوقّفون متى شاؤوا، وبعد نصف ساعة، حين يجفّون، يعلن الدودو أن الجميع فازوا ولا بدّ أن ينال الجميع جوائز. فتوزّع أليس حلوى الملبّس من جيبها، ويقدّم لها الدودو بوقار كشتبانها هي نفسها. ويبدأ الفأر «حكايته الطويلة الحزينة»، لكن أليس تفكّر في ذيله الطويل، وتظلّ تسيء فهم كلامه حتى يمضي مستاءً. ثم حين تتحدّث أليس بفرح عن براعة قطتها دينا في صيد الطيور، تتحجّج المخلوقات كلّها بأعذار وتنصرف، فتبقى أليس وحيدة حزينة."
+ },
+ "objectives": [
+  {
+   "en": "Follow the scene on the bank: the dry history lesson, the Caucus-race, the prizes and the Mouse's tale.",
+   "ar": "متابعة المشهد على الضفة: درس التاريخ «الجاف»، وسباق الكوكس، والجوائز، وحكاية الفأر."
+  },
+  {
+   "en": "Understand puns built on words that sound alike: dry, tale/tail, not/knot.",
+   "ar": "فهم التورية القائمة على كلمات متشابهة في النطق أو المعنى: dry وtale/tail وnot/knot."
+  },
+  {
+   "en": "Read dialogue correctly: quotation marks, speaker tags and adverbs like 'hastily' and 'solemnly'.",
+   "ar": "قراءة الحوار بصورة صحيحة: علامات الاقتباس، وعبارات نسبة الكلام، وظروف مثل hastily وsolemnly."
+  },
+  {
+   "en": "Recognize the passive voice and formal, old-fashioned language used for comic effect.",
+   "ar": "التعرّف على المبني للمجهول واللغة الرسمية القديمة المستخدمة لإثارة الضحك."
+  }
+ ],
+ "vocab": [
+  "queer",
+  "cross",
+  "consultation",
+  "sulky",
+  "authority",
+  "conqueror",
+  "insolence",
+  "melancholy",
+  "solemnly",
+  "adjourn",
+  "remedy",
+  "titter",
+  "caucus",
+  "comfit",
+  "thimble",
+  "absurd",
+  "grave",
+  "tale",
+  "prosecute",
+  "pretext"
+ ],
+ "grammar": [
+  {
+   "id": "aw-3-dialogue-punctuation",
+   "topic": "punctuation",
+   "level": "B1",
+   "title": {
+    "en": "Writing dialogue: quotation marks and speaker tags",
+    "ar": "كتابة الحوار: علامات الاقتباس وعبارات نسبة الكلام"
+   },
+   "explain": {
+    "en": "The spoken words go inside quotation marks, and the punctuation of the speech (! ? ,) stays inside them. The speaker tag ('said the Mouse') often comes after the speech, sometimes with the verb before the subject. Words like 'frowning', 'very politely' or 'hastily' tell us how the words are said. A colon can introduce a new piece of speech.",
+    "ar": "يوضع الكلام المنطوق بين علامتي اقتباس، وتبقى علامات ترقيمه (! ؟ ،) داخلهما. وكثيرًا ما تأتي عبارة نسبة الكلام (said the Mouse) بعد الكلام، وأحيانًا يتقدّم الفعل على الفاعل. وكلمات مثل frowning وvery politely وhastily تخبرنا كيف قيل الكلام. ويمكن أن تقدّم النقطتان (:) كلامًا جديدًا."
+   },
+   "example": {
+    "en": "“I beg your pardon!” said the Mouse, frowning, but very politely: “Did you speak?”",
+    "ar": "«أرجو المعذرة!» قال الفأر مقطّبًا، لكن بأدب شديد: «هل تكلّمت؟»",
+    "ref": "p6"
+   },
+   "exercise": {
+    "q": {
+     "en": "Which sentence is punctuated correctly?",
+     "ar": "أيّ الجمل ترقيمها صحيح؟"
+    },
+    "options": [
+     "“Not I!” said the Lory hastily.",
+     "“Not I”! said the Lory hastily.",
+     "Not I! “said the Lory hastily.”"
+    ],
+    "answer": 0,
+    "why": {
+     "en": "The exclamation mark belongs to the spoken words, so it goes inside the quotation marks; the speaker tag stays outside (paragraph 7).",
+     "ar": "علامة التعجّب جزء من الكلام المنطوق، فتوضع داخل علامتي الاقتباس، وتبقى عبارة نسبة الكلام خارجهما (الفقرة ٧)."
+    }
+   }
+  },
+  {
+   "id": "aw-3-passive",
+   "topic": "passive",
+   "level": "B1",
+   "title": {
+    "en": "The passive voice in formal history writing",
+    "ar": "المبني للمجهول في الكتابة التاريخية الرسمية"
+   },
+   "explain": {
+    "en": "The passive (be + past participle) puts the focus on the person or thing affected. 'His cause was favoured by the pope' = the pope favoured his cause. 'Was submitted to by the English' = the English submitted to him. History books of Carroll's time used long passive sentences like this, which is why the Mouse calls it 'the driest thing I know'. Notice the pun: 'dry' means both 'not wet' and 'boring'.",
+    "ar": "المبني للمجهول (be + التصريف الثالث) يركّز على من وقع عليه الفعل. His cause was favoured by the pope = أيّد البابا قضيته. وwas submitted to by the English = خضع له الإنجليز. وكانت كتب التاريخ في زمن كارول مليئة بجمل مجهولة طويلة كهذه، ولهذا يسمّيها الفأر «أجفّ شيء أعرفه». ولاحظ التورية: dry تعني «غير مبتلّ» و«مملّ» معًا."
+   },
+   "example": {
+    "en": "‘William the Conqueror, whose cause was favoured by the pope, was soon submitted to by the English, who wanted leaders, and had been of late much accustomed to usurpation and conquest.",
+    "ar": "«وليام الفاتح، الذي حظيت قضيّته بتأييد البابا، سرعان ما خضع له الإنجليز، الذين كانوا يفتقرون إلى القادة، وقد اعتادوا في الآونة الأخيرة كثيرًا على الاغتصاب والغزو.",
+    "ref": "p4"
+   },
+   "exercise": {
+    "q": {
+     "en": "Make it passive: 'The Dodo presented the thimble.' → 'The thimble ___ by the Dodo.'",
+     "ar": "حوّل إلى المبني للمجهول: 'The Dodo presented the thimble.' ← 'The thimble ___ by the Dodo.'"
+    },
+    "options": [
+     "presented",
+     "has present",
+     "was presented"
+    ],
+    "answer": 2,
+    "why": {
+     "en": "Past passive = was/were + past participle: 'The thimble was presented by the Dodo.'",
+     "ar": "المبني للمجهول في الماضي = was/were + التصريف الثالث: The thimble was presented by the Dodo."
+    }
+   }
+  },
+  {
+   "id": "aw-3-as-soon-as",
+   "topic": "conjunctions",
+   "level": "B1",
+   "title": {
+    "en": "'As soon as' for one action right after another",
+    "ar": "as soon as لحدث يقع بعد آخر مباشرة"
+   },
+   "explain": {
+    "en": "'As soon as' joins two actions and shows that the second happens immediately after the first. Here the Lory speaks the moment the Mouse disappears. In chapter 3 Alice also uses it in a set phrase: Dinah 'will eat a little bird as soon as look at it', meaning she would do it without any hesitation.",
+    "ar": "as soon as تربط حدثين وتبيّن أن الثاني وقع فور وقوع الأول. فهنا يتكلّم اللوري في اللحظة التي يختفي فيها الفأر. وتستعملها أليس في الفصل نفسه في تعبير ثابت: دينا will eat a little bird as soon as look at it، أي تأكله دون أدنى تردّد."
+   },
+   "example": {
+    "en": "“What a pity it wouldn’t stay!” sighed the Lory, as soon as it was quite out of sight;",
+    "ar": "«يا للأسف أنه لم يبقَ!» تنهّد اللوري، ما إن غاب الفأر تمامًا عن الأنظار؛",
+    "ref": "p43"
+   },
+   "exercise": {
+    "q": {
+     "en": "Choose the best connector: 'The birds hurried off ___ Alice mentioned Dinah.'",
+     "ar": "اختر أداة الربط المناسبة: 'The birds hurried off ___ Alice mentioned Dinah.'"
+    },
+    "options": [
+     "unless",
+     "as soon as",
+     "although"
+    ],
+    "answer": 1,
+    "why": {
+     "en": "The birds left immediately after Alice spoke about Dinah, so 'as soon as' fits.",
+     "ar": "انصرفت الطيور فور حديث أليس عن دينا، فالأنسب as soon as."
+    }
+   }
+  }
+ ],
+ "culture": [
+  {
+   "term": "The caucus",
+   "en": "A caucus is a meeting of members of a political party to choose candidates or plan action. In Carroll's time the word was used in Britain, often with disapproval, for party committees that organized votes. The Caucus-race is a satire of politics: everybody runs round in circles, nobody gets anywhere, there is no clear end, and in the end everyone wins and expects a prize, while someone else (Alice) has to pay for them.",
+   "ar": "الكوكس (caucus) اجتماع لأعضاء حزب سياسي لاختيار المرشّحين أو تنسيق العمل. وفي زمن كارول كانت الكلمة تُستعمل في بريطانيا، غالبًا بنبرة ناقدة، للّجان الحزبية التي تنظّم الأصوات. وسباق الكوكس سخرية من السياسة: الجميع يدورون في حلقة، ولا يصل أحد إلى أي مكان، ولا نهاية واضحة، وفي الختام يفوز الجميع وينتظرون الجوائز، بينما يدفع ثمنها شخص آخر (أليس)."
+  },
+  {
+   "term": "The real people behind the birds",
+   "en": "Several creatures in this chapter are jokes about the real boat trip of 4 July 1862, when Carroll first told the story. The Dodo is Carroll himself: his real name was Dodgson, and he sometimes stammered 'Do-do-Dodgson'. The Duck is his friend the Reverend Robinson Duckworth, and the Lory and the Eaglet are Alice's sisters Lorina and Edith Liddell.",
+   "ar": "عدد من مخلوقات هذا الفصل نكات عن رحلة القارب الحقيقية في ٤ يوليو ١٨٦٢، حين روى كارول القصة أول مرة. فالدودو هو كارول نفسه: كان اسمه الحقيقي دودجسون، وكان يتلعثم أحيانًا فيقول «دو-دو-دودجسون». والبطّة (Duck) صديقه القسّ روبنسون دكوورث، واللوري وفرخ النسر (Eaglet) هما أختا أليس: لورينا وإديث ليدل."
+  },
+  {
+   "term": "The Mouse's tail: a shape poem",
+   "en": "In the printed book, the Mouse's tale is set in lines that get smaller and smaller and wind down the page like a mouse's tail. It is one of the most famous early 'shape poems' in English. The joke works because 'tale' (story) and 'tail' sound exactly the same.",
+   "ar": "في الكتاب المطبوع تُصفّ حكاية الفأر في أسطر تصغر شيئًا فشيئًا وتتلوّى نزولًا على الصفحة مثل ذيل الفأر، وهي من أشهر «القصائد المصوّرة» المبكرة في الإنجليزية. وتقوم النكتة على أن tale (حكاية) وtail (ذيل) تُنطقان تمامًا بالطريقة نفسها."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "context",
+   "q": {
+    "en": "The Mouse says its history lesson is 'the driest thing I know'. What is the joke?",
+    "ar": "يقول الفأر إن درس التاريخ «أجفّ شيء أعرفه». ما النكتة؟"
+   },
+   "options": [
+    "The book is made of dry paper",
+    "The Mouse is very thirsty",
+    "History lessons are always outdoors",
+    "'Dry' means both 'not wet' and 'boring'"
+   ],
+   "answer": 3,
+   "explain": {
+    "en": "Everyone wants to get dry, and a dull, boring lesson is also called 'dry'. Of course, it does not make anyone less wet.",
+    "ar": "الجميع يريد أن يجفّ، والدرس المملّ يوصف أيضًا بأنه «جاف». وبالطبع لا يجفّف أحدًا."
+   },
+   "ref": "p4"
+  },
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "Why do the Duck and the Mouse misunderstand each other about 'it'?",
+    "ar": "لماذا يُسيء البطّ والفأر فهم بعضهما في كلمة it؟"
+   },
+   "options": [
+    "The Duck thinks 'found it' means finding an object like a frog or worm",
+    "The Duck cannot hear well",
+    "The Mouse is speaking French",
+    "The Duck wants to eat the Mouse"
+   ],
+   "answer": 0,
+   "explain": {
+    "en": "In 'found it advisable', 'it' points forward to an idea, but the Duck asks what the archbishop found, as if it were a thing.",
+    "ar": "في found it advisable تشير it إلى فكرة لاحقة، لكن البطّة تسأل عمّا وجده رئيس الأساقفة كأنه شيء ملموس."
+   },
+   "ref": "p11"
+  },
+  {
+   "type": "vocab",
+   "q": {
+    "en": "'I move that the meeting adjourn.' What does 'adjourn' mean?",
+    "ar": "'I move that the meeting adjourn.' ما معنى adjourn؟"
+   },
+   "options": [
+    "move to a bigger room",
+    "stop for now, to continue later",
+    "begin immediately",
+    "vote again"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "To adjourn a meeting is to stop it for a time. The Dodo uses formal meeting language, and the Eaglet tells him to 'Speak English!'",
+    "ar": "adjourn تعني إيقاف الاجتماع مؤقتًا. والدودو يستعمل لغة الاجتماعات الرسمية، فيقول له فرخ النسر: «تكلّم بلغة مفهومة!»"
+   },
+   "ref": "p14"
+  },
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "How does the Caucus-race work?",
+    "ar": "كيف يجري سباق الكوكس؟"
+   },
+   "options": [
+    "The fastest runner gets one prize",
+    "They swim across the pool",
+    "Everyone starts and stops when they like, running round a circle",
+    "Two teams race in a straight line"
+   ],
+   "answer": 2,
+   "explain": {
+    "en": "There was no 'One, two, three, and away': 'they began running when they liked, and left off when they liked'.",
+    "ar": "لم يكن هناك «واحد، اثنان، ثلاثة، انطلق»، بل «بدؤوا الركض متى شاؤوا، وتوقّفوا متى شاؤوا»."
+   },
+   "ref": "p19"
+  },
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "Who wins the race, according to the Dodo?",
+    "ar": "من الفائز في السباق بحسب الدودو؟"
+   },
+   "options": [
+    "The Dodo",
+    "Alice",
+    "The Mouse",
+    "Everybody"
+   ],
+   "answer": 3,
+   "explain": {
+    "en": "After a long time thinking, the Dodo says: 'Everybody has won, and all must have prizes.'",
+    "ar": "بعد تفكير طويل يقول الدودو: «الجميع فازوا، ولا بدّ أن ينال الجميع جوائز»."
+   },
+   "ref": "p20"
+  },
+  {
+   "type": "context",
+   "q": {
+    "en": "What is funny about Alice's prize?",
+    "ar": "ما المضحك في جائزة أليس؟"
+   },
+   "options": [
+    "It is her own thimble, taken from her pocket",
+    "It is a box of comfits",
+    "It is a gold medal",
+    "It is the Rabbit's fan"
+   ],
+   "answer": 0,
+   "explain": {
+    "en": "The Dodo asks what else she has in her pocket, takes her thimble, and then solemnly presents it back to her.",
+    "ar": "يسألها الدودو عمّا في جيبها، فيأخذ كشتبانها ثم يقدّمه لها بوقار جائزةً!"
+   },
+   "ref": "p28"
+  },
+  {
+   "type": "grammar",
+   "q": {
+    "en": "'They all looked so grave that she did not dare to laugh.' The part after 'that' shows:",
+    "ar": "'They all looked so grave that she did not dare to laugh.' الجزء بعد that يبيّن:"
+   },
+   "options": [
+    "a condition",
+    "the result",
+    "the time",
+    "the place"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "'So + adjective + that' gives a cause (they looked very serious) and its result (she did not dare to laugh).",
+    "ar": "so + صفة + that تبيّن سببًا (بدوا جادّين جدًّا) ونتيجته (لم تجرؤ على الضحك)."
+   },
+   "ref": "p29"
+  },
+  {
+   "type": "context",
+   "q": {
+    "en": "The Mouse says 'Mine is a long and a sad tale!' Why does Alice look at its tail?",
+    "ar": "يقول الفأر: Mine is a long and a sad tale! فلماذا تنظر أليس إلى ذيله؟"
+   },
+   "options": [
+    "It points to its tail",
+    "She wants to pull it",
+    "'Tale' and 'tail' sound the same",
+    "Its tail is hurt"
+   ],
+   "answer": 2,
+   "explain": {
+    "en": "'Tale' (story) and 'tail' are homophones. Alice hears 'a long tail' and cannot see why a tail should be sad.",
+    "ar": "tale (حكاية) وtail (ذيل) متطابقتان في النطق، فتسمع أليس «ذيل طويل» ولا تفهم لماذا يكون الذيل حزينًا."
+   },
+   "ref": "p33"
+  },
+  {
+   "type": "context",
+   "q": {
+    "en": "The Mouse cries 'I had not!' and Alice offers to help undo it. What has she heard?",
+    "ar": "يصيح الفأر I had not! فتعرض أليس أن تساعد في فكّه. ماذا سمعت؟"
+   },
+   "options": [
+    "'a nut'",
+    "'a note'",
+    "'a net'",
+    "'a knot', which sounds like 'not'"
+   ],
+   "answer": 3,
+   "explain": {
+    "en": "'Not' and 'knot' sound the same, so Alice thinks the Mouse's tail has a knot in it.",
+    "ar": "not وknot (عُقدة) متطابقتان في النطق، فتظنّ أليس أن في ذيل الفأر عقدة."
+   },
+   "ref": "p38"
+  },
+  {
+   "type": "comprehension",
+   "q": {
+    "en": "Why do all the birds leave Alice at the end of the chapter?",
+    "ar": "لماذا تترك الطيور كلّها أليس في نهاية الفصل؟"
+   },
+   "options": [
+    "Alice says her cat Dinah eats little birds",
+    "It starts to rain",
+    "The Mouse calls them away",
+    "The race starts again"
+   ],
+   "answer": 0,
+   "explain": {
+    "en": "After Alice says Dinah will 'eat a little bird as soon as look at it', the birds leave on various pretexts.",
+    "ar": "بعد أن قالت أليس إن دينا «تأكل الطائر الصغير ما إن تقع عينها عليه»، انصرفت الطيور بحجج مختلفة."
+   },
+   "ref": "p47"
+  }
+ ]
+}

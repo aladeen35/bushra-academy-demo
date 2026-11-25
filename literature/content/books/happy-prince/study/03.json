@@ -1,0 +1,144 @@
+{
+  "chapter": 3,
+  "summary": {
+    "en": "Every afternoon children play in the Giant's beautiful garden, with its soft grass, flowers and twelve peach-trees. When the Giant returns after seven years with his friend the Cornish ogre, he chases them away, builds a high wall and puts up a sign: 'Trespassers will be prosecuted'. Spring comes to the whole country, but not to his garden: the Snow, the Frost, the North Wind and the Hail stay there all year. One morning he hears a linnet singing and sees that the children have crept in through a hole in the wall; wherever a child sits, the trees blossom. Only in one corner a little boy is too small to climb his tree. The Giant's heart melts. He lifts the boy into the tree, the boy kisses him, and the Giant knocks down the wall and plays with the children. But the little boy is never seen again, and the Giant longs for him for many years. When he is old and feeble, one winter morning he sees the boy under a tree covered with white blossoms. The child has the wounds of nails in his hands and feet, and says they are 'the wounds of Love'. He tells the Giant that today he will come with him to his garden, which is Paradise. That afternoon the children find the Giant dead under the tree, covered with white blossoms.",
+    "ar": "كل يوم بعد الظهر يلعب الأطفال في حديقة العملاق الجميلة، بعشبها الناعم وأزهارها وأشجار الخوخ الاثنتي عشرة. وحين يعود العملاق بعد سبع سنين قضاها عند صديقه الغول الكورنوالي يطرد الأطفال، ويبني سورًا عاليًا، وينصب لافتة: «كل من يتعدّى على هذا المكان يُلاحَق قضائيًّا». فيأتي الربيع إلى البلاد كلها إلا إلى حديقته: يبقى فيها الثلج والصقيع وريح الشمال والبَرَد طوال العام. وذات صباح يسمع عصفور كتّان يغنّي، فيرى أن الأطفال تسلّلوا من ثقب في السور، وأن الأشجار تُزهر حيثما جلس طفل. وفي ركن واحد صبي صغير جدًّا لا يستطيع أن يتسلّق شجرته. فيذوب قلب العملاق، ويرفع الصبي إلى الشجرة، فيقبّله الصبي، فيهدم العملاق السور ويلعب مع الأطفال. لكن الصبي الصغير لا يُرى بعد ذلك، ويظل العملاق يشتاق إليه سنوات طويلة. وحين يشيخ ويضعف يرى الصبي ذات صباح شتوي تحت شجرة مكسوّة بالأزهار البيضاء، وفي يديه وقدميه آثار مسامير، فيقول إنها «جراح المحبّة»، ويخبر العملاق أنه سيأتي معه اليوم إلى حديقته، وهي الجنّة. وفي ذلك المساء يجد الأطفال العملاق ميتًا تحت الشجرة، مغطّى بالأزهار البيضاء."
+  },
+  "objectives": [
+    { "en": "Explain how the Giant changes from selfish to kind, and how the seasons show this change.", "ar": "شرح كيف تحوّل العملاق من الأنانية إلى الطيبة، وكيف تعبّر الفصول عن هذا التحوّل." },
+    { "en": "Learn words about seasons, weather and feelings, such as blossom, hail, frost, feeble, awe and long for.", "ar": "تعلّم مفردات الفصول والطقس والمشاعر، مثل blossom وhail وfrost وfeeble وawe وlong for." },
+    { "en": "Use 'used to' for past habits, and the past continuous with the past simple ('was lying … when he heard').", "ar": "استخدام «used to» للعادات الماضية، والماضي المستمر مع الماضي البسيط (was lying … when he heard)." },
+    { "en": "Understand personification: Wilde makes Spring, Snow, Frost, the North Wind and Hail into characters.", "ar": "فهم التشخيص: يجعل وايلد الربيع والثلج والصقيع وريح الشمال والبَرَد شخصيات حيّة." }
+  ],
+  "vocab": [
+    "giant", "selfish", "gruff", "trespasser", "prosecute", "blossom", "hail", "wander", "creep",
+    "melt", "long-for", "feeble", "wound", "awe", "kneel", "paradise", "slay"
+  ],
+  "grammar": [
+    {
+      "id": "hp-3-used-to",
+      "topic": "tenses",
+      "level": "A2",
+      "title": { "en": "'Used to' for past habits", "ar": "«used to» للعادات في الماضي" },
+      "explain": {
+        "en": "'Used to + base verb' describes something that happened regularly in the past but does not happen now. The story opens with 'used to go and play', a happy habit that the Giant soon stops. Later the children 'used to wander round the high wall': a sad new habit.",
+        "ar": "تركيب «used to + الفعل المجرّد» يصف شيئًا كان يحدث بانتظام في الماضي ولم يعد يحدث الآن. تبدأ القصة بـ used to go and play، وهي عادة سعيدة سرعان ما يوقفها العملاق. ثم صار الأطفال used to wander round the high wall، وهي عادة جديدة حزينة. ويقابله في العربية «كان + المضارع»."
+      },
+      "example": {
+        "en": "EVERY afternoon, as they were coming from school, the children used to go and play in the Giant’s garden.",
+        "ar": "كل يوم بعد الظهر، وهم عائدون من المدرسة، كان الأطفال يذهبون ليلعبوا في حديقة العملاق.",
+        "ref": "p1"
+      },
+      "exercise": {
+        "q": { "en": "Complete: 'The birds sang so sweetly that the children ___ stop their games in order to listen to them.'", "ar": "أكمل: 'The birds sang so sweetly that the children ___ stop their games in order to listen to them.'" },
+        "options": ["use to", "used to", "were used"],
+        "answer": 1,
+        "why": { "en": "For a past habit in a positive sentence we write 'used to' + base verb (paragraph 2).", "ar": "للعادة الماضية في الجملة المثبتة نكتب used to + الفعل المجرّد (الفقرة ٢)." }
+      }
+    },
+    {
+      "id": "hp-3-past-continuous",
+      "topic": "tenses",
+      "level": "B1",
+      "title": { "en": "Past continuous + past simple: an interrupted action", "ar": "الماضي المستمر مع الماضي البسيط: فعل يقطعه حدث" },
+      "explain": {
+        "en": "The past continuous (was/were + -ing) describes a longer background action. The past simple describes a short action that happens in the middle of it. 'When' usually comes before the short action: he was lying awake (background) when he heard music (short event).",
+        "ar": "الماضي المستمر (was/were + ing) يصف فعلًا أطول في الخلفية، والماضي البسيط يصف حدثًا قصيرًا يقع في أثنائه. وتأتي when عادة قبل الحدث القصير: كان مستلقيًا مستيقظًا (الخلفية) حين سمع الموسيقى (الحدث القصير)."
+      },
+      "example": {
+        "en": "One morning the Giant was lying awake in bed when he heard some lovely music.",
+        "ar": "وذات صباح كان العملاق مستلقيًا مستيقظًا في سريره حين سمع موسيقى جميلة.",
+        "ref": "p14"
+      },
+      "exercise": {
+        "q": { "en": "Choose: 'One winter morning he looked out of his window as he ___.'", "ar": "اختر: 'One winter morning he looked out of his window as he ___.'" },
+        "options": ["dressed up", "was dressing", "has dressed"],
+        "answer": 1,
+        "why": { "en": "Dressing is the longer background action, so it takes the past continuous: 'as he was dressing' (paragraph 25).", "ar": "ارتداء الملابس هو الفعل الأطول في الخلفية، فيأخذ الماضي المستمر: as he was dressing (الفقرة ٢٥)." }
+      }
+    }
+  ],
+  "culture": [
+    {
+      "term": "'Trespassers will be prosecuted'",
+      "en": "Signs with these words were common on private land in Britain, and many can still be seen today. 'Trespassers' are people who enter without permission, and 'prosecuted' means taken to court. The cold, legal words in capital letters show how the Giant shuts out children with the language of law instead of kindness.",
+      "ar": "كانت اللافتات التي تحمل هذه العبارة شائعة على الأراضي الخاصة في بريطانيا، ولا يزال كثير منها موجودًا. والـ trespassers هم من يدخلون دون إذن، وprosecuted تعني أن يُقدَّموا إلى المحكمة. وتُظهر هذه الكلمات القانونية الباردة بالحروف الكبيرة كيف يُقصي العملاق الأطفال بلغة القانون بدل لغة الرحمة."
+    },
+    {
+      "term": "The child with the wounds",
+      "en": "The little boy with the marks of nails in his hands and feet is an image from Christian belief about the crucifixion of Jesus; Wilde wrote for Christian readers, and uses old Bible-style English ('Who hath dared to wound thee?'). In Islam, Jesus ('Isa, peace be upon him) is honoured as a great prophet, and Muslims believe he was not crucified. The story's central message, that mercy and a changed heart open the way to Paradise, is one that readers of both faiths share.",
+      "ar": "الصبي الصغير الذي في يديه وقدميه آثار المسامير صورة مأخوذة من المعتقد المسيحي في صلب المسيح؛ فقد كتب وايلد لقرّاء مسيحيين، واستعمل إنجليزية قديمة على طريقة الكتاب المقدّس (Who hath dared to wound thee?). وفي الإسلام يُكرَّم عيسى عليه السلام نبيًّا عظيمًا، ويؤمن المسلمون بأنه لم يُصلب. أما رسالة القصة الأساسية، وهي أن الرحمة وتوبة القلب تفتحان الطريق إلى الجنّة، فيشترك فيها قرّاء الديانتين."
+    },
+    {
+      "term": "Old English: thee, thou, hath",
+      "en": "'Thee' and 'thou' are old forms of 'you', and 'hath' is an old form of 'has'. By the 1880s they were used only in prayers, poetry and the Bible, so they give the last scene a solemn, holy tone.",
+      "ar": "thee وthou صيغتان قديمتان لـ you، وhath صيغة قديمة لـ has. وفي ثمانينيات القرن التاسع عشر لم تكن تُستعمل إلا في الصلوات والشعر والكتاب المقدّس، ولذلك تُضفي على المشهد الأخير نبرة جليلة مهيبة."
+    }
+  ],
+  "quiz": [
+    {
+      "type": "vocab",
+      "q": { "en": "“he cried in a very gruff voice” What kind of voice is 'gruff'?", "ar": "“he cried in a very gruff voice” ما نوع الصوت gruff؟" },
+      "options": ["Soft and sweet", "Low, rough and unfriendly", "High and musical", "Very quiet"],
+      "answer": 1,
+      "explain": { "en": "A gruff voice is deep and rough. It frightens the children away.", "ar": "الصوت gruff غليظ خشن، ولذلك أخاف الأطفال فهربوا." },
+      "ref": "p4"
+    },
+    {
+      "type": "vocab",
+      "q": { "en": "“Years went over, and the Giant grew very old and feeble.” 'Feeble' means:", "ar": "“the Giant grew very old and feeble.” معنى feeble:" },
+      "options": ["Angry", "Rich", "Weak", "Happy"],
+      "answer": 2,
+      "explain": { "en": "Feeble = very weak. That is why he cannot play and sits in an armchair.", "ar": "feeble تعني ضعيفًا جدًّا، ولهذا لم يعد يستطيع اللعب فجلس في كرسي." },
+      "ref": "p24"
+    },
+    {
+      "type": "comprehension",
+      "q": { "en": "Why did Spring not come to the Giant's garden?", "ar": "لماذا لم يأتِ الربيع إلى حديقة العملاق؟" },
+      "options": ["Because the garden was too high on a mountain", "Because there were no children, so the birds did not sing and the trees forgot to blossom", "Because the Giant cut down the trees", "Because the North Wind was the Giant's friend"],
+      "answer": 1,
+      "explain": { "en": "'The birds did not care to sing in it as there were no children, and the trees forgot to blossom.' The garden's winter reflects the Giant's cold heart.", "ar": "«الطيور لم ترغب في أن تغنّي فيها لأنه لم يكن فيها أطفال، والأشجار نسيت أن تُزهر». فشتاء الحديقة صورة لقلب العملاق البارد." },
+      "ref": "p11"
+    },
+    {
+      "type": "comprehension",
+      "q": { "en": "Why did the Giant love the little boy best?", "ar": "لماذا أحبّ العملاق الصبي الصغير أكثر من الجميع؟" },
+      "options": ["Because he was the strongest child", "Because he had kissed him", "Because he was his son", "Because he sang beautifully"],
+      "answer": 1,
+      "explain": { "en": "'The Giant loved him the best because he had kissed him.'", "ar": "«كان العملاق يحبّه أكثر من الجميع لأنه قبّله»." },
+      "ref": "p20"
+    },
+    {
+      "type": "grammar",
+      "q": { "en": "“They used to wander round the high wall …” What does 'used to wander' mean?", "ar": "“They used to wander round the high wall …” ماذا تعني used to wander؟" },
+      "options": ["They wandered there often, as a habit, in the past", "They are used to wandering now", "They will wander tomorrow", "They wandered only once"],
+      "answer": 0,
+      "explain": { "en": "'Used to' + verb describes a repeated past habit.", "ar": "used to + الفعل يصف عادة متكرّرة في الماضي." },
+      "ref": "p10"
+    },
+    {
+      "type": "grammar",
+      "q": { "en": "“The poor tree was still quite covered with frost and snow, and the North Wind ___ and roaring above it.”", "ar": "“The poor tree was still quite covered with frost and snow, and the North Wind ___ and roaring above it.”" },
+      "options": ["blew", "was blowing", "is blowing", "has blown"],
+      "answer": 1,
+      "explain": { "en": "'Was blowing and roaring' (past continuous) describes the background scene at that moment.", "ar": "was blowing and roaring (الماضي المستمر) تصف المشهد في الخلفية في تلك اللحظة." },
+      "ref": "p16"
+    },
+    {
+      "type": "translation",
+      "q": { "en": "Choose the best Arabic translation: “How selfish I have been!”", "ar": "اختر أفضل ترجمة عربية: “How selfish I have been!”" },
+      "options": ["كيف أصبح أنانيًّا؟", "ما أشدّ أنانيتي!", "لست أنانيًّا أبدًا.", "سأكون أنانيًّا."],
+      "answer": 1,
+      "explain": { "en": "'How + adjective + subject + verb!' is an exclamation, like Arabic 'ما أفعلَ…!'. The Giant is admitting his fault.", "ar": "تركيب How + صفة + فاعل + فعل! تعجّب، يقابله في العربية «ما أفعلَ...!». والعملاق هنا يعترف بخطئه." },
+      "ref": "p17"
+    },
+    {
+      "type": "context",
+      "q": { "en": "Near the end the Giant 'did not hate the Winter now, for he knew that it was merely the Spring asleep'. What does this show?", "ar": "قرب النهاية «لم يعد العملاق يكره الشتاء، لأنه عرف أنه ليس إلا الربيع نائمًا». علامَ يدلّ ذلك؟" },
+      "options": ["He has become wiser and more peaceful", "He wants to build the wall again", "He has forgotten the children", "He is afraid of the cold"],
+      "answer": 0,
+      "explain": { "en": "The old Giant now understands that hard times pass. His heart is no longer cold, so even winter does not frighten him.", "ar": "صار العملاق العجوز يدرك أن الأوقات الصعبة تمضي. لم يعد قلبه باردًا، فلم يعد حتى الشتاء يخيفه." },
+      "ref": "p25"
+    }
+  ]
+}

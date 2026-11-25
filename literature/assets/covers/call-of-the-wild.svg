@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" role="img" aria-label="The Call of the Wild — original cover art">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#071a2b"/><stop offset=".55" stop-color="#1f6f8b"/><stop offset="1" stop-color="#a8d0dc"/></linearGradient>
+<linearGradient id="aur" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#5df2b0" stop-opacity="0"/><stop offset=".5" stop-color="#5df2b0" stop-opacity=".55"/><stop offset="1" stop-color="#5df2b0" stop-opacity="0"/></linearGradient></defs>
+<rect width="600" height="900" fill="url(#sky)"/>
+<path d="M0 160 C150 100 300 220 600 120 L600 180 C330 280 160 160 0 230Z" fill="url(#aur)"/>
+<circle cx="440" cy="200" r="46" fill="#f4f7fb"/>
+<path d="M0 520 L120 380 L190 450 L300 300 L420 460 L500 390 L600 500 V900 H0Z" fill="#0f3347"/>
+<path d="M300 300 L330 340 L310 336 L300 350 L288 334 L272 340Z M120 380 L140 404 L120 400 L108 410Z" fill="#e8f1f5"/>
+<path d="M0 600 C200 560 400 620 600 580 V900 H0Z" fill="#e8f1f5"/>
+<g fill="#13202a"><path d="M250 590 l8 -60 l-10 -20 l16 -26 l6 18 l10 -6 l4 20 c20 4 50 6 70 10 c14 4 22 18 20 34 l-4 30 h-10 l2 -24 c-10 4 -30 6 -46 4 l-6 24 h-10 l0 -22 c-14 0 -24 -4 -30 -10 l-8 18z"/><path d="M262 484 l-6 -22 l12 14z"/></g>
+<g fill="none" stroke="#13202a" stroke-width="2" opacity=".5"><path d="M60 640 q30 -6 60 0"/><path d="M420 650 q30 -6 60 0"/></g>
+<text x="300" y="760" text-anchor="middle" font-family="Playfair Display, Georgia, serif" font-size="34" font-weight="600" fill="#13202a" letter-spacing="5">THE CALL OF</text>
+<text x="300" y="830" text-anchor="middle" font-family="Playfair Display, Georgia, serif" font-size="68" font-weight="700" fill="#b3121b" letter-spacing="5">THE WILD</text>
+<text x="300" y="70" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-style="italic" fill="#d6e8ef">Jack London</text>
+</svg>

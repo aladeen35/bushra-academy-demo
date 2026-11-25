@@ -1,0 +1,106 @@
+{
+  "author": {
+    "name": "Robert Louis Stevenson",
+    "born": 1850,
+    "died": 1894,
+    "bio": {
+      "en": "Robert Louis Stevenson was born in Edinburgh, Scotland, in 1850, the only child of a famous family of lighthouse engineers. He was often ill as a boy, and his nurse filled his long days in bed with stories, including tales of sin, devils and judgement from strict Scottish religion. He studied engineering and then law at the University of Edinburgh and qualified as a lawyer (an advocate), but he chose to write. Edinburgh itself, with its respectable New Town and its dark, crowded Old Town, showed him how one city could have two faces. Weak lungs made him travel all his life in search of better health. Treasure Island (1883) made him famous, and in 1886 he published both Kidnapped and Strange Case of Dr Jekyll and Mr Hyde. He said the idea for Jekyll and Hyde came to him in a dream; he wrote the first draft in a few days, burned it after his wife's criticism, and rewrote it quickly. It sold tens of thousands of copies within months. He spent his last years in Samoa, in the South Pacific, where he died in 1894, aged 44.",
+      "ar": "وُلد روبرت لويس ستيفنسون في إدنبرة بإسكتلندا عام ١٨٥٠، الابن الوحيد لأسرة مشهورة من مهندسي المنارات. كان كثير المرض في صباه، فملأت مربّيته أيامه الطويلة في الفراش بالحكايات، ومنها قصص عن الخطيئة والشياطين والحساب مستمدّة من التديّن الإسكتلندي الصارم. درس الهندسة ثم القانون في جامعة إدنبرة، وتأهّل محاميًا، لكنه اختار الكتابة. وقد أرته إدنبرة نفسها، بمدينتها الجديدة المحترمة ومدينتها القديمة المظلمة المزدحمة، كيف يمكن أن يكون لمدينة واحدة وجهان. واضطره ضعف رئتيه إلى السفر طوال حياته بحثًا عن صحة أفضل. جعلته «جزيرة الكنز» (١٨٨٣) مشهورًا، وفي عام ١٨٨٦ نشر «المخطوف» و«الحالة الغريبة للدكتور جيكل والسيد هايد». وقال إن فكرة جيكل وهايد جاءته في حلم؛ فكتب المسودة الأولى في أيام قليلة، ثم أحرقها بعد نقد زوجته، وأعاد كتابتها بسرعة. وبيعت منها عشرات الآلاف من النسخ في بضعة أشهر. وقضى سنواته الأخيرة في جزر ساموا في جنوب المحيط الهادئ، وتوفّي هناك عام ١٨٩٤ وعمره أربعة وأربعون عامًا."
+    }
+  },
+  "context": {
+    "en": "The novella is set in London in the 1880s, the capital of a huge empire and the largest city in the world. Wealthy squares stood only a few streets away from poor, crowded districts, and fog, gaslight and narrow alleys gave the city a mysterious atmosphere. Victorian society valued 'respectability' above almost everything: a gentleman had to appear moral, calm and controlled, and a scandal could ruin him, so many people hid their desires and lived double lives. Science was changing fast: Darwin's theory of evolution (1859) made people ask whether humans still carried something 'animal' inside them, and new ideas in medicine and psychology explored the hidden parts of the mind. Stevenson wrote in the tradition of gothic fiction, which uses darkness, secrets, fear and the supernatural, but he moved it from old castles to the modern city. The story is told like a detective mystery, mostly through the eyes of the lawyer Mr. Utterson, and it builds suspense with documents, letters and witnesses until the truth is revealed at the end.",
+    "ar": "تدور أحداث الرواية القصيرة في لندن في ثمانينيات القرن التاسع عشر، عاصمة إمبراطورية واسعة وأكبر مدينة في العالم آنذاك. وكانت الساحات الثرية تقوم على بُعد شوارع قليلة من أحياء فقيرة مزدحمة، وكان الضباب ومصابيح الغاز والأزقة الضيقة تمنح المدينة جوًّا غامضًا. وكان المجتمع الفيكتوري يقدّر «الاحترامية» فوق كل شيء تقريبًا: فعلى الرجل المحترم أن يبدو أخلاقيًا هادئًا متمالكًا لنفسه، والفضيحة قد تدمّره، فأخفى كثير من الناس رغباتهم وعاشوا حياة مزدوجة. وكان العلم يتغيّر بسرعة: فنظرية التطوّر لداروين (١٨٥٩) جعلت الناس يتساءلون هل ما زال في الإنسان شيء «حيواني»، وأخذت أفكار جديدة في الطب وعلم النفس تستكشف الجوانب الخفية من العقل. وقد كتب ستيفنسون في تقليد الأدب القوطي، الذي يعتمد على الظلام والأسرار والخوف وما وراء الطبيعة، لكنه نقله من القلاع القديمة إلى المدينة الحديثة. وتُروى القصة كأنها لغز بوليسي، في الغالب بعيني المحامي السيد أترسون، ويتصاعد فيها التشويق عبر الوثائق والرسائل والشهود حتى تنكشف الحقيقة في النهاية."
+  },
+  "themes": [
+    {
+      "en": "Duality: every person has a good side and an evil side, and the story asks what happens if they are separated.",
+      "ar": "الازدواجية: في كل إنسان جانب خيّر وجانب شرّير، والقصة تسأل: ماذا يحدث إذا انفصل أحدهما عن الآخر؟"
+    },
+    {
+      "en": "Reputation and respectability: characters care deeply about their good name, so they keep silent, avoid questions and hide secrets.",
+      "ar": "السمعة والاحترامية: تهتم الشخصيات اهتمامًا شديدًا بسمعتها، فتلزم الصمت وتتجنّب الأسئلة وتُخفي الأسرار."
+    },
+    {
+      "en": "Science and morality: the novel questions how far science should go, and who is responsible when an experiment goes too far.",
+      "ar": "العلم والأخلاق: تتساءل الرواية إلى أي حدّ ينبغي أن يمضي العلم، ومن المسؤول حين تتجاوز التجربة حدودها."
+    },
+    {
+      "en": "Repression: desires that are hidden and denied do not disappear; they grow stronger in secret.",
+      "ar": "الكبت: الرغبات المكبوتة المنكَرة لا تختفي، بل تزداد قوة في الخفاء."
+    },
+    {
+      "en": "The city as a mirror: London's bright, respectable streets and its dark, foggy alleys reflect the two sides of human nature.",
+      "ar": "المدينة مرآةً: شوارع لندن المضيئة المحترمة وأزقّتها المظلمة الضبابية تعكس وجهَي الطبيعة البشرية."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Mr. Gabriel John Utterson",
+      "en": "A serious, quiet and loyal lawyer, Jekyll's old friend. He is the main point of view of the story and acts like a detective, trying to protect his friend's good name.",
+      "ar": "محامٍ جادّ هادئ وفيّ، وصديق قديم لجيكل. نرى معظم القصة من خلاله، ويتصرّف كأنه محقّق يحاول حماية سمعة صديقه."
+    },
+    {
+      "name": "Dr. Henry Jekyll",
+      "en": "A wealthy, respected doctor and scientist of about fifty, kind and generous, but with a secret connected to Mr. Hyde.",
+      "ar": "طبيب وعالِم ثري محترم في نحو الخمسين، طيّب كريم، لكن لديه سرّ مرتبط بالسيد هايد."
+    },
+    {
+      "name": "Mr. Edward Hyde",
+      "en": "A small, pale, violent man who fills everyone who sees him with disgust and fear. He has a key to Jekyll's laboratory and is named in his will.",
+      "ar": "رجل قصير شاحب عنيف، يملأ كل من يراه اشمئزازًا وخوفًا. لديه مفتاح لمختبر جيكل، واسمه مذكور في وصيته."
+    },
+    {
+      "name": "Mr. Richard Enfield",
+      "en": "Utterson's distant relative and walking companion, a man about town. His story about the door begins the mystery.",
+      "ar": "قريب أترسون البعيد ورفيقه في النزهات، رجل معروف في مجتمع المدينة. وقصته عن الباب هي بداية اللغز."
+    },
+    {
+      "name": "Dr. Hastie Lanyon",
+      "en": "A cheerful, traditional doctor and old friend of Jekyll and Utterson, who quarrelled with Jekyll over his 'unscientific' ideas.",
+      "ar": "طبيب بشوش تقليدي، وصديق قديم لجيكل وأترسون، اختلف مع جيكل بسبب أفكاره «غير العلمية»."
+    },
+    {
+      "name": "Poole",
+      "en": "Jekyll's loyal, elderly butler, who has worked in the house for many years.",
+      "ar": "كبير خدم جيكل المسنّ الوفيّ، الذي يعمل في البيت منذ سنوات طويلة."
+    },
+    {
+      "name": "Sir Danvers Carew",
+      "en": "An elderly, gentle Member of Parliament and a client of Utterson.",
+      "ar": "عضو مسنّ لطيف في البرلمان، وأحد موكّلي أترسون."
+    },
+    {
+      "name": "Mr. Guest",
+      "en": "Utterson's head clerk, an expert in handwriting.",
+      "ar": "كبير كتبة أترسون، وخبير في الخطوط."
+    },
+    {
+      "name": "Inspector Newcomen",
+      "en": "A Scotland Yard police inspector who works with Utterson.",
+      "ar": "مفتش شرطة من سكوتلانديارد يعمل مع أترسون."
+    }
+  ],
+  "objectives": [
+    {
+      "en": "Read and understand formal 19th-century English, including legal and scientific vocabulary.",
+      "ar": "قراءة اللغة الإنجليزية الرسمية في القرن التاسع عشر وفهمها، بما فيها المفردات القانونية والعلمية."
+    },
+    {
+      "en": "Analyse complex sentences: long descriptive sentences with semicolons, relative clauses, conditionals and the passive voice.",
+      "ar": "تحليل الجمل المركّبة: الجمل الوصفية الطويلة بالفواصل المنقوطة، وجمل الصلة، والجمل الشرطية، والمبني للمجهول."
+    },
+    {
+      "en": "Build a rich vocabulary for describing people, places and feelings, especially gothic words for fear, mystery and evil.",
+      "ar": "بناء ثروة لغوية لوصف الأشخاص والأماكن والمشاعر، وخاصة المفردات القوطية للخوف والغموض والشرّ."
+    },
+    {
+      "en": "Learn the techniques of descriptive and suspense writing: atmosphere, setting, delayed information and point of view.",
+      "ar": "تعلّم أساليب الكتابة الوصفية وكتابة التشويق: الجوّ العام، والمكان، وتأخير المعلومات، ووجهة النظر."
+    },
+    {
+      "en": "Discuss the themes of the novel (duality, reputation, science and morality) and express your opinion in clear, formal English.",
+      "ar": "مناقشة موضوعات الرواية (الازدواجية، والسمعة، والعلم والأخلاق) والتعبير عن رأيك بإنجليزية رسمية واضحة."
+    }
+  ]
+}

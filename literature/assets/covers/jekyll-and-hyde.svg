@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" role="img" aria-label="Dr Jekyll and Mr Hyde — original cover art">
+<defs><linearGradient id="fog" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2a2d3a"/><stop offset=".6" stop-color="#5b5e6e"/><stop offset="1" stop-color="#1a1b22"/></linearGradient>
+<radialGradient id="lamp" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#ffd98a"/><stop offset="1" stop-color="#ffd98a" stop-opacity="0"/></radialGradient></defs>
+<rect width="600" height="900" fill="url(#fog)"/>
+<rect x="0" y="0" width="300" height="900" fill="#000" opacity=".25"/>
+<g fill="#14151b"><rect x="20" y="300" width="120" height="360"/><path d="M20 300 l60-50 60 50z"/><rect x="460" y="260" width="120" height="400"/><path d="M460 260 l60-60 60 60z"/></g>
+<circle cx="200" cy="330" r="90" fill="url(#lamp)"/><rect x="196" y="340" width="8" height="320" fill="#14151b"/><path d="M182 312 h36 l-6 34 h-24z" fill="#ffd98a" stroke="#14151b" stroke-width="4"/>
+<g fill="#0d0e12"><circle cx="370" cy="420" r="24"/><path d="M340 446 q30-10 60 0 l14 150 h-88z"/><path d="M346 400 h48 v-30 h-48z"/><rect x="330" y="398" width="80" height="6"/><rect x="408" y="470" width="4" height="120"/></g>
+<path d="M0 640 H600 V900 H0Z" fill="#101116"/>
+<g fill="#8fa3b8" opacity=".25"><ellipse cx="150" cy="640" rx="220" ry="30"/><ellipse cx="460" cy="660" rx="200" ry="26"/></g>
+<line x1="300" y1="700" x2="300" y2="870" stroke="#b3121b" stroke-width="2"/>
+<text x="150" y="760" text-anchor="middle" font-family="Playfair Display, Georgia, serif" font-size="46" font-weight="700" fill="#f6efe3">DR</text>
+<text x="150" y="820" text-anchor="middle" font-family="Playfair Display, Georgia, serif" font-size="46" font-weight="700" fill="#f6efe3">JEKYLL</text>
+<text x="450" y="760" text-anchor="middle" font-family="Playfair Display, Georgia, serif" font-size="46" font-weight="700" fill="#b3121b">MR</text>
+<text x="450" y="820" text-anchor="middle" font-family="Playfair Display, Georgia, serif" font-size="46" font-weight="700" fill="#b3121b">HYDE</text>
+<text x="300" y="70" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-style="italic" fill="#c9c3b6">Robert Louis Stevenson</text>
+</svg>

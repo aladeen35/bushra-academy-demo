@@ -1,0 +1,363 @@
+{
+  "chapter": 2,
+  "summary": {
+    "en": "That night Utterson takes Dr. Jekyll's will out of his safe. Jekyll wrote it himself, and it says that if he dies or disappears for more than three months, everything he owns goes to Edward Hyde. Utterson always disliked the will; now that he has heard Enfield's story, he fears that his friend is in disgrace. He visits Dr. Lanyon, an old friend of both men, but Lanyon has quarrelled with Jekyll over his 'unscientific' ideas and has never heard of Hyde. Utterson cannot sleep: he keeps seeing the scene of the trampled child and imagines a faceless figure that controls his friend. He decides to watch the door until he sees Hyde. One quiet, frosty night Hyde appears. He is small, pale and gives an impression of deformity, and Utterson feels a disgust he cannot explain. Hyde shows his face, gives his Soho address and leaves angrily. Utterson goes round the corner to Jekyll's handsome house. The butler, Poole, says Jekyll is out, that Hyde has a key to the old dissecting-room door and that the servants must obey him. Utterson goes home afraid that an old sin of Jekyll's has come back to punish him, and that Hyde may want to inherit quickly.",
+    "ar": "في تلك الليلة يُخرج أترسون وصية الدكتور جيكل من خزنته. كتبها جيكل بخط يده، وتنصّ على أنه إن مات أو اختفى أكثر من ثلاثة أشهر انتقل كل ما يملكه إلى إدوارد هايد. لم يحبّ أترسون هذه الوصية قطّ؛ والآن بعد أن سمع قصة إنفيلد يخشى أن يكون صديقه قد وقع في عار. فيزور الدكتور لانيون، الصديق القديم لكليهما، لكن لانيون اختلف مع جيكل بسبب أفكاره «غير العلمية»، ولم يسمع بهايد قطّ. ولا يستطيع أترسون أن ينام: يرى مشهد الطفلة المدوسة مرة بعد مرة، ويتخيّل هيئة بلا وجه تتحكّم في صديقه. فيقرّر أن يراقب الباب حتى يرى هايد. وفي ليلة هادئة باردة يظهر هايد: قصير شاحب يعطي انطباعًا بالتشوّه، ويشعر أترسون نحوه باشمئزاز لا يستطيع تفسيره. يُريه هايد وجهه، ويعطيه عنوانه في سوهو، ثم ينصرف غاضبًا. ويذهب أترسون إلى بيت جيكل الجميل عند الزاوية، فيخبره الخادم بول أن جيكل خارج البيت، وأن لهايد مفتاحًا لباب غرفة التشريح القديمة، وأن على الخدم طاعته. ويعود أترسون إلى بيته خائفًا أن تكون خطيئة قديمة لجيكل قد عادت لتعاقبه، وأن يستعجل هايد الإرث."
+  },
+  "objectives": [
+    {
+      "en": "Follow Utterson's investigation: the will, the visit to Lanyon, the watch at the door and the meeting with Hyde.",
+      "ar": "متابعة تحقيق أترسون: الوصية، وزيارة لانيون، ومراقبة الباب، ولقاء هايد."
+    },
+    {
+      "en": "Learn legal and gothic vocabulary such as holograph, benefactor, fiend, labyrinth and iniquity.",
+      "ar": "تعلّم مفردات قانونية وقوطية مثل holograph وbenefactor وfiend وlabyrinth وiniquity."
+    },
+    {
+      "en": "Recognize 'would' for repeated scenes in the imagination, and conditional thinking.",
+      "ar": "التعرّف على «would» للمشاهد المتكرّرة في الخيال، وعلى التفكير الشرطي."
+    },
+    {
+      "en": "Understand how the passive voice is used in formal narration.",
+      "ar": "فهم استخدام المبني للمجهول في السرد الرسمي."
+    },
+    {
+      "en": "Analyse how Stevenson creates suspense with night, fog, footsteps and dreams.",
+      "ar": "تحليل كيف يصنع ستيفنسون التشويق بالليل والضباب ووقع الخطوات والأحلام."
+    }
+  ],
+  "vocab": [
+    "holograph",
+    "benefactor",
+    "indignation",
+    "fiend",
+    "obnoxious",
+    "disgrace",
+    "usher",
+    "boisterous",
+    "estrange",
+    "composure",
+    "besiege",
+    "inordinate",
+    "labyrinth",
+    "disquietude",
+    "troglodytic",
+    "malformation",
+    "iniquity",
+    "apprehension",
+    "statute-of-limitations"
+  ],
+  "grammar": [
+    {
+      "id": "je-2-would-imagined-scenes",
+      "topic": "tenses",
+      "level": "B2",
+      "title": {
+        "en": "'Would' for scenes that repeat in the mind",
+        "ar": "«would» للمشاهد المتكرّرة في الذهن"
+      },
+      "explain": {
+        "en": "During his sleepless night, Utterson sees the same pictures again and again. Stevenson uses 'would + base verb' (would be aware, would see) for these repeated images, just as 'would' can describe past habits. Notice the chain 'then… then… and then', which shows one image following another like a film.",
+        "ar": "في ليلته الساهرة يرى أترسون الصور نفسها مرة بعد مرة. ويستعمل ستيفنسون «would + الفعل المجرّد» (would be aware وwould see) لهذه الصور المتكرّرة، كما تُستعمل would لوصف العادات الماضية. ولاحظ السلسلة 'then… then… and then' التي تُظهر الصور تتتابع كأنها فيلم."
+      },
+      "example": {
+        "en": "He would be aware of the great field of lamps of a nocturnal city; then of the figure of a man walking swiftly; then of a child running from the doctor’s; and then these met, and that human Juggernaut trod the child down and passed on regardless of her screams.",
+        "ar": "كان يرى حقل المصابيح الواسع في مدينة ليلية؛ ثم هيئة رجل يمشي مسرعًا؛ ثم طفلة تجري من عند الطبيب؛ ثم يلتقي هذان، فيدوس ذلك الجاغرنوت البشري الطفلة ويمضي غير مكترث بصراخها.",
+        "ref": "p13"
+      },
+      "exercise": {
+        "q": {
+          "en": "In 'He would be aware of the great field of lamps', what does 'would' show?",
+          "ar": "في 'He would be aware of the great field of lamps'، علامَ تدل would؟"
+        },
+        "options": [
+          "A scene that came back again and again",
+          "A polite request",
+          "A future plan"
+        ],
+        "answer": 0,
+        "why": {
+          "en": "The images haunted him 'all night', so 'would' shows repetition. Arabic uses «كان + المضارع»: كان يرى.",
+          "ar": "ظلّت الصور تطارده «طوال الليل»، فـ would تدل على التكرار. وتعبّر العربية عن ذلك بـ«كان + المضارع»: كان يرى."
+        }
+      }
+    },
+    {
+      "id": "je-2-conditional-thought",
+      "topic": "conditional",
+      "level": "B2",
+      "title": {
+        "en": "Unreal conditions in a character's thoughts",
+        "ar": "الشرط غير الواقعي في أفكار الشخصية"
+      },
+      "explain": {
+        "en": "'If he could… he thought the mystery would…' is a second conditional: if + past form, would + base verb. It describes an imagined situation that is not true now. 'But once' means 'just once' (formal). Here the condition reports Utterson's hope: seeing Hyde's face would solve the mystery.",
+        "ar": "تركيب 'If he could… the mystery would…' شرط من النوع الثاني: if + صيغة الماضي، ثم would + الفعل المجرّد، ويصف موقفًا متخيَّلًا غير متحقق الآن. و'but once' تعني «مرة واحدة فقط» بأسلوب رسمي. والشرط هنا ينقل أمل أترسون: أن رؤية وجه هايد ستحلّ اللغز."
+      },
+      "example": {
+        "en": "If he could but once set eyes on him, he thought the mystery would lighten and perhaps roll altogether away, as was the habit of mysterious things when well examined.",
+        "ar": "فلو استطاع أن يراه مرة واحدة فقط، لظنّ أن اللغز سينجلي، وربما يتبدّد كليًّا، كما هي عادة الأشياء الغامضة إذا فُحصت جيدًا.",
+        "ref": "p13"
+      },
+      "exercise": {
+        "q": {
+          "en": "Complete: 'If I ___ his face, I would understand.'",
+          "ar": "أكمل: 'If I ___ his face, I would understand.'"
+        },
+        "options": [
+          "saw",
+          "see",
+          "will see"
+        ],
+        "answer": 0,
+        "why": {
+          "en": "In the second conditional the if-clause takes the past simple ('saw') and the main clause takes 'would'.",
+          "ar": "في الشرط الثاني تأتي جملة if بالماضي البسيط (saw) والجملة الرئيسية بـ would."
+        }
+      }
+    },
+    {
+      "id": "je-2-formal-passive",
+      "topic": "passive",
+      "level": "B1",
+      "title": {
+        "en": "The passive voice in formal narration",
+        "ar": "المبني للمجهول في السرد الرسمي"
+      },
+      "explain": {
+        "en": "'He was subjected to no stage of delay, but ushered…' uses the passive (was + past participle). The person who acts (the butler) is not important, so the sentence focuses on Utterson. The second verb 'ushered' shares the same 'was': '(was) ushered'. This saves words and sounds formal.",
+        "ar": "في الجملة 'he was subjected to no stage of delay, but ushered…' نجد المبني للمجهول (was + التصريف الثالث). الفاعل (كبير الخدم) غير مهم، فتركّز الجملة على أترسون. والفعل الثاني ushered يشارك الأول في was نفسها: (was) ushered، وهذا يختصر الكلام ويمنحه طابعًا رسميًا."
+      },
+      "example": {
+        "en": "The solemn butler knew and welcomed him; he was subjected to no stage of delay, but ushered direct from the door to the dining-room where Dr. Lanyon sat alone over his wine.",
+        "ar": "عرفه كبير الخدم الوقور ورحّب به؛ فلم يُعرَّض لأي انتظار، بل اقتيد من الباب مباشرة إلى غرفة الطعام حيث كان الدكتور لانيون جالسًا وحده أمام نبيذه.",
+        "ref": "p4"
+      },
+      "exercise": {
+        "q": {
+          "en": "Which sentence is passive?",
+          "ar": "أيّ الجمل مبنية للمجهول؟"
+        },
+        "options": [
+          "He was ushered into the dining-room.",
+          "The butler ushered him into the dining-room.",
+          "He walked into the dining-room."
+        ],
+        "answer": 0,
+        "why": {
+          "en": "'Was ushered' = be + past participle; the subject receives the action.",
+          "ar": "was ushered = be + التصريف الثالث؛ والفاعل النحوي يقع عليه الفعل."
+        }
+      }
+    }
+  ],
+  "culture": [
+    {
+      "term": "Wills and inheritance",
+      "en": "A will is a legal document saying who will receive a person's property after death. Lawyers like Utterson usually wrote and kept wills for their clients. Jekyll's will is 'holograph', written in his own hand, because Utterson refused to help. Its strangest clause gives everything to Hyde not only if Jekyll dies but if he 'disappears' for three months, which makes Utterson suspect that Hyde could harm Jekyll to inherit.",
+      "ar": "الوصية وثيقة قانونية تحدّد من يرث ممتلكات الشخص بعد موته. وكان المحامون مثل أترسون يكتبون وصايا موكّليهم ويحفظونها. ووصية جيكل «مكتوبة بخطّ يده» لأن أترسون رفض المساعدة. وأغرب ما فيها أنها تعطي كل شيء لهايد لا عند موت جيكل فقط، بل إذا «اختفى» ثلاثة أشهر؛ وهذا ما يجعل أترسون يخشى أن يؤذي هايد جيكل ليرث."
+    },
+    {
+      "term": "Cavendish Square and medical London",
+      "en": "Cavendish Square, near Harley Street in the West End, was the area where London's most successful doctors lived and saw their patients. Calling it 'that citadel of medicine' shows that Lanyon is a respected, conventional doctor, in contrast to Jekyll's 'fanciful' experiments.",
+      "ar": "ساحة كافنديش، قرب شارع هارلي في غرب لندن، كانت الحيّ الذي يسكنه أنجح أطباء المدينة ويستقبلون فيه مرضاهم. ووصفها بـ«قلعة الطب» يدلّ على أن لانيون طبيب محترم تقليدي، على النقيض من تجارب جيكل «الخيالية»."
+    },
+    {
+      "term": "Soho in the 1880s",
+      "en": "In Victorian times Soho was a crowded, poor district in central London, full of immigrants, cheap lodgings and small businesses, and it had a reputation for crime. Giving Hyde an address there contrasts him with Jekyll's wealthy square and shows the two different faces of the same city.",
+      "ar": "في العصر الفيكتوري كان حيّ سوهو منطقة مزدحمة فقيرة وسط لندن، مليئة بالمهاجرين والمساكن الرخيصة والأعمال الصغيرة، وكانت له سمعة مرتبطة بالجريمة. وجعْل عنوان هايد هناك يضعه في مقابل ساحة جيكل الثرية، ويُظهر وجهين مختلفين للمدينة نفسها."
+    }
+  ],
+  "quiz": [
+    {
+      "type": "vocab",
+      "q": {
+        "en": "“The will was holograph.” What does 'holograph' mean here?",
+        "ar": "“The will was holograph.” ما معنى holograph هنا؟"
+      },
+      "options": [
+        "Written entirely in the writer's own hand",
+        "Printed in a newspaper",
+        "Lost and never found",
+        "Signed by two lawyers"
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "A holograph document is handwritten by the person who signs it. Utterson refused to help write it.",
+        "ar": "الوثيقة holograph مكتوبة بخط يد صاحبها. وقد رفض أترسون المساعدة في كتابتها."
+      },
+      "ref": "p1"
+    },
+    {
+      "type": "vocab",
+      "q": {
+        "en": "“…there leaped up the sudden, definite presentment of a fiend.” A 'fiend' is…",
+        "ar": "“…there leaped up the sudden, definite presentment of a fiend.” كلمة fiend تعني…"
+      },
+      "options": [
+        "a devil or very evil person",
+        "a close friend",
+        "a doctor",
+        "a policeman"
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "'Fiend' means a devil or a wicked person, a typical gothic word.",
+        "ar": "fiend تعني شيطانًا أو شخصًا شريرًا، وهي كلمة قوطية نموذجية."
+      },
+      "ref": "p1"
+    },
+    {
+      "type": "comprehension",
+      "q": {
+        "en": "According to the will, when does Hyde receive Jekyll's property?",
+        "ar": "بحسب الوصية، متى يحصل هايد على ممتلكات جيكل؟"
+      },
+      "options": [
+        "If Jekyll dies or disappears for more than three months",
+        "Only when Hyde marries",
+        "Immediately, on the day the will is signed",
+        "Never; the will gives everything to Utterson"
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "The will covers both 'the decease of Henry Jekyll' and his 'disappearance or unexplained absence for any period exceeding three calendar months'.",
+        "ar": "تشمل الوصية «وفاة هنري جيكل» و«اختفاءه أو غيابه غير المفسَّر لأي مدة تتجاوز ثلاثة أشهر تقويمية»."
+      },
+      "ref": "p1"
+    },
+    {
+      "type": "comprehension",
+      "q": {
+        "en": "Why does Lanyon see little of Jekyll now?",
+        "ar": "لماذا لم يعد لانيون يرى جيكل إلا قليلًا؟"
+      },
+      "options": [
+        "He thinks Jekyll's scientific ideas became foolish and 'fanciful'",
+        "Jekyll moved to Scotland",
+        "They quarrelled about money",
+        "Lanyon is too ill to visit"
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Lanyon says Jekyll became 'too fanciful' and calls his ideas 'unscientific balderdash'.",
+        "ar": "يقول لانيون إن جيكل صار «مغرقًا في الخيال» ويصف أفكاره بأنها «هراء غير علمي»."
+      },
+      "ref": "p9"
+    },
+    {
+      "type": "comprehension",
+      "q": {
+        "en": "What does Utterson feel when he first sees Hyde?",
+        "ar": "ماذا يشعر أترسون حين يرى هايد أول مرة؟"
+      },
+      "options": [
+        "A disgust, loathing and fear he cannot fully explain",
+        "Pity, because Hyde looks ill",
+        "Admiration for Hyde's manners",
+        "Nothing at all"
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "None of Hyde's features 'could explain the hitherto unknown disgust, loathing and fear with which Mr. Utterson regarded him'.",
+        "ar": "لا تستطيع ملامح هايد أن «تفسّر ما شعر به أترسون نحوه من اشمئزاز ومقت وخوف لم يعرفها من قبل»."
+      },
+      "ref": "p37"
+    },
+    {
+      "type": "comprehension",
+      "q": {
+        "en": "What does Poole tell Utterson about Hyde?",
+        "ar": "ماذا يخبر بول أترسون عن هايد؟"
+      },
+      "options": [
+        "He has a key, the servants must obey him, and he uses the laboratory entrance",
+        "He is Jekyll's cousin from abroad",
+        "He dines at the house every Sunday",
+        "He was dismissed last week"
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Poole says 'Mr. Hyde has a key', 'We have all orders to obey him', and he 'mostly comes and goes by the laboratory'.",
+        "ar": "يقول بول: إن مع السيد هايد مفتاحًا، ولدينا أوامر بطاعته، وهو يأتي ويذهب في الغالب عن طريق المختبر."
+      },
+      "ref": "p47"
+    },
+    {
+      "type": "grammar",
+      "q": {
+        "en": "“If he could but once set eyes on him, he thought the mystery would lighten…” What type of sentence is this?",
+        "ar": "“If he could but once set eyes on him, he thought the mystery would lighten…” ما نوع هذه الجملة؟"
+      },
+      "options": [
+        "A conditional about an imagined situation",
+        "A passive sentence",
+        "A question",
+        "An order"
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "If + past form ('could') with 'would' in the result: a second conditional expressing Utterson's hope.",
+        "ar": "if + صيغة الماضي (could) مع would في الجواب: شرط من النوع الثاني يعبّر عن أمل أترسون."
+      },
+      "ref": "p13"
+    },
+    {
+      "type": "grammar",
+      "q": {
+        "en": "“…he was subjected to no stage of delay, but ushered direct from the door…” The verb 'ushered' is…",
+        "ar": "“…he was subjected to no stage of delay, but ushered direct from the door…” الفعل ushered هنا…"
+      },
+      "options": [
+        "passive, sharing 'was' with 'subjected'",
+        "active past simple with 'he' as the doer",
+        "a present participle",
+        "an adjective describing the door"
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "'(was) ushered' is passive: the butler did the ushering, Utterson received the action.",
+        "ar": "(was) ushered مبني للمجهول: كبير الخدم هو من قاده، وأترسون وقع عليه الفعل."
+      },
+      "ref": "p4"
+    },
+    {
+      "type": "context",
+      "q": {
+        "en": "“If he be Mr. Hyde, I shall be Mr. Seek.” What is the joke?",
+        "ar": "“If he be Mr. Hyde, I shall be Mr. Seek.” ما النكتة هنا؟"
+      },
+      "options": [
+        "'Hyde' sounds like 'hide', as in the game hide-and-seek",
+        "Hyde is a famous detective",
+        "Seek is Utterson's real name",
+        "It is a line from a Bible story"
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Utterson plays on 'Hyde/hide': if Hyde hides, he will be the one who seeks.",
+        "ar": "يلعب أترسون على تشابه Hyde وhide (اختبئ): إن كان هايد يختبئ فسيكون هو الباحث."
+      },
+      "ref": "p15"
+    },
+    {
+      "type": "translation",
+      "q": {
+        "en": "Choose the best Arabic for: “in the law of God, there is no statute of limitations”",
+        "ar": "اختر أفضل ترجمة لـ: “in the law of God, there is no statute of limitations”"
+      },
+      "options": [
+        "في شريعة الله لا يسقط الذنب بالتقادم",
+        "قانون الله لا يحدّد عدد الذنوب",
+        "الله لا يعاقب على الذنوب القديمة",
+        "لا قانون في الأرض يعلو على الله"
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "A statute of limitations ends the right to punish after some years. Utterson means old sins are never too old to be punished.",
+        "ar": "قانون التقادم يُسقط حق العقاب بعد مدة. ويقصد أترسون أن الذنوب القديمة لا تسقط عقوبتها مهما طال الزمن."
+      },
+      "ref": "p50"
+    }
+  ]
+}
