@@ -428,3 +428,8 @@ body.reels-mode main { padding: 0; max-width: none; }
 .reel-title { font-size: 1.05rem; margin: 0; line-height: 1.5; }
 .reel-info .btn.ghost { color: var(--side-ink); border-color: rgb(255 255 255 / 25%); }
 @media (min-width: 901px) { .reels { height: calc(100dvh - 65px - 56px); } .reel-media.landscape { max-height: 70dvh; width: auto; height: auto; } }
+
+/* ---------- Ads (home page only) ---------- */
+.ad-slot { margin: 28px 0; padding: 10px; border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); min-height: 120px; }
+.ad-label { display: block; font-size: 0.72rem; color: var(--ink-3); margin-bottom: 6px; letter-spacing: 0.04em; }
+.ad-slot:has(ins[data-ad-status="unfilled"]) { display: none; }
