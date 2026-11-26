@@ -1,6 +1,6 @@
 // Albushra Literature service worker: app shell cached; content network-first with cache fallback (offline reading of opened chapters).
-const CACHE = "lit-v5";
-const SHELL = ["./", "./index.html", "./css/app.css?v=5", "./js/app.js?v=5", "./manifest.webmanifest", "./assets/logo-full.webp", "./assets/mark.webp", "./assets/icon-192.png"];
+const CACHE = "lit-v6";
+const SHELL = ["./", "./index.html", "./css/app.css?v=6", "./js/app.js?v=5", "./manifest.webmanifest", "./assets/logo-full.webp", "./assets/mark.webp", "./assets/icon-192.png"];
 self.addEventListener("install", (e) => e.waitUntil(caches.open(CACHE).then((c) => c.addAll(SHELL)).then(() => self.skipWaiting())));
 self.addEventListener("activate", (e) => e.waitUntil(caches.keys().then((ks) => Promise.all(ks.filter((k) => k.startsWith("lit-") && k !== CACHE).map((k) => caches.delete(k)))).then(() => self.clients.claim())));
 self.addEventListener("fetch", (e) => {

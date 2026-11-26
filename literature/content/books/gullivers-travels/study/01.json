@@ -1,0 +1,214 @@
+{
+  "chapter": 1,
+  "summary": {
+    "en": "Lemuel Gulliver introduces himself in the calm, factual voice of a travel writer. The third of five sons of a small landowner in Nottinghamshire, he studies at Cambridge, trains as a surgeon under Mr. James Bates in London, and studies medicine at Leyden. He works as a ship's surgeon, marries Mary Burton, and after his business in London fails, goes back to sea. In May 1699 he sails from Bristol on the Antelope. A violent storm drives the ship onto a rock; Gulliver swims for his life, reaches an unknown shore and falls into a deep sleep. He wakes to find himself tied to the ground by hundreds of thin strings, while tiny armed people, less than six inches high, climb over his body. They shoot him with arrows when he struggles, but feed him generously when he shows submission, and a great lord makes a long speech that he cannot understand. A sleeping drug is mixed into his wine. While he sleeps, nine hundred men lift him onto a huge wooden machine, and fifteen hundred small horses pull him to the capital. There he is chained by the left leg inside an old, unused temple, and thousands of astonished people come to look at the 'giant'.",
+    "ar": "يقدّم لِمويل غليفر نفسه بصوت هادئ موضوعي كصوت كاتب الرحلات. فهو الثالث بين خمسة أبناء لمالك أرض صغيرة في نوتنغهامشير، درس في كامبريدج، وتدرّب على الجراحة عند السيد جيمس بيتس في لندن، ثم درس الطب في لايدن. عمل جرّاحًا على السفن، وتزوّج ماري بيرتن، ولما كسدت أعماله في لندن عاد إلى البحر. وفي مايو ١٦٩٩ أبحر من بريستول على السفينة «الظبية». فدفعت عاصفة عنيفة السفينة إلى صخرة فتحطّمت؛ وسبح غليفر طلبًا للنجاة حتى بلغ شاطئًا مجهولًا، فاستغرق في نوم عميق. ولما استيقظ وجد نفسه مقيّدًا إلى الأرض بمئات الخيوط الرفيعة، وأناس ضئيلون مسلّحون، لا يبلغ طول الواحد منهم ست بوصات، يتسلّقون جسده. فرموه بالسهام حين قاوم، لكنهم أطعموه بسخاء حين أظهر الخضوع، وألقى عليه سيد عظيم خطبة طويلة لم يفهم منها شيئًا. ثم مُزج دواء منوّم في نبيذه، وفي أثناء نومه رفعه تسعمئة رجل إلى آلة خشبية ضخمة، وجرّه ألف وخمسمئة حصان صغير إلى العاصمة. وهناك قُيّد من ساقه اليسرى داخل معبد قديم مهجور، وجاء آلاف الناس المذهولين ليتفرّجوا على «العملاق»."
+  },
+  "objectives": [
+    { "en": "Follow the opening of the story: who Gulliver is, how he reaches Lilliput, and how the Lilliputians capture and move him.", "ar": "متابعة افتتاح القصة: من هو غليفر، وكيف وصل إلى ليليبوت، وكيف أسره أهلها ونقلوه." },
+    { "en": "Learn formal 18th-century vocabulary such as eminent, conjecture, prodigious, dexterity and retinue.", "ar": "تعلّم مفردات رسمية من القرن الثامن عشر مثل: eminent وconjecture وprodigious وdexterity وretinue." },
+    { "en": "Understand participle clauses, the formal passive and the language of measurement in Swift's long sentences.", "ar": "فهم جُمل اسم الفاعل (participle clauses)، والمبني للمجهول الرسمي، ولغة القياس في جمل سويفت الطويلة." },
+    { "en": "Notice how Swift's sober, exact 'travel report' style makes an impossible situation seem real — the first step of his satire.", "ar": "ملاحظة كيف يجعل أسلوب سويفت الرصين الدقيق، أسلوب «تقرير الرحلة»، موقفًا مستحيلًا يبدو حقيقيًّا، وهذه أول خطوة في سخريته." }
+  ],
+  "vocab": [
+    "surgeon", "apprentice", "eminent", "scanty", "navigation", "voyage", "conscience", "shipwreck", "conjecture", "astonishment",
+    "submissive", "famished", "ingenious", "dexterity", "hogshead", "intrepidity", "diminutive", "prodigious", "retinue", "proclamation"
+  ],
+  "grammar": [
+    {
+      "id": "gt-1-absolute-participle",
+      "topic": "complex",
+      "level": "B2",
+      "title": { "en": "Participle clauses with their own subject", "ar": "جملة اسم الفاعل التي لها فاعل خاص بها" },
+      "explain": {
+        "en": "Swift often begins a sentence with a noun + an -ing form (an 'absolute' participle clause): 'The last of these voyages not proving very fortunate, …'. The clause has its own subject (the last of these voyages) and gives the reason or background for the main clause (I grew weary of the sea). In modern English we would usually say: 'Because the last of these voyages was not very fortunate, I grew weary of the sea.' The absolute form sounds formal and literary.",
+        "ar": "كثيرًا ما يبدأ سويفت جملته باسم يليه فعل بصيغة ‎-ing (جملة اسم فاعل «مطلقة»): ‏'The last of these voyages not proving very fortunate, …'. لهذه الجملة فاعل خاص بها (the last of these voyages)، وهي تبيّن سبب الجملة الرئيسة أو خلفيتها (I grew weary of the sea). وفي الإنجليزية الحديثة نقول عادة: 'Because the last of these voyages was not very fortunate, I grew weary of the sea.' والصيغة المطلقة تبدو رسمية أدبية."
+      },
+      "example": {
+        "en": "The last of these voyages not proving very fortunate, I grew weary of the sea, and intended to stay at home with my wife and family.",
+        "ar": "ولما لم تكن آخر هذه الرحلات موفّقة كثيرًا، سئمت البحر، ونويت أن أبقى في البيت مع زوجتي وأسرتي.",
+        "ref": "p5"
+      },
+      "exercise": {
+        "q": { "en": "Which sentence has the same meaning as: 'The weather being very hazy, the seamen could not see far'?", "ar": "أيّ جملة تحمل معنى: 'The weather being very hazy, the seamen could not see far'؟" },
+        "options": [
+          "Because the weather was very hazy, the seamen could not see far.",
+          "Although the weather was very hazy, the seamen could see far.",
+          "The seamen made the weather very hazy."
+        ],
+        "answer": 0,
+        "why": {
+          "en": "'The weather being very hazy' is an absolute participle clause with its own subject (the weather). It gives the reason for the main clause, like 'because'.",
+          "ar": "'The weather being very hazy' جملة اسم فاعل مطلقة لها فاعلها الخاص (the weather)، وهي تبيّن سبب الجملة الرئيسة، بمعنى «لأنّ»."
+        }
+      }
+    },
+    {
+      "id": "gt-1-formal-passive",
+      "topic": "passive",
+      "level": "B1",
+      "title": { "en": "The passive voice in official actions", "ar": "المبني للمجهول في الإجراءات الرسمية" },
+      "explain": {
+        "en": "Gulliver writes like an official report, so he often uses the passive (was/were + past participle). The passive focuses on the action and hides who did it: 'a proclamation was soon issued' (we do not need to know which officer issued it). The infinitive 'to forbid it' gives the purpose. 'Upon pain of death' is a fixed formal phrase meaning 'and the punishment for disobeying will be death'.",
+        "ar": "يكتب غليفر كأنه يكتب تقريرًا رسميًّا، فيُكثر من المبني للمجهول (was/were + التصريف الثالث للفعل). والمبني للمجهول يركّز على الفعل ويُخفي فاعله: 'a proclamation was soon issued' (لا يهمّنا أيّ موظف أصدره). وصيغة المصدر 'to forbid it' تبيّن الغرض. أما 'upon pain of death' فعبارة رسمية ثابتة تعني «تحت طائلة الإعدام»."
+      },
+      "example": {
+        "en": "But a proclamation was soon issued, to forbid it upon pain of death.",
+        "ar": "لكن سرعان ما صدر منشور يمنع ذلك تحت طائلة الإعدام.",
+        "ref": "p11"
+      },
+      "exercise": {
+        "q": { "en": "Choose the passive form: 'The king's smith ___ ninety-one chains into the temple.' → 'Ninety-one chains ___ into the temple by the king's smith.'", "ar": "اختر صيغة المبني للمجهول: 'Ninety-one chains ___ into the temple by the king's smith.'" },
+        "options": ["were conveyed", "conveyed", "was conveying"],
+        "answer": 0,
+        "why": {
+          "en": "The subject 'chains' is plural and receives the action, so we need were + past participle: were conveyed.",
+          "ar": "الفاعل الجديد 'chains' جمع ويقع عليه الفعل، فنحتاج إلى were + التصريف الثالث: were conveyed."
+        }
+      }
+    },
+    {
+      "id": "gt-1-measurement",
+      "topic": "descriptive",
+      "level": "B1",
+      "title": { "en": "Describing size: number + unit + adjective", "ar": "وصف الحجم: عدد + وحدة قياس + صفة" },
+      "explain": {
+        "en": "Swift fills the book with exact measurements to make Lilliput feel real. In English the pattern is number + unit + adjective: 'four feet high', 'two feet wide', 'six inches long'. Notice the plural units (feet, inches) and the adverbs of approximation 'about' and 'almost'. Before a noun we use a hyphen and a singular unit: 'a four-foot gate', 'a six-inch man'.",
+        "ar": "يملأ سويفت الكتاب بقياسات دقيقة ليجعل ليليبوت تبدو حقيقية. والنمط في الإنجليزية: عدد + وحدة + صفة: 'four feet high' (بارتفاع أربعة أقدام)، 'two feet wide' (بعرض قدمين)، 'six inches long' (بطول ست بوصات). لاحظ أن الوحدة تأتي بالجمع (feet, inches)، ولاحظ ظرفي التقريب 'about' و'almost'. أما قبل الاسم فنستعمل الشرطة والوحدة بالمفرد: 'a four-foot gate'."
+      },
+      "example": {
+        "en": "The great gate fronting to the north was about four feet high, and almost two feet wide, through which I could easily creep.",
+        "ar": "وكانت البوابة الكبرى المواجهة للشمال بارتفاع أربعة أقدام تقريبًا، وعرض قدمين تقريبًا، فكنت أستطيع أن أزحف منها بسهولة.",
+        "ref": "p11"
+      },
+      "exercise": {
+        "q": { "en": "Complete: 'The turret was at least five ___ high.'", "ar": "أكمل: 'The turret was at least five ___ high.'" },
+        "options": ["feet", "foot", "foots"],
+        "answer": 0,
+        "why": {
+          "en": "After a number greater than one, the unit is plural: five feet high. (The singular 'foot' is used only before a noun with a hyphen: a five-foot turret.)",
+          "ar": "بعد عدد أكبر من واحد تأتي الوحدة بالجمع: five feet high. ولا نستعمل المفرد 'foot' إلا قبل الاسم مع شرطة: a five-foot turret."
+        }
+      }
+    }
+  ],
+  "culture": [
+    {
+      "term": "18th-century voyages",
+      "en": "Around 1700, British merchant ships made long, dangerous voyages to the 'East Indies' (South and Southeast Asia), the 'West Indies' (the Caribbean) and the 'South Sea' (the Pacific). Many sailors died of hunger, disease and storms, as in Gulliver's ship, where twelve men die 'by immoderate labour and ill food'. Positions were found by 'observation' of the sun and stars (latitude), and distances were given in leagues (about three miles). Van Diemen's Land, near which Gulliver is wrecked, is the old name of Tasmania, then almost unknown to Europeans — the perfect place for an imaginary country.",
+      "ar": "في نحو عام ١٧٠٠ كانت السفن التجارية البريطانية تقوم برحلات طويلة خطرة إلى «جزر الهند الشرقية» (جنوب آسيا وجنوب شرقها)، و«جزر الهند الغربية» (البحر الكاريبي)، و«بحر الجنوب» (المحيط الهادئ). وكان كثير من البحّارة يموتون من الجوع والمرض والعواصف، كما في سفينة غليفر التي مات فيها اثنا عشر رجلًا «من فرط الكدّ وسوء الطعام». وكانوا يحدّدون موقعهم برصد الشمس والنجوم (خط العرض)، ويقيسون المسافات بالفراسخ (الفرسخ نحو ثلاثة أميال). أما «أرض فان ديمن» التي تحطّمت السفينة قربها فهي الاسم القديم لجزيرة تسمانيا، وكانت شبه مجهولة للأوروبيين آنذاك، فكانت مكانًا مثاليًّا لبلد خيالي."
+    },
+    {
+      "term": "Surgeons on ships",
+      "en": "In Gulliver's time a 'surgeon' was a practical healer who learned the trade as an apprentice to a master, as Gulliver does with Mr. Bates, while a 'physician' studied 'physic' (medicine) at a university such as Leyden in Holland, then famous across Europe. Every long-distance ship carried a surgeon to treat wounds, fevers and scurvy. The job was poorly paid and risky, but it allowed an educated man without much money to see the world, which is why it suits a travel narrator so well.",
+      "ar": "في زمن غليفر كان «الجرّاح» معالجًا عمليًّا يتعلّم الصنعة صبيًّا متدرّبًا عند معلّم، كما فعل غليفر مع السيد بيتس، أما «الطبيب» فكان يدرس الطب (physic) في جامعة مثل جامعة لايدن في هولندا، وكانت مشهورة في أوروبا كلها. وكانت كل سفينة في الرحلات البعيدة تحمل جرّاحًا يعالج الجروح والحمّى والإسقربوط. وكانت الوظيفة قليلة الأجر محفوفة بالمخاطر، لكنها تتيح لرجل متعلّم قليل المال أن يرى العالم، ولهذا تناسب راويًا لأدب الرحلات تمامًا."
+    },
+    {
+      "term": "Satire in a travel book",
+      "en": "Swift's book imitates the popular true travel accounts of his day, such as William Dampier's 'A New Voyage Round the World' (1697): exact dates, places, numbers and a modest, serious narrator. This sober style is part of the joke. Gulliver reports absurd things with complete seriousness, and readers slowly see that the tiny, proud, quarrelsome Lilliputians are a picture of European courts and politicians. Satire uses humour, exaggeration and irony to criticize real people and human faults.",
+      "ar": "يحاكي كتاب سويفت كتب الرحلات الحقيقية الرائجة في عصره، مثل كتاب ويليام دامبير «رحلة جديدة حول العالم» (١٦٩٧): تواريخ وأماكن وأرقام دقيقة، وراوٍ متواضع جادّ. وهذا الأسلوب الرصين جزء من النكتة؛ فغليفر يروي أمورًا عبثية بجدّية تامّة، ثم يدرك القرّاء شيئًا فشيئًا أن أهل ليليبوت الضئيلين المغرورين المتخاصمين صورة لبلاطات أوروبا وساستها. والهجاء أو الأدب الساخر (satire) يستعمل الفكاهة والمبالغة والمفارقة لنقد أناس حقيقيين ونقد عيوب البشر."
+    }
+  ],
+  "quiz": [
+    {
+      "type": "comprehension",
+      "q": { "en": "Where did Gulliver study physic (medicine) for two years and seven months?", "ar": "أين درس غليفر الطب سنتين وسبعة أشهر؟" },
+      "options": ["At Leyden", "At Cambridge", "In London with Mr. Bates", "At sea on the Swallow"],
+      "answer": 0,
+      "explain": { "en": "He got money from his family 'to maintain me at Leyden: there I studied physic two years and seven months'.", "ar": "حصل على مال من أسرته لإعالته في لايدن، «فدرست الطب هناك سنتين وسبعة أشهر»." },
+      "ref": "p2"
+    },
+    {
+      "type": "vocab",
+      "q": { "en": "Mr. James Bates is 'an eminent surgeon in London'. 'Eminent' means:", "ar": "السيد جيمس بيتس «an eminent surgeon in London». ما معنى eminent؟" },
+      "options": ["famous and respected", "young and inexperienced", "rich but dishonest", "tall and strong"],
+      "answer": 0,
+      "explain": { "en": "'Eminent' describes a person who is well known and respected in his profession.", "ar": "كلمة eminent تصف شخصًا مشهورًا محترمًا في مهنته، أي «مرموق»." },
+      "ref": "p2"
+    },
+    {
+      "type": "comprehension",
+      "q": { "en": "Why did Gulliver's business in London begin to fail?", "ar": "لماذا بدأت أعمال غليفر في لندن تكسد؟" },
+      "options": [
+        "His master died, he had few friends, and his conscience would not let him copy the bad practice of other doctors.",
+        "He was too busy reading books.",
+        "His wife wanted to live by the sea.",
+        "He lost all his money in a shipwreck."
+      ],
+      "answer": 0,
+      "explain": { "en": "After Bates died, 'my conscience would not suffer me to imitate the bad practice of too many among my brethren' — a quiet criticism of dishonest doctors.", "ar": "بعد موت بيتس «لم يكن ضميري يسمح لي بأن أقلّد الممارسات السيئة التي يتّبعها كثيرون جدًّا من زملائي»، وفي هذا نقد هادئ للأطباء غير الأمناء." },
+      "ref": "p4"
+    },
+    {
+      "type": "comprehension",
+      "q": { "en": "What was the name of the ship that sailed from Bristol on 4 May 1699?", "ar": "ما اسم السفينة التي أبحرت من بريستول في ٤ مايو ١٦٩٩؟" },
+      "options": ["The Antelope", "The Swallow", "The Lilliput", "The Bristol"],
+      "answer": 0,
+      "explain": { "en": "Gulliver accepted an offer from 'Captain William Prichard, master of the Antelope'.", "ar": "قبل غليفر عرضًا من «القبطان وليم بريتشارد، ربّان السفينة الظبية»." },
+      "ref": "p5"
+    },
+    {
+      "type": "grammar",
+      "q": { "en": "'The last of these voyages not proving very fortunate, I grew weary of the sea.' What does the first part express?", "ar": "'The last of these voyages not proving very fortunate, I grew weary of the sea.' ماذا يعبّر الجزء الأول؟" },
+      "options": ["The reason he grew weary of the sea", "A wish for the future", "A condition that never happened", "A question to the reader"],
+      "answer": 0,
+      "explain": { "en": "It is an absolute participle clause that gives the reason: because the last voyage was not lucky, he grew tired of the sea.", "ar": "إنها جملة اسم فاعل مطلقة تبيّن السبب: لأن الرحلة الأخيرة لم تكن موفّقة، سئم البحر." },
+      "ref": "p5"
+    },
+    {
+      "type": "context",
+      "q": { "en": "When Gulliver wakes on the shore, why can he not stand up?", "ar": "حين يستيقظ غليفر على الشاطئ، لماذا لا يستطيع النهوض؟" },
+      "options": [
+        "His arms, legs and hair are tied to the ground with many thin strings.",
+        "He has broken both legs.",
+        "He is buried in the sand.",
+        "He is still drunk from the brandy."
+      ],
+      "answer": 0,
+      "explain": { "en": "'I found my arms and legs were strongly fastened on each side to the ground; and my hair … tied down in the same manner.'", "ar": "«وجدت ذراعيّ وساقيّ مشدودة بإحكام إلى الأرض من كل جانب، وشعري مربوطًا بالطريقة نفسها»." },
+      "ref": "p6"
+    },
+    {
+      "type": "vocab",
+      "q": { "en": "The Lilliputians bring Gulliver 'one of their largest hogsheads'. A hogshead is:", "ar": "يحضر أهل ليليبوت لغليفر «أحد أكبر الـ hogsheads لديهم». ما الـ hogshead؟" },
+      "options": ["a large barrel for wine or beer", "a kind of pig", "a basket of bread", "a heavy weapon"],
+      "answer": 0,
+      "explain": { "en": "A hogshead is a big barrel. The joke is that their largest barrel 'did not hold half a pint' for Gulliver.", "ar": "الـ hogshead برميل كبير. والمفارقة أن أكبر براميلهم «لم يكن يسع نصف باينت» بالنسبة إلى غليفر." },
+      "ref": "p6"
+    },
+    {
+      "type": "translation",
+      "q": { "en": "Choose the best Arabic translation of: 'I was in the utmost astonishment.'", "ar": "اختر أفضل ترجمة عربية لـ: 'I was in the utmost astonishment.'" },
+      "options": ["كنت في غاية الدهشة.", "كنت في أقصى الغضب.", "كنت في آخر المكان.", "كنت في دهشة قليلة."],
+      "answer": 0,
+      "explain": { "en": "'Utmost' means 'greatest possible' and 'astonishment' means great surprise, so: غاية الدهشة.", "ar": "utmost تعني «أقصى ما يمكن»، وastonishment تعني الدهشة الشديدة، فالمعنى: «في غاية الدهشة»." },
+      "ref": "p6"
+    },
+    {
+      "type": "context",
+      "q": { "en": "Why did Gulliver sleep for about eight hours after his meal?", "ar": "لماذا نام غليفر نحو ثماني ساعات بعد وجبته؟" },
+      "options": [
+        "The physicians, by the emperor's order, had mixed a sleepy potion into the wine.",
+        "He had swum for many hours that morning.",
+        "The Lilliputians sang him to sleep.",
+        "He hit his head on the stage."
+      ],
+      "answer": 0,
+      "explain": { "en": "'The physicians, by the emperor's order, had mingled a sleepy potion in the hogsheads of wine.' This let them move him safely.", "ar": "«مزج الأطباء، بأمر الإمبراطور، شرابًا منوّمًا في براميل النبيذ»، وبذلك استطاعوا نقله بأمان." },
+      "ref": "p6"
+    },
+    {
+      "type": "comprehension",
+      "q": { "en": "How was Gulliver kept prisoner at the old temple?", "ar": "كيف أُبقي غليفر أسيرًا في المعبد القديم؟" },
+      "options": [
+        "Ninety-one small chains were locked to his left leg with thirty-six padlocks.",
+        "He was locked inside behind an iron door.",
+        "Guards tied his hands behind his back.",
+        "He was put in a deep pit."
+      ],
+      "answer": 0,
+      "explain": { "en": "The king's smith brought 'fourscore and eleven chains' (91), 'locked to my left leg with six-and-thirty padlocks'.", "ar": "أدخل حدّاد الملك «إحدى وتسعين سلسلة» أُقفلت على ساقه اليسرى «بستة وثلاثين قفلًا»." },
+      "ref": "p11"
+    }
+  ]
+}

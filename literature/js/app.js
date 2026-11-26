@@ -6,7 +6,7 @@ import * as store from "./store.js";
 import { invalidate } from "./data.js";
 
 // Bump with index.html so view modules are re-fetched after a release.
-const V = 5;
+const V = 6;
 const view = (name) => import(`./views/${name}.js?v=${V}`);
 
 const NAV = [
@@ -26,7 +26,7 @@ const ROUTES = [
   [/^\/read\/([\w-]+)\/(\d+)(?:\/(s\d+))?(?:\/(p\d+))?$/, "library", () => view("reader")],
   [/^\/study\/([\w-]+)\/(\d+)$/, "library", () => view("study")],
   [/^\/quiz\/([\w-]+)\/(\d+|final)$/, "learning", () => view("quiz")],
-  [/^\/shorts(?:\/([\w-]+))?$/, "shorts", () => view("shorts")],
+  [/^\/shorts(?:\/([\w-]+))?(?:\/([\w-]{11}))?$/, "shorts", () => view("shorts")],
   [/^\/learning$/, "learning", () => view("learning")],
   [/^\/vocab(?:\/(\w+))?(?:\?(.*))?$/, "vocab", () => view("vocab")],
   [/^\/grammar(?:\/([\w-]+))?$/, "grammar", () => view("grammar")],

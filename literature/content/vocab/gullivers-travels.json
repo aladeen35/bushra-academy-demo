@@ -1,0 +1,222 @@
+[
+ {
+  "id": "surgeon", "word": "surgeon", "forms": ["surgeons", "surgeon’s"],
+  "ar": "جرّاح", "ipa": "/ˈsɜː.dʒən/", "pos": "noun",
+  "def": "A doctor who treats injuries and illnesses by cutting the body or working with the hands; in the 18th century, a medical man trained by apprenticeship, often serving on ships.",
+  "arExplain": "طبيب يعالج الجروح والأمراض بالعمليات والعمل اليدوي. وفي القرن الثامن عشر كان الجرّاح يتعلّم صنعته بالتدريب عند معلّم، وكثيرًا ما عمل على السفن.",
+  "example": "I was recommended by my good master, Mr. Bates, to be surgeon to the Swallow",
+  "exampleAr": "رشّحني أستاذي الطيّب السيد بيتس لأكون جرّاحًا على السفينة «السنونو»",
+  "exampleRef": "1:p3",
+  "synonyms": ["doctor", "physician"], "antonyms": ["patient"],
+  "level": "B1", "category": "intermediate"
+ },
+ {
+  "id": "apprentice", "word": "apprentice", "forms": ["apprentices"],
+  "ar": "صبيّ متدرّب (متمرّن)", "ipa": "/əˈpren.tɪs/", "pos": "noun",
+  "def": "A young person who works for a skilled master for a fixed time in order to learn a trade.",
+  "arExplain": "شاب يعمل عند صاحب حرفة ماهر مدّة محدّدة ليتعلّم منه الصنعة. و«to be bound apprentice» تعني أن يُلحَق بالمعلّم بعقد رسمي.",
+  "example": "I was bound apprentice to Mr. James Bates, an eminent surgeon in London, with whom I continued four years.",
+  "exampleAr": "فأُلحقت صبيًّا متدرّبًا لدى السيد جيمس بيتس، وهو جرّاح مرموق في لندن، فبقيت عنده أربع سنوات.",
+  "exampleRef": "1:p2",
+  "synonyms": ["trainee", "learner"], "antonyms": ["master", "expert"],
+  "level": "B2", "category": "historical"
+ },
+ {
+  "id": "eminent", "word": "eminent", "forms": [],
+  "ar": "مرموق، بارز", "ipa": "/ˈem.ɪ.nənt/", "pos": "adjective",
+  "def": "Famous and respected, especially within a particular profession.",
+  "arExplain": "يوصف به الشخص المشهور المحترم في مهنته أو علمه.",
+  "example": "an eminent surgeon in London",
+  "exampleAr": "جرّاح مرموق في لندن",
+  "exampleRef": "1:p2",
+  "synonyms": ["distinguished", "renowned", "famous"], "antonyms": ["unknown", "obscure"],
+  "level": "C1", "category": "advanced"
+ },
+ {
+  "id": "scanty", "word": "scanty", "forms": [],
+  "ar": "شحيح، ضئيل", "ipa": "/ˈskæn.ti/", "pos": "adjective",
+  "def": "Too small in amount; hardly enough.",
+  "arExplain": "قليل جدًّا لا يكاد يكفي، كالمال أو الطعام أو الثياب.",
+  "example": "although I had a very scanty allowance",
+  "exampleAr": "مع أن مخصّصاتي كانت شحيحة جدًّا",
+  "exampleRef": "1:p2",
+  "synonyms": ["meagre", "insufficient"], "antonyms": ["plentiful", "ample"],
+  "level": "C1", "category": "advanced"
+ },
+ {
+  "id": "navigation", "word": "navigation", "forms": [],
+  "ar": "علم الملاحة", "ipa": "/ˌnæv.ɪˈɡeɪ.ʃən/", "pos": "noun",
+  "def": "The skill or science of planning and following the route of a ship.",
+  "arExplain": "علم تحديد موقع السفينة ورسم طريقها في البحر، ويعتمد على الرياضيات ورصد الشمس والنجوم.",
+  "example": "I laid them out in learning navigation, and other parts of the mathematics",
+  "exampleAr": "فأنفقتها في تعلّم الملاحة وفروع أخرى من الرياضيات",
+  "exampleRef": "1:p2",
+  "synonyms": ["seamanship", "pilotage"], "antonyms": [],
+  "level": "B2", "category": "nautical"
+ },
+ {
+  "id": "voyage", "word": "voyage", "forms": ["voyages"],
+  "ar": "رحلة بحرية", "ipa": "/ˈvɔɪ.ɪdʒ/", "pos": "noun",
+  "def": "A long journey, especially by sea.",
+  "arExplain": "رحلة طويلة، وغالبًا ما تكون بالبحر. ومنها عنوان كل جزء من الكتاب: A Voyage to Lilliput.",
+  "example": "knowing it would be useful in long voyages.",
+  "exampleAr": "لعلمي أنه سيكون نافعًا في الرحلات الطويلة.",
+  "exampleRef": "1:p2",
+  "synonyms": ["journey", "sea passage"], "antonyms": [],
+  "level": "B1", "category": "nautical"
+ },
+ {
+  "id": "conscience", "word": "conscience", "forms": ["consciences"],
+  "ar": "الضمير", "ipa": "/ˈkɒn.ʃəns/", "pos": "noun",
+  "def": "The inner sense that tells a person what is right and wrong.",
+  "arExplain": "الإحساس الداخلي الذي يميّز به الإنسان الصواب من الخطأ، ويمنعه من فعل ما يراه خطأ.",
+  "example": "my conscience would not suffer me to imitate the bad practice of too many among my brethren.",
+  "exampleAr": "لم يكن ضميري يسمح لي بأن أقلّد الممارسات السيئة التي يتّبعها كثيرون جدًّا من زملائي في المهنة.",
+  "exampleRef": "1:p4",
+  "synonyms": ["moral sense", "scruples"], "antonyms": [],
+  "level": "B2", "category": "intermediate"
+ },
+ {
+  "id": "shipwreck", "word": "shipwreck", "forms": ["shipwrecked"],
+  "ar": "تحطّم السفينة، غرقها", "ipa": "/ˈʃɪp.rek/", "pos": "noun",
+  "def": "The destruction of a ship at sea by a storm or by hitting rocks; 'to be shipwrecked' is to suffer this.",
+  "arExplain": "تحطّم السفينة في البحر بسبب عاصفة أو اصطدام بالصخور. و«be shipwrecked» أن تتحطّم سفينة المرء فينجو أو يهلك.",
+  "example": "He is shipwrecked, and swims for his life",
+  "exampleAr": "تتحطّم سفينته فيسبح طلبًا للنجاة",
+  "exampleRef": "1:p1",
+  "synonyms": ["wreck", "disaster at sea"], "antonyms": ["safe arrival"],
+  "level": "B2", "category": "nautical"
+ },
+ {
+  "id": "conjecture", "word": "conjecture", "forms": ["conjectured", "conjecturing", "conjectures"],
+  "ar": "يخمّن، يحدس", "ipa": "/kənˈdʒek.tʃər/", "pos": "verb",
+  "def": "To form an opinion or guess without having all the facts (also a noun: a guess).",
+  "arExplain": "أن يكوّن المرء رأيًا أو تقديرًا دون أن يملك كل الحقائق. وتأتي اسمًا أيضًا بمعنى «تخمين». وهي من كلمات غليفر المفضّلة.",
+  "example": "which I conjectured was about eight o’clock in the evening.",
+  "exampleAr": "وقدّرت أن الساعة كانت نحو الثامنة مساءً.",
+  "exampleRef": "1:p6",
+  "synonyms": ["guess", "suppose", "surmise"], "antonyms": ["know", "prove"],
+  "level": "C1", "category": "literary"
+ },
+ {
+  "id": "astonishment", "word": "astonishment", "forms": ["astonished", "astonishing"],
+  "ar": "الدهشة الشديدة", "ipa": "/əˈstɒn.ɪʃ.mənt/", "pos": "noun",
+  "def": "A feeling of very great surprise.",
+  "arExplain": "شعور بالدهشة البالغة أمام شيء غير متوقّع. والفعل astonish يعني «يُدهش».",
+  "example": "I was in the utmost astonishment",
+  "exampleAr": "فاستولت عليّ الدهشة كل الاستيلاء",
+  "exampleRef": "1:p6",
+  "synonyms": ["amazement", "wonder"], "antonyms": ["indifference"],
+  "level": "B2", "category": "intermediate"
+ },
+ {
+  "id": "submissive", "word": "submissive", "forms": [],
+  "ar": "خاضع، مستسلم", "ipa": "/səbˈmɪs.ɪv/", "pos": "adjective",
+  "def": "Showing that you are willing to obey or accept someone else's power.",
+  "arExplain": "يُظهر الطاعة والاستعداد لقبول سلطة غيره دون مقاومة.",
+  "example": "I answered in a few words, but in the most submissive manner",
+  "exampleAr": "فأجبته بكلمات قليلة، ولكن بأشدّ ما يكون من الخضوع",
+  "exampleRef": "1:p6",
+  "synonyms": ["obedient", "humble", "meek"], "antonyms": ["defiant", "rebellious"],
+  "level": "C1", "category": "advanced"
+ },
+ {
+  "id": "famished", "word": "famished", "forms": [],
+  "ar": "يتضوّر جوعًا", "ipa": "/ˈfæm.ɪʃt/", "pos": "adjective",
+  "def": "Extremely hungry.",
+  "arExplain": "جائع جوعًا شديدًا جدًّا. وهي من الكلمة famine أي «المجاعة».",
+  "example": "being almost famished with hunger",
+  "exampleAr": "ولما كنت أكاد أتضوّر جوعًا",
+  "exampleRef": "1:p6",
+  "synonyms": ["starving", "ravenous"], "antonyms": ["full", "satisfied"],
+  "level": "C1", "category": "advanced"
+ },
+ {
+  "id": "ingenious", "word": "ingenious", "forms": ["ingeniously"],
+  "ar": "بارع، مبتكر", "ipa": "/ɪnˈdʒiː.ni.əs/", "pos": "adjective",
+  "def": "Clever at inventing things or finding new ways to solve problems.",
+  "arExplain": "ذكي في الاختراع وإيجاد حلول جديدة للمشكلات. لا تخلطها بـ ingenuous (ساذج بريء).",
+  "example": "being a most ingenious people",
+  "exampleAr": "ولما كانوا قومًا بارعين غاية البراعة",
+  "exampleRef": "1:p6",
+  "synonyms": ["clever", "inventive", "resourceful"], "antonyms": ["clumsy", "unimaginative"],
+  "level": "C1", "category": "advanced"
+ },
+ {
+  "id": "dexterity", "word": "dexterity", "forms": ["dexterous", "dexterously"],
+  "ar": "المهارة، خفّة اليد", "ipa": "/dekˈster.ə.ti/", "pos": "noun",
+  "def": "Skill in using the hands or body quickly and well.",
+  "arExplain": "مهارة وسرعة في استعمال اليدين أو الجسم. ويصف بها غليفر أعمال أهل ليليبوت وألعابهم.",
+  "example": "they slung up, with great dexterity, one of their largest hogsheads",
+  "exampleAr": "رفعوا إليّ بالحبال، بمهارة عظيمة، أحد أكبر براميلهم",
+  "exampleRef": "1:p6",
+  "synonyms": ["skill", "agility", "deftness"], "antonyms": ["clumsiness"],
+  "level": "C1", "category": "advanced"
+ },
+ {
+  "id": "hogshead", "word": "hogshead", "forms": ["hogsheads"],
+  "ar": "برميل كبير", "ipa": "/ˈhɒɡz.hed/", "pos": "noun",
+  "def": "A large barrel for wine, beer or other liquids; also an old measure of liquid.",
+  "arExplain": "برميل خشبي كبير للنبيذ أو الجعة أو غيرهما من السوائل، وكان أيضًا وحدة قديمة لقياس السوائل.",
+  "example": "one of their largest hogsheads",
+  "exampleAr": "أحد أكبر براميلهم",
+  "exampleRef": "1:p6",
+  "synonyms": ["barrel", "cask"], "antonyms": [],
+  "level": "C2", "category": "historical"
+ },
+ {
+  "id": "intrepidity", "word": "intrepidity", "forms": [],
+  "ar": "الجرأة، الإقدام", "ipa": "/ˌɪn.trəˈpɪd.ə.ti/", "pos": "noun",
+  "def": "Great courage; fearlessness.",
+  "arExplain": "شجاعة كبيرة وعدم خوف من الخطر. والصفة منها intrepid أي «جريء مقدام».",
+  "example": "I could not sufficiently wonder at the intrepidity of these diminutive mortals",
+  "exampleAr": "لم أستطع أن أكفّ عن العجب من جرأة هؤلاء الفانين الضئيلين",
+  "exampleRef": "1:p6",
+  "synonyms": ["courage", "bravery", "boldness"], "antonyms": ["cowardice", "timidity"],
+  "level": "C2", "category": "literary"
+ },
+ {
+  "id": "diminutive", "word": "diminutive", "forms": [],
+  "ar": "ضئيل الحجم", "ipa": "/dɪˈmɪn.jə.tɪv/", "pos": "adjective",
+  "def": "Very small.",
+  "arExplain": "صغير جدًّا. ويستعملها غليفر لوصف أهل ليليبوت، وهي مفتاح لموضوع الحجم والمنظور في الكتاب.",
+  "example": "these diminutive mortals",
+  "exampleAr": "هؤلاء الفانين الضئيلين",
+  "exampleRef": "1:p6",
+  "synonyms": ["tiny", "minute", "small"], "antonyms": ["huge", "gigantic", "prodigious"],
+  "level": "C1", "category": "literary"
+ },
+ {
+  "id": "prodigious", "word": "prodigious", "forms": ["prodigiously"],
+  "ar": "هائل، مدهش", "ipa": "/prəˈdɪdʒ.əs/", "pos": "adjective",
+  "def": "Remarkably or impressively great in size, amount or degree.",
+  "arExplain": "عظيم جدًّا في الحجم أو المقدار إلى حدّ يثير الدهشة. وهي من أكثر الكلمات تكرارًا في الكتاب.",
+  "example": "so prodigious a creature as I must appear to them.",
+  "exampleAr": "مخلوق هائل مثلي كما لا بدّ أني بدوت لهم.",
+  "exampleRef": "1:p6",
+  "synonyms": ["enormous", "huge", "tremendous"], "antonyms": ["tiny", "diminutive"],
+  "level": "C1", "category": "literary"
+ },
+ {
+  "id": "retinue", "word": "retinue", "forms": [],
+  "ar": "الحاشية، المرافقون", "ipa": "/ˈret.ɪ.njuː/", "pos": "noun",
+  "def": "A group of servants and officials who travel with an important person.",
+  "arExplain": "مجموعة الخدم والموظفين الذين يرافقون شخصًا مهمًّا كالملك أو السفير.",
+  "example": "advanced forwards up to my face, with about a dozen of his retinue",
+  "exampleAr": "وتقدّم حتى بلغ وجهي، ومعه نحو اثني عشر من حاشيته",
+  "exampleRef": "1:p6",
+  "synonyms": ["entourage", "train", "attendants"], "antonyms": [],
+  "level": "C1", "category": "historical"
+ },
+ {
+  "id": "proclamation", "word": "proclamation", "forms": ["proclamations"],
+  "ar": "منشور رسمي، إعلان", "ipa": "/ˌprɒk.ləˈmeɪ.ʃən/", "pos": "noun",
+  "def": "An official public announcement made by a ruler or government.",
+  "arExplain": "إعلان رسمي علني يصدره الحاكم أو الحكومة ليعرفه الناس جميعًا ويلتزموا به.",
+  "example": "But a proclamation was soon issued, to forbid it upon pain of death.",
+  "exampleAr": "لكن سرعان ما صدر منشور يمنع ذلك تحت طائلة الإعدام.",
+  "exampleRef": "1:p11",
+  "synonyms": ["decree", "edict", "announcement"], "antonyms": [],
+  "level": "B2", "category": "political"
+ }
+]

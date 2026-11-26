@@ -1,8 +1,9 @@
 {
- "updated": "2026-11-25T10:11:51.244Z",
+ "updated": "2026-11-25T17:29:47.616Z",
  "channel": {
   "name": "أسْمَر - Asmr",
-  "url": "https://www.youtube.com/channel/UCaFVLbMDsxj2kH5wAHNNtqA"
+  "url": "https://www.youtube.com/channel/UCaFVLbMDsxj2kH5wAHNNtqA",
+  "avatar": "assets/channel-avatar.jpg"
  },
  "books": {
   "things-fall-apart": {
@@ -42,6 +43,62 @@
      "published": "2026-11-24T08:47:22+00:00",
      "ep": 0,
      "vertical": true
+    },
+    {
+     "id": "v1B21nR9t5k",
+     "title": "سنة الزراعة العصيبة: الجفاف ثم الأمطار يختبران عزيمة أوكونكو.",
+     "published": "2026-11-25T16:14:14+00:00",
+     "ep": 0,
+     "vertical": true
+    },
+    {
+     "id": "reBGXN8LGqQ",
+     "title": "إيكيميفونا يصبح أخًا لنويي، والجراد يصل إلى أوموفيا.",
+     "published": "2026-11-25T16:14:31+00:00",
+     "ep": 0,
+     "vertical": false
+    },
+    {
+     "id": "L3AX3pJ5QFA",
+     "title": "قرار العرّافة وموت إيكيميفونا: حين يتحول الخوف من الضعف إلى مأساة.",
+     "published": "2026-11-25T16:14:50+00:00",
+     "ep": 0,
+     "vertical": true
+    },
+    {
+     "id": "NQ2U8Cdz0t4",
+     "title": "مرض إزينما ومحكمة الإغوغو: خوف أمّ وحكم في نزاع أسري.",
+     "published": "2026-11-25T16:15:08+00:00",
+     "ep": 0,
+     "vertical": true
+    },
+    {
+     "id": "gmeQmh2OVEk",
+     "title": "حكاية السلحفاة ورحلة تشييلو ليلًا: إكويفي تتبع ابنتها إلى المجهول.",
+     "published": "2026-11-25T16:15:31+00:00",
+     "ep": 0,
+     "vertical": true
+    },
+    {
+     "id": "EhwMl2JqKxA",
+     "title": "جنازة إيزيودو تنتهي بحادث مأساوي، ويبدأ نفي أوكونكو.",
+     "published": "2026-11-25T16:15:51+00:00",
+     "ep": 0,
+     "vertical": false
+    },
+    {
+     "id": "8QOiw2knfhI",
+     "title": "مبانتا، أرض الأم: حكمة أوتشيندو وخبر تدمير أبامي.",
+     "published": "2026-11-25T16:16:11+00:00",
+     "ep": 0,
+     "vertical": true
+    },
+    {
+     "id": "IqNsuStmhBs",
+     "title": "المبشّرون في مبانتا، ونويي يختار طريقًا يبعده عن بيت أبيه.",
+     "published": "2026-11-25T16:16:32+00:00",
+     "ep": 0,
+     "vertical": false
     }
    ]
   },
@@ -141,6 +198,67 @@
     }
    ]
   },
+  "prisoner-of-zenda": {
+   "playlist": "PLNWULT3qug-E",
+   "videos": [
+    {
+     "id": "UU5xmor2RQk",
+     "title": "سجين زندا | الحلقة 1: الرجل ذو الشعر الأحمر",
+     "published": "2026-11-25T16:47:26+00:00",
+     "ep": 1,
+     "vertical": false
+    },
+    {
+     "id": "SKureobykLc",
+     "title": "سجين زندا | الحلقة 2: الملك المخدَّر والتتويج",
+     "published": "2026-11-25T16:47:47+00:00",
+     "ep": 2,
+     "vertical": false
+    },
+    {
+     "id": "AXOqiMoroq0",
+     "title": "سجين زندا | الحلقة 3: الملك المختطَف وفخ الصيف",
+     "published": "2026-11-25T16:48:07+00:00",
+     "ep": 3,
+     "vertical": false
+    },
+    {
+     "id": "481kOVqk4Ps",
+     "title": "سجين زندا | الحلقة 4: الوردة الحمراء وأول دم",
+     "published": "2026-11-25T16:48:30+00:00",
+     "ep": 4,
+     "vertical": false
+    },
+    {
+     "id": "YuADxumDS14",
+     "title": "سجين زندا | الحلقة 5: سلّم يعقوب والمغري",
+     "published": "2026-11-25T16:48:49+00:00",
+     "ep": 5,
+     "vertical": false
+    },
+    {
+     "id": "9LatoDGxnWM",
+     "title": "سجين زندا | الحلقة 6: ليلة الفخ",
+     "published": "2026-11-25T16:49:09+00:00",
+     "ep": 6,
+     "vertical": false
+    },
+    {
+     "id": "lUjnG3q90mY",
+     "title": "سجين زندا | الحلقة 7: السجين والملك",
+     "published": "2026-11-25T16:49:30+00:00",
+     "ep": 7,
+     "vertical": false
+    },
+    {
+     "id": "QloaXj_C3lg",
+     "title": "سجين زندا | الحلقة 8 والأخيرة: الحاضر والماضي والمستقبل",
+     "published": "2026-11-25T16:49:49+00:00",
+     "ep": 8,
+     "vertical": false
+    }
+   ]
+  },
   "treasure-island": {
    "playlist": "PLbreGkE6Ox-Y",
    "videos": [
@@ -226,6 +344,18 @@
      "title": "جزيرة الكنز 12: العودة وثمن الرحلة | Treasure Island: Home at Last",
      "published": "2026-11-24T05:24:27+00:00",
      "ep": 12,
+     "vertical": false
+    }
+   ]
+  },
+  "gullivers-travels": {
+   "playlist": "PLQSU_mg16jig",
+   "videos": [
+    {
+     "id": "i4YDI8JYtS8",
+     "title": "غاليفر في ليليبوت: رجل الجبل - الحلقة 1 | ALBUSHRA LITERATURE",
+     "published": "2026-11-25T12:33:54+00:00",
+     "ep": 1,
      "vertical": false
     }
    ]
