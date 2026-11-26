@@ -5,6 +5,6 @@
 //   homeSlot → Ads → By ad unit → Display ads → create "Literature home" → copy data-ad-slot (digits only)
 // Ads appear only on the home page: never in the reader, quizzes or the Shorts feed.
 export const ADSENSE = {
-  client: null,
+  client: "ca-pub-9020986096955143", // same publisher as albushra.app (see https://albushra.app/ads.txt)
   homeSlot: null,
 };

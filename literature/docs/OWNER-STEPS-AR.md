@@ -49,3 +49,39 @@
 - ترجمات الفصل الأول من «جين إير» و«جزيرة الكنز» و«سجين زندا» مسودات بالذكاء الاصطناعي، وتحتاج مراجعة محرر.
 - ملخصات «الأشياء تتداعى» الخمسة والعشرون أصلية ولا تقتبس من الرواية. يُنصح بمطابقة الوقائع مع النسخة الورقية، خاصة الفصول ١٤ و١٦ و١٧ و٢٣.
 - **الأشياء تتداعى محمية بحقوق النشر.** ملف PDF المرفق نسخة ممسوحة من طبعة Anchor 1994، ولا يحق لنا نشر نصها. نحتاج ترخيصًا من Penguin Random House / Heinemann قبل إضافة أي نص.
+
+## ٧) نشر التطبيق على Google Play (من الهاتف)
+
+### أ) بناء التطبيق (مرة لكل إصدار)
+1. GitHub ← المستودع `bushra-academy-demo` ← **Actions** ← **Literature Android app (APK + AAB)** ← **Run workflow**.
+   اكتب رقم الإصدار (مثل `1.0.0`) ← **Run workflow**. انتظر ١٠–١٥ دقيقة حتى تظهر علامة ✅.
+2. افتح التشغيل، وانزل إلى **Artifacts**:
+   - `albushra-literature-android`: فيه `app-release-bundle.aab` (للرفع على Play)، و`app-release-signed.apk` (للتجربة على هاتفك).
+   - **في أول بناء فقط:** `KEEP-THIS-SAFE-literature-signing-key`. نزّله واحفظه في مكان آمن (Google Drive خاص). من دونه لن تستطيع تحديث التطبيق أبدًا. يُحذف من GitHub بعد ٧ أيام.
+3. **في أول بناء فقط:** احفظ مفتاح التوقيع داخل GitHub حتى تُوقَّع كل الإصدارات القادمة بنفس المفتاح:
+   المستودع ← **Settings** ← **Secrets and variables** ← **Actions** ← **New repository secret**:
+   - `LITERATURE_KEYSTORE_BASE64` = محتوى الملف `android.keystore.base64.txt`
+   - `LITERATURE_KEYSTORE_PASSWORD` = محتوى الملف `keystore-password.txt`
+
+### ب) إنشاء التطبيق في Play Console
+1. **play.google.com/console** ← **Create app**:
+   - الاسم: `البشرى للأدب: تعلّم الإنجليزية`، واللغة الافتراضية العربية.
+   - النوع: App ← Free.
+2. **Test and release ← Production** (أو **Closed testing** إن كان حسابك جديدًا) ← **Create new release**.
+   وافق على **Play App Signing**، ثم ارفع `app-release-bundle.aab`.
+3. **Store presence ← Main store listing**: انسخ النصوص من `literature/store/LISTING.md`، وارفع:
+   - أيقونة التطبيق: `store/app-icon-512.png`
+   - صورة العرض: `store/ar/feature-graphic-1024x500.png`
+   - لقطات الهاتف: `store/ar/01…08`
+   - ثم أضف الترجمة الإنجليزية بملفات `store/en/`.
+4. **App content**:
+   - سياسة الخصوصية: `https://literature.albushra.app/privacy.html`
+   - الإعلانات: **Yes, my app contains ads**.
+   - الجمهور المستهدف: **13–15، 16–17، 18+**. لا تختر أقل من ١٣، وإلا طُبّقت قيود الأطفال على الإعلانات.
+   - Data safety: البريد والاسم (اختياريان لتسجيل الدخول)، وتقدّم التعلّم. البيانات مشفّرة أثناء النقل، ويمكن حذفها.
+   - Content rating: املأ الاستبيان، والتطبيق تعليمي.
+5. حسابك الشخصي يحتاج **اختبارًا مغلقًا بـ١٢ مختبِرًا لمدة ١٤ يومًا** قبل الإنتاج.
+
+### ج) إزالة شريط المتصفح من أعلى التطبيق (مهم)
+بعد رفع أول AAB افتح **Test and release ← Setup ← App integrity ← App signing**، وانسخ **SHA-256 certificate fingerprint** لمفتاح **App signing key**.
+أرسله لي مع البصمة الموجودة في ملف `upload-key-sha256.txt`، وسأضع ملف `.well-known/assetlinks.json`. بعده يفتح التطبيق بملء الشاشة دون شريط العنوان.

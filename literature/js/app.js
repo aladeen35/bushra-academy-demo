@@ -6,7 +6,7 @@ import * as store from "./store.js";
 import { invalidate } from "./data.js";
 
 // Bump with index.html so view modules are re-fetched after a release.
-const V = 6;
+const V = 8;
 const view = (name) => import(`./views/${name}.js?v=${V}`);
 
 const NAV = [
