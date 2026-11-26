@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "app.albushra.literature",
+    "sha256_cert_fingerprints": [
+      "59:2A:80:B9:01:D8:C9:50:D1:48:38:E5:72:8C:63:1A:0B:C7:4B:46:7C:85:A1:A3:CC:31:03:B4:0F:9A:D3:4F"
+    ]
+  }
+}]
