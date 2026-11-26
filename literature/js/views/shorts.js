@@ -172,10 +172,17 @@ export async function render(main, [only, focusId]) {
   }), { threshold: 0.6 });
   $$(".reel", reels).forEach((r) => io.observe(r));
 
+  // The player area ends above the caption block, whatever its height (long titles, wrapped buttons),
+  // so the captions never cover the player.
+  const fit = () => $$(".reel", reels).forEach((r) => r.style.setProperty("--info-h", `${r.querySelector(".reel-info").offsetHeight + 22}px`));
+  fit();
+  const ro = new ResizeObserver(fit);
+  ro.observe(reels);
+
   if (focusId) {
     const target = $$(".reel", reels).find((r) => r.dataset.id === focusId);
     if (target) reels.scrollTop = target.offsetTop;
   }
   document.body.classList.add("reels-mode");
-  return () => { io.disconnect(); clearInterval(ticker); [...players.keys()].forEach(stop); document.body.classList.remove("reels-mode"); };
+  return () => { io.disconnect(); ro.disconnect(); clearInterval(ticker); [...players.keys()].forEach(stop); document.body.classList.remove("reels-mode"); };
 }
