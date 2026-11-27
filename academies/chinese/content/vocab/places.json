@@ -1,0 +1,236 @@
+{
+  "id": "places",
+  "title": {
+    "ar": "الأماكن والاتجاهات",
+    "en": "Places & directions"
+  },
+  "icon": "📍",
+  "words": [
+    {
+      "id": "xuexiao",
+      "hz": "学校",
+      "py": "xuéxiào",
+      "pyn": "xue2 xiao4",
+      "ar": "مدرسة",
+      "en": "school",
+      "pos": "noun",
+      "hsk": 1,
+      "ex": {
+        "hz": "我的学校很大。",
+        "py": "Wǒ de xuéxiào hěn dà.",
+        "ar": "مدرستي كبيرة.",
+        "en": "My school is big."
+      }
+    },
+    {
+      "id": "yiyuan",
+      "hz": "医院",
+      "py": "yīyuàn",
+      "pyn": "yi1 yuan4",
+      "ar": "مستشفى",
+      "en": "hospital",
+      "pos": "noun",
+      "hsk": 1,
+      "ex": {
+        "hz": "他在医院工作。",
+        "py": "Tā zài yīyuàn gōngzuò.",
+        "ar": "هو يعمل في المستشفى.",
+        "en": "He works at the hospital."
+      }
+    },
+    {
+      "id": "shangdian",
+      "hz": "商店",
+      "py": "shāngdiàn",
+      "pyn": "shang1 dian4",
+      "ar": "متجر، دكان",
+      "en": "shop, store",
+      "pos": "noun",
+      "hsk": 1,
+      "ex": {
+        "hz": "商店在哪儿？",
+        "py": "Shāngdiàn zài nǎr?",
+        "ar": "أين المتجر؟",
+        "en": "Where is the shop?"
+      }
+    },
+    {
+      "id": "fandian",
+      "hz": "饭店",
+      "py": "fàndiàn",
+      "pyn": "fan4 dian4",
+      "ar": "مطعم",
+      "en": "restaurant",
+      "pos": "noun",
+      "hsk": 1,
+      "note_ar": "قد تأتي أيضًا في أسماء الفنادق الكبيرة.",
+      "ex": {
+        "hz": "我们去饭店吃饭。",
+        "py": "Wǒmen qù fàndiàn chīfàn.",
+        "ar": "سنذهب إلى المطعم لنأكل.",
+        "en": "We're going to a restaurant to eat."
+      }
+    },
+    {
+      "id": "jia",
+      "hz": "家",
+      "py": "jiā",
+      "pyn": "jia1",
+      "ar": "بيت، منزل؛ أسرة",
+      "en": "home; family",
+      "pos": "noun",
+      "hsk": 1,
+      "ex": {
+        "hz": "我回家了。",
+        "py": "Wǒ huí jiā le.",
+        "ar": "رجعتُ إلى البيت.",
+        "en": "I've gone back home."
+      }
+    },
+    {
+      "id": "zher",
+      "hz": "这儿",
+      "py": "zhèr",
+      "pyn": "zhe4 r5",
+      "ar": "هنا",
+      "en": "here",
+      "pos": "pron",
+      "hsk": 1,
+      "ex": {
+        "hz": "我在这儿。",
+        "py": "Wǒ zài zhèr.",
+        "ar": "أنا هنا.",
+        "en": "I'm here."
+      }
+    },
+    {
+      "id": "nar",
+      "hz": "那儿",
+      "py": "nàr",
+      "pyn": "na4 r5",
+      "ar": "هناك",
+      "en": "there",
+      "pos": "pron",
+      "hsk": 1,
+      "ex": {
+        "hz": "我的学校在那儿。",
+        "py": "Wǒ de xuéxiào zài nàr.",
+        "ar": "مدرستي هناك.",
+        "en": "My school is over there."
+      }
+    },
+    {
+      "id": "nar_where",
+      "hz": "哪儿",
+      "py": "nǎr",
+      "pyn": "na3 r5",
+      "ar": "أين؛ إلى أين",
+      "en": "where",
+      "pos": "pron",
+      "hsk": 1,
+      "ex": {
+        "hz": "你去哪儿？",
+        "py": "Nǐ qù nǎr?",
+        "ar": "إلى أين تذهب؟",
+        "en": "Where are you going?"
+      }
+    },
+    {
+      "id": "zai",
+      "hz": "在",
+      "py": "zài",
+      "pyn": "zai4",
+      "ar": "يوجد في، يكون في",
+      "en": "to be at, to be in",
+      "pos": "verb",
+      "hsk": 1,
+      "note_ar": "يأتي أيضًا حرف جر قبل المكان: 我在家工作 = أعمل في البيت.",
+      "ex": {
+        "hz": "他在家。",
+        "py": "Tā zài jiā.",
+        "ar": "هو في البيت.",
+        "en": "He is at home."
+      }
+    },
+    {
+      "id": "qianmian",
+      "hz": "前面",
+      "py": "qiánmiàn",
+      "pyn": "qian2 mian4",
+      "ar": "أمام، في الأمام",
+      "en": "in front, ahead",
+      "pos": "noun",
+      "hsk": 1,
+      "ex": {
+        "hz": "医院在前面。",
+        "py": "Yīyuàn zài qiánmiàn.",
+        "ar": "المستشفى في الأمام.",
+        "en": "The hospital is up ahead."
+      }
+    },
+    {
+      "id": "houmian",
+      "hz": "后面",
+      "py": "hòumiàn",
+      "pyn": "hou4 mian4",
+      "ar": "خلف، وراء",
+      "en": "behind, at the back",
+      "pos": "noun",
+      "hsk": 1,
+      "ex": {
+        "hz": "学校在商店后面。",
+        "py": "Xuéxiào zài shāngdiàn hòumiàn.",
+        "ar": "المدرسة خلف المتجر.",
+        "en": "The school is behind the shop."
+      }
+    },
+    {
+      "id": "zuobian",
+      "hz": "左边",
+      "py": "zuǒbian",
+      "pyn": "zuo3 bian5",
+      "ar": "اليسار، على اليسار",
+      "en": "left side",
+      "pos": "noun",
+      "hsk": 2,
+      "ex": {
+        "hz": "我家在左边。",
+        "py": "Wǒ jiā zài zuǒbian.",
+        "ar": "بيتي على اليسار.",
+        "en": "My home is on the left."
+      }
+    },
+    {
+      "id": "youbian",
+      "hz": "右边",
+      "py": "yòubian",
+      "pyn": "you4 bian5",
+      "ar": "اليمين، على اليمين",
+      "en": "right side",
+      "pos": "noun",
+      "hsk": 2,
+      "ex": {
+        "hz": "商店在右边。",
+        "py": "Shāngdiàn zài yòubian.",
+        "ar": "المتجر على اليمين.",
+        "en": "The shop is on the right."
+      }
+    },
+    {
+      "id": "pangbian",
+      "hz": "旁边",
+      "py": "pángbiān",
+      "pyn": "pang2 bian1",
+      "ar": "بجانب، بجوار",
+      "en": "beside, next to",
+      "pos": "noun",
+      "hsk": 2,
+      "ex": {
+        "hz": "饭店在学校旁边。",
+        "py": "Fàndiàn zài xuéxiào pángbiān.",
+        "ar": "المطعم بجانب المدرسة.",
+        "en": "The restaurant is next to the school."
+      }
+    }
+  ]
+}

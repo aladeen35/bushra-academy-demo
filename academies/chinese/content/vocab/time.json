@@ -1,0 +1,240 @@
+{
+  "id": "time",
+  "title": {
+    "ar": "الوقت والتاريخ",
+    "en": "Time & dates"
+  },
+  "icon": "⏰",
+  "words": [
+    {
+      "id": "jintian",
+      "hz": "今天",
+      "py": "jīntiān",
+      "pyn": "jin1 tian1",
+      "ar": "اليوم",
+      "en": "today",
+      "pos": "time",
+      "hsk": 1,
+      "ex": {
+        "hz": "今天是星期一。",
+        "py": "Jīntiān shì xīngqīyī.",
+        "ar": "اليوم هو الاثنين.",
+        "en": "Today is Monday."
+      }
+    },
+    {
+      "id": "mingtian",
+      "hz": "明天",
+      "py": "míngtiān",
+      "pyn": "ming2 tian1",
+      "ar": "غدًا",
+      "en": "tomorrow",
+      "pos": "time",
+      "hsk": 1,
+      "ex": {
+        "hz": "明天我去学校。",
+        "py": "Míngtiān wǒ qù xuéxiào.",
+        "ar": "غدًا أذهب إلى المدرسة.",
+        "en": "Tomorrow I'm going to school."
+      }
+    },
+    {
+      "id": "zuotian",
+      "hz": "昨天",
+      "py": "zuótiān",
+      "pyn": "zuo2 tian1",
+      "ar": "أمس",
+      "en": "yesterday",
+      "pos": "time",
+      "hsk": 1,
+      "ex": {
+        "hz": "昨天很冷。",
+        "py": "Zuótiān hěn lěng.",
+        "ar": "كان الجو باردًا أمس.",
+        "en": "It was cold yesterday."
+      }
+    },
+    {
+      "id": "xianzai",
+      "hz": "现在",
+      "py": "xiànzài",
+      "pyn": "xian4 zai4",
+      "ar": "الآن",
+      "en": "now",
+      "pos": "time",
+      "hsk": 1,
+      "ex": {
+        "hz": "现在几点？",
+        "py": "Xiànzài jǐ diǎn?",
+        "ar": "كم الساعة الآن؟",
+        "en": "What time is it now?"
+      }
+    },
+    {
+      "id": "dian",
+      "hz": "点",
+      "py": "diǎn",
+      "pyn": "dian3",
+      "ar": "الساعة (في قراءة الوقت)",
+      "en": "o'clock",
+      "pos": "mw",
+      "hsk": 1,
+      "note_ar": "الساعة الثانية = 两点 وليس 二点.",
+      "ex": {
+        "hz": "我七点起床。",
+        "py": "Wǒ qī diǎn qǐchuáng.",
+        "ar": "أستيقظ في الساعة السابعة.",
+        "en": "I get up at seven o'clock."
+      }
+    },
+    {
+      "id": "fenzhong",
+      "hz": "分钟",
+      "py": "fēnzhōng",
+      "pyn": "fen1 zhong1",
+      "ar": "دقيقة",
+      "en": "minute",
+      "pos": "noun",
+      "hsk": 1,
+      "note_ar": "عند قراءة الساعة يُقال 分 فقط: 八点十分 = الثامنة وعشر دقائق.",
+      "ex": {
+        "hz": "请等我五分钟。",
+        "py": "Qǐng děng wǒ wǔ fēnzhōng.",
+        "ar": "انتظرني خمس دقائق من فضلك.",
+        "en": "Please wait five minutes for me."
+      }
+    },
+    {
+      "id": "ban",
+      "hz": "半",
+      "py": "bàn",
+      "pyn": "ban4",
+      "ar": "نصف",
+      "en": "half",
+      "pos": "num",
+      "hsk": 3,
+      "ex": {
+        "hz": "现在三点半。",
+        "py": "Xiànzài sān diǎn bàn.",
+        "ar": "الساعة الآن الثالثة والنصف.",
+        "en": "It's half past three now."
+      }
+    },
+    {
+      "id": "shangwu",
+      "hz": "上午",
+      "py": "shàngwǔ",
+      "pyn": "shang4 wu3",
+      "ar": "قبل الظهر (الفترة الصباحية)",
+      "en": "morning (before noon)",
+      "pos": "time",
+      "hsk": 1,
+      "ex": {
+        "hz": "我上午在家。",
+        "py": "Wǒ shàngwǔ zài jiā.",
+        "ar": "أكون في البيت قبل الظهر.",
+        "en": "I'm at home in the morning."
+      }
+    },
+    {
+      "id": "xiawu",
+      "hz": "下午",
+      "py": "xiàwǔ",
+      "pyn": "xia4 wu3",
+      "ar": "بعد الظهر",
+      "en": "afternoon",
+      "pos": "time",
+      "hsk": 1,
+      "ex": {
+        "hz": "下午见！",
+        "py": "Xiàwǔ jiàn!",
+        "ar": "أراك بعد الظهر!",
+        "en": "See you this afternoon!"
+      }
+    },
+    {
+      "id": "shihou",
+      "hz": "时候",
+      "py": "shíhou",
+      "pyn": "shi2 hou5",
+      "ar": "وقت، حين",
+      "en": "time, moment",
+      "pos": "noun",
+      "hsk": 1,
+      "note_ar": "什么时候 = متى.",
+      "ex": {
+        "hz": "你什么时候来？",
+        "py": "Nǐ shénme shíhou lái?",
+        "ar": "متى تأتي؟",
+        "en": "When are you coming?"
+      }
+    },
+    {
+      "id": "xingqi",
+      "hz": "星期",
+      "py": "xīngqī",
+      "pyn": "xing1 qi1",
+      "ar": "أسبوع",
+      "en": "week",
+      "pos": "noun",
+      "hsk": 1,
+      "note_ar": "أيام الأسبوع: 星期一 الاثنين، 星期二 الثلاثاء، 星期三 الأربعاء، 星期四 الخميس، 星期五 الجمعة، 星期六 السبت، 星期天 أو 星期日 الأحد.",
+      "ex": {
+        "hz": "一个星期有七天。",
+        "py": "Yī gè xīngqī yǒu qī tiān.",
+        "ar": "في الأسبوع سبعة أيام.",
+        "en": "A week has seven days."
+      }
+    },
+    {
+      "id": "nian",
+      "hz": "年",
+      "py": "nián",
+      "pyn": "nian2",
+      "ar": "سنة، عام",
+      "en": "year",
+      "pos": "noun",
+      "hsk": 1,
+      "ex": {
+        "hz": "一年有十二个月。",
+        "py": "Yī nián yǒu shí'èr gè yuè.",
+        "ar": "في السنة اثنا عشر شهرًا.",
+        "en": "A year has twelve months."
+      }
+    },
+    {
+      "id": "yue",
+      "hz": "月",
+      "py": "yuè",
+      "pyn": "yue4",
+      "ar": "شهر",
+      "en": "month",
+      "pos": "noun",
+      "hsk": 1,
+      "note_ar": "أسماء الأشهر = الرقم + 月: 一月 يناير، 十月 أكتوبر.",
+      "ex": {
+        "hz": "现在是十月。",
+        "py": "Xiànzài shì shíyuè.",
+        "ar": "نحن الآن في شهر أكتوبر.",
+        "en": "It's October now."
+      }
+    },
+    {
+      "id": "hao",
+      "hz": "号",
+      "py": "hào",
+      "pyn": "hao4",
+      "ar": "اليوم من الشهر (في التاريخ)؛ رقم",
+      "en": "date (day of the month); number",
+      "pos": "noun",
+      "hsk": 1,
+      "note_ar": "في الكتابة يُستعمل 日 rì بدلًا منه: 三月八日 = الثامن من مارس.",
+      "ex": {
+        "hz": "今天几号？",
+        "py": "Jīntiān jǐ hào?",
+        "ar": "ما تاريخ اليوم؟",
+        "en": "What's the date today?"
+      }
+    }
+  ]
+}

@@ -1,0 +1,469 @@
+[
+  {
+    "id": "hello",
+    "level": 1,
+    "title": { "ar": "التحيّة", "en": "Greetings" },
+    "scene": {
+      "ar": "صباح أول يوم دراسي: علي يدخل الفصل ويحيّي الأستاذ وانغ.",
+      "en": "The morning of the first class: Ali walks in and greets Teacher Wang."
+    },
+    "people": {
+      "A": { "name": "王老师", "py": "Wáng lǎoshī", "g": "m" },
+      "B": { "name": "阿里", "py": "Ālǐ", "g": "m" }
+    },
+    "lines": [
+      { "who": "A", "hz": "你好！", "py": "Nǐ hǎo!", "ar": "مرحبًا!", "en": "Hello!" },
+      { "who": "B", "hz": "老师好！", "py": "Lǎoshī hǎo!", "ar": "مرحبًا يا أستاذ!", "en": "Hello, teacher!" },
+      { "who": "A", "hz": "早上好，阿里！", "py": "Zǎoshang hǎo, Ālǐ!", "ar": "صباح الخير يا علي!", "en": "Good morning, Ali!" },
+      { "who": "B", "hz": "早上好，王老师！", "py": "Zǎoshang hǎo, Wáng lǎoshī!", "ar": "صباح الخير يا أستاذ وانغ!", "en": "Good morning, Teacher Wang!" },
+      { "who": "A", "hz": "请坐。", "py": "Qǐng zuò.", "ar": "تفضّل بالجلوس.", "en": "Please sit down." },
+      { "who": "B", "hz": "谢谢老师！", "py": "Xièxie lǎoshī!", "ar": "شكرًا يا أستاذ!", "en": "Thank you, teacher!" },
+      { "who": "A", "hz": "不客气。", "py": "Bù kèqi.", "ar": "عفوًا.", "en": "You're welcome." },
+      { "who": "B", "hz": "老师，再见！", "py": "Lǎoshī, zàijiàn!", "ar": "مع السلامة يا أستاذ!", "en": "Goodbye, teacher!" },
+      { "who": "A", "hz": "再见！明天见！", "py": "Zàijiàn! Míngtiān jiàn!", "ar": "مع السلامة! أراك غدًا!", "en": "Goodbye! See you tomorrow!" }
+    ],
+    "keyPhrases": [
+      { "hz": "你好！", "py": "Nǐ hǎo!", "ar": "مرحبًا!" },
+      { "hz": "谢谢！", "py": "Xièxie!", "ar": "شكرًا!" },
+      { "hz": "不客气。", "py": "Bù kèqi.", "ar": "عفوًا." },
+      { "hz": "明天见！", "py": "Míngtiān jiàn!", "ar": "أراك غدًا!" }
+    ],
+    "questions": [
+      {
+        "q": { "ar": "في أيّ وقت من اليوم تجري المحادثة؟", "en": "What time of day is it?" },
+        "options": { "ar": ["المساء", "الصباح", "الليل"], "en": ["Evening", "Morning", "Night"] },
+        "answer": 1
+      },
+      {
+        "q": { "ar": "ماذا قال الأستاذ بعد أن شكره علي؟", "en": "What did the teacher say after Ali thanked him?" },
+        "options": { "ar": ["عفوًا", "صباح الخير", "تفضّل بالجلوس"], "en": ["You're welcome", "Good morning", "Please sit down"] },
+        "answer": 0
+      },
+      {
+        "q": { "ar": "متى سيلتقيان مرة أخرى؟", "en": "When will they meet again?" },
+        "options": { "ar": ["اليوم مساءً", "الأسبوع القادم", "غدًا"], "en": ["This evening", "Next week", "Tomorrow"] },
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "id": "name",
+    "level": 1,
+    "title": { "ar": "ما اسمك؟", "en": "What's Your Name?" },
+    "scene": {
+      "ar": "سارة تتعرّف على سيدة صينية في مركز تعليم اللغة.",
+      "en": "Sara meets a Chinese woman at the language center."
+    },
+    "people": {
+      "A": { "name": "萨拉", "py": "Sàlā", "g": "f" },
+      "B": { "name": "王芳", "py": "Wáng Fāng", "g": "f" }
+    },
+    "lines": [
+      { "who": "A", "hz": "你好！我叫萨拉。你叫什么名字？", "py": "Nǐ hǎo! Wǒ jiào Sàlā. Nǐ jiào shénme míngzi?", "ar": "مرحبًا! اسمي سارة. ما اسمكِ؟", "en": "Hello! I'm Sara. What's your name?" },
+      { "who": "B", "hz": "你好，萨拉！我姓王，叫王芳。", "py": "Nǐ hǎo, Sàlā! Wǒ xìng Wáng, jiào Wáng Fāng.", "ar": "مرحبًا يا سارة! اسم عائلتي وانغ، واسمي وانغ فانغ.", "en": "Hi, Sara! My surname is Wang; my name is Wang Fang." },
+      { "who": "A", "hz": "认识你很高兴！", "py": "Rènshi nǐ hěn gāoxìng!", "ar": "سعيدة بالتعرّف إليكِ!", "en": "Nice to meet you!" },
+      { "who": "B", "hz": "我也很高兴认识你。你是学生吗？", "py": "Wǒ yě hěn gāoxìng rènshi nǐ. Nǐ shì xuésheng ma?", "ar": "وأنا أيضًا سعيدة بالتعرّف إليكِ. هل أنتِ طالبة؟", "en": "Nice to meet you too. Are you a student?" },
+      { "who": "A", "hz": "是，我是学生。你呢？", "py": "Shì, wǒ shì xuésheng. Nǐ ne?", "ar": "نعم، أنا طالبة. وأنتِ؟", "en": "Yes, I'm a student. And you?" },
+      { "who": "B", "hz": "我是汉语老师。", "py": "Wǒ shì Hànyǔ lǎoshī.", "ar": "أنا معلّمة لغة صينية.", "en": "I'm a Chinese teacher." },
+      { "who": "A", "hz": "太好了！王老师好！", "py": "Tài hǎo le! Wáng lǎoshī hǎo!", "ar": "رائع! مرحبًا يا أستاذة وانغ!", "en": "Great! Hello, Teacher Wang!" },
+      { "who": "B", "hz": "你可以叫我王芳。", "py": "Nǐ kěyǐ jiào wǒ Wáng Fāng.", "ar": "يمكنكِ أن تناديني وانغ فانغ.", "en": "You can call me Wang Fang." }
+    ],
+    "keyPhrases": [
+      { "hz": "你叫什么名字？", "py": "Nǐ jiào shénme míngzi?", "ar": "ما اسمك؟" },
+      { "hz": "我姓王。", "py": "Wǒ xìng Wáng.", "ar": "اسم عائلتي وانغ." },
+      { "hz": "认识你很高兴！", "py": "Rènshi nǐ hěn gāoxìng!", "ar": "سعيد بالتعرّف إليك!" },
+      { "hz": "你呢？", "py": "Nǐ ne?", "ar": "وأنت؟" }
+    ],
+    "questions": [
+      {
+        "q": { "ar": "ما اسم عائلة السيدة الصينية؟", "en": "What is the Chinese woman's surname?" },
+        "options": { "ar": ["لي", "تشانغ", "وانغ"], "en": ["Li", "Zhang", "Wang"] },
+        "answer": 2
+      },
+      {
+        "q": { "ar": "ما عمل وانغ فانغ؟", "en": "What does Wang Fang do?" },
+        "options": { "ar": ["معلّمة لغة صينية", "طالبة", "طبيبة"], "en": ["She teaches Chinese", "She is a student", "She is a doctor"] },
+        "answer": 0
+      },
+      {
+        "q": { "ar": "هل سارة طالبة؟", "en": "Is Sara a student?" },
+        "options": { "ar": ["لا، هي معلّمة", "نعم", "لا تذكر المحادثة ذلك"], "en": ["No, she is a teacher", "Yes", "The dialogue doesn't say"] },
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "id": "how-are-you",
+    "level": 1,
+    "title": { "ar": "كيف حالك؟", "en": "How Are You?" },
+    "scene": {
+      "ar": "أحمد يلتقي صديقه الصيني تشانغ مينغ بعد مدة طويلة.",
+      "en": "Ahmed runs into his Chinese friend Zhang Ming after a long time."
+    },
+    "people": {
+      "A": { "name": "艾哈迈德", "py": "Àihāmàidé", "g": "m" },
+      "B": { "name": "张明", "py": "Zhāng Míng", "g": "m" }
+    },
+    "lines": [
+      { "who": "A", "hz": "张明，你好！好久不见！", "py": "Zhāng Míng, nǐ hǎo! Hǎojiǔ bù jiàn!", "ar": "مرحبًا يا تشانغ مينغ! لم أرك منذ مدة طويلة!", "en": "Hi, Zhang Ming! Long time no see!" },
+      { "who": "B", "hz": "艾哈迈德！好久不见！你好吗？", "py": "Àihāmàidé! Hǎojiǔ bù jiàn! Nǐ hǎo ma?", "ar": "أحمد! منذ مدة طويلة! كيف حالك؟", "en": "Ahmed! Long time no see! How are you?" },
+      { "who": "A", "hz": "我很好，谢谢。你呢？", "py": "Wǒ hěn hǎo, xièxie. Nǐ ne?", "ar": "أنا بخير، شكرًا. وأنت؟", "en": "I'm fine, thanks. And you?" },
+      { "who": "B", "hz": "我也很好。你工作忙吗？", "py": "Wǒ yě hěn hǎo. Nǐ gōngzuò máng ma?", "ar": "وأنا بخير أيضًا. هل أنت مشغول في عملك؟", "en": "I'm fine too. Are you busy at work?" },
+      { "who": "A", "hz": "很忙，但是我很喜欢我的工作。", "py": "Hěn máng, dànshì wǒ hěn xǐhuan wǒ de gōngzuò.", "ar": "مشغول جدًا، لكنّي أحبّ عملي كثيرًا.", "en": "Very busy, but I really like my job." },
+      { "who": "B", "hz": "你家人身体好吗？", "py": "Nǐ jiārén shēntǐ hǎo ma?", "ar": "كيف صحة أهلك؟", "en": "Is your family well?" },
+      { "who": "A", "hz": "他们都很好，谢谢！你爸爸妈妈呢？", "py": "Tāmen dōu hěn hǎo, xièxie! Nǐ bàba māma ne?", "ar": "كلّهم بخير، شكرًا! وكيف والداك؟", "en": "They're all well, thanks! And your parents?" },
+      { "who": "B", "hz": "他们身体也很好。", "py": "Tāmen shēntǐ yě hěn hǎo.", "ar": "هما أيضًا بصحة جيدة.", "en": "They're in good health too." },
+      { "who": "A", "hz": "太好了！我们一起去喝茶吧？", "py": "Tài hǎo le! Wǒmen yīqǐ qù hē chá ba?", "ar": "ممتاز! ما رأيك أن نذهب لنشرب الشاي معًا؟", "en": "Great! Shall we go and have some tea together?" },
+      { "who": "B", "hz": "好啊！走吧！", "py": "Hǎo a! Zǒu ba!", "ar": "حسنًا! هيّا بنا!", "en": "Sure! Let's go!" }
+    ],
+    "keyPhrases": [
+      { "hz": "你好吗？", "py": "Nǐ hǎo ma?", "ar": "كيف حالك؟" },
+      { "hz": "我很好，谢谢。", "py": "Wǒ hěn hǎo, xièxie.", "ar": "أنا بخير، شكرًا." },
+      { "hz": "好久不见！", "py": "Hǎojiǔ bù jiàn!", "ar": "لم أرك منذ مدة طويلة!" }
+    ],
+    "questions": [
+      {
+        "q": { "ar": "كيف حال عمل أحمد؟", "en": "How is Ahmed's work?" },
+        "options": { "ar": ["ليس لديه عمل", "مشغول جدًا لكنه يحبّه", "سهل جدًا"], "en": ["He has no job", "Very busy, but he likes it", "Very easy"] },
+        "answer": 1
+      },
+      {
+        "q": { "ar": "كيف صحة أهل أحمد؟", "en": "How is Ahmed's family?" },
+        "options": { "ar": ["كلّهم بخير", "أبوه مريض", "لا يعرف"], "en": ["They're all well", "His father is ill", "He doesn't know"] },
+        "answer": 0
+      },
+      {
+        "q": { "ar": "ماذا سيفعلان بعد ذلك؟", "en": "What will they do next?" },
+        "options": { "ar": ["يذهبان إلى العمل", "يأكلان المعكرونة", "يشربان الشاي معًا"], "en": ["Go to work", "Eat noodles", "Have tea together"] },
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "id": "nationality",
+    "level": 1,
+    "title": { "ar": "من أيّ بلد أنت؟", "en": "Where Are You From?" },
+    "scene": {
+      "ar": "في الجامعة، تسأل طالبة صينية فاطمة عن بلدها.",
+      "en": "At the university, a Chinese student asks Fatima where she is from."
+    },
+    "people": {
+      "A": { "name": "法蒂玛", "py": "Fǎdìmǎ", "g": "f" },
+      "B": { "name": "刘月", "py": "Liú Yuè", "g": "f" }
+    },
+    "lines": [
+      { "who": "A", "hz": "你好！你是中国人吗？", "py": "Nǐ hǎo! Nǐ shì Zhōngguórén ma?", "ar": "مرحبًا! هل أنتِ صينية؟", "en": "Hello! Are you Chinese?" },
+      { "who": "B", "hz": "是，我是中国人。你是哪国人？", "py": "Shì, wǒ shì Zhōngguórén. Nǐ shì nǎ guó rén?", "ar": "نعم، أنا صينية. ومن أيّ بلد أنتِ؟", "en": "Yes, I'm Chinese. Where are you from?" },
+      { "who": "A", "hz": "我是苏丹人，我叫法蒂玛。", "py": "Wǒ shì Sūdānrén, wǒ jiào Fǎdìmǎ.", "ar": "أنا سودانية، واسمي فاطمة.", "en": "I'm Sudanese. My name is Fatima." },
+      { "who": "B", "hz": "你好，法蒂玛！你的朋友也是苏丹人吗？", "py": "Nǐ hǎo, Fǎdìmǎ! Nǐ de péngyou yě shì Sūdānrén ma?", "ar": "أهلًا يا فاطمة! هل صديقتكِ سودانية أيضًا؟", "en": "Hi, Fatima! Is your friend Sudanese too?" },
+      { "who": "A", "hz": "不是，她是沙特人。她叫萨拉。", "py": "Bù shì, tā shì Shātèrén. Tā jiào Sàlā.", "ar": "لا، هي سعودية. اسمها سارة.", "en": "No, she's Saudi. Her name is Sara." },
+      { "who": "B", "hz": "你们在这儿学习汉语吗？", "py": "Nǐmen zài zhèr xuéxí Hànyǔ ma?", "ar": "هل تدرسان اللغة الصينية هنا؟", "en": "Are you both studying Chinese here?" },
+      { "who": "A", "hz": "对，我们都是这儿的学生。", "py": "Duì, wǒmen dōu shì zhèr de xuésheng.", "ar": "نعم، كلتانا طالبتان هنا.", "en": "Yes, we're both students here." },
+      { "who": "B", "hz": "你的汉语说得很好！", "py": "Nǐ de Hànyǔ shuō de hěn hǎo!", "ar": "لغتكِ الصينية جيدة جدًا!", "en": "You speak Chinese very well!" },
+      { "who": "A", "hz": "谢谢！我还在学习。", "py": "Xièxie! Wǒ hái zài xuéxí.", "ar": "شكرًا! ما زلتُ أتعلّم.", "en": "Thank you! I'm still learning." }
+    ],
+    "keyPhrases": [
+      { "hz": "你是哪国人？", "py": "Nǐ shì nǎ guó rén?", "ar": "من أيّ بلد أنت؟" },
+      { "hz": "我是苏丹人。", "py": "Wǒ shì Sūdānrén.", "ar": "أنا سوداني / سودانية." },
+      { "hz": "她是沙特人。", "py": "Tā shì Shātèrén.", "ar": "هي سعودية." }
+    ],
+    "questions": [
+      {
+        "q": { "ar": "من أيّ بلد فاطمة؟", "en": "Where is Fatima from?" },
+        "options": { "ar": ["السعودية", "الصين", "السودان"], "en": ["Saudi Arabia", "China", "Sudan"] },
+        "answer": 2
+      },
+      {
+        "q": { "ar": "من أيّ بلد سارة؟", "en": "Where is Sara from?" },
+        "options": { "ar": ["السعودية", "السودان", "الصين"], "en": ["Saudi Arabia", "Sudan", "China"] },
+        "answer": 0
+      },
+      {
+        "q": { "ar": "ماذا تفعل فاطمة وسارة هنا؟", "en": "What are Fatima and Sara doing here?" },
+        "options": { "ar": ["تعملان", "تدرسان اللغة الصينية", "تزوران صديقة"], "en": ["Working", "Studying Chinese", "Visiting a friend"] },
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "id": "family",
+    "level": 1,
+    "title": { "ar": "العائلة", "en": "Family" },
+    "scene": {
+      "ar": "وانغ فانغ تسأل عليًّا عن عائلته في السودان.",
+      "en": "Wang Fang asks Ali about his family in Sudan."
+    },
+    "people": {
+      "A": { "name": "阿里", "py": "Ālǐ", "g": "m" },
+      "B": { "name": "王芳", "py": "Wáng Fāng", "g": "f" }
+    },
+    "lines": [
+      { "who": "B", "hz": "阿里，你家有几口人？", "py": "Ālǐ, nǐ jiā yǒu jǐ kǒu rén?", "ar": "يا علي، كم فردًا في عائلتك؟", "en": "Ali, how many people are in your family?" },
+      { "who": "A", "hz": "我家有六口人：爸爸、妈妈、两个哥哥、一个妹妹和我。", "py": "Wǒ jiā yǒu liù kǒu rén: bàba, māma, liǎng gè gēge, yī gè mèimei hé wǒ.", "ar": "عائلتي ستة أفراد: أبي وأمي وأخواي الأكبر مني وأختي الصغرى وأنا.", "en": "There are six of us: my dad, my mom, two older brothers, a younger sister and me." },
+      { "who": "B", "hz": "你哥哥做什么工作？", "py": "Nǐ gēge zuò shénme gōngzuò?", "ar": "ماذا يعمل أخواك؟", "en": "What do your brothers do?" },
+      { "who": "A", "hz": "大哥是医生，二哥是老师。", "py": "Dàgē shì yīshēng, èrgē shì lǎoshī.", "ar": "أخي الأكبر طبيب، وأخي الثاني معلّم.", "en": "My eldest brother is a doctor, and my second brother is a teacher." },
+      { "who": "B", "hz": "你妹妹呢？", "py": "Nǐ mèimei ne?", "ar": "وأختك الصغرى؟", "en": "And your younger sister?" },
+      { "who": "A", "hz": "她十岁，在小学学习。", "py": "Tā shí suì, zài xiǎoxué xuéxí.", "ar": "عمرها عشر سنوات، وتدرس في المدرسة الابتدائية.", "en": "She's ten and goes to primary school." },
+      { "who": "B", "hz": "你爸爸妈妈呢？", "py": "Nǐ bàba māma ne?", "ar": "ووالداك؟", "en": "And your parents?" },
+      { "who": "A", "hz": "我爸爸在公司工作，我妈妈在家。", "py": "Wǒ bàba zài gōngsī gōngzuò, wǒ māma zài jiā.", "ar": "أبي يعمل في شركة، وأمي ربّة منزل.", "en": "My dad works at a company, and my mom is at home." },
+      { "who": "B", "hz": "他们都在苏丹吗？", "py": "Tāmen dōu zài Sūdān ma?", "ar": "هل هم جميعًا في السودان؟", "en": "Are they all in Sudan?" },
+      { "who": "A", "hz": "对，他们都在喀土穆。", "py": "Duì, tāmen dōu zài Kātǔmù.", "ar": "نعم، كلّهم في الخرطوم.", "en": "Yes, they're all in Khartoum." }
+    ],
+    "keyPhrases": [
+      { "hz": "你家有几口人？", "py": "Nǐ jiā yǒu jǐ kǒu rén?", "ar": "كم فردًا في عائلتك؟" },
+      { "hz": "你做什么工作？", "py": "Nǐ zuò shénme gōngzuò?", "ar": "ماذا تعمل؟" },
+      { "hz": "她十岁。", "py": "Tā shí suì.", "ar": "عمرها عشر سنوات." }
+    ],
+    "questions": [
+      {
+        "q": { "ar": "كم فردًا في عائلة علي؟", "en": "How many people are in Ali's family?" },
+        "options": { "ar": ["خمسة", "ستة", "سبعة"], "en": ["Five", "Six", "Seven"] },
+        "answer": 1
+      },
+      {
+        "q": { "ar": "ماذا يعمل أخو علي الأكبر؟", "en": "What does Ali's eldest brother do?" },
+        "options": { "ar": ["طبيب", "معلّم", "يعمل في شركة"], "en": ["He's a doctor", "He's a teacher", "He works at a company"] },
+        "answer": 0
+      },
+      {
+        "q": { "ar": "أين تعيش عائلة علي؟", "en": "Where does Ali's family live?" },
+        "options": { "ar": ["في بكين", "في الرياض", "في الخرطوم"], "en": ["In Beijing", "In Riyadh", "In Khartoum"] },
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "id": "phone-number",
+    "level": 2,
+    "title": { "ar": "رقم الهاتف", "en": "Phone Number" },
+    "scene": {
+      "ar": "سارة تطلب رقم هاتف زميلها لي مينغ لتدرسا معًا.",
+      "en": "Sara asks her classmate Li Ming for his phone number so they can study together."
+    },
+    "people": {
+      "A": { "name": "萨拉", "py": "Sàlā", "g": "f" },
+      "B": { "name": "李明", "py": "Lǐ Míng", "g": "m" }
+    },
+    "lines": [
+      { "who": "A", "hz": "李明，你的手机号是多少？", "py": "Lǐ Míng, nǐ de shǒujīhào shì duōshao?", "ar": "يا لي مينغ، ما رقم هاتفك؟", "en": "Li Ming, what's your phone number?" },
+      { "who": "B", "hz": "我的手机号是幺三九，八七六五，四三二幺。", "py": "Wǒ de shǒujīhào shì yāo sān jiǔ, bā qī liù wǔ, sì sān èr yāo.", "ar": "رقم هاتفي ١٣٩ ٨٧٦٥ ٤٣٢١.", "en": "My number is 139 8765 4321." },
+      { "who": "A", "hz": "对不起，请你再说一次。", "py": "Duìbuqǐ, qǐng nǐ zài shuō yī cì.", "ar": "عذرًا، أعِد مرة أخرى من فضلك.", "en": "Sorry, could you say it again, please?" },
+      { "who": "B", "hz": "幺三九，八七六五，四三二幺。", "py": "Yāo sān jiǔ, bā qī liù wǔ, sì sān èr yāo.", "ar": "١٣٩ ٨٧٦٥ ٤٣٢١.", "en": "139 8765 4321." },
+      { "who": "A", "hz": "好的，谢谢！你什么时候有时间？", "py": "Hǎo de, xièxie! Nǐ shénme shíhou yǒu shíjiān?", "ar": "حسنًا، شكرًا! متى يكون عندك وقت؟", "en": "OK, thanks! When are you free?" },
+      { "who": "B", "hz": "我星期六有时间。", "py": "Wǒ xīngqīliù yǒu shíjiān.", "ar": "عندي وقت يوم السبت.", "en": "I'm free on Saturday." },
+      { "who": "A", "hz": "星期六下午我们一起学习汉语，好吗？", "py": "Xīngqīliù xiàwǔ wǒmen yīqǐ xuéxí Hànyǔ, hǎo ma?", "ar": "ما رأيك أن ندرس الصينية معًا يوم السبت بعد الظهر؟", "en": "Shall we study Chinese together on Saturday afternoon?" },
+      { "who": "B", "hz": "好！你给我打电话吧。", "py": "Hǎo! Nǐ gěi wǒ dǎ diànhuà ba.", "ar": "حسنًا! اتصلي بي.", "en": "Sure! Give me a call." },
+      { "who": "A", "hz": "没问题！", "py": "Méi wèntí!", "ar": "لا مشكلة!", "en": "No problem!" }
+    ],
+    "keyPhrases": [
+      { "hz": "你的手机号是多少？", "py": "Nǐ de shǒujīhào shì duōshao?", "ar": "ما رقم هاتفك؟" },
+      { "hz": "幺", "py": "yāo", "ar": "الرقم ١ في أرقام الهاتف يُقرأ «ياو» بدل «يي»." },
+      { "hz": "请你再说一次。", "py": "Qǐng nǐ zài shuō yī cì.", "ar": "أعِد مرة أخرى من فضلك." },
+      { "hz": "你什么时候有时间？", "py": "Nǐ shénme shíhou yǒu shíjiān?", "ar": "متى يكون عندك وقت؟" }
+    ],
+    "questions": [
+      {
+        "q": { "ar": "متى يكون لي مينغ متفرّغًا؟", "en": "When is Li Ming free?" },
+        "options": { "ar": ["يوم الجمعة", "يوم الأحد", "يوم السبت"], "en": ["Friday", "Sunday", "Saturday"] },
+        "answer": 2
+      },
+      {
+        "q": { "ar": "ماذا سيفعلان معًا؟", "en": "What will they do together?" },
+        "options": { "ar": ["يدرسان الصينية", "يشربان الشاي", "يذهبان إلى السوق"], "en": ["Study Chinese", "Drink tea", "Go shopping"] },
+        "answer": 0
+      },
+      {
+        "q": { "ar": "كيف يُقرأ الرقم ١ في أرقام الهاتف؟", "en": "How is the digit 1 read in phone numbers?" },
+        "options": { "ar": ["yī", "yāo", "èr"], "en": ["yī", "yāo", "èr"] },
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "id": "shopping",
+    "level": 2,
+    "title": { "ar": "التسوّق", "en": "Shopping" },
+    "scene": {
+      "ar": "فاطمة في متجر ملابس، تسأل عن السعر وتفاوض قليلًا.",
+      "en": "Fatima is in a clothes shop, asking the price and bargaining a little."
+    },
+    "people": {
+      "A": { "name": "法蒂玛", "py": "Fǎdìmǎ", "g": "f" },
+      "B": { "name": "老板", "py": "lǎobǎn", "g": "m" }
+    },
+    "lines": [
+      { "who": "B", "hz": "你好！你想买什么？", "py": "Nǐ hǎo! Nǐ xiǎng mǎi shénme?", "ar": "أهلًا! ماذا تريدين أن تشتري؟", "en": "Hello! What would you like to buy?" },
+      { "who": "A", "hz": "我想买一件衣服。这件多少钱？", "py": "Wǒ xiǎng mǎi yī jiàn yīfu. Zhè jiàn duōshao qián?", "ar": "أريد أن أشتري قطعة ملابس. بكم هذه؟", "en": "I'd like to buy some clothes. How much is this one?" },
+      { "who": "B", "hz": "这件两百块。", "py": "Zhè jiàn liǎng bǎi kuài.", "ar": "هذه بمئتي يوان.", "en": "This one is two hundred yuan." },
+      { "who": "A", "hz": "太贵了！便宜一点儿吧。", "py": "Tài guì le! Piányi yīdiǎnr ba.", "ar": "غالية جدًا! خفّض السعر قليلًا.", "en": "That's too expensive! Can you make it a bit cheaper?" },
+      { "who": "B", "hz": "一百八，怎么样？", "py": "Yībǎi bā, zěnmeyàng?", "ar": "مئة وثمانون، ما رأيك؟", "en": "How about one hundred eighty?" },
+      { "who": "A", "hz": "一百五可以吗？", "py": "Yībǎi wǔ kěyǐ ma?", "ar": "هل يمكن بمئة وخمسين؟", "en": "Is one hundred fifty OK?" },
+      { "who": "B", "hz": "好吧，一百六。", "py": "Hǎo ba, yībǎi liù.", "ar": "حسنًا، مئة وستون.", "en": "All right, one hundred sixty." },
+      { "who": "A", "hz": "好，我买这件。有红色的吗？", "py": "Hǎo, wǒ mǎi zhè jiàn. Yǒu hóngsè de ma?", "ar": "حسنًا، سآخذ هذه. هل عندك واحدة حمراء؟", "en": "OK, I'll take it. Do you have a red one?" },
+      { "who": "B", "hz": "有，你看，这件是红色的。", "py": "Yǒu, nǐ kàn, zhè jiàn shì hóngsè de.", "ar": "نعم، انظري، هذه حمراء.", "en": "Yes, look, this one is red." },
+      { "who": "A", "hz": "很漂亮！谢谢！", "py": "Hěn piàoliang! Xièxie!", "ar": "جميلة جدًا! شكرًا!", "en": "It's beautiful! Thank you!" }
+    ],
+    "keyPhrases": [
+      { "hz": "这件多少钱？", "py": "Zhè jiàn duōshao qián?", "ar": "بكم هذه؟" },
+      { "hz": "太贵了！", "py": "Tài guì le!", "ar": "غالٍ جدًا!" },
+      { "hz": "便宜一点儿吧。", "py": "Piányi yīdiǎnr ba.", "ar": "خفّض السعر قليلًا." }
+    ],
+    "questions": [
+      {
+        "q": { "ar": "ماذا تريد فاطمة أن تشتري؟", "en": "What does Fatima want to buy?" },
+        "options": { "ar": ["كتابًا", "ملابس", "كوبًا"], "en": ["A book", "Clothes", "A cup"] },
+        "answer": 1
+      },
+      {
+        "q": { "ar": "كم كان السعر الأول؟", "en": "What was the first price?" },
+        "options": { "ar": ["٢٠٠ يوان", "١٨٠ يوانًا", "١٥٠ يوانًا"], "en": ["200 yuan", "180 yuan", "150 yuan"] },
+        "answer": 0
+      },
+      {
+        "q": { "ar": "بكم اشترت فاطمة الملابس في النهاية؟", "en": "What was the final price?" },
+        "options": { "ar": ["١٥٠ يوانًا", "١٨٠ يوانًا", "١٦٠ يوانًا"], "en": ["150 yuan", "180 yuan", "160 yuan"] },
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "id": "restaurant",
+    "level": 2,
+    "title": { "ar": "في المطعم", "en": "At the Restaurant" },
+    "scene": {
+      "ar": "أحمد وصديقه يدخلان مطعمًا صينيًا حلالًا ويطلبان الطعام.",
+      "en": "Ahmed and a friend go into a halal Chinese restaurant and order."
+    },
+    "people": {
+      "A": { "name": "服务员", "py": "fúwùyuán", "g": "f" },
+      "B": { "name": "艾哈迈德", "py": "Àihāmàidé", "g": "m" }
+    },
+    "lines": [
+      { "who": "A", "hz": "你好！请问几位？", "py": "Nǐ hǎo! Qǐngwèn jǐ wèi?", "ar": "أهلًا! كم شخصًا أنتم؟", "en": "Hello! How many people?" },
+      { "who": "B", "hz": "两位。", "py": "Liǎng wèi.", "ar": "شخصان.", "en": "Two." },
+      { "who": "A", "hz": "请坐。你们想吃什么？", "py": "Qǐng zuò. Nǐmen xiǎng chī shénme?", "ar": "تفضّلا بالجلوس. ماذا تريدان أن تأكلا؟", "en": "Please have a seat. What would you like to eat?" },
+      { "who": "B", "hz": "请问，这是清真饭馆吗？", "py": "Qǐngwèn, zhè shì qīngzhēn fànguǎn ma?", "ar": "من فضلك، هل هذا مطعم حلال؟", "en": "Excuse me, is this a halal restaurant?" },
+      { "who": "A", "hz": "是的，我们这儿都是清真菜。", "py": "Shì de, wǒmen zhèr dōu shì qīngzhēn cài.", "ar": "نعم، كلّ أطباقنا حلال.", "en": "Yes, all our dishes here are halal." },
+      { "who": "B", "hz": "太好了！我们要牛肉面和米饭。", "py": "Tài hǎo le! Wǒmen yào niúròumiàn hé mǐfàn.", "ar": "ممتاز! نريد معكرونة باللحم البقري وأرزًا.", "en": "Great! We'd like beef noodles and rice." },
+      { "who": "A", "hz": "好的。你们喝什么？", "py": "Hǎo de. Nǐmen hē shénme?", "ar": "حسنًا. ماذا تشربان؟", "en": "OK. What would you like to drink?" },
+      { "who": "B", "hz": "两杯绿茶，谢谢。", "py": "Liǎng bēi lǜchá, xièxie.", "ar": "كوبان من الشاي الأخضر، شكرًا.", "en": "Two cups of green tea, please." },
+      { "who": "A", "hz": "好，请等一下。", "py": "Hǎo, qǐng děng yīxià.", "ar": "حسنًا، انتظرا قليلًا من فضلكما.", "en": "Sure, just a moment, please." },
+      { "who": "B", "hz": "谢谢！", "py": "Xièxie!", "ar": "شكرًا!", "en": "Thank you!" }
+    ],
+    "keyPhrases": [
+      { "hz": "请问几位？", "py": "Qǐngwèn jǐ wèi?", "ar": "كم شخصًا أنتم؟" },
+      { "hz": "这是清真饭馆吗？", "py": "Zhè shì qīngzhēn fànguǎn ma?", "ar": "هل هذا مطعم حلال؟" },
+      { "hz": "我们要牛肉面和米饭。", "py": "Wǒmen yào niúròumiàn hé mǐfàn.", "ar": "نريد معكرونة باللحم البقري وأرزًا." },
+      { "hz": "请等一下。", "py": "Qǐng děng yīxià.", "ar": "انتظر قليلًا من فضلك." }
+    ],
+    "questions": [
+      {
+        "q": { "ar": "كم عدد الأشخاص في مجموعة أحمد؟", "en": "How many people are in Ahmed's group?" },
+        "options": { "ar": ["شخص واحد", "شخصان", "ثلاثة أشخاص"], "en": ["One", "Two", "Three"] },
+        "answer": 1
+      },
+      {
+        "q": { "ar": "ماذا سأل أحمد قبل أن يطلب؟", "en": "What did Ahmed ask before ordering?" },
+        "options": { "ar": ["هل الطعام حلال", "كم السعر", "أين الطاولة"], "en": ["Whether the food is halal", "How much it costs", "Where the table is"] },
+        "answer": 0
+      },
+      {
+        "q": { "ar": "ماذا طلبا للشرب؟", "en": "What did they order to drink?" },
+        "options": { "ar": ["الماء", "القهوة", "الشاي الأخضر"], "en": ["Water", "Coffee", "Green tea"] },
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "id": "directions",
+    "level": 2,
+    "title": { "ar": "السؤال عن الطريق", "en": "Asking for Directions" },
+    "scene": {
+      "ar": "علي في الشارع ويسأل رجلًا عن طريق المستشفى.",
+      "en": "Ali is in the street and asks a man the way to the hospital."
+    },
+    "people": {
+      "A": { "name": "阿里", "py": "Ālǐ", "g": "m" },
+      "B": { "name": "王先生", "py": "Wáng xiānsheng", "g": "m" }
+    },
+    "lines": [
+      { "who": "A", "hz": "对不起，请问，医院在哪儿？", "py": "Duìbuqǐ, qǐngwèn, yīyuàn zài nǎr?", "ar": "عذرًا، من فضلك، أين المستشفى؟", "en": "Excuse me, where is the hospital?" },
+      { "who": "B", "hz": "医院？往前走，到第二个路口往右走。", "py": "Yīyuàn? Wǎng qián zǒu, dào dì-èr gè lùkǒu wǎng yòu zǒu.", "ar": "المستشفى؟ امشِ إلى الأمام، وعند التقاطع الثاني اتّجه يمينًا.", "en": "The hospital? Go straight, and at the second intersection turn right." },
+      { "who": "A", "hz": "往右走？", "py": "Wǎng yòu zǒu?", "ar": "إلى اليمين؟", "en": "Turn right?" },
+      { "who": "B", "hz": "对。医院在一个大商店的左边。", "py": "Duì. Yīyuàn zài yī gè dà shāngdiàn de zuǒbian.", "ar": "نعم. المستشفى على يسار متجر كبير.", "en": "Yes. The hospital is to the left of a big store." },
+      { "who": "A", "hz": "远吗？", "py": "Yuǎn ma?", "ar": "هل هو بعيد؟", "en": "Is it far?" },
+      { "who": "B", "hz": "不远，走路十分钟。", "py": "Bù yuǎn, zǒulù shí fēnzhōng.", "ar": "ليس بعيدًا، عشر دقائق مشيًا.", "en": "Not far, ten minutes on foot." },
+      { "who": "A", "hz": "谢谢你！", "py": "Xièxie nǐ!", "ar": "شكرًا لك!", "en": "Thank you!" },
+      { "who": "B", "hz": "不客气。", "py": "Bù kèqi.", "ar": "عفوًا.", "en": "You're welcome." }
+    ],
+    "keyPhrases": [
+      { "hz": "……在哪儿？", "py": "… zài nǎr?", "ar": "أين …؟" },
+      { "hz": "往右走 / 往左走", "py": "wǎng yòu zǒu / wǎng zuǒ zǒu", "ar": "اتّجه يمينًا / اتّجه يسارًا" },
+      { "hz": "远吗？", "py": "Yuǎn ma?", "ar": "هل هو بعيد؟" }
+    ],
+    "questions": [
+      {
+        "q": { "ar": "أين يتّجه علي عند التقاطع الثاني؟", "en": "Which way does Ali turn at the second intersection?" },
+        "options": { "ar": ["يسارًا", "يمينًا", "يرجع إلى الخلف"], "en": ["Left", "Right", "He turns back"] },
+        "answer": 1
+      },
+      {
+        "q": { "ar": "أين يقع المستشفى؟", "en": "Where is the hospital?" },
+        "options": { "ar": ["على يمين المدرسة", "خلف البنك", "على يسار متجر كبير"], "en": ["To the right of a school", "Behind a bank", "To the left of a big store"] },
+        "answer": 2
+      },
+      {
+        "q": { "ar": "كم يستغرق المشي إلى المستشفى؟", "en": "How long is the walk to the hospital?" },
+        "options": { "ar": ["عشر دقائق", "ساعة", "دقيقتان"], "en": ["Ten minutes", "An hour", "Two minutes"] },
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": "taxi-time",
+    "level": 2,
+    "title": { "ar": "في سيارة الأجرة", "en": "Taking a Taxi" },
+    "scene": {
+      "ar": "سارة تركب سيارة أجرة إلى المطار وتسأل عن الوقت والأجرة.",
+      "en": "Sara takes a taxi to the airport and asks about the time and the fare."
+    },
+    "people": {
+      "A": { "name": "萨拉", "py": "Sàlā", "g": "f" },
+      "B": { "name": "司机", "py": "sījī", "g": "m" }
+    },
+    "lines": [
+      { "who": "A", "hz": "师傅，你好！我去机场。", "py": "Shīfu, nǐ hǎo! Wǒ qù jīchǎng.", "ar": "مرحبًا يا سيّدي! أريد الذهاب إلى المطار.", "en": "Hello, driver! To the airport, please." },
+      { "who": "B", "hz": "好的，请上车。你几点的飞机？", "py": "Hǎo de, qǐng shàng chē. Nǐ jǐ diǎn de fēijī?", "ar": "حسنًا، تفضّلي بالركوب. متى موعد طائرتك؟", "en": "Sure, please get in. What time is your flight?" },
+      { "who": "A", "hz": "十一点半的。现在几点？", "py": "Shíyī diǎn bàn de. Xiànzài jǐ diǎn?", "ar": "الساعة الحادية عشرة والنصف. كم الساعة الآن؟", "en": "Eleven thirty. What time is it now?" },
+      { "who": "B", "hz": "现在九点十分。", "py": "Xiànzài jiǔ diǎn shí fēn.", "ar": "الساعة الآن التاسعة وعشر دقائق.", "en": "It's ten past nine." },
+      { "who": "A", "hz": "去机场要多长时间？", "py": "Qù jīchǎng yào duō cháng shíjiān?", "ar": "كم يستغرق الطريق إلى المطار؟", "en": "How long does it take to get to the airport?" },
+      { "who": "B", "hz": "要四十分钟。", "py": "Yào sìshí fēnzhōng.", "ar": "يستغرق أربعين دقيقة.", "en": "It takes forty minutes." },
+      { "who": "B", "hz": "到了！", "py": "Dào le!", "ar": "وصلنا!", "en": "Here we are!" },
+      { "who": "A", "hz": "多少钱？", "py": "Duōshao qián?", "ar": "كم الأجرة؟", "en": "How much is it?" },
+      { "who": "B", "hz": "一百二十块。", "py": "Yībǎi èrshí kuài.", "ar": "مئة وعشرون يوانًا.", "en": "One hundred twenty yuan." },
+      { "who": "A", "hz": "给你。谢谢师傅！", "py": "Gěi nǐ. Xièxie shīfu!", "ar": "تفضّل. شكرًا يا سيّدي!", "en": "Here you are. Thank you!" }
+    ],
+    "keyPhrases": [
+      { "hz": "现在几点？", "py": "Xiànzài jǐ diǎn?", "ar": "كم الساعة الآن؟" },
+      { "hz": "要多长时间？", "py": "Yào duō cháng shíjiān?", "ar": "كم يستغرق من الوقت؟" },
+      { "hz": "师傅", "py": "shīfu", "ar": "لقب مهذّب لمخاطبة السائق أو الحِرَفي." }
+    ],
+    "questions": [
+      {
+        "q": { "ar": "متى موعد طائرة سارة؟", "en": "What time is Sara's flight?" },
+        "options": { "ar": ["٩:١٠", "١١:٣٠", "١٠:٣٠"], "en": ["9:10", "11:30", "10:30"] },
+        "answer": 1
+      },
+      {
+        "q": { "ar": "كم يستغرق الطريق إلى المطار؟", "en": "How long is the ride to the airport?" },
+        "options": { "ar": ["أربعون دقيقة", "عشر دقائق", "ساعتان"], "en": ["Forty minutes", "Ten minutes", "Two hours"] },
+        "answer": 0
+      },
+      {
+        "q": { "ar": "كم دفعت سارة؟", "en": "How much did Sara pay?" },
+        "options": { "ar": ["١٠٠ يوان", "٢١٠ يوانات", "١٢٠ يوانًا"], "en": ["100 yuan", "210 yuan", "120 yuan"] },
+        "answer": 2
+      }
+    ]
+  }
+]

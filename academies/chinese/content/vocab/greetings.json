@@ -1,0 +1,78 @@
+{
+  "id": "greetings",
+  "title": {"ar": "التحيات والمجاملات", "en": "Greetings & courtesy"},
+  "icon": "👋",
+  "words": [
+    {
+      "id": "nihao", "hz": "你好", "py": "nǐ hǎo", "pyn": "ni3 hao3",
+      "ar": "مرحبًا", "en": "hello", "pos": "phrase", "hsk": 1,
+      "note_ar": "يُنطق ní hǎo لأن المقطعين بالنغمة الثالثة.",
+      "ex": {"hz": "你好，老师！", "py": "Nǐ hǎo, lǎoshī!", "ar": "مرحبًا يا أستاذ!", "en": "Hello, teacher!"}
+    },
+    {
+      "id": "ninhao", "hz": "您好", "py": "nín hǎo", "pyn": "nin2 hao3",
+      "ar": "مرحبًا (بصيغة الاحترام)", "en": "hello (polite)", "pos": "phrase", "hsk": 1,
+      "note_ar": "صيغة مؤدبة تُستخدم مع الكبار والغرباء.",
+      "ex": {"hz": "您好，请坐！", "py": "Nín hǎo, qǐng zuò!", "ar": "مرحبًا، تفضّل بالجلوس!", "en": "Hello, please sit down!"}
+    },
+    {
+      "id": "xiexie", "hz": "谢谢", "py": "xièxie", "pyn": "xie4 xie5",
+      "ar": "شكرًا", "en": "thank you", "pos": "verb", "hsk": 1,
+      "ex": {"hz": "谢谢你！", "py": "Xièxie nǐ!", "ar": "شكرًا لك!", "en": "Thank you!"}
+    },
+    {
+      "id": "bukeqi", "hz": "不客气", "py": "bù kèqi", "pyn": "bu4 ke4 qi5",
+      "ar": "عفوًا، لا شكر على واجب", "en": "you're welcome", "pos": "phrase", "hsk": 1,
+      "note_ar": "يُنطق bú kèqi لأن 不 تأتي قبل مقطع بالنغمة الرابعة.",
+      "ex": {"hz": "不客气，请喝茶。", "py": "Bù kèqi, qǐng hē chá.", "ar": "عفوًا، تفضّل اشرب الشاي.", "en": "You're welcome, please have some tea."}
+    },
+    {
+      "id": "zaijian", "hz": "再见", "py": "zàijiàn", "pyn": "zai4 jian4",
+      "ar": "إلى اللقاء", "en": "goodbye", "pos": "phrase", "hsk": 1,
+      "ex": {"hz": "老师，再见！", "py": "Lǎoshī, zàijiàn!", "ar": "إلى اللقاء يا أستاذ!", "en": "Goodbye, teacher!"}
+    },
+    {
+      "id": "duibuqi", "hz": "对不起", "py": "duìbuqǐ", "pyn": "dui4 bu5 qi3",
+      "ar": "آسف", "en": "sorry", "pos": "phrase", "hsk": 1,
+      "ex": {"hz": "对不起，我来晚了。", "py": "Duìbuqǐ, wǒ lái wǎn le.", "ar": "آسف، لقد تأخرت.", "en": "Sorry, I'm late."}
+    },
+    {
+      "id": "meiguanxi", "hz": "没关系", "py": "méi guānxi", "pyn": "mei2 guan1 xi5",
+      "ar": "لا بأس", "en": "it doesn't matter", "pos": "phrase", "hsk": 1,
+      "note_ar": "الرد المعتاد على 对不起.",
+      "ex": {"hz": "没关系，我不累。", "py": "Méi guānxi, wǒ bù lèi.", "ar": "لا بأس، لستُ متعبًا.", "en": "It's fine, I'm not tired."}
+    },
+    {
+      "id": "qing", "hz": "请", "py": "qǐng", "pyn": "qing3",
+      "ar": "من فضلك، تفضّل", "en": "please; to invite", "pos": "verb", "hsk": 1,
+      "ex": {"hz": "请进！", "py": "Qǐng jìn!", "ar": "تفضّل بالدخول!", "en": "Please come in!"}
+    },
+    {
+      "id": "nihaoma", "hz": "你好吗", "py": "nǐ hǎo ma", "pyn": "ni3 hao3 ma5",
+      "ar": "كيف حالك؟", "en": "how are you?", "pos": "phrase", "hsk": 1,
+      "note_ar": "سؤال عن الحال لمن تعرفه، وليس تحية عابرة مثل 你好.",
+      "ex": {"hz": "我很好，你呢？", "py": "Wǒ hěn hǎo, nǐ ne?", "ar": "أنا بخير، وأنت؟", "en": "I'm fine, and you?"}
+    },
+    {
+      "id": "zaoshanghao", "hz": "早上好", "py": "zǎoshang hǎo", "pyn": "zao3 shang5 hao3",
+      "ar": "صباح الخير", "en": "good morning", "pos": "phrase", "hsk": 2,
+      "ex": {"hz": "早上好，妈妈！", "py": "Zǎoshang hǎo, māma!", "ar": "صباح الخير يا أمي!", "en": "Good morning, Mom!"}
+    },
+    {
+      "id": "wanshanghao", "hz": "晚上好", "py": "wǎnshang hǎo", "pyn": "wan3 shang5 hao3",
+      "ar": "مساء الخير", "en": "good evening", "pos": "phrase", "hsk": 2,
+      "ex": {"hz": "晚上好，爸爸！", "py": "Wǎnshang hǎo, bàba!", "ar": "مساء الخير يا أبي!", "en": "Good evening, Dad!"}
+    },
+    {
+      "id": "huanying", "hz": "欢迎", "py": "huānyíng", "pyn": "huan1 ying2",
+      "ar": "أهلًا وسهلًا، مرحبًا بك", "en": "welcome", "pos": "verb", "hsk": 3,
+      "ex": {"hz": "欢迎你来我家！", "py": "Huānyíng nǐ lái wǒ jiā!", "ar": "أهلًا بك في بيتنا!", "en": "Welcome to my home!"}
+    },
+    {
+      "id": "haojiubujian", "hz": "好久不见", "py": "hǎo jiǔ bù jiàn", "pyn": "hao3 jiu3 bu4 jian4",
+      "ar": "لم أرك منذ زمن طويل", "en": "long time no see", "pos": "phrase", "hsk": 3,
+      "note_ar": "يُنطق hǎo jiǔ bú jiàn لأن 不 تأتي قبل النغمة الرابعة.",
+      "ex": {"hz": "好久不见，你好吗？", "py": "Hǎo jiǔ bù jiàn, nǐ hǎo ma?", "ar": "لم أرك منذ زمن، كيف حالك؟", "en": "Long time no see, how are you?"}
+    }
+  ]
+}

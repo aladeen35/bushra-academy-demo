@@ -1,0 +1,68 @@
+{
+  "id": "colors",
+  "title": {"ar": "الألوان", "en": "Colors"},
+  "icon": "🎨",
+  "words": [
+    {
+      "id": "yanse", "hz": "颜色", "py": "yánsè", "pyn": "yan2 se4",
+      "ar": "لون", "en": "color", "pos": "noun", "hsk": 2,
+      "ex": {"hz": "你喜欢什么颜色？", "py": "Nǐ xǐhuan shénme yánsè?", "ar": "ما اللون الذي تحبه؟", "en": "What color do you like?"}
+    },
+    {
+      "id": "hongse", "hz": "红色", "py": "hóngsè", "pyn": "hong2 se4",
+      "ar": "أحمر", "en": "red", "pos": "noun", "hsk": 2,
+      "note_ar": "يمكن حذف 色 قبل 的: 红的 «الأحمر».",
+      "ex": {"hz": "她的衣服是红色的。", "py": "Tā de yīfu shì hóngsè de.", "ar": "ملابسها حمراء.", "en": "Her clothes are red."}
+    },
+    {
+      "id": "baise", "hz": "白色", "py": "báisè", "pyn": "bai2 se4",
+      "ar": "أبيض", "en": "white", "pos": "noun", "hsk": 2,
+      "ex": {"hz": "我要白色的。", "py": "Wǒ yào báisè de.", "ar": "أريد الأبيض.", "en": "I want the white one."}
+    },
+    {
+      "id": "heise", "hz": "黑色", "py": "hēisè", "pyn": "hei1 se4",
+      "ar": "أسود", "en": "black", "pos": "noun", "hsk": 2,
+      "ex": {"hz": "他的猫是黑色的。", "py": "Tā de māo shì hēisè de.", "ar": "قطته سوداء.", "en": "His cat is black."}
+    },
+    {
+      "id": "lanse", "hz": "蓝色", "py": "lánsè", "pyn": "lan2 se4",
+      "ar": "أزرق", "en": "blue", "pos": "noun", "hsk": 3,
+      "ex": {"hz": "天是蓝色的。", "py": "Tiān shì lánsè de.", "ar": "السماء زرقاء.", "en": "The sky is blue."}
+    },
+    {
+      "id": "lvse", "hz": "绿色", "py": "lǜsè", "pyn": "lv4 se4",
+      "ar": "أخضر", "en": "green", "pos": "noun", "hsk": 3,
+      "ex": {"hz": "这个杯子是绿色的。", "py": "Zhège bēizi shì lǜsè de.", "ar": "هذا الكوب أخضر.", "en": "This cup is green."}
+    },
+    {
+      "id": "huangse", "hz": "黄色", "py": "huángsè", "pyn": "huang2 se4",
+      "ar": "أصفر", "en": "yellow", "pos": "noun", "hsk": 3,
+      "ex": {"hz": "我的车是黄色的。", "py": "Wǒ de chē shì huángsè de.", "ar": "سيارتي صفراء.", "en": "My car is yellow."}
+    },
+    {
+      "id": "fense", "hz": "粉色", "py": "fěnsè", "pyn": "fen3 se4",
+      "ar": "وردي", "en": "pink", "pos": "noun", "hsk": 3,
+      "ex": {"hz": "妹妹喜欢粉色。", "py": "Mèimei xǐhuan fěnsè.", "ar": "أختي الصغرى تحب اللون الوردي.", "en": "My younger sister likes pink."}
+    },
+    {
+      "id": "zise", "hz": "紫色", "py": "zǐsè", "pyn": "zi3 se4",
+      "ar": "بنفسجي", "en": "purple", "pos": "noun", "hsk": 3,
+      "ex": {"hz": "这件衣服是紫色的。", "py": "Zhè jiàn yīfu shì zǐsè de.", "ar": "هذا الثوب بنفسجي.", "en": "This piece of clothing is purple."}
+    },
+    {
+      "id": "huise", "hz": "灰色", "py": "huīsè", "pyn": "hui1 se4",
+      "ar": "رمادي", "en": "grey", "pos": "noun", "hsk": 3,
+      "ex": {"hz": "爸爸的手机是灰色的。", "py": "Bàba de shǒujī shì huīsè de.", "ar": "هاتف أبي رمادي.", "en": "Dad's phone is grey."}
+    },
+    {
+      "id": "chengse", "hz": "橙色", "py": "chéngsè", "pyn": "cheng2 se4",
+      "ar": "برتقالي", "en": "orange", "pos": "noun", "hsk": 3,
+      "ex": {"hz": "我想买橙色的。", "py": "Wǒ xiǎng mǎi chéngsè de.", "ar": "أريد أن أشتري البرتقالي.", "en": "I want to buy the orange one."}
+    },
+    {
+      "id": "jinse", "hz": "金色", "py": "jīnsè", "pyn": "jin1 se4",
+      "ar": "ذهبي", "en": "gold (color)", "pos": "noun", "hsk": 3,
+      "ex": {"hz": "这个手表是金色的。", "py": "Zhège shǒubiǎo shì jīnsè de.", "ar": "هذه الساعة ذهبية.", "en": "This watch is gold."}
+    }
+  ]
+}

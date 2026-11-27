@@ -1,0 +1,943 @@
+[
+  {
+    "id": "svo",
+    "level": 1,
+    "title": { "ar": "الفاعل + الفعل + المفعول به", "en": "Subject + Verb + Object" },
+    "pattern": "Subject + Verb + Object",
+    "summary": {
+      "ar": "الجملة الصينية الأساسية ترتيبها: الفاعل ثم الفعل ثم المفعول به، والفعل لا يتغيّر أبدًا.",
+      "en": "The basic Chinese sentence follows Subject–Verb–Object order, and the verb never changes form."
+    },
+    "explain": {
+      "ar": [
+        "في الصينية يأتي الفاعل أولًا، ثم الفعل، ثم المفعول به: 我喝茶 «أنا أشرب الشاي». وهذا يشبه الجملة العربية التي تبدأ بالفاعل: «أنا أشرب الشاي».",
+        "الفعل الصيني لا يُصرَّف: لا يتغيّر مع الضمير، ولا مع المذكّر والمؤنث، ولا مع الزمن. نقول 我喝 و他喝 و他们喝، والكلمة 喝 ثابتة دائمًا.",
+        "لا توجد «ال» التعريف، والأسماء في الغالب لا تُجمع: 茶 تعني «شاي» أو «الشاي» حسب السياق.",
+        "ترتيب الكلمات مهم جدًا لأن الصينية لا إعراب فيها: 我认识他 «أنا أعرفه» تختلف عن 他认识我 «هو يعرفني»."
+      ],
+      "en": [
+        "In Chinese the subject comes first, then the verb, then the object: 我喝茶 \"I drink tea\" — the same order as English.",
+        "Chinese verbs are never conjugated: they do not change for person, gender or tense. 我喝, 他喝 and 他们喝 all use the same word 喝.",
+        "There are no articles like \"the\" or \"a\", and nouns usually have no plural form: 茶 can mean \"tea\" or \"the tea\" depending on context.",
+        "Word order carries the meaning because Chinese has no case endings: 我认识他 \"I know him\" is different from 他认识我 \"He knows me\"."
+      ]
+    },
+    "examples": [
+      { "hz": "我喝茶。", "py": "Wǒ hē chá.", "ar": "أنا أشرب الشاي.", "en": "I drink tea." },
+      { "hz": "他吃米饭。", "py": "Tā chī mǐfàn.", "ar": "هو يأكل الأرز.", "en": "He eats rice." },
+      { "hz": "妈妈做饭。", "py": "Māma zuò fàn.", "ar": "أمي تطبخ الطعام.", "en": "Mom cooks." },
+      { "hz": "我们学习汉语。", "py": "Wǒmen xuéxí Hànyǔ.", "ar": "نحن ندرس اللغة الصينية.", "en": "We study Chinese." },
+      { "hz": "她看书。", "py": "Tā kàn shū.", "ar": "هي تقرأ كتابًا.", "en": "She reads a book." },
+      { "hz": "我认识他。", "py": "Wǒ rènshi tā.", "ar": "أنا أعرفه.", "en": "I know him." }
+    ],
+    "mistakes": [
+      {
+        "wrong": "我茶喝。",
+        "right": "我喝茶。",
+        "why": {
+          "ar": "المفعول به يأتي بعد الفعل لا قبله.",
+          "en": "The object comes after the verb, not before it."
+        }
+      },
+      {
+        "wrong": "我是喝茶。",
+        "right": "我喝茶。",
+        "why": {
+          "ar": "لا نضع 是 مع الأفعال العادية؛ الفعل 喝 يكفي وحده.",
+          "en": "Do not add 是 before ordinary verbs; 喝 is the verb on its own."
+        }
+      }
+    ],
+    "exercises": [
+      { "type": "order", "ar": "أنا أشرب الماء.", "tokens": ["我", "喝", "水"], "answer": "我喝水" },
+      { "type": "order", "ar": "نحن ندرس اللغة الصينية.", "tokens": ["我们", "学习", "汉语"], "answer": "我们学习汉语" },
+      {
+        "type": "mcq",
+        "q": "他___米饭。",
+        "py": "Tā ___ mǐfàn.",
+        "options": ["吃", "喝", "是"],
+        "answer": 0,
+        "why": { "ar": "الأرز يُؤكل، فالفعل المناسب 吃 «يأكل».", "en": "Rice is eaten, so the verb is 吃 \"to eat\"." }
+      },
+      {
+        "type": "mcq",
+        "q": "我___汉语。",
+        "py": "Wǒ ___ Hànyǔ.",
+        "options": ["喝", "学习", "吃"],
+        "answer": 1,
+        "why": { "ar": "اللغة تُدرَس: 学习 «يدرس/يتعلّم».", "en": "A language is studied: 学习 \"to study\"." }
+      },
+      { "type": "translate", "ar": "هي تقرأ كتابًا.", "en": "She reads a book.", "answer": "她看书", "accept": ["她看书", "她在看书", "她读书"] },
+      { "type": "translate", "ar": "أبي يشرب الشاي.", "en": "My dad drinks tea.", "answer": "爸爸喝茶", "accept": ["爸爸喝茶", "我爸爸喝茶"] }
+    ]
+  },
+  {
+    "id": "pronouns",
+    "level": 1,
+    "title": { "ar": "الضمائر الشخصية و们", "en": "Personal Pronouns and 们" },
+    "pattern": "我 / 你 / 他 / 她 + 们 = plural",
+    "summary": {
+      "ar": "الضمائر الصينية قليلة وسهلة، ونجمعها بإضافة 们 بعدها.",
+      "en": "Chinese pronouns are few and simple, and you make them plural by adding 们."
+    },
+    "explain": {
+      "ar": [
+        "الضمائر الأساسية: 我 «أنا»، 你 «أنتَ/أنتِ»، 他 «هو»، 她 «هي». وتُنطق 他 و她 بالطريقة نفسها tā، والفرق في الكتابة فقط.",
+        "للجمع نضيف 们: 我们 «نحن»، 你们 «أنتم/أنتنّ»، 他们 «هم»، 她们 «هنّ». لا يوجد مثنّى كما في العربية، ولا فرق بين «أنتَ» و«أنتِ» في النطق. وللاحترام نقول 您 بدل 你.",
+        "الضمير لا يتغيّر إذا كان مفعولًا به: 他认识我 «هو يعرفني». في العربية نُلحق «ـني» بالفعل، أما في الصينية فنستعمل 我 نفسها.",
+        "يمكن إضافة 们 إلى أسماء الناس مثل 老师们 و同学们، لكن لا نضيفها بعد الأعداد: نقول 三个学生 لا 三个学生们."
+      ],
+      "en": [
+        "The basic pronouns are 我 \"I\", 你 \"you\", 他 \"he\" and 她 \"she\". 他 and 她 are both pronounced tā; only the writing differs.",
+        "Add 们 for the plural: 我们 \"we\", 你们 \"you (plural)\", 他们 \"they\", 她们 \"they (female)\". For respect, use 您 instead of 你.",
+        "Pronouns do not change when they are objects: 他认识我 \"He knows me\" uses the same 我 as \"I\".",
+        "You can add 们 to nouns for people, like 老师们 and 同学们, but not after a number: say 三个学生, not 三个学生们."
+      ]
+    },
+    "examples": [
+      { "hz": "我是学生。", "py": "Wǒ shì xuésheng.", "ar": "أنا طالب.", "en": "I am a student." },
+      { "hz": "你们好！", "py": "Nǐmen hǎo!", "ar": "مرحبًا بكم!", "en": "Hello, everyone!" },
+      { "hz": "他们是我的朋友。", "py": "Tāmen shì wǒ de péngyou.", "ar": "هم أصدقائي.", "en": "They are my friends." },
+      { "hz": "她是我妈妈。", "py": "Tā shì wǒ māma.", "ar": "هي أمي.", "en": "She is my mom." },
+      { "hz": "您好，王老师！", "py": "Nín hǎo, Wáng lǎoshī!", "ar": "مرحبًا يا أستاذ وانغ!", "en": "Hello, Teacher Wang!" },
+      { "hz": "老师认识我们。", "py": "Lǎoshī rènshi wǒmen.", "ar": "المعلّم يعرفنا.", "en": "The teacher knows us." }
+    ],
+    "mistakes": [
+      {
+        "wrong": "我有三个朋友们。",
+        "right": "我有三个朋友。",
+        "why": {
+          "ar": "العدد يكفي للدلالة على الجمع، فلا نضيف 们 بعده.",
+          "en": "The number already shows the plural, so 们 is not added."
+        }
+      },
+      {
+        "wrong": "他是我妈妈。",
+        "right": "她是我妈妈。",
+        "why": {
+          "ar": "النطق واحد، لكن نكتب 她 للمؤنث و他 للمذكّر.",
+          "en": "They sound the same, but 她 is written for females and 他 for males."
+        }
+      }
+    ],
+    "exercises": [
+      { "type": "order", "ar": "هم أصدقائي.", "tokens": ["他们", "是", "我的", "朋友"], "answer": "他们是我的朋友" },
+      {
+        "type": "mcq",
+        "q": "___好，王老师！",
+        "py": "___ hǎo, Wáng lǎoshī!",
+        "options": ["它", "您", "们"],
+        "answer": 1,
+        "why": { "ar": "您 هي «أنتَ» بصيغة الاحترام، وتناسب مخاطبة المعلّم.", "en": "您 is the polite \"you\", right for addressing a teacher." }
+      },
+      {
+        "type": "mcq",
+        "q": "我 + 你 = ___",
+        "py": "Wǒ + nǐ = ___",
+        "options": ["我们", "你们", "他们"],
+        "answer": 0,
+        "why": { "ar": "«أنا وأنت» معًا = «نحن» 我们.", "en": "\"I\" and \"you\" together make \"we\": 我们." }
+      },
+      {
+        "type": "mcq",
+        "q": "同学___好！",
+        "py": "Tóngxué ___ hǎo!",
+        "options": ["她", "您", "们"],
+        "answer": 2,
+        "why": { "ar": "نضيف 们 لمخاطبة مجموعة من الزملاء: 同学们.", "en": "Add 们 to address a group of classmates: 同学们." }
+      },
+      { "type": "translate", "ar": "نحن طلاب.", "en": "We are students.", "answer": "我们是学生", "accept": ["我们是学生"] },
+      { "type": "translate", "ar": "هي معلّمتي.", "en": "She is my teacher.", "answer": "她是我的老师", "accept": ["她是我的老师", "她是我老师"] }
+    ]
+  },
+  {
+    "id": "shi-you",
+    "level": 1,
+    "title": { "ar": "أفعال أساسية: 是 و有 و叫 و在", "en": "Basic Verbs: 是, 有, 叫, 在" },
+    "pattern": "A + 是 + B · S + 有 + N · S + 叫 + Name · S + 在 + Place",
+    "summary": {
+      "ar": "أربعة أفعال تبني بها أولى جملك: 是 «يكون»، 有 «عنده/يوجد»، 叫 «اسمه»، 在 «موجود في».",
+      "en": "Four verbs for your first sentences: 是 \"to be\", 有 \"to have / there is\", 叫 \"to be called\", 在 \"to be at\"."
+    },
+    "explain": {
+      "ar": [
+        "是 يربط اسمًا باسم: 我是苏丹人 «أنا سوداني». في العربية نقول «أنا سوداني» بلا فعل، أما الصينية فتحتاج 是 بين الاسمين. والنفي 不是.",
+        "有 تعني «عندي/لديّ»، وتعني أيضًا «يوجد/هناك»: 我有一个哥哥 «لديّ أخ أكبر»، 学校里有很多学生 «في المدرسة طلاب كثيرون». ونفيها دائمًا 没有، ولا نقول 不有 أبدًا.",
+        "叫 تعني «يُدعى/اسمه»: 我叫阿里 «اسمي علي». ولذكر اسم العائلة نستعمل 姓: 我姓王.",
+        "在 فعل بمعنى «موجود في»: 我在学校 «أنا في المدرسة»، 妈妈在家 «أمي في البيت». ونفيه 不在، ولا نضع 是 قبله."
+      ],
+      "en": [
+        "是 links two nouns: 我是苏丹人 \"I am Sudanese\". Its negative is 不是.",
+        "有 means \"to have\" and also \"there is/are\": 我有一个哥哥 \"I have an older brother\", 学校里有很多学生 \"There are many students at the school\". Its negative is always 没有, never 不有.",
+        "叫 means \"to be called\": 我叫阿里 \"My name is Ali\". For a family name use 姓: 我姓王 \"My surname is Wang\".",
+        "在 as a verb means \"to be at/in\": 我在学校 \"I am at school\", 妈妈在家 \"Mom is at home\". Its negative is 不在, and no 是 is needed."
+      ]
+    },
+    "examples": [
+      { "hz": "我是苏丹人。", "py": "Wǒ shì Sūdānrén.", "ar": "أنا سوداني.", "en": "I am Sudanese." },
+      { "hz": "她叫法蒂玛。", "py": "Tā jiào Fǎdìmǎ.", "ar": "اسمها فاطمة.", "en": "Her name is Fatima." },
+      { "hz": "我有一个哥哥。", "py": "Wǒ yǒu yī gè gēge.", "ar": "لديّ أخ أكبر.", "en": "I have an older brother." },
+      { "hz": "爸爸在家。", "py": "Bàba zài jiā.", "ar": "أبي في البيت.", "en": "Dad is at home." },
+      { "hz": "学校里有很多学生。", "py": "Xuéxiào li yǒu hěn duō xuésheng.", "ar": "يوجد في المدرسة طلاب كثيرون.", "en": "There are many students at the school." },
+      { "hz": "老师不在教室。", "py": "Lǎoshī bù zài jiàoshì.", "ar": "المعلّم ليس في الفصل.", "en": "The teacher is not in the classroom." }
+    ],
+    "mistakes": [
+      {
+        "wrong": "我不有哥哥。",
+        "right": "我没有哥哥。",
+        "why": {
+          "ar": "الفعل 有 يُنفى دائمًا بـ 没 فنقول 没有.",
+          "en": "有 is always negated with 没: 没有."
+        }
+      },
+      {
+        "wrong": "我是在家。",
+        "right": "我在家。",
+        "why": {
+          "ar": "在 هنا هو الفعل نفسه بمعنى «موجود في»، فلا حاجة إلى 是.",
+          "en": "在 is already the verb \"to be at\", so 是 is not needed."
+        }
+      }
+    ],
+    "exercises": [
+      { "type": "order", "ar": "اسمي علي.", "tokens": ["我", "叫", "阿里"], "answer": "我叫阿里" },
+      { "type": "order", "ar": "أمي في البيت.", "tokens": ["妈妈", "在", "家"], "answer": "妈妈在家" },
+      {
+        "type": "mcq",
+        "q": "我___两个妹妹。",
+        "py": "Wǒ ___ liǎng gè mèimei.",
+        "options": ["是", "有", "在"],
+        "answer": 1,
+        "why": { "ar": "للتعبير عن «لديّ» نستعمل 有.", "en": "Use 有 to say \"I have\"." }
+      },
+      {
+        "type": "mcq",
+        "q": "我___中国人，我是沙特人。",
+        "py": "Wǒ ___ Zhōngguórén, wǒ shì Shātèrén.",
+        "options": ["不是", "没有", "不在"],
+        "answer": 0,
+        "why": { "ar": "نفي 是 هو 不是 «لستُ».", "en": "The negative of 是 is 不是 \"am not\"." }
+      },
+      { "type": "translate", "ar": "لديّ صديق صيني.", "en": "I have a Chinese friend.", "answer": "我有一个中国朋友", "accept": ["我有一个中国朋友", "我有中国朋友"] },
+      { "type": "translate", "ar": "أنا طالب.", "en": "I am a student.", "answer": "我是学生", "accept": ["我是学生", "我是一个学生"] }
+    ]
+  },
+  {
+    "id": "adjectives",
+    "level": 1,
+    "title": { "ar": "الصفات مع 很", "en": "Adjectives with 很" },
+    "pattern": "S + 很 + Adj",
+    "summary": {
+      "ar": "الصفة في الصينية تعمل كالخبر مباشرةً بلا 是، وغالبًا نضع قبلها 很.",
+      "en": "A Chinese adjective works as the predicate directly, without 是, usually with 很 before it."
+    },
+    "explain": {
+      "ar": [
+        "في العربية نقول «البيت كبير» بلا فعل «يكون». والصينية مثلها: 房子很大، ولا نقول 房子是大.",
+        "كلمة 很 معناها الأصلي «جدًا»، لكنها في الجمل الخبرية العادية تأتي غالبًا للربط فقط: 他很高 تعني «هو طويل». وإذا حذفنا 很 بدت الجملة مقارنة: 这个大，那个小 «هذا أكبر، وذاك أصغر».",
+        "للنفي نضع 不 قبل الصفة بلا 很: 我不忙 «لستُ مشغولًا». وللسؤال نضيف 吗: 你忙吗؟",
+        "كلمات أخرى للدرجة: 非常 «جدًا جدًا»، و太…了 «أكثر من اللازم»: 太贵了！ «غالٍ جدًا!»."
+      ],
+      "en": [
+        "In Chinese, adjectives act like verbs, so there is no 是 before them: 房子很大 \"The house is big\", not 房子是大.",
+        "很 literally means \"very\", but in plain statements it mostly just links: 他很高 simply means \"He is tall\". A bare adjective without 很 sounds like a comparison: 这个大，那个小 \"This one is bigger, that one is smaller\".",
+        "To negate, put 不 before the adjective, with no 很: 我不忙 \"I'm not busy\". To ask, add 吗: 你忙吗？",
+        "Other degree words: 非常 \"extremely\" and 太…了 \"too\": 太贵了！ \"It's too expensive!\""
+      ]
+    },
+    "examples": [
+      { "hz": "我很好。", "py": "Wǒ hěn hǎo.", "ar": "أنا بخير.", "en": "I'm fine." },
+      { "hz": "今天很热。", "py": "Jīntiān hěn rè.", "ar": "الجو حارّ اليوم.", "en": "It's hot today." },
+      { "hz": "这个苹果很大。", "py": "Zhège píngguǒ hěn dà.", "ar": "هذه التفاحة كبيرة.", "en": "This apple is big." },
+      { "hz": "我的老师非常好。", "py": "Wǒ de lǎoshī fēicháng hǎo.", "ar": "معلّمي رائع جدًا.", "en": "My teacher is really great." },
+      { "hz": "米饭不贵。", "py": "Mǐfàn bù guì.", "ar": "الأرز ليس غاليًا.", "en": "Rice isn't expensive." },
+      { "hz": "太贵了！", "py": "Tài guì le!", "ar": "غالٍ جدًا!", "en": "It's too expensive!" }
+    ],
+    "mistakes": [
+      {
+        "wrong": "我是很高。",
+        "right": "我很高。",
+        "why": {
+          "ar": "لا نضع 是 قبل الصفة؛ الصفة تكفي كما في «أنا طويل».",
+          "en": "No 是 before an adjective; the adjective is the predicate."
+        }
+      },
+      {
+        "wrong": "她是漂亮。",
+        "right": "她很漂亮。",
+        "why": {
+          "ar": "مع الصفات نستعمل 很 بدل 是.",
+          "en": "Use 很, not 是, with adjectives."
+        }
+      }
+    ],
+    "exercises": [
+      { "type": "order", "ar": "الجو حارّ اليوم.", "tokens": ["今天", "很", "热"], "answer": "今天很热" },
+      { "type": "order", "ar": "أنا لست مشغولًا.", "tokens": ["我", "不", "忙"], "answer": "我不忙" },
+      {
+        "type": "mcq",
+        "q": "我___忙。",
+        "py": "Wǒ ___ máng.",
+        "options": ["很", "是", "有"],
+        "answer": 0,
+        "why": { "ar": "قبل الصفة 忙 نضع 很 لا 是.", "en": "Before the adjective 忙 use 很, not 是." }
+      },
+      {
+        "type": "mcq",
+        "q": "这个杯子___大。",
+        "py": "Zhège bēizi ___ dà.",
+        "options": ["是", "很", "在"],
+        "answer": 1,
+        "why": { "ar": "大 صفة، فنستعمل 很 للربط.", "en": "大 is an adjective, so 很 links it." }
+      },
+      { "type": "translate", "ar": "الشاي ساخن.", "en": "The tea is hot.", "answer": "茶很热", "accept": ["茶很热", "这杯茶很热"] },
+      { "type": "translate", "ar": "أنا بخير.", "en": "I'm fine.", "answer": "我很好", "accept": ["我很好"] }
+    ]
+  },
+  {
+    "id": "bu-mei",
+    "level": 1,
+    "title": { "ar": "النفي: 不 و没/没有", "en": "Negation: 不 vs 没 / 没有" },
+    "pattern": "不 + V / Adj · 没(有) + V · 没有 + N",
+    "summary": {
+      "ar": "نستعمل 不 لنفي العادات والحاضر والمستقبل والصفات، و没 لنفي ما لم يحدث في الماضي ولنفي 有.",
+      "en": "Use 不 for habits, present, future and adjectives; use 没 for things that did not happen and to negate 有."
+    },
+    "explain": {
+      "ar": [
+        "不 تشبه «لا/لن/ليس» في العربية: 我不喝咖啡 «لا أشرب القهوة»، 明天我不去 «لن أذهب غدًا»، 他不是医生 «ليس طبيبًا»، 我不忙 «لستُ مشغولًا».",
+        "没 أو 没有 تشبه «لم»: 昨天我没去学校 «أمس لم أذهب إلى المدرسة». وتُستعمل أيضًا لنفي 有: 我没有钱 «ليس معي مال». ولا نقول 不有 أبدًا.",
+        "عند النفي بـ 没 نحذف 了: نقول 我没吃饭 «لم آكل» لا 我没吃饭了.",
+        "ملاحظة في النطق: تُكتب 不 هنا بنغمتها الأصلية bù، لكنها تُنطق bú قبل كلمة من النغمة الرابعة، مثل 不是 و不去."
+      ],
+      "en": [
+        "不 negates habits, the present, the future, wishes and adjectives: 我不喝咖啡 \"I don't drink coffee\", 明天我不去 \"I won't go tomorrow\", 他不是医生 \"He isn't a doctor\".",
+        "没 or 没有 negates actions that did not happen: 昨天我没去学校 \"I didn't go to school yesterday\". It also negates 有: 我没有钱 \"I don't have money\". Never say 不有.",
+        "When negating with 没, drop 了: 我没吃饭 \"I didn't eat\", not 我没吃饭了.",
+        "Pronunciation: 不 is written here in its citation tone bù, but it is pronounced bú before a fourth-tone syllable, as in 不是 and 不去."
+      ]
+    },
+    "examples": [
+      { "hz": "我不喝咖啡。", "py": "Wǒ bù hē kāfēi.", "ar": "أنا لا أشرب القهوة.", "en": "I don't drink coffee." },
+      { "hz": "他不是医生。", "py": "Tā bù shì yīshēng.", "ar": "هو ليس طبيبًا.", "en": "He is not a doctor." },
+      { "hz": "明天我不去学校。", "py": "Míngtiān wǒ bù qù xuéxiào.", "ar": "لن أذهب إلى المدرسة غدًا.", "en": "I'm not going to school tomorrow." },
+      { "hz": "昨天我没去学校。", "py": "Zuótiān wǒ méi qù xuéxiào.", "ar": "لم أذهب إلى المدرسة أمس.", "en": "I didn't go to school yesterday." },
+      { "hz": "我没有钱。", "py": "Wǒ méiyǒu qián.", "ar": "ليس معي مال.", "en": "I don't have any money." },
+      { "hz": "她还没吃饭。", "py": "Tā hái méi chīfàn.", "ar": "هي لم تأكل بعد.", "en": "She hasn't eaten yet." }
+    ],
+    "mistakes": [
+      {
+        "wrong": "我不有时间。",
+        "right": "我没有时间。",
+        "why": {
+          "ar": "有 يُنفى دائمًا بـ 没.",
+          "en": "有 is always negated with 没."
+        }
+      },
+      {
+        "wrong": "昨天我不去学校。",
+        "right": "昨天我没去学校。",
+        "why": {
+          "ar": "الحدث في الماضي لم يقع، فنستعمل 没 بمعنى «لم».",
+          "en": "For a past action that did not happen, use 没 (\"didn't\")."
+        }
+      },
+      {
+        "wrong": "我没吃饭了。",
+        "right": "我没吃饭。",
+        "why": {
+          "ar": "لا نجمع بين 没 و了 في الجملة نفسها.",
+          "en": "Do not use 了 together with 没."
+        }
+      }
+    ],
+    "exercises": [
+      {
+        "type": "mcq",
+        "q": "我___有哥哥。",
+        "py": "Wǒ ___ yǒu gēge.",
+        "options": ["不", "没", "很"],
+        "answer": 1,
+        "why": { "ar": "نفي 有 هو 没有.", "en": "The negative of 有 is 没有." }
+      },
+      {
+        "type": "mcq",
+        "q": "我___喜欢咖啡。",
+        "py": "Wǒ ___ xǐhuan kāfēi.",
+        "options": ["没", "有", "不"],
+        "answer": 2,
+        "why": { "ar": "الحديث عن ذوق دائم، فنستعمل 不.", "en": "This is a general preference, so use 不." }
+      },
+      {
+        "type": "mcq",
+        "q": "昨天他___来。",
+        "py": "Zuótiān tā ___ lái.",
+        "options": ["没", "不", "是"],
+        "answer": 0,
+        "why": { "ar": "حدث في الماضي لم يقع: 没 «لم».", "en": "A past event that didn't happen: 没 \"didn't\"." }
+      },
+      { "type": "order", "ar": "أنا لست صينيًّا.", "tokens": ["我", "不是", "中国人"], "answer": "我不是中国人" },
+      { "type": "order", "ar": "لم آكل بعد.", "tokens": ["我", "还", "没", "吃饭"], "answer": "我还没吃饭" },
+      { "type": "translate", "ar": "ليس لديّ وقت.", "en": "I don't have time.", "answer": "我没有时间", "accept": ["我没有时间", "我没时间"] }
+    ]
+  },
+  {
+    "id": "ma",
+    "level": 1,
+    "title": { "ar": "أسئلة «نعم/لا» بـ 吗", "en": "Yes/No Questions with 吗" },
+    "pattern": "Statement + 吗？ · V + 不 + V？",
+    "summary": {
+      "ar": "أضِف 吗 إلى آخر الجملة الخبرية فتصبح سؤالًا جوابه «نعم» أو «لا».",
+      "en": "Add 吗 to the end of a statement to turn it into a yes/no question."
+    },
+    "explain": {
+      "ar": [
+        "يكفي أن تضيف 吗 في آخر الجملة دون تغيير ترتيبها: 你是学生。← 你是学生吗？ وهي تشبه «هل» في العربية، لكنها تأتي في آخر الجملة.",
+        "في الجواب نكرّر الفعل أو الصفة بدل «نعم» و«لا»: 你喝茶吗？— 喝。/ 不喝。 ويمكن قول 对 بمعنى «صحيح».",
+        "طريقة أخرى: الفعل + 不 + الفعل نفسه: 你是不是学生？ 你喝不喝茶？ ومع 有 نقول 有没有. ولا نضيف 吗 إلى هذا النوع من الأسئلة."
+      ],
+      "en": [
+        "Just add 吗 at the end without changing the word order: 你是学生。→ 你是学生吗？",
+        "Answer by repeating the verb or adjective instead of \"yes\" or \"no\": 你喝茶吗？— 喝。/ 不喝。 You can also say 对 \"right\".",
+        "Another way is verb + 不 + verb: 你是不是学生？ 你喝不喝茶？ With 有 it is 有没有. Never add 吗 to this kind of question."
+      ]
+    },
+    "examples": [
+      { "hz": "你是学生吗？", "py": "Nǐ shì xuésheng ma?", "ar": "هل أنت طالب؟", "en": "Are you a student?" },
+      { "hz": "你喝茶吗？", "py": "Nǐ hē chá ma?", "ar": "هل تشرب الشاي؟", "en": "Do you drink tea?" },
+      { "hz": "你忙吗？", "py": "Nǐ máng ma?", "ar": "هل أنت مشغول؟", "en": "Are you busy?" },
+      { "hz": "他是不是你哥哥？", "py": "Tā shì bu shì nǐ gēge?", "ar": "هل هو أخوك الأكبر؟", "en": "Is he your older brother?" },
+      { "hz": "你有没有妹妹？", "py": "Nǐ yǒu méiyǒu mèimei?", "ar": "هل لديك أخت صغرى؟", "en": "Do you have a younger sister?" },
+      { "hz": "你去不去学校？", "py": "Nǐ qù bu qù xuéxiào?", "ar": "هل ستذهب إلى المدرسة؟", "en": "Are you going to school?" }
+    ],
+    "mistakes": [
+      {
+        "wrong": "你是不是学生吗？",
+        "right": "你是不是学生？",
+        "why": {
+          "ar": "صيغة «فعل + 不 + فعل» سؤال كامل، فلا نضيف 吗.",
+          "en": "The verb-not-verb form is already a question, so no 吗."
+        }
+      },
+      {
+        "wrong": "你吗喝茶？",
+        "right": "你喝茶吗？",
+        "why": {
+          "ar": "吗 تأتي في آخر الجملة دائمًا.",
+          "en": "吗 always goes at the very end of the sentence."
+        }
+      }
+    ],
+    "exercises": [
+      { "type": "order", "ar": "هل أنت مشغول؟", "tokens": ["你", "忙", "吗"], "answer": "你忙吗" },
+      { "type": "order", "ar": "هل لديك أخ أكبر؟", "tokens": ["你", "有", "哥哥", "吗"], "answer": "你有哥哥吗" },
+      {
+        "type": "mcq",
+        "q": "你喝___喝茶？",
+        "py": "Nǐ hē ___ hē chá?",
+        "options": ["不", "没", "吗"],
+        "answer": 0,
+        "why": { "ar": "صيغة السؤال: الفعل + 不 + الفعل.", "en": "The pattern is verb + 不 + verb." }
+      },
+      {
+        "type": "mcq",
+        "q": "A：你是老师吗？ B：___，我是学生。",
+        "py": "A: Nǐ shì lǎoshī ma? B: ___, wǒ shì xuésheng.",
+        "options": ["是", "不是", "没有"],
+        "answer": 1,
+        "why": { "ar": "هو طالب لا معلّم، فالجواب بالنفي 不是.", "en": "He is a student, not a teacher, so the answer is 不是." }
+      },
+      { "type": "translate", "ar": "هل هي صينية؟", "en": "Is she Chinese?", "answer": "她是中国人吗", "accept": ["她是中国人吗", "她是不是中国人"] },
+      { "type": "translate", "ar": "هل تشرب القهوة؟", "en": "Do you drink coffee?", "answer": "你喝咖啡吗", "accept": ["你喝咖啡吗", "你喝不喝咖啡"] }
+    ]
+  },
+  {
+    "id": "question-words",
+    "level": 1,
+    "title": { "ar": "أدوات الاستفهام", "en": "Question Words" },
+    "pattern": "Question word stays where the answer goes: 你叫什么？→ 我叫阿里。",
+    "summary": {
+      "ar": "أداة الاستفهام الصينية تبقى في مكان الجواب نفسه، ولا تنتقل إلى أول الجملة.",
+      "en": "A Chinese question word stays where the answer would be; it does not move to the front."
+    },
+    "explain": {
+      "ar": [
+        "في العربية نقدّم أداة الاستفهام: «أين تذهب؟». أما في الصينية فنضعها في موضع الجواب: 你去哪儿？ ← 我去学校。",
+        "لا نضيف 吗 مع أدوات الاستفهام، فالسؤال واضح بها.",
+        "أهم الأدوات: 什么 «ما/ماذا»، 谁 «مَن»، 哪儿 «أين»، 哪 «أيّ» (مع كلمة عدّ أو 国)، 几 «كم» للأعداد الصغيرة مع كلمة عدّ، 多少 «كم» لأي عدد وللسعر، 怎么 «كيف»، 为什么 «لماذا»."
+      ],
+      "en": [
+        "Unlike English, the question word does not move to the front. Put it where the answer goes: 你去哪儿？ → 我去学校。",
+        "Do not add 吗 to a question that already has a question word.",
+        "Key words: 什么 \"what\", 谁 \"who\", 哪儿 \"where\", 哪 \"which\" (with a measure word or 国), 几 \"how many\" for small numbers with a measure word, 多少 \"how many/how much\" for any number and prices, 怎么 \"how\", 为什么 \"why\"."
+      ]
+    },
+    "examples": [
+      { "hz": "你叫什么名字？", "py": "Nǐ jiào shénme míngzi?", "ar": "ما اسمك؟", "en": "What's your name?" },
+      { "hz": "他是谁？", "py": "Tā shì shéi?", "ar": "مَن هو؟", "en": "Who is he?" },
+      { "hz": "你家在哪儿？", "py": "Nǐ jiā zài nǎr?", "ar": "أين بيتك؟", "en": "Where is your home?" },
+      { "hz": "你是哪国人？", "py": "Nǐ shì nǎ guó rén?", "ar": "من أيّ بلد أنت؟", "en": "Which country are you from?" },
+      { "hz": "你家有几口人？", "py": "Nǐ jiā yǒu jǐ kǒu rén?", "ar": "كم فردًا في عائلتك؟", "en": "How many people are in your family?" },
+      { "hz": "你为什么学习汉语？", "py": "Nǐ wèishénme xuéxí Hànyǔ?", "ar": "لماذا تدرس اللغة الصينية؟", "en": "Why are you studying Chinese?" }
+    ],
+    "mistakes": [
+      {
+        "wrong": "什么你喝？",
+        "right": "你喝什么？",
+        "why": {
+          "ar": "أداة الاستفهام تبقى في موضع المفعول به، بعد الفعل.",
+          "en": "The question word stays in the object position, after the verb."
+        }
+      },
+      {
+        "wrong": "你叫什么名字吗？",
+        "right": "你叫什么名字？",
+        "why": {
+          "ar": "لا نجمع بين 吗 وأداة استفهام.",
+          "en": "Do not use 吗 together with a question word."
+        }
+      },
+      {
+        "wrong": "你们学校有几学生？",
+        "right": "你们学校有多少学生？",
+        "why": {
+          "ar": "几 للأعداد الصغيرة وتحتاج كلمة عدّ، أما 多少 فللأعداد الكبيرة.",
+          "en": "几 is for small numbers and needs a measure word; use 多少 for large numbers."
+        }
+      }
+    ],
+    "exercises": [
+      { "type": "order", "ar": "ماذا تشرب؟", "tokens": ["你", "喝", "什么"], "answer": "你喝什么" },
+      { "type": "order", "ar": "أين المعلّم؟", "tokens": ["老师", "在", "哪儿"], "answer": "老师在哪儿" },
+      {
+        "type": "mcq",
+        "q": "这个杯子___钱？",
+        "py": "Zhège bēizi ___ qián?",
+        "options": ["多少", "几", "什么"],
+        "answer": 0,
+        "why": { "ar": "للسؤال عن السعر نقول 多少钱.", "en": "To ask a price, say 多少钱." }
+      },
+      {
+        "type": "mcq",
+        "q": "你___去机场？——坐出租车去。",
+        "py": "Nǐ ___ qù jīchǎng? — Zuò chūzūchē qù.",
+        "options": ["什么", "怎么", "谁"],
+        "answer": 1,
+        "why": { "ar": "الجواب وسيلة المواصلات، فالسؤال بـ 怎么 «كيف».", "en": "The answer is a means of transport, so ask with 怎么 \"how\"." }
+      },
+      {
+        "type": "mcq",
+        "q": "他是___？——他是我哥哥。",
+        "py": "Tā shì ___? — Tā shì wǒ gēge.",
+        "options": ["哪儿", "几", "谁"],
+        "answer": 2,
+        "why": { "ar": "السؤال عن شخص: 谁 «مَن».", "en": "Asking about a person: 谁 \"who\"." }
+      },
+      { "type": "translate", "ar": "من أيّ بلد أنت؟", "en": "Which country are you from?", "answer": "你是哪国人", "accept": ["你是哪国人", "你是哪个国家的人"] }
+    ]
+  },
+  {
+    "id": "measure-words",
+    "level": 1,
+    "title": { "ar": "كلمات العدّ", "en": "Measure Words" },
+    "pattern": "Number / 这 / 那 + MW + Noun",
+    "summary": {
+      "ar": "بين العدد (أو 这/那) والاسم نضع دائمًا كلمة عدّ مثل 个 أو 本.",
+      "en": "Between a number (or 这/那) and a noun you always need a measure word such as 个 or 本."
+    },
+    "explain": {
+      "ar": [
+        "في العربية نقول أحيانًا «ثلاث حبّات تفاح» أو «كوبان من الشاي». والصينية تفعل ذلك دائمًا: 三个苹果، 两杯茶. لا يصحّ أن نقول 三苹果.",
+        "أشهر كلمات العدّ: 个 العامّة للناس والأشياء، 本 للكتب، 口 لأفراد العائلة (我家有五口人)، 杯 للكوب، 张 للأشياء المسطّحة كالطاولة والورقة والتذكرة، 位 للأشخاص باحترام (一位老师)، 块 للقطعة وللعملة «يوان» في الكلام (三块钱).",
+        "نستعمل كلمة العدّ أيضًا بعد 这 «هذا» و那 «ذلك» و哪 «أيّ»: 这本书، 那个人، 哪位老师؟",
+        "العدد «اثنان» قبل كلمة العدّ يكون 两 لا 二: 两个人. أما 二 فللعدّ المجرّد وأرقام الهاتف وفي الأعداد مثل 十二 و第二."
+      ],
+      "en": [
+        "English sometimes says \"two cups of tea\" or \"a piece of paper\"; Chinese always does this: 三个苹果, 两杯茶. 三苹果 is wrong.",
+        "Common measure words: 个 general, for people and things; 本 for books; 口 for family members (我家有五口人); 杯 for cups and glasses; 张 for flat things like tables, paper and tickets; 位 for people, politely (一位老师); 块 for pieces, and for yuan in speech (三块钱).",
+        "Measure words are also used after 这 \"this\", 那 \"that\" and 哪 \"which\": 这本书, 那个人, 哪位老师？",
+        "\"Two\" before a measure word is 两, not 二: 两个人. 二 is for counting, phone numbers and inside numbers like 十二 and 第二."
+      ]
+    },
+    "examples": [
+      { "hz": "我有一本书。", "py": "Wǒ yǒu yī běn shū.", "ar": "لديّ كتاب.", "en": "I have a book." },
+      { "hz": "我要两杯茶。", "py": "Wǒ yào liǎng bēi chá.", "ar": "أريد كوبين من الشاي.", "en": "I'd like two cups of tea." },
+      { "hz": "我家有五口人。", "py": "Wǒ jiā yǒu wǔ kǒu rén.", "ar": "عائلتي خمسة أفراد.", "en": "There are five people in my family." },
+      { "hz": "这张桌子很大。", "py": "Zhè zhāng zhuōzi hěn dà.", "ar": "هذه الطاولة كبيرة.", "en": "This table is big." },
+      { "hz": "那位老师是我爸爸的朋友。", "py": "Nà wèi lǎoshī shì wǒ bàba de péngyou.", "ar": "ذلك المعلّم صديق أبي.", "en": "That teacher is my dad's friend." },
+      { "hz": "这个三块钱。", "py": "Zhège sān kuài qián.", "ar": "هذا بثلاثة يوانات.", "en": "This one is three yuan." }
+    ],
+    "mistakes": [
+      {
+        "wrong": "我有三书。",
+        "right": "我有三本书。",
+        "why": {
+          "ar": "لا بدّ من كلمة عدّ بين العدد والاسم، وللكتب 本.",
+          "en": "A measure word is required between the number and the noun; books take 本."
+        }
+      },
+      {
+        "wrong": "二个人",
+        "right": "两个人",
+        "why": {
+          "ar": "قبل كلمة العدّ نستعمل 两 لا 二.",
+          "en": "Before a measure word, use 两, not 二."
+        }
+      }
+    ],
+    "exercises": [
+      {
+        "type": "mcq",
+        "q": "我有两___书。",
+        "py": "Wǒ yǒu liǎng ___ shū.",
+        "options": ["本", "个", "杯"],
+        "answer": 0,
+        "why": { "ar": "كلمة العدّ للكتب هي 本.", "en": "The measure word for books is 本." }
+      },
+      {
+        "type": "mcq",
+        "q": "我要一___水。",
+        "py": "Wǒ yào yī ___ shuǐ.",
+        "options": ["张", "杯", "口"],
+        "answer": 1,
+        "why": { "ar": "الماء يُقدَّم في كوب: 杯.", "en": "Water comes in a glass: 杯." }
+      },
+      {
+        "type": "mcq",
+        "q": "我有___个哥哥。",
+        "py": "Wǒ yǒu ___ gè gēge.",
+        "options": ["二", "两", "第二"],
+        "answer": 1,
+        "why": { "ar": "قبل كلمة العدّ 个 نقول 两.", "en": "Before the measure word 个, use 两." }
+      },
+      {
+        "type": "mcq",
+        "q": "那___老师是谁？",
+        "py": "Nà ___ lǎoshī shì shéi?",
+        "options": ["本", "块", "位"],
+        "answer": 2,
+        "why": { "ar": "位 كلمة عدّ مهذّبة للأشخاص.", "en": "位 is the polite measure word for people." }
+      },
+      { "type": "order", "ar": "لديّ ثلاثة كتب.", "tokens": ["我", "有", "三", "本", "书"], "answer": "我有三本书" },
+      { "type": "translate", "ar": "أريد كوبين من الشاي.", "en": "I'd like two cups of tea.", "answer": "我要两杯茶", "accept": ["我要两杯茶", "我想要两杯茶"] }
+    ]
+  },
+  {
+    "id": "de",
+    "level": 1,
+    "title": { "ar": "الأداة 的 للملكية والوصف", "en": "的 for Possession and Description" },
+    "pattern": "Owner + 的 + Thing · Description + 的 + Noun",
+    "summary": {
+      "ar": "的 تربط المالك أو الوصف بالاسم الذي بعده، ويأتي المالك أولًا.",
+      "en": "的 links an owner or a description to the noun after it, with the owner first."
+    },
+    "explain": {
+      "ar": [
+        "的 تشبه الإضافة في العربية لكن بترتيب معكوس: «كتاب المعلّم» = 老师的书، فالمالك يأتي أولًا ثم 的 ثم الشيء.",
+        "مع الضمائر: 我的 «لي/ـي»، 你的 «لك/ـك»: 我的书 «كتابي»، 他的手机 «هاتفه».",
+        "تأتي 的 أيضًا بعد الوصف: 很漂亮的衣服 «ملابس جميلة جدًا»، 妈妈做的饭 «الطعام الذي تطبخه أمي». أما الصفة القصيرة من مقطع واحد فلا تحتاج 的 غالبًا: 好朋友 «صديق جيّد».",
+        "مع أفراد العائلة المقرّبين والجماعات القريبة نحذف 的 عادةً: 我妈妈 «أمي»، 我家 «بيتي»، 我们学校 «مدرستنا». و我的妈妈 ليست خطأ لكنها أقلّ طبيعية."
+      ],
+      "en": [
+        "的 works like English \"'s\": 老师的书 \"the teacher's book\" — owner first, then 的, then the thing.",
+        "With pronouns it makes possessives: 我的 \"my/mine\", 你的 \"your\": 我的书 \"my book\", 他的手机 \"his phone\".",
+        "的 also follows descriptions: 很漂亮的衣服 \"very beautiful clothes\", 妈妈做的饭 \"the food Mom cooks\". A one-syllable adjective usually needs no 的: 好朋友 \"good friend\".",
+        "With close family and groups you belong to, 的 is usually dropped: 我妈妈 \"my mom\", 我家 \"my home\", 我们学校 \"our school\". 我的妈妈 is not wrong, just less natural."
+      ]
+    },
+    "examples": [
+      { "hz": "这是老师的书。", "py": "Zhè shì lǎoshī de shū.", "ar": "هذا كتاب المعلّم.", "en": "This is the teacher's book." },
+      { "hz": "我的手机在桌子上。", "py": "Wǒ de shǒujī zài zhuōzi shang.", "ar": "هاتفي على الطاولة.", "en": "My phone is on the table." },
+      { "hz": "我妈妈是医生。", "py": "Wǒ māma shì yīshēng.", "ar": "أمي طبيبة.", "en": "My mom is a doctor." },
+      { "hz": "他是我的好朋友。", "py": "Tā shì wǒ de hǎo péngyou.", "ar": "هو صديقي العزيز.", "en": "He is my good friend." },
+      { "hz": "这是一件很漂亮的衣服。", "py": "Zhè shì yī jiàn hěn piàoliang de yīfu.", "ar": "هذه قطعة ملابس جميلة جدًا.", "en": "This is a very beautiful piece of clothing." },
+      { "hz": "妈妈做的饭很好吃。", "py": "Māma zuò de fàn hěn hǎochī.", "ar": "الطعام الذي تطبخه أمي لذيذ جدًا.", "en": "The food Mom cooks is delicious." }
+    ],
+    "mistakes": [
+      {
+        "wrong": "书的老师",
+        "right": "老师的书",
+        "why": {
+          "ar": "لقول «كتاب المعلّم» يأتي المالك أولًا: 老师的书. أما 书的老师 فمعناها «معلّم الكتاب».",
+          "en": "For \"the teacher's book\" the owner comes first: 老师的书. 书的老师 would mean \"the book's teacher\"."
+        }
+      },
+      {
+        "wrong": "他是很好朋友。",
+        "right": "他是很好的朋友。",
+        "why": {
+          "ar": "إذا كان قبل الصفة 很 فلا بدّ من 的 قبل الاسم.",
+          "en": "When the adjective has 很, 的 is needed before the noun."
+        }
+      }
+    ],
+    "exercises": [
+      { "type": "order", "ar": "هذا كتابي.", "tokens": ["这", "是", "我的", "书"], "answer": "这是我的书" },
+      { "type": "order", "ar": "أمي معلّمة.", "tokens": ["我", "妈妈", "是", "老师"], "answer": "我妈妈是老师" },
+      {
+        "type": "mcq",
+        "q": "这是___手机。",
+        "py": "Zhè shì ___ shǒujī.",
+        "options": ["他的", "他", "的他"],
+        "answer": 0,
+        "why": { "ar": "للملكية نقول الضمير + 的: 他的 «له/ـه».", "en": "Possession is pronoun + 的: 他的 \"his\"." }
+      },
+      {
+        "type": "mcq",
+        "q": "老师___书",
+        "py": "lǎoshī ___ shū",
+        "options": ["是", "的", "很"],
+        "answer": 1,
+        "why": { "ar": "«كتاب المعلّم» = 老师的书.", "en": "\"The teacher's book\" is 老师的书." }
+      },
+      { "type": "translate", "ar": "هذا هاتف أخي الأكبر.", "en": "This is my older brother's phone.", "answer": "这是我哥哥的手机", "accept": ["这是我哥哥的手机", "这是我的哥哥的手机"] },
+      { "type": "translate", "ar": "هو صديقي العزيز.", "en": "He is my good friend.", "answer": "他是我的好朋友", "accept": ["他是我的好朋友", "他是我好朋友"] }
+    ]
+  },
+  {
+    "id": "time-place",
+    "level": 2,
+    "title": { "ar": "مكان الزمان والمكان في الجملة", "en": "Where Time and Place Go" },
+    "pattern": "S + Time + 在 + Place + V + O",
+    "summary": {
+      "ar": "الزمان والمكان يأتيان قبل الفعل في الصينية، لا في آخر الجملة.",
+      "en": "In Chinese, time and place come before the verb, not at the end of the sentence."
+    },
+    "explain": {
+      "ar": [
+        "كلمة الزمان تأتي قبل الفعل، إمّا بعد الفاعل أو قبله: 我明天去北京 أو 明天我去北京. ولا نضعها في آخر الجملة كما نقول بالعربية «أذهب إلى بكين غدًا».",
+        "المكان مع 在 يأتي أيضًا قبل الفعل: 我在学校吃饭 «آكل في المدرسة». في العربية يأتي المكان بعد الفعل، أما الصينية فتعكس ذلك.",
+        "الترتيب المعتاد: مَن — متى — أين — يفعل ماذا: 我每天在家喝茶 «أشرب الشاي في البيت كل يوم».",
+        "الساعة كذلك تأتي قبل الفعل: 我八点上课 «تبدأ دروسي الساعة الثامنة»."
+      ],
+      "en": [
+        "Time words come before the verb, either after or before the subject: 我明天去北京 or 明天我去北京. Never at the end as in English \"I'm going to Beijing tomorrow\".",
+        "A place with 在 also comes before the verb: 我在学校吃饭 \"I eat at school\".",
+        "The usual order is who — when — where — does what: 我每天在家喝茶 \"I drink tea at home every day\".",
+        "Clock times go before the verb too: 我八点上课 \"My class starts at eight\"."
+      ]
+    },
+    "examples": [
+      { "hz": "我明天去北京。", "py": "Wǒ míngtiān qù Běijīng.", "ar": "سأذهب إلى بكين غدًا.", "en": "I'm going to Beijing tomorrow." },
+      { "hz": "他每天在学校吃饭。", "py": "Tā měitiān zài xuéxiào chīfàn.", "ar": "هو يأكل في المدرسة كل يوم.", "en": "He eats at school every day." },
+      { "hz": "我们晚上在家看电视。", "py": "Wǒmen wǎnshang zài jiā kàn diànshì.", "ar": "نشاهد التلفاز في البيت مساءً.", "en": "We watch TV at home in the evening." },
+      { "hz": "爸爸早上七点去公司。", "py": "Bàba zǎoshang qī diǎn qù gōngsī.", "ar": "يذهب أبي إلى الشركة الساعة السابعة صباحًا.", "en": "Dad goes to the office at seven in the morning." },
+      { "hz": "姐姐在医院工作。", "py": "Jiějie zài yīyuàn gōngzuò.", "ar": "أختي الكبرى تعمل في المستشفى.", "en": "My older sister works at the hospital." },
+      { "hz": "今天下午我在家学习汉语。", "py": "Jīntiān xiàwǔ wǒ zài jiā xuéxí Hànyǔ.", "ar": "سأدرس الصينية في البيت بعد ظهر اليوم.", "en": "This afternoon I'm studying Chinese at home." }
+    ],
+    "mistakes": [
+      {
+        "wrong": "我去北京明天。",
+        "right": "我明天去北京。",
+        "why": {
+          "ar": "كلمة الزمان تأتي قبل الفعل لا في آخر الجملة.",
+          "en": "The time word goes before the verb, not at the end."
+        }
+      },
+      {
+        "wrong": "我吃饭在学校。",
+        "right": "我在学校吃饭。",
+        "why": {
+          "ar": "在 + المكان يأتي قبل الفعل.",
+          "en": "在 + place comes before the verb."
+        }
+      }
+    ],
+    "exercises": [
+      { "type": "order", "ar": "أنا أعمل في الشركة.", "tokens": ["我", "在", "公司", "工作"], "answer": "我在公司工作" },
+      { "type": "order", "ar": "أختي الكبرى تعمل في المستشفى.", "tokens": ["姐姐", "在", "医院", "工作"], "answer": "姐姐在医院工作" },
+      {
+        "type": "mcq",
+        "q": "我们___看电视。",
+        "py": "Wǒmen ___ kàn diànshì.",
+        "options": ["晚上在家", "在家晚上", "家晚上在"],
+        "answer": 0,
+        "why": { "ar": "الزمان أولًا ثم 在 + المكان، وكلاهما قبل الفعل.", "en": "Time first, then 在 + place, both before the verb." }
+      },
+      {
+        "type": "mcq",
+        "q": "我___学校学习。",
+        "py": "Wǒ ___ xuéxiào xuéxí.",
+        "options": ["是", "有", "在"],
+        "answer": 2,
+        "why": { "ar": "قبل المكان نضع 在 بمعنى «في».", "en": "Use 在 \"at\" before the place." }
+      },
+      { "type": "translate", "ar": "سأذهب إلى بكين غدًا.", "en": "I'm going to Beijing tomorrow.", "answer": "我明天去北京", "accept": ["我明天去北京", "明天我去北京", "我明天要去北京", "明天我要去北京"] },
+      { "type": "translate", "ar": "هو يدرس في البيت مساءً.", "en": "He studies at home in the evening.", "answer": "他晚上在家学习", "accept": ["他晚上在家学习", "晚上他在家学习"] }
+    ]
+  },
+  {
+    "id": "connectors",
+    "level": 2,
+    "title": { "ar": "أدوات الربط", "en": "Connectors" },
+    "pattern": "N + 和 + N · 但是 · 因为…所以… · A 还是 B？ · A 或者 B · S + 也 / 都 + V",
+    "summary": {
+      "ar": "和 تربط الأسماء فقط، و还是 للتخيير في السؤال، و或者 في الخبر، و也 و都 قبل الفعل.",
+      "en": "和 joins only nouns; 还是 is \"or\" in questions, 或者 in statements; 也 and 都 go before the verb."
+    },
+    "explain": {
+      "ar": [
+        "和 تعني «و» لكنها تربط الأسماء والضمائر فقط: 我和你، 茶和咖啡. ولا تربط جملتين كما تفعل «و» في العربية؛ بين الجملتين نضع فاصلة أو نستعمل 也.",
+        "但是 «لكن»، و因为…所以… «لأنّ… لذلك…». ويمكن استعمال 因为 و所以 معًا في الجملة نفسها: 因为下雨，所以我在家.",
+        "«أم/أو» في السؤال هي 还是: 你喝茶还是咖啡？ «هل تشرب الشاي أم القهوة؟». أما في الجملة الخبرية فنستعمل 或者: 茶或者咖啡都可以 «الشاي أو القهوة، كلاهما مناسب».",
+        "也 «أيضًا» و都 «كلّهم/كلاهما» يأتيان بعد الفاعل وقبل الفعل: 我也是学生، 我们都是苏丹人."
+      ],
+      "en": [
+        "和 means \"and\" but only joins nouns and pronouns: 我和你, 茶和咖啡. It does not join two clauses; use a comma or 也 instead.",
+        "但是 means \"but\"; 因为…所以… means \"because… so…\", and unlike English both can appear in the same sentence: 因为下雨，所以我在家.",
+        "\"Or\" in a question is 还是: 你喝茶还是咖啡？ \"Do you drink tea or coffee?\". In a statement use 或者: 茶或者咖啡都可以 \"Tea or coffee, either is fine\".",
+        "也 \"also\" and 都 \"all/both\" go after the subject and before the verb: 我也是学生, 我们都是苏丹人."
+      ]
+    },
+    "examples": [
+      { "hz": "我和我哥哥都是学生。", "py": "Wǒ hé wǒ gēge dōu shì xuésheng.", "ar": "أنا وأخي الأكبر طالبان.", "en": "My older brother and I are both students." },
+      { "hz": "我喜欢茶，但是不喜欢咖啡。", "py": "Wǒ xǐhuan chá, dànshì bù xǐhuan kāfēi.", "ar": "أحبّ الشاي، لكنّي لا أحبّ القهوة.", "en": "I like tea, but I don't like coffee." },
+      { "hz": "因为今天下雨，所以我在家。", "py": "Yīnwèi jīntiān xià yǔ, suǒyǐ wǒ zài jiā.", "ar": "لأنّ المطر ينزل اليوم، فأنا في البيت.", "en": "Because it's raining today, I'm staying home." },
+      { "hz": "你喝茶还是喝咖啡？", "py": "Nǐ hē chá háishi hē kāfēi?", "ar": "هل تشرب الشاي أم القهوة؟", "en": "Will you have tea or coffee?" },
+      { "hz": "我们坐出租车或者坐公共汽车去。", "py": "Wǒmen zuò chūzūchē huòzhě zuò gōnggòng qìchē qù.", "ar": "سنذهب بسيارة أجرة أو بالحافلة.", "en": "We'll go by taxi or by bus." },
+      { "hz": "他是苏丹人，我也是苏丹人。", "py": "Tā shì Sūdānrén, wǒ yě shì Sūdānrén.", "ar": "هو سوداني، وأنا سوداني أيضًا.", "en": "He is Sudanese, and I'm Sudanese too." }
+    ],
+    "mistakes": [
+      {
+        "wrong": "我喝茶和吃米饭。",
+        "right": "我喝茶，也吃米饭。",
+        "why": {
+          "ar": "和 لا تربط بين فعلين أو جملتين، بل بين الأسماء فقط.",
+          "en": "和 cannot join two verb phrases or clauses, only nouns."
+        }
+      },
+      {
+        "wrong": "你喝茶或者咖啡？",
+        "right": "你喝茶还是咖啡？",
+        "why": {
+          "ar": "في السؤال الذي فيه تخيير نستعمل 还是.",
+          "en": "In an either-or question, use 还是."
+        }
+      },
+      {
+        "wrong": "我们是都学生。",
+        "right": "我们都是学生。",
+        "why": {
+          "ar": "都 تأتي قبل الفعل 是 لا بعده.",
+          "en": "都 goes before the verb 是, not after it."
+        }
+      }
+    ],
+    "exercises": [
+      {
+        "type": "mcq",
+        "q": "你是老师___学生？",
+        "py": "Nǐ shì lǎoshī ___ xuésheng?",
+        "options": ["和", "还是", "或者"],
+        "answer": 1,
+        "why": { "ar": "سؤال تخيير، فنستعمل 还是 «أم».", "en": "An either-or question uses 还是 \"or\"." }
+      },
+      {
+        "type": "mcq",
+        "q": "我们___是苏丹人。",
+        "py": "Wǒmen ___ shì Sūdānrén.",
+        "options": ["都", "和", "但是"],
+        "answer": 0,
+        "why": { "ar": "都 «كلّنا» تأتي قبل الفعل.", "en": "都 \"all\" goes before the verb." }
+      },
+      {
+        "type": "mcq",
+        "q": "___今天很冷，所以我在家。",
+        "py": "___ jīntiān hěn lěng, suǒyǐ wǒ zài jiā.",
+        "options": ["但是", "因为", "还是"],
+        "answer": 1,
+        "why": { "ar": "所以 «لذلك» تأتي مع 因为 «لأنّ».", "en": "所以 \"so\" pairs with 因为 \"because\"." }
+      },
+      { "type": "order", "ar": "أنا أيضًا أشرب الشاي.", "tokens": ["我", "也", "喝", "茶"], "answer": "我也喝茶" },
+      { "type": "translate", "ar": "أنا وأخي الأكبر طالبان.", "en": "My older brother and I are both students.", "answer": "我和哥哥都是学生", "accept": ["我和哥哥都是学生", "我和我哥哥都是学生", "哥哥和我都是学生", "我和哥哥是学生"] },
+      { "type": "translate", "ar": "هل تريد شايًا أم قهوة؟", "en": "Would you like tea or coffee?", "answer": "你要茶还是咖啡", "accept": ["你要茶还是咖啡", "你要茶还是要咖啡", "你想喝茶还是咖啡", "你要喝茶还是咖啡", "你喝茶还是咖啡", "你喝茶还是喝咖啡", "你想要茶还是咖啡"] }
+    ]
+  },
+  {
+    "id": "patterns",
+    "level": 2,
+    "title": { "ar": "أنماط أساسية: 在 و想/要 و会 و了", "en": "Key Patterns: 在, 想/要, 会, 了" },
+    "pattern": "在 + V (now) · 想 / 要 + V · 会 + V · V + 了 (done)",
+    "summary": {
+      "ar": "أربعة أنماط قصيرة تعبّر عن: ما يحدث الآن، والرغبة، والقدرة المكتسبة، والفعل الذي تمّ.",
+      "en": "Four short patterns for: what is happening now, wanting, learned ability, and completed actions."
+    },
+    "explain": {
+      "ar": [
+        "在 قبل الفعل تعني أنّ الحدث جارٍ الآن: 我在吃饭 «أنا آكل الآن». وهذا يختلف عن 在 + مكان التي تعني «في».",
+        "想 + فعل = «أودّ أن/أرغب في»: 我想喝水. و要 + فعل = «أريد/سوف» وهي أقوى: 我要去中国. ولنفي الرغبة نقول غالبًا 不想.",
+        "会 + فعل = «يُجيد/يستطيع» لمهارة تعلّمها: 我会说汉语، 他会开车.",
+        "了 بعد الفعل تدلّ على أنّ الفعل تمّ: 我买了一本书 «اشتريتُ كتابًا». وعند النفي نستعمل 没 ونحذف 了: 我没买."
+      ],
+      "en": [
+        "在 before a verb shows an action in progress: 我在吃饭 \"I'm eating\". This is different from 在 + place, which means \"at\".",
+        "想 + verb means \"would like to\": 我想喝水. 要 + verb is stronger, \"want to / going to\": 我要去中国. To say you don't want to, use 不想.",
+        "会 + verb means \"can\" for a learned skill: 我会说汉语, 他会开车.",
+        "了 after a verb shows the action is completed: 我买了一本书 \"I bought a book\". In the negative, use 没 and drop 了: 我没买."
+      ]
+    },
+    "examples": [
+      { "hz": "妈妈在做饭。", "py": "Māma zài zuò fàn.", "ar": "أمي تطبخ الآن.", "en": "Mom is cooking." },
+      { "hz": "我想喝水。", "py": "Wǒ xiǎng hē shuǐ.", "ar": "أودّ أن أشرب الماء.", "en": "I'd like to drink some water." },
+      { "hz": "我要去中国。", "py": "Wǒ yào qù Zhōngguó.", "ar": "سأذهب إلى الصين.", "en": "I'm going to China." },
+      { "hz": "我会说一点儿汉语。", "py": "Wǒ huì shuō yīdiǎnr Hànyǔ.", "ar": "أتكلّم قليلًا من الصينية.", "en": "I can speak a little Chinese." },
+      { "hz": "我买了一本书。", "py": "Wǒ mǎi le yī běn shū.", "ar": "اشتريتُ كتابًا.", "en": "I bought a book." },
+      { "hz": "他昨天去了医院。", "py": "Tā zuótiān qù le yīyuàn.", "ar": "ذهب إلى المستشفى أمس.", "en": "He went to the hospital yesterday." }
+    ],
+    "mistakes": [
+      {
+        "wrong": "我吃饭在。",
+        "right": "我在吃饭。",
+        "why": {
+          "ar": "在 التي تدلّ على الاستمرار تأتي قبل الفعل.",
+          "en": "The progressive 在 goes before the verb."
+        }
+      },
+      {
+        "wrong": "我是会说汉语。",
+        "right": "我会说汉语。",
+        "why": {
+          "ar": "会 فعل مساعد يكفي وحده، فلا نضيف 是.",
+          "en": "会 is enough on its own; do not add 是."
+        }
+      },
+      {
+        "wrong": "我没去了医院。",
+        "right": "我没去医院。",
+        "why": {
+          "ar": "مع النفي بـ 没 نحذف 了.",
+          "en": "With 没, drop 了."
+        }
+      }
+    ],
+    "exercises": [
+      {
+        "type": "mcq",
+        "q": "你在做什么？——我___看书。",
+        "py": "Nǐ zài zuò shénme? — Wǒ ___ kàn shū.",
+        "options": ["在", "会", "了"],
+        "answer": 0,
+        "why": { "ar": "يسأل عمّا يفعله الآن، فنستعمل 在 قبل الفعل.", "en": "The question is about right now, so use 在 before the verb." }
+      },
+      {
+        "type": "mcq",
+        "q": "我___说汉语，也会说阿拉伯语。",
+        "py": "Wǒ ___ shuō Hànyǔ, yě huì shuō Ālābóyǔ.",
+        "options": ["想", "会", "在"],
+        "answer": 1,
+        "why": { "ar": "الحديث عن مهارة لغوية، و也会 تدلّ على أنّ المقصود 会.", "en": "It is about a language skill, and 也会 shows 会 is meant." }
+      },
+      {
+        "type": "mcq",
+        "q": "我昨天买___一本书。",
+        "py": "Wǒ zuótiān mǎi ___ yī běn shū.",
+        "options": ["在", "会", "了"],
+        "answer": 2,
+        "why": { "ar": "الشراء تمّ أمس، فنضع 了 بعد الفعل.", "en": "The buying is completed, so 了 follows the verb." }
+      },
+      { "type": "order", "ar": "أودّ أن أشرب الشاي.", "tokens": ["我", "想", "喝", "茶"], "answer": "我想喝茶" },
+      { "type": "order", "ar": "أمي تطبخ الآن.", "tokens": ["妈妈", "在", "做饭"], "answer": "妈妈在做饭" },
+      { "type": "translate", "ar": "أتكلّم الصينية.", "en": "I can speak Chinese.", "answer": "我会说汉语", "accept": ["我会说汉语", "我会说中文"] }
+    ]
+  }
+]

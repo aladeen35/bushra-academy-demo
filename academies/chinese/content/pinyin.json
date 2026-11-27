@@ -1,0 +1,442 @@
+{
+  "intro": {
+    "ar": [
+      "الصينية الفصحى (المندرينية) هي اللغة الرسمية في الصين، وتُسمّى هناك «بوتونغهوا» 普通话 (pǔtōnghuà) أي «اللغة المشتركة». يتحدثها أكثر من مليار إنسان، وتقوم على لهجة شمال الصين وخصوصًا نطق بكين.",
+      "البينيين 拼音 (pīnyīn) هو نظام لكتابة نطق الكلمات الصينية بالحروف اللاتينية. إنه أداة مساعدة لتعلّم النطق وللكتابة على الهاتف والحاسوب، وليس نظام الكتابة الصيني نفسه؛ فالصينيون يكتبون بالرموز الصينية (هانزي 汉字)، والبينيين يرافقها ليوضّح كيف تُقرأ.",
+      "انتبه: حروف البينيين لا تُقرأ دائمًا كما تُقرأ في الإنجليزية أو الفرنسية. مثلًا q تُنطق قريبًا من «تشـ»، وx قريبة من «شـ». لذلك سنتعلم صوت كل حرف من جديد.",
+      "كل مقطع صيني يتكوّن من ثلاثة أجزاء: صوت أول (الاستهلال، مثل b أو zh) ثم صوت نهائي (القافية، مثل a أو ang) ثم النغمة (طريقة ارتفاع الصوت وانخفاضه). مثال: mā = m + a + النغمة الأولى. بعض المقاطع ليس لها صوت أول، مثل ài «حب».",
+      "النغمة جزء من الكلمة وليست زينة: mā تعني «أم»، وmǎ تعني «حصان». لذلك نتعلم النغمات من اليوم الأول، ونكتبها دائمًا فوق حرف العلة."
+    ],
+    "en": [
+      "Standard Mandarin is the official language of China, called 普通话 (pǔtōnghuà), \"the common speech\". It is spoken by over a billion people and is based on northern Chinese, especially the pronunciation of Beijing.",
+      "Pinyin 拼音 (pīnyīn) writes the sounds of Mandarin with Latin letters. It is a learning and typing aid, not the Chinese writing system: Chinese is written in characters (汉字 hànzì), and pinyin shows how they are read.",
+      "Pinyin letters do not always sound like English: q is close to \"ch\", x is close to \"sh\". Learn each letter's Mandarin value from scratch.",
+      "Every syllable = initial (e.g. b, zh) + final (e.g. a, ang) + tone. Example: mā = m + a + tone 1. Some syllables have no initial, e.g. ài \"love\".",
+      "Tones change meaning: mā \"mother\" vs mǎ \"horse\". Learn them from day one; the tone mark is written over a vowel."
+    ]
+  },
+  "tones": [
+    {
+      "n": 1,
+      "mark": "ā",
+      "name": {"ar": "النغمة الأولى (مستوية عالية)", "en": "First tone (high level)"},
+      "contour": "55",
+      "desc": {
+        "ar": "يبدأ الصوت عاليًا ويبقى مستويًا ثابتًا حتى نهاية المقطع، بلا صعود ولا هبوط. علامتها خط أفقي فوق حرف العلة: ā.",
+        "en": "Starts high and stays high and flat to the end. Marked with a macron: ā."
+      },
+      "tip_ar": "تخيّل أنك تغنّي نغمة واحدة عالية ممدودة، أو تقول «آآآ» عند طبيب الأسنان. حافظ على الصوت مستقيمًا مثل خط المسطرة.",
+      "examples": [
+        {"hz": "妈", "py": "mā", "ar": "أم"},
+        {"hz": "飞", "py": "fēi", "ar": "يطير"},
+        {"hz": "书", "py": "shū", "ar": "كتاب"}
+      ]
+    },
+    {
+      "n": 2,
+      "mark": "á",
+      "name": {"ar": "النغمة الثانية (صاعدة)", "en": "Second tone (rising)"},
+      "contour": "35",
+      "desc": {
+        "ar": "يبدأ الصوت من الوسط ويصعد بسرعة إلى الأعلى. علامتها خط مائل صاعد: á.",
+        "en": "Starts mid and rises quickly to high. Marked with an acute accent: á."
+      },
+      "tip_ar": "مثل نبرة السؤال المتعجّب حين تقول «نعم؟» أو «هاه؟» عندما لم تسمع جيدًا.",
+      "examples": [
+        {"hz": "来", "py": "lái", "ar": "يأتي"},
+        {"hz": "茶", "py": "chá", "ar": "شاي"},
+        {"hz": "人", "py": "rén", "ar": "إنسان"}
+      ]
+    },
+    {
+      "n": 3,
+      "mark": "ǎ",
+      "name": {"ar": "النغمة الثالثة (منخفضة، هابطة ثم صاعدة)", "en": "Third tone (low, dipping)"},
+      "contour": "214",
+      "desc": {
+        "ar": "عند نطق المقطع منفردًا يبدأ الصوت منخفضًا، ينزل إلى أدنى طبقة، ثم يرتفع قليلًا في آخره (214). أما في الكلام المتصل فيُنطق غالبًا منخفضًا فقط (21) دون الصعود الأخير. علامتها: ǎ.",
+        "en": "In isolation it dips low and then rises a little (214). In connected speech it is usually just low (21), without the final rise. Marked with a caron: ǎ."
+      },
+      "tip_ar": "أهم ما فيها هو الانخفاض: اخفض صوتك إلى أعمق طبقة مريحة كأنك تقول «هممم» متأملًا. لا تبالغ في الصعود الأخير.",
+      "examples": [
+        {"hz": "马", "py": "mǎ", "ar": "حصان"},
+        {"hz": "你", "py": "nǐ", "ar": "أنت"},
+        {"hz": "水", "py": "shuǐ", "ar": "ماء"}
+      ]
+    },
+    {
+      "n": 4,
+      "mark": "à",
+      "name": {"ar": "النغمة الرابعة (هابطة)", "en": "Fourth tone (falling)"},
+      "contour": "51",
+      "desc": {
+        "ar": "يبدأ الصوت عاليًا وينزل بسرعة وحسم إلى الأسفل. علامتها خط مائل هابط: à.",
+        "en": "Starts high and falls sharply to low. Marked with a grave accent: à."
+      },
+      "tip_ar": "مثل نبرة الأمر الحاسم «قِف!» أو «لا!» حين تقولها بحزم.",
+      "examples": [
+        {"hz": "大", "py": "dà", "ar": "كبير"},
+        {"hz": "四", "py": "sì", "ar": "أربعة"},
+        {"hz": "去", "py": "qù", "ar": "يذهب"}
+      ]
+    },
+    {
+      "n": 0,
+      "mark": "a",
+      "name": {"ar": "النغمة الخفيفة (المحايدة)", "en": "Neutral tone"},
+      "contour": "—",
+      "desc": {
+        "ar": "مقطع قصير خفيف بلا علامة فوقه، ليس له مسار ثابت؛ تتحدد طبقته حسب نغمة المقطع الذي قبله. يظهر في الأدوات مثل 吗 و的، وفي المقطع الثاني من بعض الكلمات المكررة مثل 爸爸.",
+        "en": "A short, light syllable written with no mark. It has no fixed contour; its pitch depends on the preceding tone. Found in particles like 吗 and 的 and in the second syllable of words like 爸爸."
+      },
+      "tip_ar": "اقرأه سريعًا وبخفة كأنه ملحق بالمقطع السابق، تمامًا كالمقطع غير المنبور في آخر الكلمة.",
+      "examples": [
+        {"hz": "吗", "py": "ma", "ar": "أداة استفهام (هل…؟)"},
+        {"hz": "爸爸", "py": "bàba", "ar": "أب"},
+        {"hz": "的", "py": "de", "ar": "أداة الملكية (لـ…)"}
+      ]
+    }
+  ],
+  "toneSets": [
+    {"base": "ma", "items": [
+      {"t": 1, "py": "mā", "hz": "妈", "ar": "أم"},
+      {"t": 2, "py": "má", "hz": "麻", "ar": "قِنَّب/خَدَر"},
+      {"t": 3, "py": "mǎ", "hz": "马", "ar": "حصان"},
+      {"t": 4, "py": "mà", "hz": "骂", "ar": "يشتم"}
+    ]},
+    {"base": "ba", "items": [
+      {"t": 1, "py": "bā", "hz": "八", "ar": "ثمانية"},
+      {"t": 2, "py": "bá", "hz": "拔", "ar": "يقتلع/يسحب"},
+      {"t": 3, "py": "bǎ", "hz": "把", "ar": "يمسك/مقبض"},
+      {"t": 4, "py": "bà", "hz": "爸", "ar": "أب"}
+    ]},
+    {"base": "yi", "items": [
+      {"t": 1, "py": "yī", "hz": "衣", "ar": "ملابس"},
+      {"t": 2, "py": "yí", "hz": "姨", "ar": "خالة"},
+      {"t": 3, "py": "yǐ", "hz": "椅", "ar": "كرسي (في 椅子)"},
+      {"t": 4, "py": "yì", "hz": "意", "ar": "معنى/فكرة"}
+    ]},
+    {"base": "shi", "items": [
+      {"t": 1, "py": "shī", "hz": "诗", "ar": "شِعر"},
+      {"t": 2, "py": "shí", "hz": "十", "ar": "عشرة"},
+      {"t": 3, "py": "shǐ", "hz": "史", "ar": "تاريخ"},
+      {"t": 4, "py": "shì", "hz": "是", "ar": "يكون/نعم"}
+    ]},
+    {"base": "tang", "items": [
+      {"t": 1, "py": "tāng", "hz": "汤", "ar": "حساء/شوربة"},
+      {"t": 2, "py": "táng", "hz": "糖", "ar": "سكّر/حلوى"},
+      {"t": 3, "py": "tǎng", "hz": "躺", "ar": "يستلقي"},
+      {"t": 4, "py": "tàng", "hz": "烫", "ar": "ساخن جدًّا (يلسع)"}
+    ]},
+    {"base": "wen", "items": [
+      {"t": 1, "py": "wēn", "hz": "温", "ar": "دافئ"},
+      {"t": 2, "py": "wén", "hz": "文", "ar": "كتابة/لغة"},
+      {"t": 3, "py": "wěn", "hz": "吻", "ar": "قُبلة"},
+      {"t": 4, "py": "wèn", "hz": "问", "ar": "يسأل"}
+    ]},
+    {"base": "qi", "items": [
+      {"t": 1, "py": "qī", "hz": "七", "ar": "سبعة"},
+      {"t": 2, "py": "qí", "hz": "骑", "ar": "يركب (دابة/دراجة)"},
+      {"t": 3, "py": "qǐ", "hz": "起", "ar": "ينهض"},
+      {"t": 4, "py": "qì", "hz": "气", "ar": "هواء/غضب"}
+    ]},
+    {"base": "mai", "items": [
+      {"t": 2, "py": "mái", "hz": "埋", "ar": "يدفن"},
+      {"t": 3, "py": "mǎi", "hz": "买", "ar": "يشتري"},
+      {"t": 4, "py": "mài", "hz": "卖", "ar": "يبيع"}
+    ]}
+  ],
+  "initials": [
+    {"p": "b", "group": "labial", "ipa": "p", "aspirated": false,
+     "ar_hint": "قريب من الباء العربية لكن دون اهتزاز الحبال الصوتية، وبلا نفخة هواء؛ يقع بين «ب» و«پ».",
+     "desc": {"ar": "تُطبَق الشفتان ثم تنفتحان بلا نفَس خارج. ليس باءً مجهورة كالعربية.", "en": "Unaspirated, voiceless bilabial stop: like English p in \"spin\", not b in \"bat\"."},
+     "ex": {"hz": "爸爸", "py": "bàba", "ar": "أب"}},
+    {"p": "p", "group": "labial", "ipa": "pʰ", "aspirated": true,
+     "ar_hint": "لا يوجد في العربية الفصحى؛ هو «پ» مع نفخة هواء قوية. ضع ورقة أمام فمك: يجب أن تتحرك.",
+     "desc": {"ar": "مثل b في وضع الشفتين، لكن مع دفعة هواء واضحة بعد الانفتاح.", "en": "Aspirated bilabial stop: like p in \"pot\" with a strong puff of air."},
+     "ex": {"hz": "朋友", "py": "péngyou", "ar": "صديق"}},
+    {"p": "m", "group": "labial", "ipa": "m", "aspirated": false,
+     "ar_hint": "مثل الميم العربية تمامًا.",
+     "desc": {"ar": "صوت أنفي بالشفتين.", "en": "Bilabial nasal, as in English m."},
+     "ex": {"hz": "妈妈", "py": "māma", "ar": "أم"}},
+    {"p": "f", "group": "labial", "ipa": "f", "aspirated": false,
+     "ar_hint": "مثل الفاء العربية تمامًا.",
+     "desc": {"ar": "الأسنان العليا على الشفة السفلى مع مرور الهواء.", "en": "Labiodental fricative, as in English f."},
+     "ex": {"hz": "饭", "py": "fàn", "ar": "طعام/أرز مطبوخ"}},
+    {"p": "d", "group": "alveolar", "ipa": "t", "aspirated": false,
+     "ar_hint": "تاء خفيفة بلا نفَس. تبدو للأذن العربية قريبة من الدال، لكنها غير مجهورة.",
+     "desc": {"ar": "طرف اللسان خلف الأسنان العليا، ثم ينفصل بلا دفعة هواء.", "en": "Unaspirated alveolar stop: like t in \"stop\", not d in \"dog\"."},
+     "ex": {"hz": "大", "py": "dà", "ar": "كبير"}},
+    {"p": "t", "group": "alveolar", "ipa": "tʰ", "aspirated": true,
+     "ar_hint": "مثل التاء العربية مع نفخة هواء قوية بعدها.",
+     "desc": {"ar": "نفس مكان d لكن مع دفعة هواء واضحة.", "en": "Aspirated alveolar stop: like t in \"top\" with a strong puff."},
+     "ex": {"hz": "他", "py": "tā", "ar": "هو"}},
+    {"p": "n", "group": "alveolar", "ipa": "n", "aspirated": false,
+     "ar_hint": "مثل النون العربية.",
+     "desc": {"ar": "صوت أنفي بطرف اللسان.", "en": "Alveolar nasal, as in English n."},
+     "ex": {"hz": "你", "py": "nǐ", "ar": "أنت"}},
+    {"p": "l", "group": "alveolar", "ipa": "l", "aspirated": false,
+     "ar_hint": "مثل اللام العربية المرققة (كما في «بِلا»)، لا المفخّمة كما في «الله».",
+     "desc": {"ar": "طرف اللسان على اللثة العليا والهواء يمر من الجانبين.", "en": "Alveolar lateral, a clear l."},
+     "ex": {"hz": "来", "py": "lái", "ar": "يأتي"}},
+    {"p": "g", "group": "velar", "ipa": "k", "aspirated": false,
+     "ar_hint": "كاف خفيفة بلا نفَس. يسمعها العربي قريبة من الجيم القاهرية (g)، لكنها غير مجهورة.",
+     "desc": {"ar": "مؤخرة اللسان تلامس أقصى الحنك ثم تنفصل بلا دفعة هواء.", "en": "Unaspirated velar stop: like k in \"skin\", not g in \"go\"."},
+     "ex": {"hz": "哥哥", "py": "gēge", "ar": "أخ أكبر"}},
+    {"p": "k", "group": "velar", "ipa": "kʰ", "aspirated": true,
+     "ar_hint": "مثل الكاف العربية مع نفخة هواء قوية.",
+     "desc": {"ar": "نفس مكان g مع دفعة هواء واضحة.", "en": "Aspirated velar stop: like k in \"kite\" with a strong puff."},
+     "ex": {"hz": "看", "py": "kàn", "ar": "ينظر/يشاهد"}},
+    {"p": "h", "group": "velar", "ipa": "x", "aspirated": false,
+     "ar_hint": "أقرب إلى خاء عربية خفيفة غير خشنة منه إلى الهاء. يُنطق من أقصى الحنك لا من الحلق.",
+     "desc": {"ar": "احتكاك خفيف بين مؤخرة اللسان وأقصى الحنك.", "en": "Velar fricative: a soft version of Arabic خ / Scottish \"loch\", further forward than English h."},
+     "ex": {"hz": "好", "py": "hǎo", "ar": "جيد"}},
+    {"p": "j", "group": "palatal", "ipa": "tɕ", "aspirated": false,
+     "ar_hint": "لا مقابل له في العربية، وليس جيمًا. ضع طرف اللسان خلف الأسنان السفلى، وارفع وسط اللسان مسطحًا على سقف الحلق، وانطق «تشـ» ناعمة بلا نفَس مع شفتين مفرودتين كالابتسامة.",
+     "desc": {"ar": "صوت انفجاري احتكاكي من مقدمة الحنك، غير منفوخ. يأتي فقط قبل i أو ü.", "en": "Unaspirated alveolo-palatal affricate; tongue tip down behind lower teeth, front of tongue against the palate. Only before i or ü."},
+     "ex": {"hz": "家", "py": "jiā", "ar": "بيت/عائلة"}},
+    {"p": "q", "group": "palatal", "ipa": "tɕʰ", "aspirated": true,
+     "ar_hint": "لا مقابل له في العربية، وليس قافًا ولا كافًا. نفس وضع j تمامًا (طرف اللسان خلف الأسنان السفلى)، لكن مع نفخة هواء قوية: «تشـ» منفوخة.",
+     "desc": {"ar": "مثل j مع دفعة هواء. يأتي فقط قبل i أو ü.", "en": "Aspirated version of j. Only before i or ü."},
+     "ex": {"hz": "去", "py": "qù", "ar": "يذهب"}},
+    {"p": "x", "group": "palatal", "ipa": "ɕ", "aspirated": false,
+     "ar_hint": "قريب من الشين لكنه أنعم: طرف اللسان يبقى خلف الأسنان السفلى، والشفتان مفرودتان كالابتسامة لا مستديرتان.",
+     "desc": {"ar": "احتكاكي من مقدمة الحنك. يأتي فقط قبل i أو ü.", "en": "Alveolo-palatal fricative, a soft \"sh\" with spread lips and tongue tip down. Only before i or ü."},
+     "ex": {"hz": "谢谢", "py": "xièxie", "ar": "شكرًا"}},
+    {"p": "zh", "group": "retroflex", "ipa": "ʈʂ", "aspirated": false,
+     "ar_hint": "لا مقابل له في العربية، وليس جيمًا ولا زايًا. اثنِ طرف اللسان إلى الأعلى والخلف خلف اللثة العليا، ثم انطق «تشـ» بلا نفَس.",
+     "desc": {"ar": "انفجاري احتكاكي بلسان ملتف إلى الخلف، غير منفوخ.", "en": "Unaspirated retroflex affricate: tongue tip curled up behind the gum ridge; like \"j\" in \"jug\" but voiceless and further back."},
+     "ex": {"hz": "中国", "py": "Zhōngguó", "ar": "الصين"}},
+    {"p": "ch", "group": "retroflex", "ipa": "ʈʂʰ", "aspirated": true,
+     "ar_hint": "لا مقابل له في العربية. نفس وضع zh (لسان ملتف إلى الخلف) مع نفخة هواء قوية: «تشـ» منفوخة.",
+     "desc": {"ar": "مثل zh مع دفعة هواء.", "en": "Aspirated retroflex affricate: like \"ch\" in \"church\" with the tongue curled back."},
+     "ex": {"hz": "茶", "py": "chá", "ar": "شاي"}},
+    {"p": "sh", "group": "retroflex", "ipa": "ʂ", "aspirated": false,
+     "ar_hint": "قريب من الشين العربية، لكن مع ثني طرف اللسان إلى الخلف قليلًا، فيصبح الصوت أعمق.",
+     "desc": {"ar": "احتكاكي بلسان ملتف إلى الخلف.", "en": "Retroflex fricative: \"sh\" with the tongue tip curled back."},
+     "ex": {"hz": "书", "py": "shū", "ar": "كتاب"}},
+    {"p": "r", "group": "retroflex", "ipa": "ʐ~ɻ", "aspirated": false,
+     "ar_hint": "ليس راءً عربية، ولا يُكرَّر اللسان فيه. ضع اللسان كما في sh، ثم أضف اهتزاز الصوت: ينتج صوت بين «ژ» والراء الإنجليزية في run.",
+     "desc": {"ar": "صوت مجهور بلسان ملتف إلى الخلف دون ترديد.", "en": "Voiced retroflex: like sh with voice added, between English \"r\" in \"run\" and the \"s\" in \"measure\". Never rolled."},
+     "ex": {"hz": "人", "py": "rén", "ar": "إنسان"}},
+    {"p": "z", "group": "dental-sibilant", "ipa": "ts", "aspirated": false,
+     "ar_hint": "ليس زايًا. هو «تس» ملتحمة بلا نفَس، كآخر صوت في كلمة cats الإنجليزية.",
+     "desc": {"ar": "انفجاري احتكاكي خلف الأسنان العليا، غير منفوخ.", "en": "Unaspirated dental affricate: like \"ts\" in \"cats\", not English z."},
+     "ex": {"hz": "字", "py": "zì", "ar": "حرف/رمز مكتوب"}},
+    {"p": "c", "group": "dental-sibilant", "ipa": "tsʰ", "aspirated": true,
+     "ar_hint": "ليس كافًا ولا سينًا. هو «تس» ملتحمة مع نفخة هواء قوية.",
+     "desc": {"ar": "مثل z مع دفعة هواء.", "en": "Aspirated \"ts\" with a strong puff of air."},
+     "ex": {"hz": "菜", "py": "cài", "ar": "طبق طعام/خضار"}},
+    {"p": "s", "group": "dental-sibilant", "ipa": "s", "aspirated": false,
+     "ar_hint": "مثل السين العربية تمامًا.",
+     "desc": {"ar": "احتكاكي خلف الأسنان العليا.", "en": "Dental fricative, as in English s."},
+     "ex": {"hz": "三", "py": "sān", "ar": "ثلاثة"}}
+  ],
+  "finals": [
+    {"p": "a", "group": "simple", "ipa": "a", "ar_hint": "فتحة مفتوحة واسعة مثل «آ» مع فتح الفم جيدًا.", "ex": {"hz": "他", "py": "tā", "ar": "هو"}},
+    {"p": "o", "group": "simple", "ipa": "o", "ar_hint": "«أو» بشفتين مستديرتين. بعد b وp وm وf يُسمع قبلها ضمّة خفيفة: bō تقارب «بُوو».", "ex": {"hz": "波", "py": "bō", "ar": "موجة"}},
+    {"p": "e", "group": "simple", "ipa": "ɤ", "ar_hint": "لا مقابل له في العربية: انطق «أو» لكن دون ضم الشفتين، واللسان إلى الخلف؛ صوت بين «أَ» و«أُ».", "ex": {"hz": "喝", "py": "hē", "ar": "يشرب"}},
+    {"p": "i", "group": "simple", "ipa": "i", "ar_hint": "ياء ممدودة «إي» مع شفتين مفرودتين. (لكن بعد z c s zh ch sh r يتغير صوتها؛ انظر القواعد.)", "ex": {"hz": "你", "py": "nǐ", "ar": "أنت"}},
+    {"p": "u", "group": "simple", "ipa": "u", "ar_hint": "واو ممدودة «أو» مع ضم الشفتين بقوة إلى الأمام.", "ex": {"hz": "路", "py": "lù", "ar": "طريق"}},
+    {"p": "ü", "group": "simple", "ipa": "y", "ar_hint": "لا مقابل له في العربية: انطق «إي» وأنت تضم شفتيك كأنك تقول «أو»، واللسان يبقى في وضع الياء.", "ex": {"hz": "女", "py": "nǚ", "ar": "أنثى/امرأة"}},
+    {"p": "er", "group": "simple", "ipa": "ɚ", "ar_hint": "صوت «أَر» واحد، مع ثني طرف اللسان إلى الخلف دون ترديد الراء. لا يأتي قبله أي صوت أول.", "ex": {"hz": "二", "py": "èr", "ar": "اثنان"}},
+    {"p": "ai", "group": "compound", "ipa": "ai̯", "ar_hint": "«آي» كما في «هاي».", "ex": {"hz": "爱", "py": "ài", "ar": "حب"}},
+    {"p": "ei", "group": "compound", "ipa": "ei̯", "ar_hint": "«إيْ» بإمالة، كالصوت في الإنجليزية day.", "ex": {"hz": "黑", "py": "hēi", "ar": "أسود"}},
+    {"p": "ao", "group": "compound", "ipa": "au̯", "ar_hint": "«آو» كما في «ناو»، وليست «أُو».", "ex": {"hz": "好", "py": "hǎo", "ar": "جيد"}},
+    {"p": "ou", "group": "compound", "ipa": "ou̯", "ar_hint": "«أُو» تنتهي بضم الشفتين، كالإنجليزية go.", "ex": {"hz": "狗", "py": "gǒu", "ar": "كلب"}},
+    {"p": "an", "group": "nasal", "ipa": "an", "ar_hint": "«آن» بنون أمامية واضحة.", "ex": {"hz": "蓝", "py": "lán", "ar": "أزرق"}},
+    {"p": "en", "group": "nasal", "ipa": "ən", "ar_hint": "«أَن» بحركة قصيرة محايدة، كالإنجليزية taken.", "ex": {"hz": "门", "py": "mén", "ar": "باب"}},
+    {"p": "ang", "group": "nasal", "ipa": "ɑŋ", "ar_hint": "«آنغ»؛ وng هي النون الخلفية التي تنطقها في «منْكم»، ولا تُنطق الغين أو الكاف بعدها.", "ex": {"hz": "忙", "py": "máng", "ar": "مشغول"}},
+    {"p": "eng", "group": "nasal", "ipa": "ɤŋ", "ar_hint": "«أَنغ» بحركة خلفية قصيرة ونون خلفية (ng).", "ex": {"hz": "冷", "py": "lěng", "ar": "بارد"}},
+    {"p": "ong", "group": "nasal", "ipa": "ʊŋ", "ar_hint": "«أُونغ» بشفتين مستديرتين ونون خلفية. لا يأتي إلا بعد صوت أول.", "ex": {"hz": "红", "py": "hóng", "ar": "أحمر"}},
+    {"p": "ia", "group": "i-medial", "ipa": "ja", "ar_hint": "«يا». تُكتب ya إذا لم يسبقها صوت أول.", "ex": {"hz": "家", "py": "jiā", "ar": "بيت/عائلة"}},
+    {"p": "ie", "group": "i-medial", "ipa": "jɛ", "ar_hint": "«يِه» والـe هنا مفتوحة كما في الإنجليزية yes (ليست e المنفردة). تُكتب ye منفردة.", "ex": {"hz": "姐姐", "py": "jiějie", "ar": "أخت كبرى"}},
+    {"p": "iao", "group": "i-medial", "ipa": "jau̯", "ar_hint": "«ياو». تُكتب yao منفردة.", "ex": {"hz": "小", "py": "xiǎo", "ar": "صغير"}},
+    {"p": "iou", "group": "i-medial", "ipa": "jou̯", "ar_hint": "«يُو» مع «أو» خفيفة في الوسط. تُختصر إلى iu بعد صوت أول (liù)، وتُكتب you منفردة.", "ex": {"hz": "六", "py": "liù", "ar": "ستة"}},
+    {"p": "ian", "group": "i-medial", "ipa": "jɛn", "ar_hint": "انتبه: تُنطق «يِين» قريبة من الإنجليزية yen، لا «يان». تُكتب yan منفردة.", "ex": {"hz": "天", "py": "tiān", "ar": "سماء/يوم"}},
+    {"p": "in", "group": "i-medial", "ipa": "in", "ar_hint": "«إين» بنون أمامية. تُكتب yin منفردة.", "ex": {"hz": "新", "py": "xīn", "ar": "جديد"}},
+    {"p": "iang", "group": "i-medial", "ipa": "jɑŋ", "ar_hint": "«يانغ» بنون خلفية. تُكتب yang منفردة.", "ex": {"hz": "两", "py": "liǎng", "ar": "اثنان (للعدّ)"}},
+    {"p": "ing", "group": "i-medial", "ipa": "iŋ", "ar_hint": "«إينغ» بنون خلفية. تُكتب ying منفردة.", "ex": {"hz": "听", "py": "tīng", "ar": "يستمع"}},
+    {"p": "iong", "group": "i-medial", "ipa": "jʊŋ", "ar_hint": "«يُونغ». تُكتب yong منفردة.", "ex": {"hz": "熊", "py": "xióng", "ar": "دبّ"}},
+    {"p": "ua", "group": "u-medial", "ipa": "wa", "ar_hint": "«وا». تُكتب wa منفردة.", "ex": {"hz": "花", "py": "huā", "ar": "زهرة"}},
+    {"p": "uo", "group": "u-medial", "ipa": "wo", "ar_hint": "«وُو» كالإنجليزية wore بلا راء. تُكتب wo منفردة.", "ex": {"hz": "多", "py": "duō", "ar": "كثير"}},
+    {"p": "uai", "group": "u-medial", "ipa": "wai̯", "ar_hint": "«واي». تُكتب wai منفردة.", "ex": {"hz": "快", "py": "kuài", "ar": "سريع"}},
+    {"p": "uei", "group": "u-medial", "ipa": "wei̯", "ar_hint": "«وِيْ» كالإنجليزية way. تُختصر إلى ui بعد صوت أول (duì)، وتُكتب wei منفردة.", "ex": {"hz": "对", "py": "duì", "ar": "صحيح"}},
+    {"p": "uan", "group": "u-medial", "ipa": "wan", "ar_hint": "«وان». تُكتب wan منفردة.", "ex": {"hz": "短", "py": "duǎn", "ar": "قصير"}},
+    {"p": "uen", "group": "u-medial", "ipa": "wən", "ar_hint": "«وِن» بحركة قصيرة. تُختصر إلى un بعد صوت أول (chūn)، وتُكتب wen منفردة.", "ex": {"hz": "春", "py": "chūn", "ar": "ربيع"}},
+    {"p": "uang", "group": "u-medial", "ipa": "wɑŋ", "ar_hint": "«وانغ» بنون خلفية. تُكتب wang منفردة.", "ex": {"hz": "黄", "py": "huáng", "ar": "أصفر"}},
+    {"p": "ueng", "group": "u-medial", "ipa": "wɤŋ", "ar_hint": "«وِنغ». لا تأتي إلا منفردة وتُكتب weng (قليلة الاستعمال).", "ex": {"hz": "翁", "py": "wēng", "ar": "رجل مسنّ (لفظ أدبي)"}},
+    {"p": "üe", "group": "ü-medial", "ipa": "ɥe", "ar_hint": "ü ثم «إِه» بسرعة مع بدء الشفتين مستديرتين. تُكتب yue منفردة وjue/que/xue بعد j q x.", "ex": {"hz": "月", "py": "yuè", "ar": "قمر/شهر"}},
+    {"p": "üan", "group": "ü-medial", "ipa": "ɥɛn", "ar_hint": "ü ثم «إِن» (لا «آن»)، بشفتين مستديرتين في البداية. تُكتب yuan منفردة.", "ex": {"hz": "远", "py": "yuǎn", "ar": "بعيد"}},
+    {"p": "ün", "group": "ü-medial", "ipa": "yn", "ar_hint": "ü ممدودة ثم نون أمامية، والشفتان مستديرتان. تُكتب yun منفردة.", "ex": {"hz": "云", "py": "yún", "ar": "سحاب"}}
+  ],
+  "rules": [
+    {
+      "id": "syllable-structure",
+      "title": {"ar": "بنية المقطع الصيني", "en": "Syllable structure"},
+      "body": {
+        "ar": "المقطع = صوت أول (اختياري) + صوت نهائي (إجباري) + نغمة. في الصينية نحو ٤٠٠ مقطع أساسي فقط، ومع النغمات يصبح العدد نحو ١٢٠٠، لذلك تشترك كلمات كثيرة في النطق نفسه ويميّزها السياق والرموز. لا تنتهي المقاطع بحرف ساكن إلا بـ n أو ng (أو r في الإضافة الشمالية 儿).",
+        "en": "Syllable = optional initial + final + tone. Mandarin has only about 400 base syllables (about 1,200 with tones), so many words sound alike and context and characters disambiguate them. Syllables end only in a vowel, n or ng (or the r of erhua)."
+      },
+      "examples": [
+        {"hz": "妈", "py": "m + a + ˉ → mā", "ar": "أم"},
+        {"hz": "爱", "py": "∅ + ai + ˋ → ài", "ar": "حب"},
+        {"hz": "中", "py": "zh + ong + ˉ → zhōng", "ar": "وسط"}
+      ]
+    },
+    {
+      "id": "tone-mark-placement",
+      "title": {"ar": "أين توضع علامة النغمة؟", "en": "Where the tone mark goes"},
+      "body": {
+        "ar": "توضع العلامة فوق حرف علة واحد حسب الترتيب: إذا وُجد a أو e فعليه العلامة؛ وإلا فعلى o (كما في ou)؛ وفي iu وui توضع على الحرف الثاني منهما. وإذا وُضعت العلامة على i حُذفت نقطتها: nǐ. والنغمة الخفيفة لا علامة لها.",
+        "en": "Mark a or e if present; otherwise o (as in ou); in iu and ui mark the second vowel. A marked i loses its dot (nǐ). The neutral tone has no mark."
+      },
+      "examples": [
+        {"hz": "好", "py": "hǎo", "ar": "جيد (على a)"},
+        {"hz": "谢", "py": "xiè", "ar": "يشكر (على e)"},
+        {"hz": "狗", "py": "gǒu", "ar": "كلب (على o)"},
+        {"hz": "六", "py": "liù", "ar": "ستة (الثاني في iu)"},
+        {"hz": "对", "py": "duì", "ar": "صحيح (الثاني في ui)"}
+      ]
+    },
+    {
+      "id": "third-tone-sandhi",
+      "title": {"ar": "تغيّر النغمة الثالثة", "en": "Third-tone sandhi"},
+      "body": {
+        "ar": "إذا جاءت نغمتان ثالثتان متتاليتان تُنطق الأولى منهما بالنغمة الثانية، لكنها تبقى مكتوبة بعلامة الثالثة. وإذا جاءت النغمة الثالثة قبل نغمة أولى أو ثانية أو رابعة أو خفيفة نُطقت «نصف ثالثة»: منخفضة فقط (21) دون الصعود في آخرها. لا تُنطق الثالثة كاملة (214) إلا منفردة أو في آخر الجملة عند التأني.",
+        "en": "Two third tones in a row: the first is pronounced as a second tone but still written as third. Before tones 1, 2, 4 or neutral, a third tone is a \"half third\": just low (21) without the rise. The full 214 appears only in isolation or slow phrase-final speech."
+      },
+      "examples": [
+        {"hz": "你好", "py": "nǐ hǎo → ní hǎo", "ar": "مرحبًا"},
+        {"hz": "水果", "py": "shuǐguǒ → shuíguǒ", "ar": "فاكهة"},
+        {"hz": "很好", "py": "hěn hǎo → hén hǎo", "ar": "جيد جدًّا"},
+        {"hz": "好吃", "py": "hǎochī (نصف ثالثة: 21 + 55)", "ar": "لذيذ"}
+      ]
+    },
+    {
+      "id": "bu-sandhi",
+      "title": {"ar": "تغيّر نغمة 不 (لا)", "en": "Tone change of 不 bù"},
+      "body": {
+        "ar": "نغمة 不 الأصلية هي الرابعة bù. لكن إذا جاء بعدها مقطع بالنغمة الرابعة نُطقت بالنغمة الثانية bú. وقبل النغمات الأولى والثانية والثالثة تبقى bù. وبين فعلين مكررين في السؤال تصبح خفيفة: bu.",
+        "en": "不 is bù (4th tone), but becomes bú before another 4th tone. It stays bù before tones 1, 2 and 3, and is neutral (bu) inside A-not-A questions."
+      },
+      "examples": [
+        {"hz": "不是", "py": "bù shì → bú shì", "ar": "ليس"},
+        {"hz": "不对", "py": "bù duì → bú duì", "ar": "غير صحيح"},
+        {"hz": "不好", "py": "bù hǎo", "ar": "غير جيد"},
+        {"hz": "好不好", "py": "hǎo bu hǎo", "ar": "هل هو جيد؟"}
+      ]
+    },
+    {
+      "id": "yi-sandhi",
+      "title": {"ar": "تغيّر نغمة 一 (واحد)", "en": "Tone change of 一 yī"},
+      "body": {
+        "ar": "تُنطق 一 بالنغمة الأولى yī عندما تكون منفردة، أو في العدّ والأرقام، أو في الترتيب، أو في آخر الكلمة. وقبل النغمة الرابعة تُنطق yí. وقبل النغمات الأولى والثانية والثالثة تُنطق yì. وبين فعلين مكررين تصبح خفيفة: yi. (كثير من الكتب تكتب النغمة المنطوقة، لكن القاموس يكتب yī.)",
+        "en": "一 is yī alone, in counting, numbers, ordinals and at the end of a word. Before a 4th tone it becomes yí; before tones 1, 2, 3 it becomes yì; between reduplicated verbs it is neutral (yi). Dictionaries write yī."
+      },
+      "examples": [
+        {"hz": "十一", "py": "shíyī", "ar": "أحد عشر"},
+        {"hz": "一个", "py": "yī gè → yí ge", "ar": "واحد (مع أداة العدّ)"},
+        {"hz": "一天", "py": "yī tiān → yì tiān", "ar": "يوم واحد"},
+        {"hz": "一起", "py": "yīqǐ → yìqǐ", "ar": "معًا"},
+        {"hz": "看一看", "py": "kàn yi kàn", "ar": "يلقي نظرة"}
+      ]
+    },
+    {
+      "id": "neutral-tone",
+      "title": {"ar": "النغمة الخفيفة", "en": "The neutral tone"},
+      "body": {
+        "ar": "بعض المقاطع تُنطق قصيرة خفيفة بلا نغمة كاملة ولا تُكتب عليها علامة. تأتي في الأدوات (吗 ma، 呢 ne، 的 de، 了 le)، وفي المقطع الثاني من الكلمات المكررة (妈妈 māma)، وفي بعض الكلمات الثابتة (东西 dōngxi «شيء»). طبقتها تتبع ما قبلها: بعد الأولى نصف منخفضة، وبعد الثانية متوسطة، وبعد الثالثة مرتفعة نسبيًا، وبعد الرابعة منخفضة.",
+        "en": "Some syllables are short and light with no full tone and no mark: particles (吗 ma, 呢 ne, 的 de, 了 le), the second syllable of reduplications (妈妈 māma) and some fixed words (东西 dōngxi \"thing\"). Pitch follows the previous tone: half-low after T1, mid after T2, half-high after T3, low after T4."
+      },
+      "examples": [
+        {"hz": "妈妈", "py": "māma", "ar": "أم"},
+        {"hz": "你呢", "py": "nǐ ne", "ar": "وأنت؟"},
+        {"hz": "东西", "py": "dōngxi", "ar": "شيء/أغراض"}
+      ]
+    },
+    {
+      "id": "y-w-spelling",
+      "title": {"ar": "متى نكتب y وw؟", "en": "Spelling with y and w"},
+      "body": {
+        "ar": "y وw ليسا صوتين أوليين حقيقيين، بل طريقة لكتابة المقطع حين يبدأ بـ i أو u أو ü دون صوت أول. إذا كانت i هي حرف العلة الوحيد أُضيفت y قبلها (i → yi، in → yin، ing → ying)، وإلا استُبدلت بها (ia → ya، ie → ye، iao → yao، iou → you، ian → yan). وكذلك u: وحدها تصبح wu، وإلا استُبدلت بـ w (ua → wa، uo → wo، uei → wei، uen → wen). وü تُكتب yu (üe → yue، üan → yuan، ün → yun).",
+        "en": "y and w are spelling devices for syllables starting with i, u or ü with no initial. A lone i gets y added (yi, yin, ying); otherwise i becomes y (ya, ye, yao, you, yan). Likewise u: wu alone, otherwise w (wa, wo, wei, wen). ü is written yu (yue, yuan, yun)."
+      },
+      "examples": [
+        {"hz": "一", "py": "i → yī", "ar": "واحد"},
+        {"hz": "有", "py": "iou → yǒu", "ar": "يملك/يوجد"},
+        {"hz": "五", "py": "u → wǔ", "ar": "خمسة"},
+        {"hz": "我", "py": "uo → wǒ", "ar": "أنا"},
+        {"hz": "鱼", "py": "ü → yú", "ar": "سمك"}
+      ]
+    },
+    {
+      "id": "u-umlaut",
+      "title": {"ar": "متى تختفي النقطتان فوق ü؟", "en": "When ü is written u"},
+      "body": {
+        "ar": "بعد j وq وx وy تُكتب ü بلا نقطتين (ju، qu، xu، yu) لأن هذه الحروف لا يأتي بعدها u أصلًا، فلا لبس. لكن النطق يبقى ü بشفتين مستديرتين ولسان في وضع الياء. أما بعد n وl فتبقى النقطتان لأن nu وnü كلمتان مختلفتان، وكذلك lu وlü. (على لوحة المفاتيح تُكتب ü بالحرف v.)",
+        "en": "After j, q, x and y, ü is written as plain u (ju, qu, xu, yu) because u never follows them; it is still pronounced ü. After n and l the dots stay, since nu/nü and lu/lü are different syllables. On keyboards ü is typed as v."
+      },
+      "examples": [
+        {"hz": "去", "py": "qù (= qǜ)", "ar": "يذهب"},
+        {"hz": "女", "py": "nǚ", "ar": "أنثى"},
+        {"hz": "绿", "py": "lǜ", "ar": "أخضر"},
+        {"hz": "路", "py": "lù", "ar": "طريق"}
+      ]
+    },
+    {
+      "id": "iu-ui-un",
+      "title": {"ar": "الاختصارات iu وui وun", "en": "Abbreviations iu, ui, un"},
+      "body": {
+        "ar": "بعد أي صوت أول تُختصر iou إلى iu، وuei إلى ui، وuen إلى un. الحرف المحذوف لا يُكتب لكنه يُسمع خفيفًا، خصوصًا مع النغمتين الثالثة والرابعة: liù تقارب «ليُوو»، وguì تقارب «غْوِيْ»، وchūn تقارب «تشُوِن».",
+        "en": "After an initial, iou is written iu, uei is written ui and uen is written un. The dropped vowel is still faintly heard, especially in tones 3 and 4: liù ≈ \"lyoh\", guì ≈ \"gway\"."
+      },
+      "examples": [
+        {"hz": "六", "py": "l + iou → liù", "ar": "ستة"},
+        {"hz": "贵", "py": "g + uei → guì", "ar": "غالٍ (سعره مرتفع)"},
+        {"hz": "春", "py": "ch + uen → chūn", "ar": "ربيع"}
+      ]
+    },
+    {
+      "id": "apical-i",
+      "title": {"ar": "حرف i بعد z c s وzh ch sh r", "en": "The special i after z c s and zh ch sh r"},
+      "body": {
+        "ar": "بعد z وc وs، وبعد zh وch وsh وr، لا تُنطق i ياءً «إي». هي مجرد امتداد مجهور للصوت الأول مع بقاء اللسان في مكانه: بعد z c s يشبه طنين النحلة «زززْ»، وبعد zh ch sh r يشبه صوتًا مكتومًا كالراء الإنجليزية. قارن: sì «أربعة» وxī «غرب»: الأولى بلا ياء، والثانية بياء واضحة.",
+        "en": "After z, c, s and zh, ch, sh, r, i is not \"ee\". It is a buzzing continuation of the initial with the tongue held in place: [ɹ̩] after z c s, [ɻ̩] after zh ch sh r. Compare sì \"four\" with xī \"west\"."
+      },
+      "examples": [
+        {"hz": "四", "py": "sì", "ar": "أربعة"},
+        {"hz": "字", "py": "zì", "ar": "حرف مكتوب"},
+        {"hz": "是", "py": "shì", "ar": "يكون/نعم"},
+        {"hz": "日", "py": "rì", "ar": "شمس/يوم"},
+        {"hz": "西", "py": "xī", "ar": "غرب (i عادية)"}
+      ]
+    },
+    {
+      "id": "erhua",
+      "title": {"ar": "إضافة 儿 (الراء الشمالية)", "en": "Erhua 儿化"},
+      "body": {
+        "ar": "في بكين وشمال الصين يُضاف 儿 إلى آخر بعض الكلمات فيندمج مع المقطع السابق ويصير صوت r ملتفًّا في آخره، ويُكتب r فقط. قد يسقط معه صوت n أو i قبله: 一点儿 yìdiǎnr تُنطق قريبًا من «يِيديار». هذه الظاهرة شائعة في الكلام لكنها ليست إجبارية؛ سنتعلم النطق القياسي أولًا مع التعرف عليها.",
+        "en": "In Beijing and the north, 儿 attaches to some words as an r-coloring of the previous syllable, written with a final r. A preceding n or i may drop: 一点儿 yìdiǎnr ≈ yìdiǎr. Common in speech but optional for learners."
+      },
+      "examples": [
+        {"hz": "哪儿", "py": "nǎr", "ar": "أين؟"},
+        {"hz": "一点儿", "py": "yìdiǎnr", "ar": "قليلًا"},
+        {"hz": "玩儿", "py": "wánr", "ar": "يلعب"}
+      ]
+    },
+    {
+      "id": "apostrophe",
+      "title": {"ar": "الفاصلة العليا بين المقاطع", "en": "The syllable apostrophe"},
+      "body": {
+        "ar": "إذا بدأ مقطع داخل الكلمة بـ a أو o أو e وُضعت قبله فاصلة عليا (') لتوضيح حدّ المقطع ومنع اللبس. مثلًا Xī'ān (مدينة شيآن، مقطعان) تختلف عن xiān (مقطع واحد).",
+        "en": "When a syllable inside a word begins with a, o or e, an apostrophe marks the boundary: Xī'ān (two syllables) vs xiān (one)."
+      },
+      "examples": [
+        {"hz": "西安", "py": "Xī'ān", "ar": "شيآن (مدينة)"},
+        {"hz": "女儿", "py": "nǚ'ér", "ar": "ابنة"},
+        {"hz": "先", "py": "xiān", "ar": "أولًا (مقطع واحد للمقارنة)"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "id": "feelings",
+  "title": {
+    "ar": "المشاعر",
+    "en": "Feelings"
+  },
+  "icon": "😊",
+  "words": [
+    {
+      "id": "gaoxing",
+      "hz": "高兴",
+      "py": "gāoxìng",
+      "pyn": "gao1 xing4",
+      "ar": "سعيد، مسرور",
+      "en": "happy, glad",
+      "pos": "adj",
+      "hsk": 1,
+      "ex": {
+        "hz": "我今天很高兴。",
+        "py": "Wǒ jīntiān hěn gāoxìng.",
+        "ar": "أنا سعيد اليوم.",
+        "en": "I'm happy today."
+      }
+    },
+    {
+      "id": "kuaile",
+      "hz": "快乐",
+      "py": "kuàilè",
+      "pyn": "kuai4 le4",
+      "ar": "سعيد، فَرِح",
+      "en": "happy, joyful",
+      "pos": "adj",
+      "hsk": 2,
+      "ex": {
+        "hz": "生日快乐！",
+        "py": "Shēngrì kuàilè!",
+        "ar": "عيد ميلاد سعيد!",
+        "en": "Happy birthday!"
+      }
+    },
+    {
+      "id": "xihuan",
+      "hz": "喜欢",
+      "py": "xǐhuan",
+      "pyn": "xi3 huan5",
+      "ar": "يحب، يُعجَب بـ",
+      "en": "to like",
+      "pos": "verb",
+      "hsk": 1,
+      "ex": {
+        "hz": "我喜欢学汉语。",
+        "py": "Wǒ xǐhuan xué Hànyǔ.",
+        "ar": "أحب تعلّم اللغة الصينية.",
+        "en": "I like learning Chinese."
+      }
+    },
+    {
+      "id": "ai",
+      "hz": "爱",
+      "py": "ài",
+      "pyn": "ai4",
+      "ar": "يحب (حبًّا عميقًا)",
+      "en": "to love",
+      "pos": "verb",
+      "hsk": 1,
+      "ex": {
+        "hz": "我爱我的家。",
+        "py": "Wǒ ài wǒ de jiā.",
+        "ar": "أحب أسرتي.",
+        "en": "I love my family."
+      }
+    },
+    {
+      "id": "xiang",
+      "hz": "想",
+      "py": "xiǎng",
+      "pyn": "xiang3",
+      "ar": "يشتاق؛ يريد؛ يفكّر",
+      "en": "to miss; to want; to think",
+      "pos": "verb",
+      "hsk": 1,
+      "note_ar": "想 + فعل = يريد أن: 我想去中国 = أريد أن أذهب إلى الصين.",
+      "ex": {
+        "hz": "我想你。",
+        "py": "Wǒ xiǎng nǐ.",
+        "ar": "اشتقت إليك.",
+        "en": "I miss you."
+      }
+    },
+    {
+      "id": "lei",
+      "hz": "累",
+      "py": "lèi",
+      "pyn": "lei4",
+      "ar": "متعب",
+      "en": "tired",
+      "pos": "adj",
+      "hsk": 2,
+      "ex": {
+        "hz": "我很累。",
+        "py": "Wǒ hěn lèi.",
+        "ar": "أنا متعب جدًا.",
+        "en": "I'm very tired."
+      }
+    },
+    {
+      "id": "mang",
+      "hz": "忙",
+      "py": "máng",
+      "pyn": "mang2",
+      "ar": "مشغول",
+      "en": "busy",
+      "pos": "adj",
+      "hsk": 2,
+      "ex": {
+        "hz": "你忙吗？",
+        "py": "Nǐ máng ma?",
+        "ar": "هل أنت مشغول؟",
+        "en": "Are you busy?"
+      }
+    },
+    {
+      "id": "shengbing",
+      "hz": "生病",
+      "py": "shēngbìng",
+      "pyn": "sheng1 bing4",
+      "ar": "يمرض",
+      "en": "to get sick",
+      "pos": "verb",
+      "hsk": 2,
+      "ex": {
+        "hz": "他生病了。",
+        "py": "Tā shēngbìng le.",
+        "ar": "لقد مرض.",
+        "en": "He is sick."
+      }
+    },
+    {
+      "id": "xiao",
+      "hz": "笑",
+      "py": "xiào",
+      "pyn": "xiao4",
+      "ar": "يضحك؛ يبتسم",
+      "en": "to laugh; to smile",
+      "pos": "verb",
+      "hsk": 2,
+      "ex": {
+        "hz": "她笑了。",
+        "py": "Tā xiào le.",
+        "ar": "ابتسمَت.",
+        "en": "She smiled."
+      }
+    },
+    {
+      "id": "nanguo",
+      "hz": "难过",
+      "py": "nánguò",
+      "pyn": "nan2 guo4",
+      "ar": "حزين",
+      "en": "sad",
+      "pos": "adj",
+      "hsk": 3,
+      "ex": {
+        "hz": "别难过。",
+        "py": "Bié nánguò.",
+        "ar": "لا تحزن.",
+        "en": "Don't be sad."
+      }
+    },
+    {
+      "id": "shengqi",
+      "hz": "生气",
+      "py": "shēngqì",
+      "pyn": "sheng1 qi4",
+      "ar": "غاضب؛ يغضب",
+      "en": "angry; to get angry",
+      "pos": "adj",
+      "hsk": 3,
+      "ex": {
+        "hz": "你生气了吗？",
+        "py": "Nǐ shēngqì le ma?",
+        "ar": "هل أنت غاضب؟",
+        "en": "Are you angry?"
+      }
+    },
+    {
+      "id": "danxin",
+      "hz": "担心",
+      "py": "dānxīn",
+      "pyn": "dan1 xin1",
+      "ar": "يقلق",
+      "en": "to worry",
+      "pos": "verb",
+      "hsk": 3,
+      "ex": {
+        "hz": "别担心！",
+        "py": "Bié dānxīn!",
+        "ar": "لا تقلق!",
+        "en": "Don't worry!"
+      }
+    },
+    {
+      "id": "haipa",
+      "hz": "害怕",
+      "py": "hàipà",
+      "pyn": "hai4 pa4",
+      "ar": "يخاف",
+      "en": "to be afraid",
+      "pos": "verb",
+      "hsk": 3,
+      "ex": {
+        "hz": "我不害怕。",
+        "py": "Wǒ bù hàipà.",
+        "ar": "أنا لا أخاف.",
+        "en": "I'm not afraid."
+      }
+    },
+    {
+      "id": "shufu",
+      "hz": "舒服",
+      "py": "shūfu",
+      "pyn": "shu1 fu5",
+      "ar": "مرتاح، بخير (جسديًا)",
+      "en": "comfortable; feeling well",
+      "pos": "adj",
+      "hsk": 3,
+      "note_ar": "不舒服 = متوعّك، لست على ما يرام.",
+      "ex": {
+        "hz": "我不舒服。",
+        "py": "Wǒ bù shūfu.",
+        "ar": "لست على ما يرام.",
+        "en": "I don't feel well."
+      }
+    }
+  ]
+}

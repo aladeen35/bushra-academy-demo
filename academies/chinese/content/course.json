@@ -1,0 +1,798 @@
+{
+ "intro": {
+  "ar": "منهج متدرّج من الصفر إلى ما بعد المبتدئ، متوافق مع مفردات HSK 1–2: نبدأ بالأصوات والنغمات والحروف، ثم المفردات والقواعد والمحادثات، ونختم باختبارات المستوى.",
+  "en": "A graded path from zero to upper beginner aligned with HSK 1–2 vocabulary: sounds, tones and characters first, then vocabulary, grammar and conversations, ending with level tests."
+ },
+ "units": [
+  {
+   "code": "A",
+   "title": {
+    "ar": "أساسيات الصينية",
+    "en": "Chinese foundations"
+   },
+   "summary": {
+    "ar": "الماندرين، البينيين، النغمات، الحروف الصينية وترتيب الخطوط",
+    "en": "Mandarin, pinyin, tones, Hanzi and stroke order"
+   },
+   "lessons": [
+    {
+     "id": "a-intro",
+     "type": "module",
+     "module": "pinyin",
+     "tab": "intro",
+     "title": {
+      "ar": "مدخل إلى الماندرين والبينيين",
+      "en": "Introduction to Mandarin and pinyin"
+     },
+     "summary": {
+      "ar": "ما الماندرين؟ وما البينيين؟ وكيف يتكوّن المقطع",
+      "en": "What Mandarin and pinyin are; how a syllable is built"
+     }
+    },
+    {
+     "id": "a-tones",
+     "type": "module",
+     "module": "pinyin",
+     "tab": "tones",
+     "title": {
+      "ar": "النغمات الأربع والنغمة الخفيفة",
+      "en": "The four tones and the neutral tone"
+     },
+     "summary": {
+      "ar": "استمع وميّز النغمات",
+      "en": "Hear and tell the tones apart"
+     }
+    },
+    {
+     "id": "a-initials",
+     "type": "module",
+     "module": "pinyin",
+     "tab": "initials",
+     "title": {
+      "ar": "الحروف الأولى (Initials)",
+      "en": "Initials"
+     },
+     "summary": {
+      "ar": "الأصوات الساكنة الـ٢١ وأقربها للعربية",
+      "en": "The 21 initial consonants vs Arabic sounds"
+     }
+    },
+    {
+     "id": "a-finals",
+     "type": "module",
+     "module": "pinyin",
+     "tab": "finals",
+     "title": {
+      "ar": "الحروف الأخيرة (Finals)",
+      "en": "Finals"
+     },
+     "summary": {
+      "ar": "أصوات العلة والنهايات الأنفية",
+      "en": "Vowels and nasal endings"
+     }
+    },
+    {
+     "id": "a-rules",
+     "type": "module",
+     "module": "pinyin",
+     "tab": "rules",
+     "title": {
+      "ar": "قواعد النطق وتغيّر النغمات",
+      "en": "Pronunciation rules and tone changes"
+     },
+     "summary": {
+      "ar": "علامات النغمات، تغيّر الثالثة، 不 و一",
+      "en": "Tone marks, third-tone sandhi, 不 and 一"
+     }
+    },
+    {
+     "id": "a-hanzi",
+     "type": "module",
+     "module": "hanzi",
+     "tab": "intro",
+     "title": {
+      "ar": "مدخل إلى الحروف الصينية",
+      "en": "Introduction to Hanzi"
+     },
+     "summary": {
+      "ar": "الحروف المبسّطة والمكوّنات",
+      "en": "Simplified characters and components"
+     }
+    },
+    {
+     "id": "a-strokes",
+     "type": "module",
+     "module": "hanzi",
+     "tab": "strokes",
+     "title": {
+      "ar": "الخطوط الأساسية",
+      "en": "Basic strokes"
+     },
+     "summary": {
+      "ar": "الخطوط الثمانية وما يتفرع منها",
+      "en": "The eight strokes and compounds"
+     }
+    },
+    {
+     "id": "a-order",
+     "type": "module",
+     "module": "hanzi",
+     "tab": "rules",
+     "title": {
+      "ar": "قواعد ترتيب الخطوط",
+      "en": "Stroke-order rules"
+     },
+     "summary": {
+      "ar": "سبع قواعد تكتب بها أي حرف",
+      "en": "Seven rules for writing any character"
+     }
+    },
+    {
+     "id": "a-radicals",
+     "type": "module",
+     "module": "hanzi",
+     "tab": "radicals",
+     "title": {
+      "ar": "الجذور الشائعة",
+      "en": "Common radicals"
+     },
+     "summary": {
+      "ar": "عشرون مكوّنًا يتكرر في الحروف",
+      "en": "Twenty recurring components"
+     }
+    },
+    {
+     "id": "a-chars-1",
+     "type": "module",
+     "module": "hanzi",
+     "tab": "chars",
+     "range": [
+      0,
+      20
+     ],
+     "title": {
+      "ar": "أول ٢٠ حرفًا",
+      "en": "Your first 20 characters"
+     },
+     "summary": {
+      "ar": "شاهد ترتيب الخطوط وتدرّب على الكتابة",
+      "en": "Watch the stroke order and practise writing"
+     }
+    },
+    {
+     "id": "a-chars-2",
+     "type": "module",
+     "module": "hanzi",
+     "tab": "chars",
+     "range": [
+      20,
+      40
+     ],
+     "title": {
+      "ar": "٢٠ حرفًا أخرى",
+      "en": "20 more characters"
+     },
+     "summary": {
+      "ar": "حروف أساسية من HSK 1",
+      "en": "Core HSK 1 characters"
+     }
+    },
+    {
+     "id": "a-test",
+     "type": "test",
+     "test": "foundations",
+     "title": {
+      "ar": "اختبار الأساسيات",
+      "en": "Foundations test"
+     },
+     "summary": {
+      "ar": "النغمات والأصوات والحروف",
+      "en": "Tones, sounds and characters"
+     }
+    }
+   ]
+  },
+  {
+   "code": "B",
+   "title": {
+    "ar": "المفردات الأساسية",
+    "en": "Essential vocabulary"
+   },
+   "summary": {
+    "ar": "١٤ فئة من الحياة اليومية",
+    "en": "14 everyday categories"
+   },
+   "lessons": [
+    {
+     "id": "b-greetings",
+     "type": "vocab",
+     "cat": "greetings",
+     "title": {
+      "ar": "التحيات والمجاملات",
+      "en": "Greetings & courtesy"
+     },
+     "summary": {
+      "ar": "كلمات وأمثلة ونطق وتدريب",
+      "en": "Words, examples, audio and practice"
+     }
+    },
+    {
+     "id": "b-introductions",
+     "type": "vocab",
+     "cat": "introductions",
+     "title": {
+      "ar": "التعارف",
+      "en": "Introductions"
+     },
+     "summary": {
+      "ar": "كلمات وأمثلة ونطق وتدريب",
+      "en": "Words, examples, audio and practice"
+     }
+    },
+    {
+     "id": "b-numbers",
+     "type": "vocab",
+     "cat": "numbers",
+     "title": {
+      "ar": "الأرقام",
+      "en": "Numbers"
+     },
+     "summary": {
+      "ar": "كلمات وأمثلة ونطق وتدريب",
+      "en": "Words, examples, audio and practice"
+     }
+    },
+    {
+     "id": "b-family",
+     "type": "vocab",
+     "cat": "family",
+     "title": {
+      "ar": "العائلة",
+      "en": "Family"
+     },
+     "summary": {
+      "ar": "كلمات وأمثلة ونطق وتدريب",
+      "en": "Words, examples, audio and practice"
+     }
+    },
+    {
+     "id": "b-food",
+     "type": "vocab",
+     "cat": "food",
+     "title": {
+      "ar": "الطعام والشراب",
+      "en": "Food & drinks"
+     },
+     "summary": {
+      "ar": "كلمات وأمثلة ونطق وتدريب",
+      "en": "Words, examples, audio and practice"
+     }
+    },
+    {
+     "id": "b-colors",
+     "type": "vocab",
+     "cat": "colors",
+     "title": {
+      "ar": "الألوان",
+      "en": "Colors"
+     },
+     "summary": {
+      "ar": "كلمات وأمثلة ونطق وتدريب",
+      "en": "Words, examples, audio and practice"
+     }
+    },
+    {
+     "id": "b-review-1",
+     "type": "review",
+     "cats": [
+      "greetings",
+      "introductions",
+      "numbers",
+      "family",
+      "food",
+      "colors"
+     ],
+     "title": {
+      "ar": "مراجعة: الكلمات الأولى",
+      "en": "Review: first words"
+     },
+     "summary": {
+      "ar": "مراجعة مختلطة لفئات التحيات حتى الألوان",
+      "en": "Mixed review from greetings to colors"
+     }
+    },
+    {
+     "id": "b-shopping",
+     "type": "vocab",
+     "cat": "shopping",
+     "title": {
+      "ar": "التسوّق",
+      "en": "Shopping"
+     },
+     "summary": {
+      "ar": "كلمات وأمثلة ونطق وتدريب",
+      "en": "Words, examples, audio and practice"
+     }
+    },
+    {
+     "id": "b-time",
+     "type": "vocab",
+     "cat": "time",
+     "title": {
+      "ar": "الوقت والتاريخ",
+      "en": "Time & dates"
+     },
+     "summary": {
+      "ar": "كلمات وأمثلة ونطق وتدريب",
+      "en": "Words, examples, audio and practice"
+     }
+    },
+    {
+     "id": "b-places",
+     "type": "vocab",
+     "cat": "places",
+     "title": {
+      "ar": "الأماكن والاتجاهات",
+      "en": "Places & directions"
+     },
+     "summary": {
+      "ar": "كلمات وأمثلة ونطق وتدريب",
+      "en": "Words, examples, audio and practice"
+     }
+    },
+    {
+     "id": "b-transport",
+     "type": "vocab",
+     "cat": "transport",
+     "title": {
+      "ar": "المواصلات",
+      "en": "Transportation"
+     },
+     "summary": {
+      "ar": "كلمات وأمثلة ونطق وتدريب",
+      "en": "Words, examples, audio and practice"
+     }
+    },
+    {
+     "id": "b-review-2",
+     "type": "review",
+     "cats": [
+      "shopping",
+      "time",
+      "places",
+      "transport"
+     ],
+     "title": {
+      "ar": "مراجعة: الحياة في المدينة",
+      "en": "Review: life in the city"
+     },
+     "summary": {
+      "ar": "التسوّق والوقت والأماكن والمواصلات",
+      "en": "Shopping, time, places and transport"
+     }
+    },
+    {
+     "id": "b-work-study",
+     "type": "vocab",
+     "cat": "work-study",
+     "title": {
+      "ar": "العمل والدراسة",
+      "en": "Work & education"
+     },
+     "summary": {
+      "ar": "كلمات وأمثلة ونطق وتدريب",
+      "en": "Words, examples, audio and practice"
+     }
+    },
+    {
+     "id": "b-daily",
+     "type": "vocab",
+     "cat": "daily",
+     "title": {
+      "ar": "الأنشطة اليومية",
+      "en": "Daily activities"
+     },
+     "summary": {
+      "ar": "كلمات وأمثلة ونطق وتدريب",
+      "en": "Words, examples, audio and practice"
+     }
+    },
+    {
+     "id": "b-feelings",
+     "type": "vocab",
+     "cat": "feelings",
+     "title": {
+      "ar": "المشاعر",
+      "en": "Feelings"
+     },
+     "summary": {
+      "ar": "كلمات وأمثلة ونطق وتدريب",
+      "en": "Words, examples, audio and practice"
+     }
+    },
+    {
+     "id": "b-travel",
+     "type": "vocab",
+     "cat": "travel",
+     "title": {
+      "ar": "السفر",
+      "en": "Travel"
+     },
+     "summary": {
+      "ar": "كلمات وأمثلة ونطق وتدريب",
+      "en": "Words, examples, audio and practice"
+     }
+    },
+    {
+     "id": "b-review-3",
+     "type": "review",
+     "cats": [
+      "work-study",
+      "daily",
+      "feelings",
+      "travel"
+     ],
+     "title": {
+      "ar": "مراجعة: يومي وسفري",
+      "en": "Review: my day and travels"
+     },
+     "summary": {
+      "ar": "العمل والأنشطة والمشاعر والسفر",
+      "en": "Work, activities, feelings and travel"
+     }
+    }
+   ]
+  },
+  {
+   "code": "C",
+   "title": {
+    "ar": "القواعد الصينية",
+    "en": "Chinese grammar"
+   },
+   "summary": {
+    "ar": "بناء الجملة خطوة بخطوة مع الشرح بالعربية",
+    "en": "Sentence building step by step, explained in Arabic"
+   },
+   "lessons": [
+    {
+     "id": "c-svo",
+     "type": "grammar",
+     "grammar": "svo",
+     "title": {
+      "ar": "الفاعل + الفعل + المفعول به",
+      "en": "Subject + Verb + Object"
+     },
+     "summary": {
+      "ar": "الجملة الصينية الأساسية ترتيبها: الفاعل ثم الفعل ثم المفعول به، والفعل لا يتغيّر أبدًا.",
+      "en": "The basic Chinese sentence follows Subject–Verb–Object order, and the verb never changes form."
+     }
+    },
+    {
+     "id": "c-pronouns",
+     "type": "grammar",
+     "grammar": "pronouns",
+     "title": {
+      "ar": "الضمائر الشخصية و们",
+      "en": "Personal Pronouns and 们"
+     },
+     "summary": {
+      "ar": "الضمائر الصينية قليلة وسهلة، ونجمعها بإضافة 们 بعدها.",
+      "en": "Chinese pronouns are few and simple, and you make them plural by adding 们."
+     }
+    },
+    {
+     "id": "c-shi-you",
+     "type": "grammar",
+     "grammar": "shi-you",
+     "title": {
+      "ar": "أفعال أساسية: 是 و有 و叫 و在",
+      "en": "Basic Verbs: 是, 有, 叫, 在"
+     },
+     "summary": {
+      "ar": "أربعة أفعال تبني بها أولى جملك: 是 «يكون»، 有 «عنده/يوجد»، 叫 «اسمه»، 在 «موجود في».",
+      "en": "Four verbs for your first sentences: 是 \"to be\", 有 \"to have / there is\", 叫 \"to be called\", 在 \"to be at\"."
+     }
+    },
+    {
+     "id": "c-adjectives",
+     "type": "grammar",
+     "grammar": "adjectives",
+     "title": {
+      "ar": "الصفات مع 很",
+      "en": "Adjectives with 很"
+     },
+     "summary": {
+      "ar": "الصفة في الصينية تعمل كالخبر مباشرةً بلا 是، وغالبًا نضع قبلها 很.",
+      "en": "A Chinese adjective works as the predicate directly, without 是, usually with 很 before it."
+     }
+    },
+    {
+     "id": "c-bu-mei",
+     "type": "grammar",
+     "grammar": "bu-mei",
+     "title": {
+      "ar": "النفي: 不 و没/没有",
+      "en": "Negation: 不 vs 没 / 没有"
+     },
+     "summary": {
+      "ar": "نستعمل 不 لنفي العادات والحاضر والمستقبل والصفات، و没 لنفي ما لم يحدث في الماضي ولنفي 有.",
+      "en": "Use 不 for habits, present, future and adjectives; use 没 for things that did not happen and to negate 有."
+     }
+    },
+    {
+     "id": "c-ma",
+     "type": "grammar",
+     "grammar": "ma",
+     "title": {
+      "ar": "أسئلة «نعم/لا» بـ 吗",
+      "en": "Yes/No Questions with 吗"
+     },
+     "summary": {
+      "ar": "أضِف 吗 إلى آخر الجملة الخبرية فتصبح سؤالًا جوابه «نعم» أو «لا».",
+      "en": "Add 吗 to the end of a statement to turn it into a yes/no question."
+     }
+    },
+    {
+     "id": "c-question-words",
+     "type": "grammar",
+     "grammar": "question-words",
+     "title": {
+      "ar": "أدوات الاستفهام",
+      "en": "Question Words"
+     },
+     "summary": {
+      "ar": "أداة الاستفهام الصينية تبقى في مكان الجواب نفسه، ولا تنتقل إلى أول الجملة.",
+      "en": "A Chinese question word stays where the answer would be; it does not move to the front."
+     }
+    },
+    {
+     "id": "c-measure-words",
+     "type": "grammar",
+     "grammar": "measure-words",
+     "title": {
+      "ar": "كلمات العدّ",
+      "en": "Measure Words"
+     },
+     "summary": {
+      "ar": "بين العدد (أو 这/那) والاسم نضع دائمًا كلمة عدّ مثل 个 أو 本.",
+      "en": "Between a number (or 这/那) and a noun you always need a measure word such as 个 or 本."
+     }
+    },
+    {
+     "id": "c-de",
+     "type": "grammar",
+     "grammar": "de",
+     "title": {
+      "ar": "الأداة 的 للملكية والوصف",
+      "en": "的 for Possession and Description"
+     },
+     "summary": {
+      "ar": "的 تربط المالك أو الوصف بالاسم الذي بعده، ويأتي المالك أولًا.",
+      "en": "的 links an owner or a description to the noun after it, with the owner first."
+     }
+    },
+    {
+     "id": "c-time-place",
+     "type": "grammar",
+     "grammar": "time-place",
+     "title": {
+      "ar": "مكان الزمان والمكان في الجملة",
+      "en": "Where Time and Place Go"
+     },
+     "summary": {
+      "ar": "الزمان والمكان يأتيان قبل الفعل في الصينية، لا في آخر الجملة.",
+      "en": "In Chinese, time and place come before the verb, not at the end of the sentence."
+     }
+    },
+    {
+     "id": "c-connectors",
+     "type": "grammar",
+     "grammar": "connectors",
+     "title": {
+      "ar": "أدوات الربط",
+      "en": "Connectors"
+     },
+     "summary": {
+      "ar": "和 تربط الأسماء فقط، و还是 للتخيير في السؤال، و或者 في الخبر، و也 و都 قبل الفعل.",
+      "en": "和 joins only nouns; 还是 is \"or\" in questions, 或者 in statements; 也 and 都 go before the verb."
+     }
+    },
+    {
+     "id": "c-patterns",
+     "type": "grammar",
+     "grammar": "patterns",
+     "title": {
+      "ar": "أنماط أساسية: 在 و想/要 و会 و了",
+      "en": "Key Patterns: 在, 想/要, 会, 了"
+     },
+     "summary": {
+      "ar": "أربعة أنماط قصيرة تعبّر عن: ما يحدث الآن، والرغبة، والقدرة المكتسبة، والفعل الذي تمّ.",
+      "en": "Four short patterns for: what is happening now, wanting, learned ability, and completed actions."
+     }
+    }
+   ]
+  },
+  {
+   "code": "D",
+   "title": {
+    "ar": "الأسئلة والمحادثات",
+    "en": "Questions and conversations"
+   },
+   "summary": {
+    "ar": "محادثات واقعية متدرّجة",
+    "en": "Graded real-life conversations"
+   },
+   "lessons": [
+    {
+     "id": "d-hello",
+     "type": "dialogue",
+     "dialogue": "hello",
+     "title": {
+      "ar": "التحيّة",
+      "en": "Greetings"
+     },
+     "summary": {
+      "ar": "صباح أول يوم دراسي: علي يدخل الفصل ويحيّي الأستاذ وانغ.",
+      "en": "The morning of the first class: Ali walks in and greets Teacher Wang."
+     }
+    },
+    {
+     "id": "d-name",
+     "type": "dialogue",
+     "dialogue": "name",
+     "title": {
+      "ar": "ما اسمك؟",
+      "en": "What's Your Name?"
+     },
+     "summary": {
+      "ar": "سارة تتعرّف على سيدة صينية في مركز تعليم اللغة.",
+      "en": "Sara meets a Chinese woman at the language center."
+     }
+    },
+    {
+     "id": "d-how-are-you",
+     "type": "dialogue",
+     "dialogue": "how-are-you",
+     "title": {
+      "ar": "كيف حالك؟",
+      "en": "How Are You?"
+     },
+     "summary": {
+      "ar": "أحمد يلتقي صديقه الصيني تشانغ مينغ بعد مدة طويلة.",
+      "en": "Ahmed runs into his Chinese friend Zhang Ming after a long time."
+     }
+    },
+    {
+     "id": "d-nationality",
+     "type": "dialogue",
+     "dialogue": "nationality",
+     "title": {
+      "ar": "من أيّ بلد أنت؟",
+      "en": "Where Are You From?"
+     },
+     "summary": {
+      "ar": "في الجامعة، تسأل طالبة صينية فاطمة عن بلدها.",
+      "en": "At the university, a Chinese student asks Fatima where she is from."
+     }
+    },
+    {
+     "id": "d-family",
+     "type": "dialogue",
+     "dialogue": "family",
+     "title": {
+      "ar": "العائلة",
+      "en": "Family"
+     },
+     "summary": {
+      "ar": "وانغ فانغ تسأل عليًّا عن عائلته في السودان.",
+      "en": "Wang Fang asks Ali about his family in Sudan."
+     }
+    },
+    {
+     "id": "d-phone-number",
+     "type": "dialogue",
+     "dialogue": "phone-number",
+     "title": {
+      "ar": "رقم الهاتف",
+      "en": "Phone Number"
+     },
+     "summary": {
+      "ar": "سارة تطلب رقم هاتف زميلها لي مينغ لتدرسا معًا.",
+      "en": "Sara asks her classmate Li Ming for his phone number so they can study together."
+     }
+    },
+    {
+     "id": "d-shopping",
+     "type": "dialogue",
+     "dialogue": "shopping",
+     "title": {
+      "ar": "التسوّق",
+      "en": "Shopping"
+     },
+     "summary": {
+      "ar": "فاطمة في متجر ملابس، تسأل عن السعر وتفاوض قليلًا.",
+      "en": "Fatima is in a clothes shop, asking the price and bargaining a little."
+     }
+    },
+    {
+     "id": "d-restaurant",
+     "type": "dialogue",
+     "dialogue": "restaurant",
+     "title": {
+      "ar": "في المطعم",
+      "en": "At the Restaurant"
+     },
+     "summary": {
+      "ar": "أحمد وصديقه يدخلان مطعمًا صينيًا حلالًا ويطلبان الطعام.",
+      "en": "Ahmed and a friend go into a halal Chinese restaurant and order."
+     }
+    },
+    {
+     "id": "d-directions",
+     "type": "dialogue",
+     "dialogue": "directions",
+     "title": {
+      "ar": "السؤال عن الطريق",
+      "en": "Asking for Directions"
+     },
+     "summary": {
+      "ar": "علي في الشارع ويسأل رجلًا عن طريق المستشفى.",
+      "en": "Ali is in the street and asks a man the way to the hospital."
+     }
+    },
+    {
+     "id": "d-taxi-time",
+     "type": "dialogue",
+     "dialogue": "taxi-time",
+     "title": {
+      "ar": "في سيارة الأجرة",
+      "en": "Taking a Taxi"
+     },
+     "summary": {
+      "ar": "سارة تركب سيارة أجرة إلى المطار وتسأل عن الوقت والأجرة.",
+      "en": "Sara takes a taxi to the airport and asks about the time and the fare."
+     }
+    }
+   ]
+  },
+  {
+   "code": "E",
+   "title": {
+    "ar": "التقدّم في المستوى",
+    "en": "Proficiency progression"
+   },
+   "summary": {
+    "ar": "اختبارات متوافقة مع مفردات HSK وشهادات إتمام",
+    "en": "HSK-aligned tests and completion certificates"
+   },
+   "lessons": [
+    {
+     "id": "e-hsk1",
+     "type": "test",
+     "test": "hsk1",
+     "title": {
+      "ar": "اختبار مستوى HSK 1",
+      "en": "HSK 1 level test"
+     },
+     "summary": {
+      "ar": "مفردات وقواعد ومحادثات المستوى الأول",
+      "en": "Level 1 vocabulary, grammar and conversations"
+     }
+    },
+    {
+     "id": "e-hsk2",
+     "type": "test",
+     "test": "hsk2",
+     "title": {
+      "ar": "اختبار مستوى HSK 2",
+      "en": "HSK 2 level test"
+     },
+     "summary": {
+      "ar": "مفردات وقواعد ومحادثات المستوى الثاني",
+      "en": "Level 2 vocabulary, grammar and conversations"
+     }
+    }
+   ]
+  }
+ ]
+}

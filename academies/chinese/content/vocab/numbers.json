@@ -1,0 +1,103 @@
+{
+  "id": "numbers",
+  "title": {"ar": "الأرقام", "en": "Numbers"},
+  "icon": "🔢",
+  "words": [
+    {
+      "id": "yi", "hz": "一", "py": "yī", "pyn": "yi1",
+      "ar": "واحد", "en": "one", "pos": "num", "hsk": 1,
+      "note_ar": "يُنطق yí قبل النغمة الرابعة، و yì قبل باقي النغمات، ويبقى yī عند العدّ وفي آخر الكلمة.",
+      "ex": {"hz": "我有一个哥哥。", "py": "Wǒ yǒu yī gè gēge.", "ar": "لديّ أخ أكبر واحد.", "en": "I have one older brother."}
+    },
+    {
+      "id": "er", "hz": "二", "py": "èr", "pyn": "er4",
+      "ar": "اثنان", "en": "two", "pos": "num", "hsk": 1,
+      "note_ar": "يُستخدم في العدّ والأرقام المركبة والترتيب، أما قبل كلمات القياس فنستخدم 两.",
+      "ex": {"hz": "这是第二个。", "py": "Zhè shì dì èr gè.", "ar": "هذا هو الثاني.", "en": "This is the second one."}
+    },
+    {
+      "id": "san", "hz": "三", "py": "sān", "pyn": "san1",
+      "ar": "ثلاثة", "en": "three", "pos": "num", "hsk": 1,
+      "ex": {"hz": "我有三个朋友。", "py": "Wǒ yǒu sān gè péngyou.", "ar": "لديّ ثلاثة أصدقاء.", "en": "I have three friends."}
+    },
+    {
+      "id": "si", "hz": "四", "py": "sì", "pyn": "si4",
+      "ar": "أربعة", "en": "four", "pos": "num", "hsk": 1,
+      "note_ar": "انتبه للفرق بين 四 sì «أربعة» و 十 shí «عشرة».",
+      "ex": {"hz": "我要四个苹果。", "py": "Wǒ yào sì gè píngguǒ.", "ar": "أريد أربع تفاحات.", "en": "I want four apples."}
+    },
+    {
+      "id": "wu", "hz": "五", "py": "wǔ", "pyn": "wu3",
+      "ar": "خمسة", "en": "five", "pos": "num", "hsk": 1,
+      "ex": {"hz": "这个五块钱。", "py": "Zhège wǔ kuài qián.", "ar": "هذا بخمسة يوانات.", "en": "This one is five yuan."}
+    },
+    {
+      "id": "liu", "hz": "六", "py": "liù", "pyn": "liu4",
+      "ar": "ستة", "en": "six", "pos": "num", "hsk": 1,
+      "ex": {"hz": "他六岁。", "py": "Tā liù suì.", "ar": "عمره ست سنوات.", "en": "He is six years old."}
+    },
+    {
+      "id": "qi", "hz": "七", "py": "qī", "pyn": "qi1",
+      "ar": "سبعة", "en": "seven", "pos": "num", "hsk": 1,
+      "ex": {"hz": "一个星期有七天。", "py": "Yī gè xīngqī yǒu qī tiān.", "ar": "في الأسبوع سبعة أيام.", "en": "A week has seven days."}
+    },
+    {
+      "id": "ba", "hz": "八", "py": "bā", "pyn": "ba1",
+      "ar": "ثمانية", "en": "eight", "pos": "num", "hsk": 1,
+      "ex": {"hz": "我八点去学校。", "py": "Wǒ bā diǎn qù xuéxiào.", "ar": "أذهب إلى المدرسة في الساعة الثامنة.", "en": "I go to school at eight o'clock."}
+    },
+    {
+      "id": "jiu", "hz": "九", "py": "jiǔ", "pyn": "jiu3",
+      "ar": "تسعة", "en": "nine", "pos": "num", "hsk": 1,
+      "ex": {"hz": "我妹妹九岁。", "py": "Wǒ mèimei jiǔ suì.", "ar": "عمر أختي الصغرى تسع سنوات.", "en": "My younger sister is nine."}
+    },
+    {
+      "id": "shi-ten", "hz": "十", "py": "shí", "pyn": "shi2",
+      "ar": "عشرة", "en": "ten", "pos": "num", "hsk": 1,
+      "note_ar": "تُركَّب الأعداد بالجمع والضرب: 十一 = عشرة + واحد = 11، و 二十 = اثنان × عشرة = 20، و 二十五 = 25، و 九十九 = 99.",
+      "ex": {"hz": "这里有十个人。", "py": "Zhèlǐ yǒu shí gè rén.", "ar": "هنا عشرة أشخاص.", "en": "There are ten people here."}
+    },
+    {
+      "id": "ling", "hz": "零", "py": "líng", "pyn": "ling2",
+      "ar": "صفر", "en": "zero", "pos": "num", "hsk": 2,
+      "note_ar": "يُقال عند وجود صفر في وسط العدد: 一百零五 = 105.",
+      "ex": {"hz": "我家是一零八号。", "py": "Wǒ jiā shì yī líng bā hào.", "ar": "رقم بيتي 108.", "en": "My house is number 108."}
+    },
+    {
+      "id": "bai", "hz": "百", "py": "bǎi", "pyn": "bai3",
+      "ar": "مئة", "en": "hundred", "pos": "num", "hsk": 2,
+      "note_ar": "نقول 一百 «مئة» ولا نقول 百 وحدها، و 三百 = 300.",
+      "ex": {"hz": "这本书一百块。", "py": "Zhè běn shū yībǎi kuài.", "ar": "هذا الكتاب بمئة يوان.", "en": "This book costs 100 yuan."}
+    },
+    {
+      "id": "qian-thousand", "hz": "千", "py": "qiān", "pyn": "qian1",
+      "ar": "ألف", "en": "thousand", "pos": "num", "hsk": 2,
+      "note_ar": "一千 = 1000، و 两千 = 2000.",
+      "ex": {"hz": "这个手机三千块。", "py": "Zhège shǒujī sānqiān kuài.", "ar": "هذا الهاتف بثلاثة آلاف يوان.", "en": "This phone costs 3,000 yuan."}
+    },
+    {
+      "id": "liang", "hz": "两", "py": "liǎng", "pyn": "liang3",
+      "ar": "اثنان (قبل كلمة القياس)", "en": "two (before measure words)", "pos": "num", "hsk": 2,
+      "note_ar": "نقول 两个人 لا 二个人، لكن نقول 十二 و 第二 بـ 二.",
+      "ex": {"hz": "我有两个姐姐。", "py": "Wǒ yǒu liǎng gè jiějie.", "ar": "لديّ أختان كبيرتان.", "en": "I have two older sisters."}
+    },
+    {
+      "id": "ji-few", "hz": "几", "py": "jǐ", "pyn": "ji3",
+      "ar": "كم (لعدد صغير)", "en": "how many (small number)", "pos": "num", "hsk": 1,
+      "note_ar": "يُستخدم عندما نتوقع عددًا صغيرًا (أقل من عشرة عادةً)، ويليه كلمة قياس.",
+      "ex": {"hz": "你有几个孩子？", "py": "Nǐ yǒu jǐ gè háizi?", "ar": "كم طفلًا لديك؟", "en": "How many children do you have?"}
+    },
+    {
+      "id": "duoshao", "hz": "多少", "py": "duōshao", "pyn": "duo1 shao5",
+      "ar": "كم", "en": "how many; how much", "pos": "pron", "hsk": 1,
+      "note_ar": "لأي عدد، كبيرًا كان أو صغيرًا، ويمكن حذف كلمة القياس بعده.",
+      "ex": {"hz": "你有多少本书？", "py": "Nǐ yǒu duōshao běn shū?", "ar": "كم كتابًا لديك؟", "en": "How many books do you have?"}
+    },
+    {
+      "id": "di", "hz": "第", "py": "dì", "pyn": "di4",
+      "ar": "سابقة العدد الترتيبي", "en": "ordinal prefix (-th)", "pos": "num", "hsk": 2,
+      "note_ar": "第 + العدد = عدد ترتيبي: 第一 «الأول»، 第二 «الثاني».",
+      "ex": {"hz": "我是第一个。", "py": "Wǒ shì dì yī gè.", "ar": "أنا الأول.", "en": "I'm the first one."}
+    }
+  ]
+}
