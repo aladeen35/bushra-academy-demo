@@ -1,0 +1,78 @@
+{
+  "id": "shopping",
+  "title": {"ar": "التسوّق", "en": "Shopping"},
+  "icon": "🛍️",
+  "words": [
+    {
+      "id": "mai-buy", "hz": "买", "py": "mǎi", "pyn": "mai3",
+      "ar": "يشتري", "en": "to buy", "pos": "verb", "hsk": 1,
+      "note_ar": "买 mǎi «يشتري» بالنغمة الثالثة، و 卖 mài «يبيع» بالنغمة الرابعة.",
+      "ex": {"hz": "我想买一件衣服。", "py": "Wǒ xiǎng mǎi yī jiàn yīfu.", "ar": "أريد أن أشتري ثوبًا.", "en": "I want to buy a piece of clothing."}
+    },
+    {
+      "id": "mai-sell", "hz": "卖", "py": "mài", "pyn": "mai4",
+      "ar": "يبيع", "en": "to sell", "pos": "verb", "hsk": 2,
+      "ex": {"hz": "这里卖水果吗？", "py": "Zhèlǐ mài shuǐguǒ ma?", "ar": "هل تُباع الفاكهة هنا؟", "en": "Do they sell fruit here?"}
+    },
+    {
+      "id": "duoshaoqian", "hz": "多少钱", "py": "duōshao qián", "pyn": "duo1 shao5 qian2",
+      "ar": "بكم؟ كم السعر؟", "en": "how much (money)?", "pos": "phrase", "hsk": 1,
+      "ex": {"hz": "这个多少钱？", "py": "Zhège duōshao qián?", "ar": "بكم هذا؟", "en": "How much is this?"}
+    },
+    {
+      "id": "qian-money", "hz": "钱", "py": "qián", "pyn": "qian2",
+      "ar": "مال، نقود", "en": "money", "pos": "noun", "hsk": 1,
+      "ex": {"hz": "我没有钱了。", "py": "Wǒ méiyǒu qián le.", "ar": "لم يعد معي مال.", "en": "I have no money left."}
+    },
+    {
+      "id": "kuai", "hz": "块", "py": "kuài", "pyn": "kuai4",
+      "ar": "يوان (في الكلام اليومي)", "en": "yuan (colloquial); piece", "pos": "mw", "hsk": 1,
+      "note_ar": "الكلمة الشائعة في الحديث لعملة اليوان، وتعني أيضًا «قطعة».",
+      "ex": {"hz": "这个十块。", "py": "Zhège shí kuài.", "ar": "هذا بعشرة يوانات.", "en": "This one is ten yuan."}
+    },
+    {
+      "id": "yuan", "hz": "元", "py": "yuán", "pyn": "yuan2",
+      "ar": "يوان (الوحدة الرسمية)", "en": "yuan (formal)", "pos": "mw", "hsk": 3,
+      "note_ar": "الوحدة الرسمية للعملة الصينية، وتُكتب على الأسعار، وفي الكلام نقول 块.",
+      "ex": {"hz": "这本书二十元。", "py": "Zhè běn shū èrshí yuán.", "ar": "هذا الكتاب بعشرين يوانًا.", "en": "This book is 20 yuan."}
+    },
+    {
+      "id": "gui", "hz": "贵", "py": "guì", "pyn": "gui4",
+      "ar": "غالٍ", "en": "expensive", "pos": "adj", "hsk": 2,
+      "ex": {"hz": "太贵了！", "py": "Tài guì le!", "ar": "غالٍ جدًا!", "en": "Too expensive!"}
+    },
+    {
+      "id": "pianyi", "hz": "便宜", "py": "piányi", "pyn": "pian2 yi5",
+      "ar": "رخيص", "en": "cheap", "pos": "adj", "hsk": 2,
+      "note_ar": "تُقرأ 便 هنا pián وليس biàn.",
+      "ex": {"hz": "能便宜一点吗？", "py": "Néng piányi yīdiǎn ma?", "ar": "هل يمكن أن تخفّض السعر قليلًا؟", "en": "Can you make it a bit cheaper?"}
+    },
+    {
+      "id": "yao", "hz": "要", "py": "yào", "pyn": "yao4",
+      "ar": "يريد، يطلب", "en": "to want", "pos": "verb", "hsk": 2,
+      "ex": {"hz": "你要什么？", "py": "Nǐ yào shénme?", "ar": "ماذا تريد؟", "en": "What do you want?"}
+    },
+    {
+      "id": "dongxi", "hz": "东西", "py": "dōngxi", "pyn": "dong1 xi5",
+      "ar": "شيء، أغراض", "en": "thing; stuff", "pos": "noun", "hsk": 1,
+      "note_ar": "المقطع الثاني بنغمة محايدة، وتعني «الأشياء».",
+      "ex": {"hz": "你买什么东西？", "py": "Nǐ mǎi shénme dōngxi?", "ar": "ماذا تشتري؟", "en": "What are you buying?"}
+    },
+    {
+      "id": "yifu", "hz": "衣服", "py": "yīfu", "pyn": "yi1 fu5",
+      "ar": "ملابس", "en": "clothes", "pos": "noun", "hsk": 1,
+      "ex": {"hz": "这件衣服很漂亮。", "py": "Zhè jiàn yīfu hěn piàoliang.", "ar": "هذا الثوب جميل جدًا.", "en": "This piece of clothing is very pretty."}
+    },
+    {
+      "id": "jian", "hz": "件", "py": "jiàn", "pyn": "jian4",
+      "ar": "كلمة قياس للملابس والأمور", "en": "measure word for clothes, matters", "pos": "mw", "hsk": 2,
+      "ex": {"hz": "我买了两件衣服。", "py": "Wǒ mǎi le liǎng jiàn yīfu.", "ar": "اشتريتُ قطعتين من الملابس.", "en": "I bought two pieces of clothing."}
+    },
+    {
+      "id": "ge", "hz": "个", "py": "gè", "pyn": "ge4",
+      "ar": "كلمة القياس العامة", "en": "general measure word", "pos": "mw", "hsk": 1,
+      "note_ar": "أكثر كلمات القياس استعمالًا، وكثيرًا ما تُنطق بنغمة محايدة ge.",
+      "ex": {"hz": "我要三个。", "py": "Wǒ yào sān gè.", "ar": "أريد ثلاثة.", "en": "I want three."}
+    }
+  ]
+}

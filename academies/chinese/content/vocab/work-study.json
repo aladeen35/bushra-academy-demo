@@ -1,0 +1,235 @@
+{
+  "id": "work-study",
+  "title": {
+    "ar": "العمل والدراسة",
+    "en": "Work & study"
+  },
+  "icon": "📚",
+  "words": [
+    {
+      "id": "gongzuo",
+      "hz": "工作",
+      "py": "gōngzuò",
+      "pyn": "gong1 zuo4",
+      "ar": "عمل؛ يعمل",
+      "en": "work, job; to work",
+      "pos": "noun",
+      "hsk": 1,
+      "note_ar": "تأتي اسمًا (عمل، وظيفة) وفعلًا (يعمل).",
+      "ex": {
+        "hz": "你做什么工作？",
+        "py": "Nǐ zuò shénme gōngzuò?",
+        "ar": "ما عملك؟",
+        "en": "What do you do for work?"
+      }
+    },
+    {
+      "id": "xuexi",
+      "hz": "学习",
+      "py": "xuéxí",
+      "pyn": "xue2 xi2",
+      "ar": "يدرس، يتعلم",
+      "en": "to study, to learn",
+      "pos": "verb",
+      "hsk": 1,
+      "ex": {
+        "hz": "我学习汉语。",
+        "py": "Wǒ xuéxí Hànyǔ.",
+        "ar": "أدرس اللغة الصينية.",
+        "en": "I study Chinese."
+      }
+    },
+    {
+      "id": "xuesheng",
+      "hz": "学生",
+      "py": "xuésheng",
+      "pyn": "xue2 sheng5",
+      "ar": "طالب، تلميذ",
+      "en": "student",
+      "pos": "noun",
+      "hsk": 1,
+      "ex": {
+        "hz": "我是学生。",
+        "py": "Wǒ shì xuésheng.",
+        "ar": "أنا طالب.",
+        "en": "I am a student."
+      }
+    },
+    {
+      "id": "laoshi",
+      "hz": "老师",
+      "py": "lǎoshī",
+      "pyn": "lao3 shi1",
+      "ar": "معلّم، أستاذ",
+      "en": "teacher",
+      "pos": "noun",
+      "hsk": 1,
+      "ex": {
+        "hz": "她是我的老师。",
+        "py": "Tā shì wǒ de lǎoshī.",
+        "ar": "هي معلّمتي.",
+        "en": "She is my teacher."
+      }
+    },
+    {
+      "id": "yisheng",
+      "hz": "医生",
+      "py": "yīshēng",
+      "pyn": "yi1 sheng1",
+      "ar": "طبيب",
+      "en": "doctor",
+      "pos": "noun",
+      "hsk": 1,
+      "ex": {
+        "hz": "他是医生。",
+        "py": "Tā shì yīshēng.",
+        "ar": "هو طبيب.",
+        "en": "He is a doctor."
+      }
+    },
+    {
+      "id": "tongxue",
+      "hz": "同学",
+      "py": "tóngxué",
+      "pyn": "tong2 xue2",
+      "ar": "زميل الدراسة",
+      "en": "classmate",
+      "pos": "noun",
+      "hsk": 1,
+      "ex": {
+        "hz": "他是我的同学。",
+        "py": "Tā shì wǒ de tóngxué.",
+        "ar": "هو زميلي في الدراسة.",
+        "en": "He is my classmate."
+      }
+    },
+    {
+      "id": "shangban",
+      "hz": "上班",
+      "py": "shàngbān",
+      "pyn": "shang4 ban1",
+      "ar": "يذهب إلى العمل، يداوم",
+      "en": "to go to work",
+      "pos": "verb",
+      "hsk": 2,
+      "ex": {
+        "hz": "我八点上班。",
+        "py": "Wǒ bā diǎn shàngbān.",
+        "ar": "أبدأ دوامي في الساعة الثامنة.",
+        "en": "I start work at eight."
+      }
+    },
+    {
+      "id": "gongsi",
+      "hz": "公司",
+      "py": "gōngsī",
+      "pyn": "gong1 si1",
+      "ar": "شركة",
+      "en": "company",
+      "pos": "noun",
+      "hsk": 2,
+      "ex": {
+        "hz": "她在公司工作。",
+        "py": "Tā zài gōngsī gōngzuò.",
+        "ar": "هي تعمل في شركة.",
+        "en": "She works at a company."
+      }
+    },
+    {
+      "id": "kaoshi",
+      "hz": "考试",
+      "py": "kǎoshì",
+      "pyn": "kao3 shi4",
+      "ar": "امتحان؛ يمتحن",
+      "en": "exam; to take an exam",
+      "pos": "noun",
+      "hsk": 2,
+      "ex": {
+        "hz": "明天有考试。",
+        "py": "Míngtiān yǒu kǎoshì.",
+        "ar": "عندنا امتحان غدًا.",
+        "en": "There's an exam tomorrow."
+      }
+    },
+    {
+      "id": "ke",
+      "hz": "课",
+      "py": "kè",
+      "pyn": "ke4",
+      "ar": "درس، حصة",
+      "en": "class, lesson",
+      "pos": "noun",
+      "hsk": 2,
+      "ex": {
+        "hz": "今天有汉语课。",
+        "py": "Jīntiān yǒu Hànyǔ kè.",
+        "ar": "عندنا اليوم درس لغة صينية.",
+        "en": "There's a Chinese class today."
+      }
+    },
+    {
+      "id": "shu",
+      "hz": "书",
+      "py": "shū",
+      "pyn": "shu1",
+      "ar": "كتاب",
+      "en": "book",
+      "pos": "noun",
+      "hsk": 1,
+      "ex": {
+        "hz": "这是我的书。",
+        "py": "Zhè shì wǒ de shū.",
+        "ar": "هذا كتابي.",
+        "en": "This is my book."
+      }
+    },
+    {
+      "id": "xie",
+      "hz": "写",
+      "py": "xiě",
+      "pyn": "xie3",
+      "ar": "يكتب",
+      "en": "to write",
+      "pos": "verb",
+      "hsk": 1,
+      "ex": {
+        "hz": "请写你的名字。",
+        "py": "Qǐng xiě nǐ de míngzi.",
+        "ar": "اكتب اسمك من فضلك.",
+        "en": "Please write your name."
+      }
+    },
+    {
+      "id": "wenti",
+      "hz": "问题",
+      "py": "wèntí",
+      "pyn": "wen4 ti2",
+      "ar": "سؤال؛ مشكلة",
+      "en": "question; problem",
+      "pos": "noun",
+      "hsk": 2,
+      "ex": {
+        "hz": "我有一个问题。",
+        "py": "Wǒ yǒu yī gè wèntí.",
+        "ar": "لديّ سؤال.",
+        "en": "I have a question."
+      }
+    },
+    {
+      "id": "dong",
+      "hz": "懂",
+      "py": "dǒng",
+      "pyn": "dong3",
+      "ar": "يفهم",
+      "en": "to understand",
+      "pos": "verb",
+      "hsk": 2,
+      "ex": {
+        "hz": "你懂吗？",
+        "py": "Nǐ dǒng ma?",
+        "ar": "هل تفهم؟",
+        "en": "Do you understand?"
+      }
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "id": "travel",
+  "title": {
+    "ar": "السفر",
+    "en": "Travel"
+  },
+  "icon": "✈️",
+  "words": [
+    {
+      "id": "lvyou",
+      "hz": "旅游",
+      "py": "lǚyóu",
+      "pyn": "lv3 you2",
+      "ar": "يسافر للسياحة؛ سياحة",
+      "en": "to travel, to tour; tourism",
+      "pos": "verb",
+      "hsk": 2,
+      "ex": {
+        "hz": "我喜欢旅游。",
+        "py": "Wǒ xǐhuan lǚyóu.",
+        "ar": "أحب السفر والسياحة.",
+        "en": "I like traveling."
+      }
+    },
+    {
+      "id": "feiji",
+      "hz": "飞机",
+      "py": "fēijī",
+      "pyn": "fei1 ji1",
+      "ar": "طائرة",
+      "en": "airplane",
+      "pos": "noun",
+      "hsk": 1,
+      "ex": {
+        "hz": "我坐飞机去北京。",
+        "py": "Wǒ zuò fēijī qù Běijīng.",
+        "ar": "أسافر إلى بكين بالطائرة.",
+        "en": "I'm flying to Beijing."
+      }
+    },
+    {
+      "id": "jichang",
+      "hz": "机场",
+      "py": "jīchǎng",
+      "pyn": "ji1 chang3",
+      "ar": "مطار",
+      "en": "airport",
+      "pos": "noun",
+      "hsk": 2,
+      "ex": {
+        "hz": "机场在哪儿？",
+        "py": "Jīchǎng zài nǎr?",
+        "ar": "أين المطار؟",
+        "en": "Where is the airport?"
+      }
+    },
+    {
+      "id": "piao",
+      "hz": "票",
+      "py": "piào",
+      "pyn": "piao4",
+      "ar": "تذكرة",
+      "en": "ticket",
+      "pos": "noun",
+      "hsk": 2,
+      "ex": {
+        "hz": "你的票呢？",
+        "py": "Nǐ de piào ne?",
+        "ar": "أين تذكرتك؟",
+        "en": "Where's your ticket?"
+      }
+    },
+    {
+      "id": "huzhao",
+      "hz": "护照",
+      "py": "hùzhào",
+      "pyn": "hu4 zhao4",
+      "ar": "جواز سفر",
+      "en": "passport",
+      "pos": "noun",
+      "hsk": 3,
+      "ex": {
+        "hz": "这是我的护照。",
+        "py": "Zhè shì wǒ de hùzhào.",
+        "ar": "هذا جواز سفري.",
+        "en": "This is my passport."
+      }
+    },
+    {
+      "id": "binguan",
+      "hz": "宾馆",
+      "py": "bīnguǎn",
+      "pyn": "bin1 guan3",
+      "ar": "فندق",
+      "en": "hotel",
+      "pos": "noun",
+      "hsk": 2,
+      "note_ar": "酒店 jiǔdiàn كلمة شائعة أيضًا بمعنى فندق.",
+      "ex": {
+        "hz": "宾馆离机场很近。",
+        "py": "Bīnguǎn lí jīchǎng hěn jìn.",
+        "ar": "الفندق قريب من المطار.",
+        "en": "The hotel is close to the airport."
+      }
+    },
+    {
+      "id": "zhu",
+      "hz": "住",
+      "py": "zhù",
+      "pyn": "zhu4",
+      "ar": "يسكن؛ يقيم",
+      "en": "to live; to stay",
+      "pos": "verb",
+      "hsk": 1,
+      "ex": {
+        "hz": "我住在宾馆。",
+        "py": "Wǒ zhù zài bīnguǎn.",
+        "ar": "أقيم في فندق.",
+        "en": "I'm staying at a hotel."
+      }
+    },
+    {
+      "id": "xinglixiang",
+      "hz": "行李箱",
+      "py": "xínglixiāng",
+      "pyn": "xing2 li5 xiang1",
+      "ar": "حقيبة سفر",
+      "en": "suitcase",
+      "pos": "noun",
+      "hsk": 3,
+      "ex": {
+        "hz": "这是你的行李箱吗？",
+        "py": "Zhè shì nǐ de xínglixiāng ma?",
+        "ar": "هل هذه حقيبتك؟",
+        "en": "Is this your suitcase?"
+      }
+    },
+    {
+      "id": "ditu",
+      "hz": "地图",
+      "py": "dìtú",
+      "pyn": "di4 tu2",
+      "ar": "خريطة",
+      "en": "map",
+      "pos": "noun",
+      "hsk": 3,
+      "ex": {
+        "hz": "请看地图。",
+        "py": "Qǐng kàn dìtú.",
+        "ar": "انظر إلى الخريطة من فضلك.",
+        "en": "Please look at the map."
+      }
+    },
+    {
+      "id": "zhongguo",
+      "hz": "中国",
+      "py": "Zhōngguó",
+      "pyn": "zhong1 guo2",
+      "ar": "الصين",
+      "en": "China",
+      "pos": "noun",
+      "hsk": 1,
+      "ex": {
+        "hz": "中国很大。",
+        "py": "Zhōngguó hěn dà.",
+        "ar": "الصين كبيرة.",
+        "en": "China is big."
+      }
+    },
+    {
+      "id": "beijing",
+      "hz": "北京",
+      "py": "Běijīng",
+      "pyn": "bei3 jing1",
+      "ar": "بكين",
+      "en": "Beijing",
+      "pos": "noun",
+      "hsk": 1,
+      "ex": {
+        "hz": "我想去北京。",
+        "py": "Wǒ xiǎng qù Běijīng.",
+        "ar": "أريد أن أذهب إلى بكين.",
+        "en": "I want to go to Beijing."
+      }
+    },
+    {
+      "id": "tianqi",
+      "hz": "天气",
+      "py": "tiānqì",
+      "pyn": "tian1 qi4",
+      "ar": "الطقس",
+      "en": "weather",
+      "pos": "noun",
+      "hsk": 1,
+      "ex": {
+        "hz": "北京的天气怎么样？",
+        "py": "Běijīng de tiānqì zěnmeyàng?",
+        "ar": "كيف الطقس في بكين؟",
+        "en": "What's the weather like in Beijing?"
+      }
+    },
+    {
+      "id": "zhaopian",
+      "hz": "照片",
+      "py": "zhàopiàn",
+      "pyn": "zhao4 pian4",
+      "ar": "صورة فوتوغرافية",
+      "en": "photo",
+      "pos": "noun",
+      "hsk": 3,
+      "ex": {
+        "hz": "这是北京的照片。",
+        "py": "Zhè shì Běijīng de zhàopiàn.",
+        "ar": "هذه صورة لبكين.",
+        "en": "This is a photo of Beijing."
+      }
+    }
+  ]
+}

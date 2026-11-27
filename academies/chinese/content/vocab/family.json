@@ -1,0 +1,74 @@
+{
+  "id": "family",
+  "title": {"ar": "العائلة", "en": "Family"},
+  "icon": "👪",
+  "words": [
+    {
+      "id": "baba", "hz": "爸爸", "py": "bàba", "pyn": "ba4 ba5",
+      "ar": "أبي، والد", "en": "dad; father", "pos": "noun", "hsk": 1,
+      "ex": {"hz": "我爸爸是医生。", "py": "Wǒ bàba shì yīshēng.", "ar": "أبي طبيب.", "en": "My dad is a doctor."}
+    },
+    {
+      "id": "mama", "hz": "妈妈", "py": "māma", "pyn": "ma1 ma5",
+      "ar": "أمي، والدة", "en": "mom; mother", "pos": "noun", "hsk": 1,
+      "ex": {"hz": "妈妈在做饭。", "py": "Māma zài zuò fàn.", "ar": "أمي تطبخ الطعام.", "en": "Mom is cooking."}
+    },
+    {
+      "id": "gege", "hz": "哥哥", "py": "gēge", "pyn": "ge1 ge5",
+      "ar": "أخ أكبر", "en": "older brother", "pos": "noun", "hsk": 2,
+      "ex": {"hz": "我哥哥很高。", "py": "Wǒ gēge hěn gāo.", "ar": "أخي الأكبر طويل.", "en": "My older brother is tall."}
+    },
+    {
+      "id": "jiejie", "hz": "姐姐", "py": "jiějie", "pyn": "jie3 jie5",
+      "ar": "أخت كبرى", "en": "older sister", "pos": "noun", "hsk": 2,
+      "ex": {"hz": "姐姐在看书。", "py": "Jiějie zài kàn shū.", "ar": "أختي الكبرى تقرأ كتابًا.", "en": "My older sister is reading."}
+    },
+    {
+      "id": "didi", "hz": "弟弟", "py": "dìdi", "pyn": "di4 di5",
+      "ar": "أخ أصغر", "en": "younger brother", "pos": "noun", "hsk": 2,
+      "ex": {"hz": "我弟弟六岁。", "py": "Wǒ dìdi liù suì.", "ar": "عمر أخي الأصغر ست سنوات.", "en": "My younger brother is six."}
+    },
+    {
+      "id": "meimei", "hz": "妹妹", "py": "mèimei", "pyn": "mei4 mei5",
+      "ar": "أخت صغرى", "en": "younger sister", "pos": "noun", "hsk": 2,
+      "ex": {"hz": "我妹妹喜欢猫。", "py": "Wǒ mèimei xǐhuan māo.", "ar": "أختي الصغرى تحب القطط.", "en": "My younger sister likes cats."}
+    },
+    {
+      "id": "erzi", "hz": "儿子", "py": "érzi", "pyn": "er2 zi5",
+      "ar": "ابن", "en": "son", "pos": "noun", "hsk": 1,
+      "ex": {"hz": "他的儿子是学生。", "py": "Tā de érzi shì xuésheng.", "ar": "ابنه طالب.", "en": "His son is a student."}
+    },
+    {
+      "id": "nver", "hz": "女儿", "py": "nǚ'ér", "pyn": "nv3 er2",
+      "ar": "ابنة", "en": "daughter", "pos": "noun", "hsk": 1,
+      "ex": {"hz": "我女儿会说汉语。", "py": "Wǒ nǚ'ér huì shuō Hànyǔ.", "ar": "ابنتي تتكلم الصينية.", "en": "My daughter can speak Chinese."}
+    },
+    {
+      "id": "haizi", "hz": "孩子", "py": "háizi", "pyn": "hai2 zi5",
+      "ar": "طفل، ولد", "en": "child", "pos": "noun", "hsk": 2,
+      "ex": {"hz": "孩子们在玩。", "py": "Háizimen zài wán.", "ar": "الأطفال يلعبون.", "en": "The children are playing."}
+    },
+    {
+      "id": "zhangfu", "hz": "丈夫", "py": "zhàngfu", "pyn": "zhang4 fu5",
+      "ar": "زوج", "en": "husband", "pos": "noun", "hsk": 2,
+      "ex": {"hz": "她丈夫是老师。", "py": "Tā zhàngfu shì lǎoshī.", "ar": "زوجها معلّم.", "en": "Her husband is a teacher."}
+    },
+    {
+      "id": "qizi", "hz": "妻子", "py": "qīzi", "pyn": "qi1 zi5",
+      "ar": "زوجة", "en": "wife", "pos": "noun", "hsk": 2,
+      "ex": {"hz": "他的妻子是医生。", "py": "Tā de qīzi shì yīshēng.", "ar": "زوجته طبيبة.", "en": "His wife is a doctor."}
+    },
+    {
+      "id": "yeye", "hz": "爷爷", "py": "yéye", "pyn": "ye2 ye5",
+      "ar": "جدّ (والد الأب)", "en": "grandfather (father's father)", "pos": "noun", "hsk": 3,
+      "note_ar": "والد الأم يُسمّى 外公 wàigōng.",
+      "ex": {"hz": "爷爷每天喝茶。", "py": "Yéye měitiān hē chá.", "ar": "جدي يشرب الشاي كل يوم.", "en": "Grandpa drinks tea every day."}
+    },
+    {
+      "id": "nainai", "hz": "奶奶", "py": "nǎinai", "pyn": "nai3 nai5",
+      "ar": "جدّة (والدة الأب)", "en": "grandmother (father's mother)", "pos": "noun", "hsk": 3,
+      "note_ar": "والدة الأم تُسمّى 外婆 wàipó.",
+      "ex": {"hz": "奶奶住在我家。", "py": "Nǎinai zhù zài wǒ jiā.", "ar": "جدتي تسكن في بيتنا.", "en": "Grandma lives in our home."}
+    }
+  ]
+}

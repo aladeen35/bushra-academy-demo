@@ -1,0 +1,67 @@
+rules_version = '2';
+// Albushra Academies — Firestore rules for the shared project "albushra-academies"
+// (paste into Firebase console → Firestore → Rules → Publish).
+// One account for all academies; each academy keeps independent progress and its own editors.
+service cloud.firestore {
+  match /databases/{db}/documents {
+    function signedIn() { return request.auth != null; }
+    function roleDoc() { return get(/databases/$(db)/documents/ac_roles/$(request.auth.uid)).data; }
+    function hasRole() { return signedIn() && exists(/databases/$(db)/documents/ac_roles/$(request.auth.uid)); }
+    function isAdmin() { return hasRole() && roleDoc().get('admin', false) == true; }
+    // Editor of one academy (or a global admin). Academy ids are plain words: chinese, korean, japanese, …
+    function isEditor(academy) { return isAdmin() || (hasRole() && roleDoc().get('academies', {}).get(academy, '') == 'editor'); }
+    function academyOf(id) { return id.split('__')[0]; }
+
+    // Roles. The first signed-in user may create the bootstrap lock once and become global admin.
+    match /ac_roles/{uid} {
+      allow read: if signedIn() && (request.auth.uid == uid || isAdmin());
+      allow create: if isAdmin() || (signedIn() && uid == request.auth.uid && request.resource.data.admin == true
+                     && !exists(/databases/$(db)/documents/ac_config/bootstrap)
+                     && existsAfter(/databases/$(db)/documents/ac_config/bootstrap)
+                     && getAfter(/databases/$(db)/documents/ac_config/bootstrap).data.uid == request.auth.uid);
+      allow update, delete: if isAdmin() && uid != request.auth.uid;
+    }
+    match /ac_config/bootstrap {
+      allow read: if signedIn();
+      allow create: if signedIn() && request.resource.data.uid == request.auth.uid;
+      allow update, delete: if false;
+    }
+
+    // Shared profile (name, photo, which academies were joined). Owner writes; admins read.
+    match /ac_profiles/{uid} {
+      allow read: if signedIn() && (request.auth.uid == uid || isAdmin());
+      allow create, update: if signedIn() && request.auth.uid == uid
+                            && request.resource.data.keys().hasOnly(['name', 'photo', 'academies', 'updatedAt'])
+                            && request.resource.data.name is string && request.resource.data.name.size() < 200;
+      allow delete: if signedIn() && request.auth.uid == uid;
+    }
+
+    // Progress: one private doc per academy per learner, id "<academy>__<uid>". Editors of that academy may read it
+    // (learner counts in the admin screen); nobody else.
+    match /ac_progress/{id} {
+      allow get, delete: if signedIn() && id == academyOf(id) + '__' + request.auth.uid;
+      allow read: if signedIn() && isEditor(resource.data.academy);
+      allow create, update: if signedIn() && id == request.resource.data.academy + '__' + request.auth.uid
+                            && request.resource.data.uid == request.auth.uid
+                            && request.resource.data.keys().hasOnly(['academy', 'uid', 'state', 'summary', 'updatedAt', 'updatedBy'])
+                            && request.resource.data.state is string && request.resource.data.state.size() < 900000;
+    }
+
+    // Content overrides published from the admin screen: public read, editors of that academy write.
+    match /ac_content/{id} {
+      allow read: if true;
+      allow write: if isEditor(academyOf(id)) && (request.resource == null || request.resource.data.academy == academyOf(id));
+    }
+
+    // Pronunciation media library + generation queue. Anyone can read (approved videos are public);
+    // a signed-in learner can only create a new "queued" request; editors manage status and URLs.
+    match /ac_media/{id} {
+      allow read: if true;
+      allow create: if signedIn() && request.resource.data.academy == academyOf(id)
+                    && request.resource.data.status == 'queued' && request.resource.data.by == request.auth.uid
+                    && !('url' in request.resource.data)
+                    && request.resource.data.text is string && request.resource.data.text.size() <= 60;
+      allow update, delete: if isEditor(academyOf(id));
+    }
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "id": "daily",
+  "title": {
+    "ar": "الأنشطة اليومية",
+    "en": "Daily activities"
+  },
+  "icon": "🗓️",
+  "words": [
+    {
+      "id": "qichuang",
+      "hz": "起床",
+      "py": "qǐchuáng",
+      "pyn": "qi3 chuang2",
+      "ar": "يستيقظ وينهض من الفراش",
+      "en": "to get up",
+      "pos": "verb",
+      "hsk": 2,
+      "ex": {
+        "hz": "你几点起床？",
+        "py": "Nǐ jǐ diǎn qǐchuáng?",
+        "ar": "متى تستيقظ؟",
+        "en": "What time do you get up?"
+      }
+    },
+    {
+      "id": "shuijiao",
+      "hz": "睡觉",
+      "py": "shuìjiào",
+      "pyn": "shui4 jiao4",
+      "ar": "ينام",
+      "en": "to sleep, to go to bed",
+      "pos": "verb",
+      "hsk": 1,
+      "ex": {
+        "hz": "我十点睡觉。",
+        "py": "Wǒ shí diǎn shuìjiào.",
+        "ar": "أنام في الساعة العاشرة.",
+        "en": "I go to bed at ten."
+      }
+    },
+    {
+      "id": "xi",
+      "hz": "洗",
+      "py": "xǐ",
+      "pyn": "xi3",
+      "ar": "يغسل",
+      "en": "to wash",
+      "pos": "verb",
+      "hsk": 2,
+      "ex": {
+        "hz": "我在洗衣服。",
+        "py": "Wǒ zài xǐ yīfu.",
+        "ar": "أنا أغسل الملابس.",
+        "en": "I'm washing clothes."
+      }
+    },
+    {
+      "id": "zuo_do",
+      "hz": "做",
+      "py": "zuò",
+      "pyn": "zuo4",
+      "ar": "يفعل؛ يعمل؛ يصنع",
+      "en": "to do; to make",
+      "pos": "verb",
+      "hsk": 1,
+      "ex": {
+        "hz": "你在做什么？",
+        "py": "Nǐ zài zuò shénme?",
+        "ar": "ماذا تفعل؟",
+        "en": "What are you doing?"
+      }
+    },
+    {
+      "id": "kan",
+      "hz": "看",
+      "py": "kàn",
+      "pyn": "kan4",
+      "ar": "ينظر؛ يشاهد؛ يقرأ",
+      "en": "to look; to watch; to read",
+      "pos": "verb",
+      "hsk": 1,
+      "ex": {
+        "hz": "他在看电视。",
+        "py": "Tā zài kàn diànshì.",
+        "ar": "إنه يشاهد التلفاز.",
+        "en": "He is watching TV."
+      }
+    },
+    {
+      "id": "ting",
+      "hz": "听",
+      "py": "tīng",
+      "pyn": "ting1",
+      "ar": "يستمع",
+      "en": "to listen",
+      "pos": "verb",
+      "hsk": 1,
+      "ex": {
+        "hz": "请听我说。",
+        "py": "Qǐng tīng wǒ shuō.",
+        "ar": "استمع إليّ من فضلك.",
+        "en": "Please listen to me."
+      }
+    },
+    {
+      "id": "dadianhua",
+      "hz": "打电话",
+      "py": "dǎ diànhuà",
+      "pyn": "da3 dian4 hua4",
+      "ar": "يتصل هاتفيًا",
+      "en": "to make a phone call",
+      "pos": "phrase",
+      "hsk": 1,
+      "ex": {
+        "hz": "我给你打电话。",
+        "py": "Wǒ gěi nǐ dǎ diànhuà.",
+        "ar": "سأتصل بك.",
+        "en": "I'll call you."
+      }
+    },
+    {
+      "id": "xiuxi",
+      "hz": "休息",
+      "py": "xiūxi",
+      "pyn": "xiu1 xi5",
+      "ar": "يستريح",
+      "en": "to rest",
+      "pos": "verb",
+      "hsk": 2,
+      "ex": {
+        "hz": "我们休息一下吧。",
+        "py": "Wǒmen xiūxi yīxià ba.",
+        "ar": "لنسترح قليلًا.",
+        "en": "Let's take a short rest."
+      }
+    },
+    {
+      "id": "paobu",
+      "hz": "跑步",
+      "py": "pǎobù",
+      "pyn": "pao3 bu4",
+      "ar": "يركض، يجري",
+      "en": "to run, to jog",
+      "pos": "verb",
+      "hsk": 2,
+      "ex": {
+        "hz": "我每天跑步。",
+        "py": "Wǒ měitiān pǎobù.",
+        "ar": "أركض كل يوم.",
+        "en": "I run every day."
+      }
+    },
+    {
+      "id": "youyong",
+      "hz": "游泳",
+      "py": "yóuyǒng",
+      "pyn": "you2 yong3",
+      "ar": "يسبح؛ السباحة",
+      "en": "to swim; swimming",
+      "pos": "verb",
+      "hsk": 2,
+      "ex": {
+        "hz": "他会游泳。",
+        "py": "Tā huì yóuyǒng.",
+        "ar": "هو يعرف السباحة.",
+        "en": "He can swim."
+      }
+    },
+    {
+      "id": "hui",
+      "hz": "回",
+      "py": "huí",
+      "pyn": "hui2",
+      "ar": "يرجع، يعود",
+      "en": "to return, to go back",
+      "pos": "verb",
+      "hsk": 1,
+      "ex": {
+        "hz": "我们回学校吧。",
+        "py": "Wǒmen huí xuéxiào ba.",
+        "ar": "لنرجع إلى المدرسة.",
+        "en": "Let's go back to school."
+      }
+    },
+    {
+      "id": "zhunbei",
+      "hz": "准备",
+      "py": "zhǔnbèi",
+      "pyn": "zhun3 bei4",
+      "ar": "يستعد، يُحضّر",
+      "en": "to prepare, to get ready",
+      "pos": "verb",
+      "hsk": 2,
+      "ex": {
+        "hz": "我准备好了。",
+        "py": "Wǒ zhǔnbèi hǎo le.",
+        "ar": "أنا جاهز.",
+        "en": "I'm ready."
+      }
+    },
+    {
+      "id": "bangzhu",
+      "hz": "帮助",
+      "py": "bāngzhù",
+      "pyn": "bang1 zhu4",
+      "ar": "يساعد؛ مساعدة",
+      "en": "to help; help",
+      "pos": "verb",
+      "hsk": 2,
+      "ex": {
+        "hz": "我可以帮助你。",
+        "py": "Wǒ kěyǐ bāngzhù nǐ.",
+        "ar": "أستطيع مساعدتك.",
+        "en": "I can help you."
+      }
+    }
+  ]
+}

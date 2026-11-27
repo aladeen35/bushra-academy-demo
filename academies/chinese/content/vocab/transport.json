@@ -1,0 +1,221 @@
+{
+  "id": "transport",
+  "title": {
+    "ar": "المواصلات",
+    "en": "Transportation"
+  },
+  "icon": "🚌",
+  "words": [
+    {
+      "id": "zuo",
+      "hz": "坐",
+      "py": "zuò",
+      "pyn": "zuo4",
+      "ar": "يجلس؛ يركب (وسيلة نقل)",
+      "en": "to sit; to travel by",
+      "pos": "verb",
+      "hsk": 1,
+      "note_ar": "يُستعمل مع وسائل النقل: 坐车، 坐飞机.",
+      "ex": {
+        "hz": "我坐出租车去。",
+        "py": "Wǒ zuò chūzūchē qù.",
+        "ar": "سأذهب بسيارة أجرة.",
+        "en": "I'll go by taxi."
+      }
+    },
+    {
+      "id": "kai",
+      "hz": "开",
+      "py": "kāi",
+      "pyn": "kai1",
+      "ar": "يقود (سيارة)؛ يفتح",
+      "en": "to drive; to open",
+      "pos": "verb",
+      "hsk": 1,
+      "note_ar": "开车 = يقود السيارة.",
+      "ex": {
+        "hz": "他开车去上班。",
+        "py": "Tā kāichē qù shàngbān.",
+        "ar": "يذهب إلى عمله بسيارته.",
+        "en": "He drives to work."
+      }
+    },
+    {
+      "id": "chuzuche",
+      "hz": "出租车",
+      "py": "chūzūchē",
+      "pyn": "chu1 zu1 che1",
+      "ar": "سيارة أجرة (تاكسي)",
+      "en": "taxi",
+      "pos": "noun",
+      "hsk": 1,
+      "ex": {
+        "hz": "出租车来了！",
+        "py": "Chūzūchē lái le!",
+        "ar": "جاءت سيارة الأجرة!",
+        "en": "The taxi is here!"
+      }
+    },
+    {
+      "id": "gonggongqiche",
+      "hz": "公共汽车",
+      "py": "gōnggòng qìchē",
+      "pyn": "gong1 gong4 qi4 che1",
+      "ar": "حافلة (باص)",
+      "en": "bus",
+      "pos": "noun",
+      "hsk": 2,
+      "ex": {
+        "hz": "我坐公共汽车去学校。",
+        "py": "Wǒ zuò gōnggòng qìchē qù xuéxiào.",
+        "ar": "أذهب إلى المدرسة بالحافلة.",
+        "en": "I go to school by bus."
+      }
+    },
+    {
+      "id": "huochezhan",
+      "hz": "火车站",
+      "py": "huǒchēzhàn",
+      "pyn": "huo3 che1 zhan4",
+      "ar": "محطة القطار",
+      "en": "train station",
+      "pos": "noun",
+      "hsk": 2,
+      "ex": {
+        "hz": "火车站远吗？",
+        "py": "Huǒchēzhàn yuǎn ma?",
+        "ar": "هل محطة القطار بعيدة؟",
+        "en": "Is the train station far?"
+      }
+    },
+    {
+      "id": "ditie",
+      "hz": "地铁",
+      "py": "dìtiě",
+      "pyn": "di4 tie3",
+      "ar": "مترو (قطار الأنفاق)",
+      "en": "subway, metro",
+      "pos": "noun",
+      "hsk": 3,
+      "ex": {
+        "hz": "我们坐地铁吧。",
+        "py": "Wǒmen zuò dìtiě ba.",
+        "ar": "لنركب المترو.",
+        "en": "Let's take the metro."
+      }
+    },
+    {
+      "id": "zixingche",
+      "hz": "自行车",
+      "py": "zìxíngchē",
+      "pyn": "zi4 xing2 che1",
+      "ar": "درّاجة هوائية",
+      "en": "bicycle",
+      "pos": "noun",
+      "hsk": 3,
+      "ex": {
+        "hz": "这是我的自行车。",
+        "py": "Zhè shì wǒ de zìxíngchē.",
+        "ar": "هذه درّاجتي.",
+        "en": "This is my bicycle."
+      }
+    },
+    {
+      "id": "lu",
+      "hz": "路",
+      "py": "lù",
+      "pyn": "lu4",
+      "ar": "طريق",
+      "en": "road, way",
+      "pos": "noun",
+      "hsk": 2,
+      "ex": {
+        "hz": "我认识路。",
+        "py": "Wǒ rènshi lù.",
+        "ar": "أعرف الطريق.",
+        "en": "I know the way."
+      }
+    },
+    {
+      "id": "zou",
+      "hz": "走",
+      "py": "zǒu",
+      "pyn": "zou3",
+      "ar": "يمشي؛ يغادر",
+      "en": "to walk; to leave",
+      "pos": "verb",
+      "hsk": 2,
+      "ex": {
+        "hz": "我们走吧！",
+        "py": "Wǒmen zǒu ba!",
+        "ar": "هيا بنا نذهب!",
+        "en": "Let's go!"
+      }
+    },
+    {
+      "id": "dao",
+      "hz": "到",
+      "py": "dào",
+      "pyn": "dao4",
+      "ar": "يصل",
+      "en": "to arrive",
+      "pos": "verb",
+      "hsk": 2,
+      "ex": {
+        "hz": "我们到了！",
+        "py": "Wǒmen dào le!",
+        "ar": "وصلنا!",
+        "en": "We've arrived!"
+      }
+    },
+    {
+      "id": "li",
+      "hz": "离",
+      "py": "lí",
+      "pyn": "li2",
+      "ar": "يبعد عن (في المسافة)",
+      "en": "from (distance)",
+      "pos": "prep",
+      "hsk": 2,
+      "note_ar": "A 离 B 近/远 = A قريب من / بعيد عن B.",
+      "ex": {
+        "hz": "我家离学校很近。",
+        "py": "Wǒ jiā lí xuéxiào hěn jìn.",
+        "ar": "بيتي قريب من المدرسة.",
+        "en": "My home is close to the school."
+      }
+    },
+    {
+      "id": "yuan_far",
+      "hz": "远",
+      "py": "yuǎn",
+      "pyn": "yuan3",
+      "ar": "بعيد",
+      "en": "far",
+      "pos": "adj",
+      "hsk": 2,
+      "ex": {
+        "hz": "学校不远。",
+        "py": "Xuéxiào bù yuǎn.",
+        "ar": "المدرسة ليست بعيدة.",
+        "en": "The school isn't far."
+      }
+    },
+    {
+      "id": "jin",
+      "hz": "近",
+      "py": "jìn",
+      "pyn": "jin4",
+      "ar": "قريب",
+      "en": "near, close",
+      "pos": "adj",
+      "hsk": 2,
+      "ex": {
+        "hz": "医院很近。",
+        "py": "Yīyuàn hěn jìn.",
+        "ar": "المستشفى قريب.",
+        "en": "The hospital is close."
+      }
+    }
+  ]
+}

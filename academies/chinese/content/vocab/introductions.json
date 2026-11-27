@@ -1,0 +1,85 @@
+{
+  "id": "introductions",
+  "title": {"ar": "التعارف", "en": "Introductions"},
+  "icon": "🤝",
+  "words": [
+    {
+      "id": "wo", "hz": "我", "py": "wǒ", "pyn": "wo3",
+      "ar": "أنا", "en": "I; me", "pos": "pron", "hsk": 1,
+      "ex": {"hz": "我是学生。", "py": "Wǒ shì xuésheng.", "ar": "أنا طالب.", "en": "I am a student."}
+    },
+    {
+      "id": "ni", "hz": "你", "py": "nǐ", "pyn": "ni3",
+      "ar": "أنتَ، أنتِ", "en": "you", "pos": "pron", "hsk": 1,
+      "note_ar": "للمذكر والمؤنث، وصيغة الاحترام هي 您.",
+      "ex": {"hz": "你是老师吗？", "py": "Nǐ shì lǎoshī ma?", "ar": "هل أنت معلّم؟", "en": "Are you a teacher?"}
+    },
+    {
+      "id": "ta-he", "hz": "他", "py": "tā", "pyn": "ta1",
+      "ar": "هو", "en": "he; him", "pos": "pron", "hsk": 1,
+      "note_ar": "يُنطق مثل 她 تمامًا، والفرق في الكتابة فقط.",
+      "ex": {"hz": "他是我哥哥。", "py": "Tā shì wǒ gēge.", "ar": "هو أخي الأكبر.", "en": "He is my older brother."}
+    },
+    {
+      "id": "ta-she", "hz": "她", "py": "tā", "pyn": "ta1",
+      "ar": "هي", "en": "she; her", "pos": "pron", "hsk": 1,
+      "ex": {"hz": "她是我的老师。", "py": "Tā shì wǒ de lǎoshī.", "ar": "هي معلّمتي.", "en": "She is my teacher."}
+    },
+    {
+      "id": "jiao", "hz": "叫", "py": "jiào", "pyn": "jiao4",
+      "ar": "يُسمّى، يُدعى", "en": "to be called", "pos": "verb", "hsk": 1,
+      "note_ar": "نقول 我叫… للتعريف بالاسم.",
+      "ex": {"hz": "我叫阿里。", "py": "Wǒ jiào Ālǐ.", "ar": "اسمي علي.", "en": "My name is Ali."}
+    },
+    {
+      "id": "mingzi", "hz": "名字", "py": "míngzi", "pyn": "ming2 zi5",
+      "ar": "اسم", "en": "name", "pos": "noun", "hsk": 1,
+      "ex": {"hz": "你叫什么名字？", "py": "Nǐ jiào shénme míngzi?", "ar": "ما اسمك؟", "en": "What is your name?"}
+    },
+    {
+      "id": "shi-be", "hz": "是", "py": "shì", "pyn": "shi4",
+      "ar": "يكون (فعل الربط)", "en": "to be", "pos": "verb", "hsk": 1,
+      "note_ar": "يربط بين اسمين، ولا يُستخدم قبل الصفات: نقول 我很好 لا 我是好.",
+      "ex": {"hz": "她是我朋友。", "py": "Tā shì wǒ péngyou.", "ar": "هي صديقتي.", "en": "She is my friend."}
+    },
+    {
+      "id": "xing", "hz": "姓", "py": "xìng", "pyn": "xing4",
+      "ar": "اسم العائلة؛ يحمل اسم عائلة", "en": "surname; to be surnamed", "pos": "verb", "hsk": 2,
+      "note_ar": "您贵姓؟ طريقة مؤدبة لسؤال الشخص عن اسم عائلته.",
+      "ex": {"hz": "您贵姓？", "py": "Nín guì xìng?", "ar": "ما اسم عائلتك الكريم؟", "en": "May I ask your surname?"}
+    },
+    {
+      "id": "na", "hz": "哪", "py": "nǎ", "pyn": "na3",
+      "ar": "أيّ", "en": "which", "pos": "pron", "hsk": 1,
+      "note_ar": "انتبه للفرق بين 哪 nǎ «أيّ» و 那 nà «ذلك».",
+      "ex": {"hz": "你是哪国人？", "py": "Nǐ shì nǎ guó rén?", "ar": "من أيّ بلد أنت؟", "en": "Which country are you from?"}
+    },
+    {
+      "id": "ren", "hz": "人", "py": "rén", "pyn": "ren2",
+      "ar": "شخص، إنسان", "en": "person", "pos": "noun", "hsk": 1,
+      "note_ar": "اسم البلد + 人 = الجنسية، مثل 中国人 «صيني».",
+      "ex": {"hz": "我是苏丹人。", "py": "Wǒ shì Sūdānrén.", "ar": "أنا سوداني.", "en": "I am Sudanese."}
+    },
+    {
+      "id": "pengyou", "hz": "朋友", "py": "péngyou", "pyn": "peng2 you5",
+      "ar": "صديق", "en": "friend", "pos": "noun", "hsk": 1,
+      "ex": {"hz": "他是我的好朋友。", "py": "Tā shì wǒ de hǎo péngyou.", "ar": "هو صديقي العزيز.", "en": "He is my good friend."}
+    },
+    {
+      "id": "renshi", "hz": "认识", "py": "rènshi", "pyn": "ren4 shi5",
+      "ar": "يعرف (شخصًا)، يتعرّف على", "en": "to know (someone); to meet", "pos": "verb", "hsk": 1,
+      "ex": {"hz": "认识你很高兴！", "py": "Rènshi nǐ hěn gāoxìng!", "ar": "سعيد بالتعرّف إليك!", "en": "Nice to meet you!"}
+    },
+    {
+      "id": "shenme", "hz": "什么", "py": "shénme", "pyn": "shen2 me5",
+      "ar": "ماذا، ما", "en": "what", "pos": "pron", "hsk": 1,
+      "ex": {"hz": "这是什么？", "py": "Zhè shì shénme?", "ar": "ما هذا؟", "en": "What is this?"}
+    },
+    {
+      "id": "sui", "hz": "岁", "py": "suì", "pyn": "sui4",
+      "ar": "سنة (من العمر)", "en": "years old", "pos": "mw", "hsk": 1,
+      "note_ar": "يُسأل الطفل عن عمره بـ 你几岁؟",
+      "ex": {"hz": "我十岁。", "py": "Wǒ shí suì.", "ar": "عمري عشر سنوات.", "en": "I am ten years old."}
+    }
+  ]
+}

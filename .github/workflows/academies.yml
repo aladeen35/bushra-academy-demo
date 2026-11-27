@@ -1,0 +1,43 @@
+name: Albushra academies (check)
+
+# Checks the shared kit and every language academy under academies/ on each push and pull request:
+# content validation, kit copies in sync, and a mobile (390×844) smoke test in Arabic and English.
+# GitHub Pages serves the files directly from the branch, so nothing is built here.
+on:
+  push:
+    paths: ["academies/**", ".github/workflows/academies.yml"]
+  pull_request:
+    paths: ["academies/**"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - name: Content is valid
+        run: node academies/tools/check-content.mjs
+      - name: Kit copies are in sync
+        run: node academies/tools/sync-kit.mjs --check
+      - name: Install Playwright (Chromium)
+        run: |
+          npm i --no-save playwright@1.63.0
+          npx playwright install --with-deps chromium
+      - name: Mobile smoke test
+        run: |
+          (cd academies && python3 -m http.server 8765 >/dev/null 2>&1 &)
+          sleep 2
+          node academies/tests/smoke.cjs http://localhost:8765
+      - name: Upload screenshots
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: academies-mobile-screenshots
+          path: academies/tests/shots/
+          retention-days: 14
+        continue-on-error: true

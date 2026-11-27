@@ -1,0 +1,79 @@
+{
+  "id": "food",
+  "title": {"ar": "الطعام والشراب", "en": "Food & drinks"},
+  "icon": "🍚",
+  "words": [
+    {
+      "id": "chi", "hz": "吃", "py": "chī", "pyn": "chi1",
+      "ar": "يأكل", "en": "to eat", "pos": "verb", "hsk": 1,
+      "note_ar": "你吃饭了吗؟ تُقال أيضًا تحيةً ودّية.",
+      "ex": {"hz": "你吃饭了吗？", "py": "Nǐ chī fàn le ma?", "ar": "هل أكلت؟", "en": "Have you eaten?"}
+    },
+    {
+      "id": "he", "hz": "喝", "py": "hē", "pyn": "he1",
+      "ar": "يشرب", "en": "to drink", "pos": "verb", "hsk": 1,
+      "ex": {"hz": "我想喝水。", "py": "Wǒ xiǎng hē shuǐ.", "ar": "أريد أن أشرب ماءً.", "en": "I want to drink water."}
+    },
+    {
+      "id": "mifan", "hz": "米饭", "py": "mǐfàn", "pyn": "mi3 fan4",
+      "ar": "أرز مطبوخ", "en": "cooked rice", "pos": "noun", "hsk": 1,
+      "ex": {"hz": "我喜欢吃米饭。", "py": "Wǒ xǐhuan chī mǐfàn.", "ar": "أحب أكل الأرز.", "en": "I like eating rice."}
+    },
+    {
+      "id": "shui", "hz": "水", "py": "shuǐ", "pyn": "shui3",
+      "ar": "ماء", "en": "water", "pos": "noun", "hsk": 1,
+      "ex": {"hz": "请给我一杯水。", "py": "Qǐng gěi wǒ yī bēi shuǐ.", "ar": "أعطني كوب ماء من فضلك.", "en": "A glass of water, please."}
+    },
+    {
+      "id": "cha", "hz": "茶", "py": "chá", "pyn": "cha2",
+      "ar": "شاي", "en": "tea", "pos": "noun", "hsk": 1,
+      "ex": {"hz": "中国人喜欢喝茶。", "py": "Zhōngguórén xǐhuan hē chá.", "ar": "الصينيون يحبون شرب الشاي.", "en": "Chinese people like drinking tea."}
+    },
+    {
+      "id": "cai", "hz": "菜", "py": "cài", "pyn": "cai4",
+      "ar": "طبق، خضار", "en": "dish; vegetable", "pos": "noun", "hsk": 1,
+      "ex": {"hz": "这个菜很好吃。", "py": "Zhège cài hěn hǎochī.", "ar": "هذا الطبق لذيذ جدًا.", "en": "This dish is delicious."}
+    },
+    {
+      "id": "shuiguo", "hz": "水果", "py": "shuǐguǒ", "pyn": "shui3 guo3",
+      "ar": "فاكهة", "en": "fruit", "pos": "noun", "hsk": 1,
+      "note_ar": "يُنطق shuíguǒ لأن المقطعين بالنغمة الثالثة.",
+      "ex": {"hz": "你喜欢什么水果？", "py": "Nǐ xǐhuan shénme shuǐguǒ?", "ar": "ما الفاكهة التي تحبها؟", "en": "What fruit do you like?"}
+    },
+    {
+      "id": "pingguo", "hz": "苹果", "py": "píngguǒ", "pyn": "ping2 guo3",
+      "ar": "تفاح", "en": "apple", "pos": "noun", "hsk": 1,
+      "ex": {"hz": "这个苹果很大。", "py": "Zhège píngguǒ hěn dà.", "ar": "هذه التفاحة كبيرة.", "en": "This apple is big."}
+    },
+    {
+      "id": "niunai", "hz": "牛奶", "py": "niúnǎi", "pyn": "niu2 nai3",
+      "ar": "حليب", "en": "milk", "pos": "noun", "hsk": 2,
+      "ex": {"hz": "孩子每天喝牛奶。", "py": "Háizi měitiān hē niúnǎi.", "ar": "الطفل يشرب الحليب كل يوم.", "en": "The child drinks milk every day."}
+    },
+    {
+      "id": "kafei", "hz": "咖啡", "py": "kāfēi", "pyn": "ka1 fei1",
+      "ar": "قهوة", "en": "coffee", "pos": "noun", "hsk": 2,
+      "ex": {"hz": "你喝咖啡吗？", "py": "Nǐ hē kāfēi ma?", "ar": "هل تشرب القهوة؟", "en": "Do you drink coffee?"}
+    },
+    {
+      "id": "miantiao", "hz": "面条", "py": "miàntiáo", "pyn": "mian4 tiao2",
+      "ar": "معكرونة صينية (نودلز)", "en": "noodles", "pos": "noun", "hsk": 2,
+      "ex": {"hz": "我们吃面条吧。", "py": "Wǒmen chī miàntiáo ba.", "ar": "لنأكل النودلز.", "en": "Let's eat noodles."}
+    },
+    {
+      "id": "jidan", "hz": "鸡蛋", "py": "jīdàn", "pyn": "ji1 dan4",
+      "ar": "بيض (بيض الدجاج)", "en": "egg", "pos": "noun", "hsk": 2,
+      "ex": {"hz": "早上我吃两个鸡蛋。", "py": "Zǎoshang wǒ chī liǎng gè jīdàn.", "ar": "في الصباح آكل بيضتين.", "en": "I eat two eggs in the morning."}
+    },
+    {
+      "id": "yu", "hz": "鱼", "py": "yú", "pyn": "yu2",
+      "ar": "سمك", "en": "fish", "pos": "noun", "hsk": 2,
+      "ex": {"hz": "我不吃鱼。", "py": "Wǒ bù chī yú.", "ar": "أنا لا آكل السمك.", "en": "I don't eat fish."}
+    },
+    {
+      "id": "yangrou", "hz": "羊肉", "py": "yángròu", "pyn": "yang2 rou4",
+      "ar": "لحم ضأن", "en": "lamb; mutton", "pos": "noun", "hsk": 2,
+      "ex": {"hz": "我很喜欢吃羊肉。", "py": "Wǒ hěn xǐhuan chī yángròu.", "ar": "أحب أكل لحم الضأن كثيرًا.", "en": "I really like lamb."}
+    }
+  ]
+}
